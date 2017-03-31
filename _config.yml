@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       djfoxer - programowanie IT Windows .NET - strona domowa
+email:       djfoxer@djfoxer.pl
+author:      Grzegorz Jamiołkowski
+description: "djfoxer, Grzegorz Jamiołkowski, strona domowa"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://blog.djfoxer.pl"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -71,10 +71,10 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Nowsze'
+    older: 'Starsze'
   share_buttons:
-    text:         'Share this post!'
+    text:         'Udostępnij post!'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
     googleplus:   'Share on Google+'
@@ -85,7 +85,7 @@ text:
     stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
-    updated:        'Updated'
+    updated:        'Zaktualizowany'
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
