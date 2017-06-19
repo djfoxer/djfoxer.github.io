@@ -1,5 +1,5 @@
 # Site settings
-title:       djfoxer - programowanie IT Windows .NET - strona domowa
+title:       djfoxer - programowanie, IT, Windows, .NET - strona domowa
 email:       djfoxer@djfoxer.pl
 author:      Grzegorz Jamiołkowski
 description: "djfoxer, Grzegorz Jamiołkowski, strona domowa"
@@ -48,10 +48,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: djfoxer
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: djfoxer
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -83,32 +83,32 @@ text:
     older: 'Starsze'
   share_buttons:
     text:         'Udostępnij post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    facebook:     'Udostępnij - Facebook'
+    twitter:      'Udostępnij - Twitter'
+    googleplus:   'Udostępnij - Google+'
+    linkedin:     'Udostępnij - LinkedIn'
+    digg:         'Udostępnij - Digg'
+    tumblr:       'Udostępnij - Tumblr'
+    reddit:       'Udostępnij - Reddit'
+    stumbleupon:  'Udostępnij - StumbleUpon'
+    hackernews:   'Udostępnij - Hacker News'
   post:
     updated:        'Zaktualizowany'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
+    minute_read:    'minut(y) czytania'
+    related_posts:  'Powiązane posty'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Startujemy za chwilę...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
+    email:    'Adres email'
+    content:  'Treśc wiadomości'
+    subject:  'Jest Nowa wiadomość!'
+    submit:   'Wyślij'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+      sending:  'wysyłanie..'
+      sent:     'Wiadomość wysłana'
+      error:    'Błąd :('
+  thanks: 'Dzięki za kontakt. Spróbuję odpisać najszybciej jako tylko będę mógł.'
+  og_locale: 'pl_PL'
 
 # Build settings
 markdown:     kramdown

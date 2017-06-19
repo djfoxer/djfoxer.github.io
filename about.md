@@ -1,20 +1,18 @@
 ---
 layout: page
-title: About Pixyll
+title: O mnie
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Grzegorz "djfoxer" Jamiołkowski.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Deweloper .NET z 10 letnim stażem.
 
-Thanks to the following:
+C# (web/desktop/mobile), MS SQL, BI, JS, AJS, HTML nie są mu obce, ani straszne.
+Widział narodziny i odejścia różnych frameworków, pracował pod desktopem, webem i mobilką.
+Chętny na wiedzę i poszerzanie horyzontów.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Prywatnie niepoprawny fan Amigi i mobilnego Windowsa. Biegacz. 
+
+Bloga prowadzi od roku 2010 roku.
