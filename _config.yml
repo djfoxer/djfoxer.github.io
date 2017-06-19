@@ -5,7 +5,7 @@ author:      Grzegorz Jamiołkowski
 description: "djfoxer, Grzegorz Jamiołkowski, strona domowa"
 baseurl:     ""
 url:         "http://blog.djfoxer.pl"
-date_format: "%b %-d, %Y"
+date_format: "%Y-%m-%d"
 
 # Google services
 google_verification:
