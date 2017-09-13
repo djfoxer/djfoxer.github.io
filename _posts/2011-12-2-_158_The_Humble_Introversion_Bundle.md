@@ -1,27 +1,26 @@
-﻿---
-layout:     post
-title:      The Humble Introversion Bundle
-date:       2011-12-02 00:50:00
-summary:    Ruszyła kolejna edycja Humble Inde Bundle (http://www.humblebundle.com/) , czyli akcji w której można zdobyć kilka gier za dowolną kwotę. To kupujący decyduje ile dostaną developerzy, czy organizacje charytatywne!The Humble Introversion BundleObecnie do końca 6 grudnia można nabyć gry od Introversio...
-categories: windows linux gry
----
+﻿---layout:     post
+title:      The Humble Introversion Bundle
+date:       2011-12-02 00:50:00
+summary:    Ruszyła kolejna edycja Humble Inde Bundle (http://www.humblebundle.com/) , czyli akcji w której można zdobyć kilka gier za dowolną kwotę. To kupujący decyduje ile dostaną developerzy, czy organizacje charytatywne!The Humble Introversion BundleObecnie do końca 6 grudnia można nabyć gry od Introversio...
+categories: windows linux gry
+---
 
 
-
+
 Ruszyła kolejna edycja Humble Inde Bundle ([http://www.humblebundle.com/](http://www.humblebundle.com/)) , czyli akcji w której można zdobyć kilka gier za dowolną kwotę. To kupujący decyduje ile dostaną developerzy, czy organizacje charytatywne!
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-12-2-_158_/g_-_608x405_-_-_29110x20111201223959_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-12-2-_158_/g_-_608x405_-_-_29110x20111201223959_1.jpg
+
+
 
 
 
 
+## The Humble Introversion Bundle
 
-
-## The Humble Introversion Bundle
-
-
+
 
 Obecnie do końca 6 grudnia można nabyć gry od Introversion Software. Jak nic idealny prezent na Mikołajki ;) Czy to dla siebie, czy jako prezent komuś:)
 
@@ -30,17 +29,17 @@ Warto zaznaczyć, iż w tej paczce, gry są bardzo wymagające, jeśli chodzi o 
 
 
 
-## Uplink
+## Uplink
 
-
+
 
 Ocena na metacritic: 75
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-12-2-_158_/g_-_608x405_-_-_29110x20111201231558_2.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-12-2-_158_/g_-_608x405_-_-_29110x20111201231558_2.jpg
-
-
+
 
 Nie będę nikogo oszukiwał. Kupiłem tą paczkę jedynie dla tej gry. Uplink został wydany w 2001 roku, ale nie ma to znaczenia. Gra nie zestarzała się, a wręcz nawet zyskała na atrakcyjności, dzięki boomowi na gry indie. Uplink mógłby równie dobrze wyjść w tym roku i stać się hitem.
 
@@ -61,9 +60,9 @@ Do gry powstało wiele modów, tutoriali, a nawet rozszerzenia umożliwiające g
 
 
 
-## Polecam!
+## Polecam!
 
-
+
 
 Zajawka:
 [youtube=http://www.youtube.com/watch?v=pSasSTni5lI]
@@ -74,9 +73,9 @@ Gameplay:
 
 
 
-## Defcon
+## Defcon
 
-
+
 
 Ocena na metacritic: 84
 
@@ -98,9 +97,9 @@ W Defcon przez całą grę widzimy mapę taktyczną. To na niej będziemy obserw
 
 
 
-## Darwinia
+## Darwinia
 
-
+
 
 Ocena na metacritic: 84
 
@@ -120,9 +119,9 @@ W Darwinie gra się bardzo przyjemnie. Polecam :)
 
 
 
-## Multiwinia
+## Multiwinia
 
-
+
 
 Ocena na metacritic: 76
 
@@ -135,9 +134,9 @@ Płacąc powyżej średniej otrzymujemy:
 
 
 
-## Aquaria
+## Aquaria
 
-
+
 
 Ocena na metacritic: 82
 
@@ -150,9 +149,9 @@ Bohaterka, na początku bezbronna, walczy i zmienia otaczający świat za pomoc�
 
 
 
-## Crayon Physics Deluxe
+## Crayon Physics Deluxe
 
-
+
 
 Ocena na metacritic: 79
 
@@ -163,9 +162,9 @@ Obsypana nagrodami gra logiczna, dostępna już w [Humble Bundle 3](http://www.d
 
 
 
-## Dungeons of Dredmor
+## Dungeons of Dredmor
 
-
+
 
 Ocena na metacritic: 81
 
@@ -185,3 +184,4 @@ Dodatkowo z paczką otrzymujemy:
 - Subversion City Generator - demo generatora miasta
 - Voxel Destruction Prototype - demko silnika od destrukcji otoczenia
 - kody źródłowe do: Darwinia, Multiwinia, DEFCON i Uplink.
+)

@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Pełzanie zakresu - projekt IT nad przepaścią
-date:       2011-09-27 20:27:00
-summary:    Ostatnio kilku blogerów rozpisywało się odnośnie zarządzania projektami IT, problemami w biznesie itp.W swoim wpisie chciałbym opisać pewną patologię, która może zdarzyć się w każdym projekcie IT. Bez względu na to, czy to duże, czy małe przedsięwzięcie.Pełzanie zakresuPełzanie zakresu (scope creepi...
-categories: hobby inne
----
+﻿---layout:     post
+title:      Pełzanie zakresu - projekt IT nad przepaścią
+date:       2011-09-27 20:27:00
+summary:    Ostatnio kilku blogerów rozpisywało się odnośnie zarządzania projektami IT, problemami w biznesie itp.W swoim wpisie chciałbym opisać pewną patologię, która może zdarzyć się w każdym projekcie IT. Bez względu na to, czy to duże, czy małe przedsięwzięcie.Pełzanie zakresuPełzanie zakresu (scope creepi...
+categories: hobby inne
+---
 
 
-
+
 Ostatnio kilku blogerów rozpisywało się odnośnie zarządzania projektami IT, problemami w biznesie itp.
 
 W swoim wpisie chciałbym opisać pewną patologię, która może zdarzyć się w każdym projekcie IT. Bez względu na to, czy to duże, czy małe przedsięwzięcie.
@@ -61,9 +60,9 @@ Pełzanie zakresu to bardzo powszechny problem w projektach IT. Walka z omawiany
 
 
 
-## Powiązane
+## Powiązane
 
-
+
 
 
 

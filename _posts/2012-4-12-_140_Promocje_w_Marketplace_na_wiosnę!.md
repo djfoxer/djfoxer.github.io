@@ -1,41 +1,40 @@
-﻿---
-layout:     post
-title:      Promocje w Marketplace na wiosnę!
-date:       2012-04-12 18:19:00
-summary:    Wystartowała kolejna weekendowa promocja w Marketplace! Tym razem nie jest to jedna pozycja, ale aż siedem! Są to znane i popularne tytuły na Windows Phone z Xbox LIVE. Ceny zostały obniżone do 3,49 zł. Idealny moment by kupić pozycje za tak atrakcyjną cenę! Promocja obowiązuje do końca weekendu!Ang...
-categories: porady urządzenia mobilne gry
----
+﻿---layout:     post
+title:      Promocje w Marketplace na wiosnę!
+date:       2012-04-12 18:19:00
+summary:    Wystartowała kolejna weekendowa promocja w Marketplace! Tym razem nie jest to jedna pozycja, ale aż siedem! Są to znane i popularne tytuły na Windows Phone z Xbox LIVE. Ceny zostały obniżone do 3,49 zł. Idealny moment by kupić pozycje za tak atrakcyjną cenę! Promocja obowiązuje do końca weekendu!Ang...
+categories: porady urządzenia mobilne gry
+---
 
 
-
+
 Wystartowała kolejna weekendowa promocja w Marketplace! Tym razem nie jest to jedna pozycja, ale aż siedem! Są to znane i popularne tytuły na Windows Phone z Xbox LIVE. Ceny zostały obniżone do 3,49 zł. Idealny moment by kupić pozycje za tak atrakcyjną cenę! Promocja obowiązuje do końca weekendu!
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412172320_0.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412172320_0.jpg
 
-
+
 
 Oto co można kupić:
 
 
 
-## Angry Birds
+## Angry Birds
 
-
+
  *Średnia ocen na Marketplace PL: 4.5* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180548_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180548_0.png
+
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180559_0.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180559_0.png
-
-
+
 
 Tej pozycji nie trzeba nikomu przedstawiać, słynne Angry Birds na Windows Phone. Czyli logiczno-zręcznościowa gra z wściekłymi ptakami w roli głównej. Wiele plansz i dużo zabawy, ale czy to trzeba pisać, ktoś nie słyszał o tej grze? W drodze jest już Angry Birds Space na Windows Phone, świetna okazja by kupić pierwszą część, w oczekiwaniu na wersję w kosmosie. Jeśli jeszcze nie macie, to idealny momenty by to zrobić!
 
@@ -43,20 +42,20 @@ Tej pozycji nie trzeba nikomu przedstawiać, słynne Angry Birds na Windows Phon
 
 
 
-## Burn the Rope
+## Burn the Rope
 
-
+
  *Średnia ocen na Marketplace PL: 3.5* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180611_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180611_0.png
+[join])
 
-[join]
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180624_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180624_0.png
-
-
+
 
 Bardzo oryginalna gra, której celem jest takie pokierowanie płomieniem, aby spalić całą linę na ekranie. O tyle jest to ciekawa pozycja, iż płomieniem kierujemy poprzez poruszanie telefonem. Całkiem wciągająca, logiczna gra, która wykorzystuje w ciekawy sposób sensor ruchowy. 
 
@@ -65,21 +64,21 @@ Bardzo oryginalna gra, której celem jest takie pokierowanie płomieniem, aby sp
 
 
 
-## de Blob
+## de Blob
 
-
+
  *Średnia ocen na Marketplace PL: 4.5* 
 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180634_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180634_0.png
+[join])
 
-[join]
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180643_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180643_0.png
-
-
+
 
 Świetna gra logiczna, polegająca na wyznaczaniu odpowiedniej trasy na planszy, aby zebrać wszystkie zagubione stworki. Oczywiście ścieżka nie może się przecinać. Bardzo ładna grafika i chyba jedna z ciekawszych pozycji w tej promocji. Szczerze polecam!
 
@@ -87,20 +86,20 @@ Bardzo oryginalna gra, której celem jest takie pokierowanie płomieniem, aby sp
 
 
 
-## Doodle God
+## Doodle God
 
-
+
  *Średnia ocen na Marketplace PL: 4.5* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180655_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180655_0.png
+[join])
 
-[join]
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180714_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_288x192_-_-_31477x20120412180714_0.png
-
-
+
 
 Z pewnością znana gra z dużych komputerów. Dobieramy elementy, dzięki którym powstają nowe obiekty. Bardzo starannie zrobiona pozycja z dodatkowymi minigrami. Na wyższych poziomach bywa dość trudno (i czasami połączenia bywają mało logiczne) i po dłuższym graniu, zwyczajnie się nudzi. Jednakże jako pozycja na wolną chwilę, godna polecenia.
 
@@ -108,22 +107,22 @@ Z pewnością znana gra z dużych komputerów. Dobieramy elementy, dzięki któr
 
 
 
-## IonBallEX
+## IonBallEX
 
-
+
  *Średnia ocen na Marketplace PL: 4.0* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180723_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180723_0.png
+
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180737_0.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180737_0.png
-
-
+
 
 Klon Arkanoida. Cóż więcej można dodać, całkiem ładna grafika (chociaż ciut wszystko jest to przy małe jak dla mnie) zachęci do gry. Po pewnym czasie jednak może doskwierać słabe sterowanie (poruszanie platformą, za pomocą palca zasłania część ekranu, przez co tracimy często punkty). Warto sprawdzić demo przed zakupem. Wg mnie najsłabsza pozycja w zestawie.
 
@@ -131,22 +130,22 @@ Klon Arkanoida. Cóż więcej można dodać, całkiem ładna grafika (chociaż c
 
 
 
-## Max &amp; the Magic Marker
+## Max &amp; the Magic Marker
 
-
+
  *Średnia ocen na Marketplace PL: 4.0* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180746_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180746_0.png
+
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180753_0.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180753_0.png
-
-
+
 
 Gra platformowa, gdzie za pomocą zbieranego tuszu, rysujemy elementy na planszy, pozwalające na przejście naszej postaci przez kolejne poziomy. Pomysł częściowo podciągnięty z Crayon Physics Deluxe. Miłe połączenie gry logicznej i zręcznościowej. 
 
@@ -154,22 +153,22 @@ Gra platformowa, gdzie za pomocą zbieranego tuszu, rysujemy elementy na planszy
 
 
 
-## Toy Soldiers: Boot Camp
+## Toy Soldiers: Boot Camp
 
-
+
  *Średnia ocen na Marketplace PL: 3.5* 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180804_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180804_0.png
+
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180813_0.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2012-4-12-_140_/g_-_608x405_-_-_31477x20120412180813_0.png
-
-
+
 
 Ostatnia pozycja to typowa zręcznościówka ze świetną grafiką. Całość sprowadza się do zestrzeliwania obiektów na arenach. Owych aren nie jest dużo i jako gra jedynie na jednorazowe przejście nie sprawdzi się. Jest to raczej szybka rozgrywka na kilka minut dla zabicia czasu i zdobyciu kilku achievementów. Wskazane ściągnięcie dema przed zakupem.
 
@@ -177,4 +176,4 @@ Ostatnia pozycja to typowa zręcznościówka ze świetną grafiką. Całość sp
 
 Polecam, szczególnie trzy pierwsze pozycje. 
 
- *Dzięki [Krogulec](http://www.dobreprogramy.pl/Krogulec) za błyskawiczne info o promocji!* 
+ *Dzięki [Krogulec](http://www.dobreprogramy.pl/Krogulec) za błyskawiczne info o promocji!* )

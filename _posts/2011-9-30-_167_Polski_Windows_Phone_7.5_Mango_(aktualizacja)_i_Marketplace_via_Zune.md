@@ -1,32 +1,31 @@
-﻿---
-layout:     post
-title:      Polski Windows Phone 7.5 Mango (aktualizacja) i Marketplace via Zune
-date:       2011-09-30 07:55:00
-summary:    Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku:http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-upd... W tym malutkim wpisie pragnę przedstawić:1. Jak zaktuali...
-categories: windows sprzęt urządzenia mobilne
----
+﻿---layout:     post
+title:      Polski Windows Phone 7.5 Mango (aktualizacja) i Marketplace via Zune
+date:       2011-09-30 07:55:00
+summary:    Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku:http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-upd... W tym malutkim wpisie pragnę przedstawić:1. Jak zaktuali...
+categories: windows sprzęt urządzenia mobilne
+---
 
 
-
+
 Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku:
 [http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-update-error-code-8018001e/1ec8d54d-0ee8-4db6-ab62-4ca26b3fbbe7](http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-update-error-code-8018001e/1ec8d54d-0ee8-4db6-ab62-4ca26b3fbbe7)
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_1.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_1.png
 
- 
+ 
 
 W tym malutkim wpisie pragnę przedstawić:
 1. Jak zaktualizować swój telefon z Windows Phone 7 do wersji 7.5 Manogo w pełni spolszczonej (klawiatura, interface, pomoc, słownik itd.). Cały proces należy wykonać PRZED aktualizacja do wersji 7.5, gdyż po aktualizacji nie będzie już możliwe zainstalowanie pełnej polskiej wersji.
 
 2. Jak w pełni, cieszyć się zakupami w Marketplace poprzez Zune w języku polskim - opisy, ceny, zakupy aplikacji i gier.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_3.JPG
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_3.JPG
-
- 
+ 
 
  *Cel 1. - Aktualizacja Mango do PL* 
 
@@ -63,11 +62,11 @@ Przyciskamy Set i już. Można jeszcze przyciskiem Query sprawdzić czy zapis si
 
 Niestety w pozostałych model, aby zmienić wartość rejestru należy zainstalować  Registry Editor for Windows Phone 7 ([http://forum.touchxperience.com/viewtopic.php?f=20&amp;t=593](http://forum.touchxperience.com/viewtopic.php?f=20&amp;t=593)). Piszę niestety, gdyż aby to zrobić trzeba odblokować telefon. Jak to zrobić? Na pewno znajdziecie. Nie o tym jest ten wpis.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_2.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-30-_167_/g_-_608x405_-_-_28084x20110929233142_2.png
-
- 
+ 
 
  *Cel 2. - Marketplace PL poprzez Zune * 
 
@@ -106,3 +105,4 @@ Powiązane:
 [Windows Phone 7 w LG E900](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html)
 
 
+)

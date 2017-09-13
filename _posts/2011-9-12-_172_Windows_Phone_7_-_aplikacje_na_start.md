@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Windows Phone 7 - aplikacje na start
-date:       2011-09-12 23:33:00
-summary:    Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. Jeśli nie wiesz co zainstalować &quot;na dzień dobry&quot; w Windows Phone 7, szukasz jakiś ciekawych apl...
-categories: oprogramowanie porady urządzenia mobilne
----
+﻿---layout:     post
+title:      Windows Phone 7 - aplikacje na start
+date:       2011-09-12 23:33:00
+summary:    Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. Jeśli nie wiesz co zainstalować &quot;na dzień dobry&quot; w Windows Phone 7, szukasz jakiś ciekawych apl...
+categories: oprogramowanie porady urządzenia mobilne
+---
 
 
-
+
 Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. 
 
 Jeśli nie wiesz co zainstalować &quot;na dzień dobry&quot; w Windows Phone 7, szukasz jakiś ciekawych aplikacji na swojego smartfona lub po prostu chcesz być na bieżąco z softem - ten wpis jest dla Ciebie! :)
@@ -144,18 +143,18 @@ Prosta aplikacja do zapisywania notatek. Możliwość synchronizacji z Dropboxem
 
 
 
-## Polish Keyboard
+## Polish Keyboard
 
-
+
 
 Ocena: 4,00/5 Recenzji: 4
 Zanin wyjdzie Mango, ta aplikacja zaoferuje nam dostęp do polskiej klawiatury. Możemy wpisany tekst kopiować w dowolne miejsce (sms, email, facebook itp.).
 
 
 
-## Google Search
+## Google Search
 
-
+
 
 Ocena: 2,68/5 Recenzji: 362
 Wyszukiwarka www. Wyszukujemy z poziomu aplikacji, a po kliknięciu na link, zostajemy przekierowani do IE.
@@ -165,9 +164,9 @@ Wyszukiwarka www. Wyszukujemy z poziomu aplikacji, a po kliknięciu na link, zos
 
 
 
-## The Listener
+## The Listener
 
-
+
 
 Ocena: 4,33/5 Recenzji: 55
 Zamień swój smartfon w dyktafon :)
@@ -194,18 +193,18 @@ Programik do nagrywania głosu, a następnie jego &quot;obróbki&quot;. Możemy 
 
 
 
-## Shazam
+## Shazam
 
-
+
 
 Ocena: 2,43/5 Recenzji: 327
 Nie wiesz jaka piosenka leci teraz radiu? Wystarczy uruchomić tą aplikację, mieć dostęp do internetu i zbliżyć smartfona do głośników. Program po kilku sekundach sam znajdzie utwór, wyświetli wykonawcę, link do teledysku na YouTubie, okładkę płyty.
 
 
 
-## Thumba Cam
+## Thumba Cam
 
-
+
 
 Ocena: 3,83/5 Recenzji: 59
 Dodawanie efektów graficznych, nakładanie filtrów do zdjęć. Bardzo prosta obsługa.
@@ -213,9 +212,9 @@ Dodawanie efektów graficznych, nakładanie filtrów do zdjęć. Bardzo prosta o
 
 
 
-## Weather &amp; Clock
+## Weather &amp; Clock
 
-
+
 
 Ocena: -/5 Recenzji: 0
 Najładniejsza pogodynka na Windows Phone 7 :)

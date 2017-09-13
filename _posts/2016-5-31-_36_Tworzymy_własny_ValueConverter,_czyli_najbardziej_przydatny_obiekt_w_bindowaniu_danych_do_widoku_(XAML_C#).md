@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
-date:       2016-05-31 23:57:00
-summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który kon...
-categories: windows oprogramowanie programowanie
----
+﻿---layout:     post
+title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
+date:       2016-05-31 23:57:00
+summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który kon...
+categories: windows oprogramowanie programowanie
+---
 
 
-
+
 Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. 
 
 Z pocą przychodzi interfejs  *IValueConverter* , który konwertuje jedne dane na drugie, bez konieczność rozszerzania obiektu. W moim przypadku musiałem przekwaterować status notyfikacji NotificationStatus (New, Old, Unknown) na Opacity (nieprzezroczystość).
@@ -16,17 +15,17 @@ Na widoku nowe powiadomienia nie są przezroczyste, zaś stare mają przezroczys
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601002238_0.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601002238_0.png
 
-
+
 
 Oczywiście najbardziej używanym konwerterem jest: Bool &lt;=&gt; Visibility, czyli mając zmienną o typu Bool(true/false), chcemy sterować widocznością elementu (Visibility.Visible/Visibility.Collapsed).Przejdźmy jednak do naszego przykładu.
 
 Zamiast tworzyć nową właściwość, szybko tworzymy klasę implementującą interfejs IValueConverter.
 
 
-```csharp
-
+```csharp
+
 public sealed class StatusToOpacityConverter : IValueConverter
 {
     public object Convert(object value, Type targetType, object parameter, string language)
@@ -48,8 +47,8 @@ public sealed class StatusToOpacityConverter : IValueConverter
     }
 }
 
-```
-
+```
+
 
 Interfejs  *IValueConverter*  wymaga implementacji dwóch metod:  *Convert*  i  *ConvertBack* .Pierwsza z nich implementuje konwersję danych z obiektu na dane niezbędne do użycia na widoku, zaś druga robi to w odwrotną stronę.
 
@@ -64,8 +63,8 @@ Jednakże nie jest to nam potrzebne, gdyż łączenie ( *bindowanie* ) w tym prz
 Na widoku, czyli w pliku XAML, konwertera użyjemy w następujący sposób:
 
 
-```xml
-
+```xml
+
 &lt;Grid
         Opacity=&quot;{
         Binding Status, 
@@ -75,16 +74,16 @@ Na widoku, czyli w pliku XAML, konwertera użyjemy w następujący sposób:
                       
         &gt;(...)&lt;/Grid&gt;
 
-```
-
+```
+
 
 Oczywiście obiekt  *przekazany*  do widoku ma właściwość  *Status*  o typie  *NotificationStatus* . 
 
 Na końcu pamiętajmy jeszcze o rejestracji  *StatusToOpacityConverter*  w  *App.xaml* :
 
 
-```xml
-
+```xml
+
 &lt;Application
     (...)
     xmlns:helpers=&quot;using:djfoxer.dp.notification.App.Helpers&quot;&gt;
@@ -94,20 +93,21 @@ Na końcu pamiętajmy jeszcze o rejestracji  *StatusToOpacityConverter*  w  *App
     &lt;/Application.Resources&gt;
 &lt;/Application&gt;
 
-```
-
+```
+
 
 
 <blockquote>
-<p>DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).</p>
-</blockquote>
+<p>DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).</p>
+</blockquote>
 
 <blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
+<p>Aktualne źródła można znaleźć na GitHub pod adresem:
 [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
+</blockquote>
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601010129_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601010129_0.png
-
-
+
+)

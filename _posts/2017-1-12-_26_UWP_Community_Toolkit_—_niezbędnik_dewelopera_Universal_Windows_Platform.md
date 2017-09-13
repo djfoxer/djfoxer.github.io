@@ -1,36 +1,35 @@
-﻿---
-layout:     post
-title:      UWP Community Toolkit — niezbędnik dewelopera Universal Windows Platform
-date:       2017-01-12 17:26:00
-summary:    Tworzenie aplikacji na najświeższą platformę Windows (Universal Windows Platform) nie powinno sprawiać dużych problemów nawet początkującym osobom w tym temacie. Warto jednak już od pierwszych kroków wyposażyć się w ciekawy zbiór bibliotek od Microsoftu, który uprzyjemni pracę w UWP. Zróżnicowany ze...
-categories: windows porady programowanie
----
+﻿---layout:     post
+title:      UWP Community Toolkit — niezbędnik dewelopera Universal Windows Platform
+date:       2017-01-12 17:26:00
+summary:    Tworzenie aplikacji na najświeższą platformę Windows (Universal Windows Platform) nie powinno sprawiać dużych problemów nawet początkującym osobom w tym temacie. Warto jednak już od pierwszych kroków wyposażyć się w ciekawy zbiór bibliotek od Microsoftu, który uprzyjemni pracę w UWP. Zróżnicowany ze...
+categories: windows porady programowanie
+---
 
 
-
+
 Tworzenie aplikacji na najświeższą platformę Windows (Universal Windows Platform) nie powinno sprawiać dużych problemów nawet początkującym osobom w tym temacie. Warto jednak już od pierwszych kroków wyposażyć się w ciekawy zbiór bibliotek od Microsoftu, który uprzyjemni pracę w UWP. Zróżnicowany zestaw pomocnych elementów znacznie usprawni programowanie na platformie Windows.
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112003503_0.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112003503_0.jpg
+
+
 
 
 
+## UWP Community Toolkit - niezbędnik dewelopera
 
-
-## UWP Community Toolkit - niezbędnik dewelopera
-
- 
+ 
 Pomimo rozbudowanego SDK pod UWP (a jednocześnie ograniczonego, niestety) gigant z Redmond postanowił zebrać w jednym miejscu wszystkie dodatki, jakie mogą przydać się przy tworzeniu aplikacji. Znajdziemy tu zarówno rozwiązania pracowników giganta z Redmond jak i biblioteki, które wcześniej tworzone były przez niezależnych pasjonatów.Tak właśnie powstał UWP Community Toolkit, który rozwijany jest przez Microsoft ze społecznością deweloperów. 
 
 
 Projekt jest całkowicie darmowy, a jego źródła wrzucone są na [GitHuba](https://github.com/Microsoft/UWPCommunityToolkit). UWP Community Toolkit podzielono na kilka bibliotek, które dołączmy szybko do projektu poprzez [Nugeta](https://www.nuget.org/packages/Microsoft.Toolkit.Uwp/) wpisując  *Microsoft.Toolkit.UWP* .
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112003325_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112003325_0.png
-
-
+
 
 W celu dodania pakietu do istniejącego projektu należy pamiętać, iż projekt UWP musi być kompatybilny  z Windows SDK co najmniej w wersji 10586. Toolkit współgra z całą platformą bazującą na Windows 10 czyli PC, Mobile, XBOX, IoT i HoloLens. Microsoft postarał się także, aby udostępnić całkiem  wyczerpującą [dokumentację](http://docs.uwpcommunitytoolkit.com/en/master/). Zestaw może być użyty zarówno przez osoby piszące w C# jak i VB.NET (też jest coś do JS).
 
@@ -38,48 +37,48 @@ Aktualna wersja nosi numerek 1.2, a w lutym planowane jest wydanie wersji 1.3 z 
 
 
 
-## Co w zestawie?
+## Co w zestawie?
 
-
+
 
 Toolkit został podzielony na kilka paczek:
 
 
 
-  * Microsoft.Toolkit.Uwp - główna biblioteka z niezbędnymi dodatkami, zawiera ułatwienia przy używaniu Storage, Http response/request, wykrywaniu sieci/Internetu itd.
+  * Microsoft.Toolkit.Uwp - główna biblioteka z niezbędnymi dodatkami, zawiera ułatwienia przy używaniu Storage, Http response/request, wykrywaniu sieci/Internetu itd.
+
+
+
+  * Microsoft.Toolkit.Uwp.Notifications - paczka wspomagająca tworzenie powiadomień toast i żywych kafelków 
+
+
+
+  * Microsoft.Toolkit.Uwp.Notifications.Javascript - paczka jak wyżej, ale pod JS
+
+
+
+  * Microsoft.Toolkit.Uwp.Services - obsługa zewnętrznych serwisów Bing, Facebook, LinkedIn, Microsoft Graph oraz Twitter
+
+
+
+  * Microsoft.Toolkit.Uwp.UI - biblioteka oferuje zestaw dodatków do UI w XAML, jak np. gotowy zbiór konwerterów czy wyszukiwanie po drzewie XAML 
+
+
+
+  * Microsoft.Toolkit.Uwp.UI.Animations - zbiór animacji
+
+
+
+  * Microsoft.Toolkit.Uwp.UI.Controls - 16 nowych kontrolek, które rozszerzają dostępne kontroli XAML z SDK, jak np. HamburgerMenu, AdaptiveGridView czy MasterDetailsView 
+
 
 
 
-  * Microsoft.Toolkit.Uwp.Notifications - paczka wspomagająca tworzenie powiadomień toast i żywych kafelków 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170110235223_0.png
 
-
-  * Microsoft.Toolkit.Uwp.Notifications.Javascript - paczka jak wyżej, ale pod JS
-
-
-
-  * Microsoft.Toolkit.Uwp.Services - obsługa zewnętrznych serwisów Bing, Facebook, LinkedIn, Microsoft Graph oraz Twitter
-
-
-
-  * Microsoft.Toolkit.Uwp.UI - biblioteka oferuje zestaw dodatków do UI w XAML, jak np. gotowy zbiór konwerterów czy wyszukiwanie po drzewie XAML 
-
-
-
-  * Microsoft.Toolkit.Uwp.UI.Animations - zbiór animacji
-
-
-
-  * Microsoft.Toolkit.Uwp.UI.Controls - 16 nowych kontrolek, które rozszerzają dostępne kontroli XAML z SDK, jak np. HamburgerMenu, AdaptiveGridView czy MasterDetailsView 
-
-
-
-
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170110235223_0.png
-
- 
+ 
 
 Trzeba przyznać, że jest tego całkiem sporo i ciężko jest do czegoś się przyczepić. W razie jeśli gotowy kod nie spełnia naszych oczekiwać możne go zmienić/rozszerzyć bazując na kodzie źródłowym.
 
@@ -91,17 +90,17 @@ Weźmy pod lupę kontrolkę HamburgerMenu z toolkitu. Jest ona niczym innym jak 
 
 Podobnie jest z helperem do powiadomień toast. Standardowo, aby wyświetlić powiadomienie musimy przekazać do metody XMLa. Zatem aby pokazać powiadomienie z przypomnieniem:
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112000715_0.PNG
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170112000715_0.PNG
-
-
+
 
 Do metody należy dostarczyć taki oto XML:
 
 
-```html
-
+```html
+
 &lt;toast launch=&quot;action=viewEvent&amp;amp;eventId=1983&quot; scenario=&quot;reminder&quot;&gt;
   
   &lt;visual&gt;
@@ -137,16 +136,16 @@ Do metody należy dostarczyć taki oto XML:
   
 &lt;/toast&gt;
 
-```
-
+```
+
 
 Niby nic wielkiego, ale musimy usiąść z dokumentacją i &quot;ręcznie&quot; stworzyć takiego XMLa, jednocześnie zapominając o intellisense czy walidacji błędów podczas pisania.
 
 W tym przypadku z pomocą przyjdzie nam UWP Community Toolkit. Pakiet dostarczy odpowiednią strukturę klas, która będzie w stanie wygenerować na jej podstawie XMLa:
 
 
-```csharp
-
+```csharp
+
 var xml = new ToastContent()
     {
         Launch = &quot;action=viewEvent&amp;eventId=1983&quot;,
@@ -207,8 +206,8 @@ var xml = new ToastContent()
     }.GetXml();
 
 
-```
-
+```
+
 
 Szybko i praktycznie bez zaglądania do dokumentacji, stworzymy podstawowe powiadomienie. Można zastanowić się, dlaczego takie rozwiązanie nie jest standardowo udostępnione w SDK.
 
@@ -216,18 +215,19 @@ Warto dodać, że wykorzystanie biblioteki jest niezmiernie proste i przyjemne, 
 
 
 
-## UWP Community Toolkit Sample App
+## UWP Community Toolkit Sample App
 
-
+
 Świetnym dodatkiem do omawianego pakietu jest aplikacja UWP Community Toolkit Sample App dostępna w [markecie Windows](https://www.microsoft.com/pl-pl/store/p/uwp-community-toolkit-sample-app/9nblggh4tlcq). Warto ją pobrać, aby na żywo przetestować jak działają poszczególne elementy. Sprawdzimy działanie kontrolek, notyfikacji czy helperów. Dodatkowo z działającym przykładem umieszczony jest obok kod, który odpowiada za przedstawioną funkcjonalność.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170111001453_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-1-12-_26_/g_-_608x405_-_-_78412x20170111001453_0.png
-
-
+
 
 
 Pakiet UWP Community Toolkit będzie idealnym wyborem dla osób rozpoczynających przygodę z UWP, jak i dla tych, którzy są już zaznajomieni z tematem. Pierwsi zyskają szybki start do nowej platformy, drudzy również przyspieszą deweloping, a dodatkowo odnajdą kilka ciekawych rozwiązań do wykorzystania we własnych implementacjach.
 
 Cały toolkit jest niezmiernie ciekawy, a w kilku przypadkach można się zastanowić dlaczego dane elementy nie są standardowo wbudowane w SDK.
+)

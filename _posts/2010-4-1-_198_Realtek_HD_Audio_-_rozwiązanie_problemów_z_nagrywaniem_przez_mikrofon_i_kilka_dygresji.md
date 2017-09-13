@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
-date:       2010-04-01 11:09:00
-summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:- włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) - &quot;naprawa&quot; ...
-categories: windows oprogramowanie porady
----
+﻿---layout:     post
+title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
+date:       2010-04-01 11:09:00
+summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:- włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) - &quot;naprawa&quot; ...
+categories: windows oprogramowanie porady
+---
 
 
-
+
 Słowem wstępu
 
 
@@ -21,9 +20,9 @@ Zapraszam do lektury :)
 
 
 
-### Jak to się zaczęło
+### Jak to się zaczęło
 
-
+
 
 
 Najprawdopodobniej nigdy bym nie zaprzątał sobie głowy, gdyż gdy rozmawiałem na skype czy gg przez mikrofon była całkiem ok. Jednakże kupiłem niedawno grę CoD4: Modern Warfare i po przejściu świetnego, jednakże krótkiego SP, zasiadłem do MP.
@@ -35,9 +34,9 @@ Znalezienie rozwiązania trochę mi zajęło czasu, więc che podzielić się z 
 
 
 
-### Menadżer Realtek HD Audio - jakie to jest brzydkie
+### Menadżer Realtek HD Audio - jakie to jest brzydkie
 
- 
+ 
 
 
 Programiści (może raczej designerzy) nie popisali się tworząc okno zarządzania kartą dźwiękową Realtek HD Audio. To co widzimy jest tragiczne! 
@@ -50,9 +49,9 @@ Ogólnie nie przekonuje mnie to co zrobili panowie z Realtek&#39;a. Ale może to
 
 
 
-## Włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon)
+## Włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon)
 
-
+
 
 
 I tutaj &quot;kłania&quot; się super intuicyjny interface dzieła Realtek&#39;a. Normalnie można to zrobić w Regulacji głośności dostępny w systemie. Ale na kartach Realteka nie ma tak prosto!
@@ -68,29 +67,29 @@ Aby włączyć boosta (zwiększenie wydajność mikrofonu) musisz:
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_1.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_1.png
 
- 
-
-
-
-### Aktualizacja: Windows Vista/7/8
+ 
 
 
+
+### Aktualizacja: Windows Vista/7/8
+
+
 
 W przypadku nowych systemów Windows,boost ukryty jest w zakładce  *Mikrofon* , pod mało czytelną ikoną (zaznaczone na zrzucie ekranu): 
 
+)
+
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20130220093911_0.jpg
+
+
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20130220093911_0.jpg
 
+## &quot;Naprawa&quot; dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)
 
-
-
-
-## &quot;Naprawa&quot; dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)
-
-
+
 
 
 
@@ -104,20 +103,20 @@ Nie jest to raczej duży problem, ale mimo, iż mam duże doświadczenie z kompu
 4. Mając nowe okno wyciszamy wszystko oprócz: Regulacja nagrywania oraz Głośność mikrofonu
 5. W taki oto sposób pozbyliśmy się nagrywania przez mikrofon inny dźwięków z komputera (mp3/radio/gry/ dźwięki systemowe i inne)
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_2.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_2.png
-
- 
-
-
-
+ 
 
 
 
-## Na zakończenie
 
 
+
+## Na zakończenie
+
+
 
 
 
@@ -129,18 +128,19 @@ Odnośnie gry Cod4: MW, jeśli kogoś interesuje jak pozbyć się lagów w tej g
 
 
 
-## Aktualizacja
+## Aktualizacja
+
+
 
 
+### Windows 7, 8, 10
 
-
-### Windows 7, 8, 10
-
-
+
 Jeśli macie problemy na nowszych systemach, warto zainstalować aplikację [Volume2](http://www.dobreprogramy.pl/Volume2,Program,Windows,38701.html).
 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20161215212909_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20161215212909_0.png
-
+)

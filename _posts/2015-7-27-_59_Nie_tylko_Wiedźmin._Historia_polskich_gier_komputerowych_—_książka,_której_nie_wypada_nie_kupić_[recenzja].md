@@ -1,25 +1,24 @@
-﻿---
-layout:     post
-title:      Nie tylko Wiedźmin. Historia polskich gier komputerowych — książka, której nie wypada nie kupić [recenzja]
-date:       2015-07-27 21:22:00
-summary:    Wspomnień czar. Czyli dawno, dawno temu...Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zest...
-categories: gry hobby inne
----
+﻿---layout:     post
+title:      Nie tylko Wiedźmin. Historia polskich gier komputerowych — książka, której nie wypada nie kupić [recenzja]
+date:       2015-07-27 21:22:00
+summary:    Wspomnień czar. Czyli dawno, dawno temu...Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zest...
+categories: gry hobby inne
+---
+
+
+
+
+
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726183458_0.jpg
+
+
 
 
 
 
+## Wspomnień czar. Czyli dawno, dawno temu...
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726183458_0.jpg
-
-
-
-
-
-
-## Wspomnień czar. Czyli dawno, dawno temu...
-
-
+
 
 
 
@@ -50,97 +49,97 @@ Mimo wszystko nie sposób było przejść obojętnie obok kilku późniejszych p
 
 
 
-## Nie tylko Wiedźmin. Historia polskich gier komputerowych - lektura obowiązkowa
+## Nie tylko Wiedźmin. Historia polskich gier komputerowych - lektura obowiązkowa
 
-
+
 
 Gdy tylko usłyszałem o projekcie wydania książki, nie mogłem przejść  obojętnie obok tego tytułu. Pozycja miała zawierać zebrane w jednym miejscu polskie gry, wraz z anegdotami i historiami, dotąd nigdzie niepublikowanymi. Rarytas dla każdego, kto choć przez chwilę interesował się branżą rozrywkową. Już na wstępie muszę napisać to jasno, książka jest niezmiernie ciekawa, obfituje w informacje, których próżno szukać w sieci, czy w innych wydaniach.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726183340_0.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726183340_0.jpg
-
-
+
 
 Autorem książki jest Marcin Kosman, który przygodę z grami na poważnie zaczynał w PSX Extreme. Od 5 lat uszczęśliwia swoimi wpisami sieć, będąc obecnie redaktorem naczelnym serwisu Polygamia.pl. Związany był również z Gamezillą, a także magazynem Play i Komputer Świat Gry.  Można śmiało powiedzieć, że czytając książkę czuć zaangażowanie, pasję i ogromną wiedzę autora, który przelał te wszystkie elementy na karty książki. 
 
 
 
 
-### &quot;Fabuła&quot;
+### &quot;Fabuła&quot;
 
+
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200543_0.png
 
+
+)
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200543_0.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200543_1.png
 
-
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200543_1.png
-
-
+
 
 
 Tytuł podzielony został na kilka części. W dużym (bardzo, bardzo, bardzo dużym) skrócie przedstawię zarys każdego z działów.
 
 Pierwsza część obejmuje lata od &quot;zarania dziejów&quot; polskich gier, aż do roku 1991. To tutaj opisane są początki polskiej branży rozrywkowej, która pierwsze kroki stawiała na Atari, Commodore czy ZX Spectrum. Miejscem nie były garaże, jak w historiach zza oceanu, a raczej pokoje w przeciętnych blokowiskach, których pełno było w tamtych latach. To wówczas do życia powołano takie firmy jak IPS Computer Group, Mirage, czy słynne LK Avalon, które mimo niesprzyjających warunków na rynku (piractwo), próbowały sprzedać zachodnie i rodzime produkcje.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727194439_0.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727194439_0.jpg
-
-
+
 
 Ta część dość mocno związana jest z książką  *&quot;Bajty Polskie&quot;*  Bartłomieja Kluski i Mariusza Rozawdowskiego. Przyznaje, że chwilowo miałem obawy, czy przypadkiem nie będzie to kopia wymienionej pozycji. Faktycznie jest sporo nawiązań do książki Kluski (co nie może dziwić), ale Kosman rozwinął ten okres o wiele ciekawych anegdotek o ówczesnym rynku gier. Warto jednakże również sięgnąć na początek i po tą książkę, gdyż trochę szczegółowiej opisuje ona tamte, jakże zamierzchłe czasy. Szczególnie, że część z was może już ją mieć, gdyż pełna wersja została dodana jako ebook do DVD z CD-Action 02/2015.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726184946_0.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150726184946_0.jpg
-
-
+
 
 W kolejnych rozdziałach przeczytamy o rynku gier od roku 1992, aż do 1996. Autor niezmiernie bogato opisał bliski mi temat gier z Amigi. Mimo, iż grałem we wszystkie produkcje z tego okresu, przyznaję że w kilku miejscach zostałem mile zaskoczony ilością wiedzy, jaka została zebrana do przygotowania tej części. 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727195134_0.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727195134_0.png
-
-
+
 
 W tyk okresie powstała również ustawa o prawie autorskim, która w jednym momencie zdelegalizowała wszelkie giełdy z pirackim oprogramowaniem. Do nowej sytuacji musieli przyzwyczaić się gracze, producenci, jak i redaktorzy magazynów o grach. O tych ostatnich można przeczytać kilka zaskakujących historii.
 
 Kolejne lata 1997-2001 to rozkwit polskich dystrybutorów, którzy zaczęli tworzyć polskie wersie gier, do zachodnich produkcji. W tym czasie powstało również wiele polskich gier FPS (FPP), takich jak  *Target* ,  *Pył*  czy  *Mortyr* . Z wielkimi planami podboju zachodu.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727194432_0.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727194432_0.jpg
-
-
+
 
 Kolejna część to już rok 2002, aż do 2007 roku. W tym czasie City Interactive zalewało kioski tanimi grami produkowanymi w zaledwie kilka miesięcy. Ilość, nie jakość , było hasłem przewodnim. Również w tym okresie powstają takie międzynarodowe hity jak  *Soldat*  czy  *Painkiller* , a Techland wypuszcza silnik  *Chrome* . W 2007 roku powstaje pierwszy  *Wiedźmin* . 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727201343_0.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727201343_0.jpg
-
-
+
 
 Ostatnim rozdział obejmuje rok 2006 do 2014. Są to już lata jak najbardziej nam bliskie, a w tym czasie polskie gry zaczynają pojawiać się na coraz większej liczbie urządzeń (od komórek po konsole). Obszerna analiza tytułów i wiele historii towarzyszących, kończą się zapowiedzią  *Wiedźmina 3* , który wyszedł tuż po wydaniu książki.
 
+)
+
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727201932_0.jpg
+
+
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727201932_0.jpg
 
 
+### &quot;Grywalność&quot;
 
-
-
-
-### &quot;Grywalność&quot;
-
-
+
 
 Książkę czyta się niezmiernie miło i przyjemnie. Nie ma tu wyszukanego języka, co nie powinno nikogo odrzucić. Poszczególne rozdziały zmyślnie się nakładają i zazębiają. Brakuje trochę większej ilości zdjęć i grafik, ale to można wybaczyć. Książka przypomina bardzo opowiadanie gawędziarskie, które czyta się jednym tchem.
 
@@ -154,24 +153,24 @@ To tutaj przeczytamy o tym jak kopie kopii Famicoma, zabiły Pegazusa, jak sprze
 
 
 
-### &quot;Ocena końcowa&quot;
+### &quot;Ocena końcowa&quot;
 
-
+
 
 Książki Marcina Kosman grzech nie mieć w swojej kolekcji. Ilość wiedzy jaką dostarczy nam ten ponad 400 stronicowy tytuł jest nie do opisania. Gorąco zachęcam do zakupu, szczególnie, że cena  nie jest wygórowana. Wersję &quot;analogową&quot; kupimy już za 29.99 zł, zaś ebook to wydatek 21.99 zł. 
 
 
 
+)
+
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200246_0.png
+
+
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2015-7-27-_59_/g_-_608x405_-_-_65055x20150727200246_0.png
 
 
+## Update - lista gier
 
-
-
-
-## Update - lista gier
-
-
-Lista gier jaka jest opisana w książce wyczerpuje, moim zdaniem, WSZYSTKIE pozycje dostępne do roku 2007. Napisałem do autora o udostępnienie takiej listy, jeśli takową otrzymam zamieszczę tutaj :)
+
+Lista gier jaka jest opisana w książce wyczerpuje, moim zdaniem, WSZYSTKIE pozycje dostępne do roku 2007. Napisałem do autora o udostępnienie takiej listy, jeśli takową otrzymam zamieszczę tutaj :))

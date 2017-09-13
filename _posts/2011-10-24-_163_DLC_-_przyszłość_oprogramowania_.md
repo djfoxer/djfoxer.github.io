@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      DLC - przyszłość oprogramowania?
-date:       2011-10-24 18:22:00
-summary:    Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłuże...
-categories: gry hobby inne
----
+﻿---layout:     post
+title:      DLC - przyszłość oprogramowania?
+date:       2011-10-24 18:22:00
+summary:    Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłuże...
+categories: gry hobby inne
+---
 
 
-
+
 Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. 
 
 Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłużej, zakupionym tytułem. 
@@ -25,17 +24,17 @@ Moim skromnym zdaniem, prym wiedzie tutaj Capcom, który &quot;udostępnił&quot
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_1.jpg
 
-
+
 
 Widząc, iż taki chwyt poniżej pasa jest opłacalny, niektórzy postanowili pójść jeszcze dalej. Oto EA wydaje 3 DLC do Dead Space 2 (zawierające broń, ciuszki itp. czyli nic szczególnego i nic nadzwyczajnego, ot kolejny zapychacz, umożliwiający łatwy zarobek). Wszystko wydaje się ok. Ale zobaczcie na rozmiary tych dodatków! 3x108KB! Okazało się, że są one dostępne w każdym zakupionym egzemplarzu gry. Odblokować je można za darmo poprzez save do gry, ważący 3KB! Kolejna gra, która została okrojona z jakiś małych dodatków, które są dostępne na dysku graczy. Cena? 400 MS Points za każdy dodatek, czyli 5$x3 = 15$ za coś co już mamy na dysku!
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_2.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_2.jpg
-
-
+
 
 
 Kolejny przykład to, sławna już na cały świat, zbroja dla konia do gry Elder Scrolls IV: Oblivion! Za przywilej kupna zbroi dla naszego rumaka należało zapłacić 2.5$ (200 MS Points). To już nawet nie jest funkcjonalne jak poprzedni dodatek do Resident Evil 5. Ewidentny przykład na chorą pogoń za sprzedażą wszystkiego czego się da. Ktoś kto wymyślił te DLC musiał być lekko wczorajszy. Chociaż ciekawi mnie, ile osób kupiło ową zbroje dla konia? :P
@@ -67,16 +66,16 @@ Kiedy będziemy musieli zapłacić za dodatkowe skórki do Visual Studio? Czy do
 
 
 
-## W dobie pakietów biurowych offline, być może Microsoft zaproponuje desktopowego Office bez opłat, lecz z mikropłatnościami. Co  nie było by takie złe, szczególnie mając na uwadze, iż większość osób nie wykorzystuje całego potencjału pakietu. W przyszłości ściągniemy instalkę za darmo i skonfigurujemy, za które funkcjonalności zechcemy zapłacić? Nie wydaje się to wcale, aż tak nierealne i oderwane od rzeczywistości. 
+## W dobie pakietów biurowych offline, być może Microsoft zaproponuje desktopowego Office bez opłat, lecz z mikropłatnościami. Co  nie było by takie złe, szczególnie mając na uwadze, iż większość osób nie wykorzystuje całego potencjału pakietu. W przyszłości ściągniemy instalkę za darmo i skonfigurujemy, za które funkcjonalności zechcemy zapłacić? Nie wydaje się to wcale, aż tak nierealne i oderwane od rzeczywistości. 
+
+
 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111023152122_3.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111023152122_3.png
-
-
+
 
 
 
@@ -86,3 +85,4 @@ Kiedy będziemy musieli zapłacić za dodatkowe skórki do Visual Studio? Czy do
  * Dziękuję i Pozdrawiam* 
 
 
+)

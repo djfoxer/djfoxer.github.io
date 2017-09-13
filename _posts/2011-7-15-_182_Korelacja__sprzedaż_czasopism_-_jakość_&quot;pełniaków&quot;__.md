@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Korelacja: sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
-date:       2011-07-15 23:12:00
-summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do &quot;badania&quot; wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępni...
-categories: hobby inne
----
+﻿---layout:     post
+title:      Korelacja: sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
+date:       2011-07-15 23:12:00
+summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do &quot;badania&quot; wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępni...
+categories: hobby inne
+---
 
 
-
+
 W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.
 
 Do &quot;badania&quot; wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość sprzedanych egzemplarzy. Dodatkowo, dzięki temu, iż są to magazyny o grach, łatwiej będzie sprawdzić oceny gier, niż gdyby były to czasopisma o oprogramowaniu.
@@ -36,9 +35,9 @@ Na początek, wyniki sprzedaży. Nikogo nie powinny zdziwić statystyki. CD Acti
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_1.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_1.png
 
-
+
  *Wykres nr 1* 
 
 Już teraz (w ramach rozgrzewki), można sprawdzić czy sprzedaż CD Action jest związana ze sprzedaży PLAY!?
@@ -68,9 +67,9 @@ Oto lista gier z ocenami w nawiasach:
 
 
 
-## CD Action
+## CD Action
 
-
+
 
 
 sty-10 Watchmen: The End Is Nigh Part 1 (61), RollerCoaster 3 GOLD (81)
@@ -93,9 +92,9 @@ kwi-11 Call of Juarez: Bound in Blood (78), Bionic Commando (69), Shaun White Sn
 
 
 
-## PLAY!
+## PLAY!
 
-
+
 
 
 sty-10 Tension (77), Tecno: The Base, Valkyrie: Ascension to the Throne 
@@ -141,16 +140,16 @@ wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,1
 
 
 
-## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a średnią ocena  pełnych wersji gier 
+## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a średnią ocena  pełnych wersji gier 
+
+
 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_2.png
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_2.png
-
-
+
  *Wykres nr 2 / Wykres nr 3* 
 
  *Pełniaki - mediana ocen pełnych wersji * 
@@ -174,9 +173,9 @@ wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,1
 
 
 
-## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a medianą ocen  pełnych wersji gier (można było się spodziewać, analizując średnią ocen i wykresy dla obu statystyk (wykres nr 2 i 3)) 
+## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a medianą ocen  pełnych wersji gier (można było się spodziewać, analizując średnią ocen i wykresy dla obu statystyk (wykres nr 2 i 3)) 
 
-
+
 
 
 
@@ -200,11 +199,11 @@ Podsumowując ten krok: możemy założyć, iż istnieje korelacja (powiązanie)
 
 Wykres nr 5 - przedstawia wykres dwóch cech: sprzedaż X ocena. Poprowadzono linie trendu. Widać, iż dla danych z maksymalną oceną, występuje korelacja.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110715222214_3.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110715222214_3.png
-
-
+
  *Wykres nr 4 / Wykres nr 5* 
 
  * Najważniejsze - interpretacja * 
@@ -231,3 +230,4 @@ Wpis okazał się bardzo interesujący i pożyteczny(? :P). Zaznaczam, iż mogą
 
 
  *Pozdrawiam* 
+)

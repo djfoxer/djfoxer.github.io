@@ -1,18 +1,17 @@
-﻿---
-layout:     post
-title:      Aktualizacja Punk Bustera (ręczna)
-date:       2010-10-24 12:42:00
-summary:    WstępWitam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z &quot;niewiadomych&quot; przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wers...
-categories: oprogramowanie porady gry
----
+﻿---layout:     post
+title:      Aktualizacja Punk Bustera (ręczna)
+date:       2010-10-24 12:42:00
+summary:    WstępWitam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z &quot;niewiadomych&quot; przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wers...
+categories: oprogramowanie porady gry
+---
 
 
+
 
 
+## Wstęp
 
-## Wstęp
-
-
+
 
 
 Witam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. 
@@ -26,9 +25,9 @@ Małe śledztwo doprowadziło do odkrycie ciekawej zależności. Otóż probleme
 
 
 
-## Rozwinięcie
+## Rozwinięcie
 
-
+
 
 
 Problem ten można rozwiązać dość szybko i bezboleśnie.
@@ -44,9 +43,9 @@ PnkBstrB
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101024120951_2.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101024120951_2.png
 
-
+
 
 3. 
 Używając opcji do wyszukiwania pików (także ukrytych) da folderu WINDOWS wpisujemy frazę:
@@ -54,11 +53,11 @@ Używając opcji do wyszukiwania pików (także ukrytych) da folderu WINDOWS wpi
 
 W moim przypadku znaleziono następujące pliki:
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101024114939_1.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101024114939_1.png
-
-
+
 
 Spokojnie możemy usunąć wszystkie wyszukane pliki i uruchamiamy ponownie komputer.
 UWAGA!Jeśli pliki nie będą dały się usunąć, w kroku 2. należy dodatkowo we właściwościach dla usługi wybrać  typ uruchomienia: Wyłączony i przed zastosowaniem kroku 3., uruchomić ponownie komputer.
@@ -77,11 +76,11 @@ Uruchamiamy ściągnięty program i dodajemy grę dla jakiej chcemy zaktualizowa
 - klikamy na &quot;Check for Updates&quot; (D) 
 PBSetup powinien sam ściągnąć nową wersje Punk Bustera i aktualizacje
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101026174822_3.png
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-10-24-_197_/g_-_608x405_-_-_21147x20101026174822_3.png
-
-
+
 
 Możemy cieszyć się nowym Punk Busterem i grą :)
 
@@ -89,10 +88,11 @@ Możemy cieszyć się nowym Punk Busterem i grą :)
 
 
 
-## Zakończenie
+## Zakończenie
 
-
+
 
 
 Mam nadzieję, iż komuś ten tekst pomógł w walce z Punk Busterem. Proszę o opinie, komentarze i propozycje. Dzięki za czytanie :)
 
+)

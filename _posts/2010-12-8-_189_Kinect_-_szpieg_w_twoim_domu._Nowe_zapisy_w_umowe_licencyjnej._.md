@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Kinect - szpieg w twoim domu. Nowe zapisy w umowe licencyjnej. 
-date:       2010-12-08 23:37:00
-summary:    &quot;Wiedza cię wybiera, niewiedza gubi.&quot;Czy instalując jakąś aplikację czytacie umowę licencyjna zawarta w instalatorze?Wątpię :) Podobnie jest z instrukcjami obsługi. A potem czekają nas niemiłe niespodzianki. Rys. 1. Przykład umowy licencyjnej ;)W przypadku Microsoftu, jest jeszcze ciekawie...
-categories: hobby inne
----
+﻿---layout:     post
+title:      Kinect - szpieg w twoim domu. Nowe zapisy w umowe licencyjnej. 
+date:       2010-12-08 23:37:00
+summary:    &quot;Wiedza cię wybiera, niewiedza gubi.&quot;Czy instalując jakąś aplikację czytacie umowę licencyjna zawarta w instalatorze?Wątpię :) Podobnie jest z instrukcjami obsługi. A potem czekają nas niemiłe niespodzianki. Rys. 1. Przykład umowy licencyjnej ;)W przypadku Microsoftu, jest jeszcze ciekawie...
+categories: hobby inne
+---
 
 
-
+
 &quot;Wiedza cię wybiera, niewiedza gubi.&quot;
 
 Czy instalując jakąś aplikację czytacie umowę licencyjna zawarta w instalatorze?
@@ -16,9 +15,9 @@ Wątpię :) Podobnie jest z instrukcjami obsługi. A potem czekają nas niemiłe
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-12-8-_189_/g_-_608x405_-_-_21943x20101208233614_1.gif
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-8-_189_/g_-_608x405_-_-_21943x20101208233614_1.gif
 
-
+
  *Rys. 1. Przykład umowy licencyjnej ;)* 
 
 W przypadku Microsoftu, jest jeszcze ciekawiej. Bo o ile jeśli kupiony w Ikei stół i po &quot;naszym&quot; złożeniu wyjdzie taboret, to nie jest to wielka strata. W przypadku Kinecta, możemy poczuć się jak w książce Rok 1984 Orwella.
@@ -26,16 +25,16 @@ W przypadku Microsoftu, jest jeszcze ciekawiej. Bo o ile jeśli kupiony w Ikei s
 
 
 
-## Wielki Brat ma dla Ciebie zadanie
+## Wielki Brat ma dla Ciebie zadanie
+
+
 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-8-_189_/g_-_608x405_-_-_21943x20101208233614_2.jpg
 
-
-
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2010-12-8-_189_/g_-_608x405_-_-_21943x20101208233614_2.jpg
-
-
+
  *Rys. 2. Gdzieś już to było...* 
 
 
@@ -66,4 +65,4 @@ Niby nic, ale szkoda, iż te zapisy zostały wprowadzone &quot;po cichu&quot;. C
 
 Dziękuję i pozdrawiam.  
 
-[http://www.xbox.com/pl-PL/legal/livetou](http://www.xbox.com/pl-PL/legal/livetou) - umowa licencyjna Xbox LIVE
+[http://www.xbox.com/pl-PL/legal/livetou](http://www.xbox.com/pl-PL/legal/livetou) - umowa licencyjna Xbox LIVE)

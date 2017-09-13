@@ -1,22 +1,21 @@
-﻿---
-layout:     post
-title:      Pendrive OCZ Rally2 - promocja idealna?
-date:       2011-09-03 12:45:00
-summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało &quot;odkryte&quot; (CSI:DobreProgramy :P) przypadkiem, przy wcześniejszym wpisie: &quot;Osobisty test pendrive&#39;ów&quot;. W skrócie: test 6 pendive&#39;ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wybo...
-categories: sprzęt porady inne
----
+﻿---layout:     post
+title:      Pendrive OCZ Rally2 - promocja idealna?
+date:       2011-09-03 12:45:00
+summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało &quot;odkryte&quot; (CSI:DobreProgramy :P) przypadkiem, przy wcześniejszym wpisie: &quot;Osobisty test pendrive&#39;ów&quot;. W skrócie: test 6 pendive&#39;ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wybo...
+categories: sprzęt porady inne
+---
 
 
-
+
  *Niewinne początki* 
 
 Wpis jest podsumowaniem tego, co zostało &quot;odkryte&quot; (CSI:DobreProgramy :P) przypadkiem, przy wcześniejszym wpisie: [&quot;Osobisty test pendrive&#39;ów&quot;](http://www.dobreprogramy.pl/djfoxer/Osobisty-test-pendriveow,27436.html). W skrócie: test 6 pendive&#39;ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_1.jpg
 
-
+
 
 Był tam również test pendrive&#39;a frmy OCZ Rally2, który otrzymaliśmy na HotZlocie 2011. Urządzenie zajęło ostatnie miejsce. Bardzo mnie rozczarowując, ze względu na to, iż zapowiadało się, że będzie to najszybsze urządzenie w rankingu. Wyniki były jednakże co najwyżej średnie.
 
@@ -28,11 +27,11 @@ Hmm, coś tu jest nie tak...
 
 Ponownie zacząłem szukać danych technicznych tego pendrive&#39;a. Na stronie OCZ odnośnie Rally2: [http://www.ocztechnology.com/ocz-rally2-usb-2-0-flash-drive.html](http://www.ocztechnology.com/ocz-rally2-usb-2-0-flash-drive.html) jest wszystko oprócz danych odnośnie szybkości zapisu/odczytu. Dziwne, jak na pendrive&#39;a, który wygrał wiele rankingów.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_2.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_2.jpg
-
-
+
 
 Na opakowaniu również nie ma żadnych informacji odnośnie tego, jakie prędkości osiąga pendrive. Żeby było ciekawiej, na opakowaniu OCZ umieścił masę sloganów, wskazujących na to, iż mamy do czynienia z demonem prędkości (&quot;Industry leading Ultra Fast Dual Technology&quot;, &quot;Rapid Transfer Rates surpass the competition&quot;, &quot;HIGH SPEED USB 2.0&quot; i na koniec: &quot;BLAZING SPEED!&quot;) oraz pochwaliło się kilkoma nagrodami.
 
@@ -78,11 +77,11 @@ Ewidentnie widać, iż pendrive czerwony, jest dużo szybszy od nowego, niebiesk
 Problemy z prędkością potwierdzili również: Wolfgar, underface, flaszer i NRN.
 RaveStar dodał komentarz, iż jego wyniki z OCZ Rally2 z niebieską diodą są lepsze, niż nasze. Jednakże nie zamieścił jeszcze dokładnych danych z programu CrystalDiskMark.
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903122331_3.jpg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903122331_3.jpg
-
- 
+ 
 
  *Co na to OCZ/dystrybutor* 
 
@@ -149,9 +148,9 @@ Szczególnie pozdrawiam [Wolfgar&#39;a](http://www.dobreprogramy.pl/78903,Wolfga
 
 
 
-## Powiązane
+## Powiązane
 
-
+
 
 
 
@@ -168,3 +167,4 @@ Szczególnie pozdrawiam [Wolfgar&#39;a](http://www.dobreprogramy.pl/78903,Wolfga
 [http://crystalmark.info/software/CrystalDiskMark/index-e.html - aplikacja do testów CrystalDiskMark 3.0.1 ](http://crystalmark.info/software/CrystalDiskMark/index-e.html)
 
 
+)

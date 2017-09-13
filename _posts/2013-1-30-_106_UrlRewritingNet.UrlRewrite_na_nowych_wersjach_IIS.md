@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
-date:       2013-01-30 15:41:00
-summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Ni...
-categories: oprogramowanie porady serwery
----
+﻿---layout:     post
+title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
+date:       2013-01-30 15:41:00
+summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Ni...
+categories: oprogramowanie porady serwery
+---
 
 
-
+
 Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Niestety w szarej rzeczywistości IT nieraz jesteśmy zmuszani do tego, aby działać ze starszym oprogramowaniem. Często dawno napisane aplikacje już nie sposób jest przepisać na nowy framework. Powody mogą być różne. Użycie zewnętrznych bibliotek, które już nie są wspierane, współpraca z innym starszym oprogramowaniem, zastosowanie składni/poleceń, które już zostały usunięte w nowych wersjach frameworka, czy po prostu brak czasu/zasobów na przeniesienie kodu do nowej wersji i ponowne testy.
 
 
@@ -24,129 +23,129 @@ Przestawię mały poradnik jak zmusić  [UrlRewritingNet.UrlRewrite](http://www.
 
 
 
-  * przechodzimy na witrynę w  *IIS Manager*  na jakiej chcemy zmienić ustawienia
+  * przechodzimy na witrynę w  *IIS Manager*  na jakiej chcemy zmienić ustawienia
+
 
+  * przechodzimy do  *Mapowania obsługi* 
+
 
-  * przechodzimy do  *Mapowania obsługi* 
+  * edytujemy wpis  *StaticFile* 
 
 
-  * edytujemy wpis  *StaticFile* 
 
 
+  * zmieniamy w nim  *Ścieżkę żądania*  na :*.*
+
 
+  * otwieramy  *Ograniczenie żądań*  i na zakładce  *Mapowanie*  zaznaczamy 
+  * Plik
 
-  * zmieniamy w nim  *Ścieżkę żądania*  na :*.*
+
 
+  *  zatwierdzamy podwójnie wybór
+
 
-  * otwieramy  *Ograniczenie żądań*  i na zakładce  *Mapowanie*  zaznaczamy 
-  * Plik
 
 
+
 
-  *  zatwierdzamy podwójnie wybór
 
 
 
+  * będąc w opcjach  *Mapowania obsługi*  dodajemy (menu po prawej) mapę skryptu
 
 
 
 
+  *  *ścieżka żądania* : *
+
 
+  *   *wykonywalny* : %windir%\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll
+
 
-  * będąc w opcjach  *Mapowania obsługi*  dodajemy (menu po prawej) mapę skryptu
+  * nazwa: Wildcard
+
 
+  * otwieramy  *ograniczenie żądań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa &quot; *Wywołaj obsługę tylko, jeśli....* &quot;
+
 
+  * zatwierdzamy podwójnie, na pytanie o ISAPI odpowiadamy twierdząco
+
 
 
-  *  *ścieżka żądania* : *
 
 
-  *   *wykonywalny* : %windir%\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll
 
 
-  * nazwa: Wildcard
+
 
 
-  * otwieramy  *ograniczenie żądań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa &quot; *Wywołaj obsługę tylko, jeśli....* &quot;
 
+  * będąc w opcjach  *Mapowania obsługi*  dodajemy (menu po prawej)  *mapę skryptu* 
 
-  * zatwierdzamy podwójnie, na pytanie o ISAPI odpowiadamy twierdząco
 
 
+  *  *ścieżka żądania* : *.html
+
 
+  *  *wykonywalny* : %windir%\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll
+
 
+  *  *nazwa* : HTML VIRTUAL
+
 
+  * otwieramy  *ograniczenie zadań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa  *Wywołaj obsługę tylko, jeśli....* 
+
 
+  * w tym samym oknie na zakładce  *Zlecenia*  zaznaczmy  *Jedno z następujących zleceń*  i wpisujemy:  *GET,HEAD,POST,DEBUG* 
+
 
+  * zatwierdzamy podwójnie, na pytanie o ISAPI odpowiadamy twierdząco
+
 
 
 
 
-  * będąc w opcjach  *Mapowania obsługi*  dodajemy (menu po prawej)  *mapę skryptu* 
 
+
 
 
-  *  *ścieżka żądania* : *.html
 
 
-  *  *wykonywalny* : %windir%\Microsoft.NET\Framework\v2.0.50727\aspnet_isapi.dll
+  * będąc w opcjach  *Mapowania obsługi*  zaznaczmy (w menu po prawej) opcję  *Wyświetl listę uporządkowaną* 
 
 
-  *  *nazwa* : HTML VIRTUAL
 
 
-  * otwieramy  *ograniczenie zadań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa  *Wywołaj obsługę tylko, jeśli....* 
+  * za pomocą opcji  *Przenieś w dól/górę*  przenosimy  *Wildcard*  tak, aby znajdował się pod  *StaticFile* 
+
 
+  * przenosimy  *HTML VIRTUAL*  tak, aby znajdował się pod  *ASPClassic* 
+
 
-  * w tym samym oknie na zakładce  *Zlecenia*  zaznaczmy  *Jedno z następujących zleceń*  i wpisujemy:  *GET,HEAD,POST,DEBUG* 
+  * 
+
 
 
-  * zatwierdzamy podwójnie, na pytanie o ISAPI odpowiadamy twierdząco
 
 
 
+
 
 
 
+  * w drzewku po lewej zaznaczamy naszą witrynę i w menu po prawej zaznaczamy  *Ustawienia zaawansowane* 
 
 
 
+  * w opcji  *Pula aplikacji*  wybieramy  *Classic .NET AppPool* 
+
 
 
-  * będąc w opcjach  *Mapowania obsługi*  zaznaczmy (w menu po prawej) opcję  *Wyświetl listę uporządkowaną* 
 
 
 
-
-  * za pomocą opcji  *Przenieś w dól/górę*  przenosimy  *Wildcard*  tak, aby znajdował się pod  *StaticFile* 
-
-
-  * przenosimy  *HTML VIRTUAL*  tak, aby znajdował się pod  *ASPClassic* 
-
-
-  * 
-
-
-
-
-
-
-
-
-
-
-  * w drzewku po lewej zaznaczamy naszą witrynę i w menu po prawej zaznaczamy  *Ustawienia zaawansowane* 
-
-
-
-  * w opcji  *Pula aplikacji*  wybieramy  *Classic .NET AppPool* 
-
-
-
-
-
-
-
+
 
 
 

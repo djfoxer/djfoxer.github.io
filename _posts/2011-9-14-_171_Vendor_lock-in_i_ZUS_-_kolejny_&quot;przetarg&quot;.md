@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
-date:       2011-09-14 23:45:00
-summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów:...
-categories: inne
----
+﻿---layout:     post
+title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
+date:       2011-09-14 23:45:00
+summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów:...
+categories: inne
+---
 
 
-
+
  *Vendor lock-in* 
 
 Czym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. 
@@ -35,9 +34,9 @@ ZUS jest typowym przykładem instytucji, która uzależniła się od jednego dos
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2011-9-14-_171_/g_-_608x405_-_-_27787x20110914185119_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-14-_171_/g_-_608x405_-_-_27787x20110914185119_1.jpg
 
- 
+ 
 
  *Nowy &quot;przetarg&quot; w ZUSie* 
 
@@ -55,9 +54,9 @@ Microsoft Windows 7, lub równoważny*, w wersji umożliwiającej, zgodnie z zap
 
 
 
-## 17. Oprogramowanie dodatkowe
+## 17. Oprogramowanie dodatkowe
 
-
+
 
 
 Komplet sterowników do systemu operacyjnego zainstalowanego na stacji roboczej dla wszystkich elementów wymagających sterowników, wchodzących w skład urządzenia, dołączony na nośniku optycznym. Sterowniki powinny być kompatybilne z posiadaną przez Zamawiającego platformą Windows dla wersji 32 i 64 bitowych XP/Windows 7. Oprogramowanie do nagrywania płyt CD/DVD.
@@ -108,9 +107,9 @@ Warunki przetargu nie pozostawiają złudzeń. Oprogramowanie z Rdmond zawita w 
 
 
 
-## Powiązane
+## Powiązane
 
-
+
 
 
 
@@ -132,3 +131,4 @@ Warunki przetargu nie pozostawiają złudzeń. Oprogramowanie z Rdmond zawita w 
 [http://www.aba.krakow.pl/Download/Artykuly/locked_in.pdf - Tomasz Barbaszewski: Uzależnienie od dostawcy(Vendor Lock-In) - czym grozi i jak mu zapobiec?](http://www.aba.krakow.pl/Download/Artykuly/locked_in.pdf)
 
 
+)

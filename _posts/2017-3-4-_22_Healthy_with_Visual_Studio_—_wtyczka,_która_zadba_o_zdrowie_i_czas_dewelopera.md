@@ -1,13 +1,12 @@
-﻿---
-layout:     post
-title:      Healthy with Visual Studio — wtyczka, która zadba o zdrowie i czas dewelopera
-date:       2017-03-04 19:35:00
-summary:    Kolejny wpis związany z konkursem Daj Się Poznać 2017. Dzisiejszym tematem będzie ogólny zarys projektu, z jakim będę startował w tej edycji.W tym roku postanowiłem skupić się na zapoznaniu się z odnogą technologii .NET, która nie jest bardzo eksploatowana we wpisach blogowych. Mowa jest o tworzeniu...
-categories: windows oprogramowanie programowanie
----
+﻿---layout:     post
+title:      Healthy with Visual Studio — wtyczka, która zadba o zdrowie i czas dewelopera
+date:       2017-03-04 19:35:00
+summary:    Kolejny wpis związany z konkursem Daj Się Poznać 2017. Dzisiejszym tematem będzie ogólny zarys projektu, z jakim będę startował w tej edycji.W tym roku postanowiłem skupić się na zapoznaniu się z odnogą technologii .NET, która nie jest bardzo eksploatowana we wpisach blogowych. Mowa jest o tworzeniu...
+categories: windows oprogramowanie programowanie
+---
 
 
-
+
 Kolejny wpis związany z konkursem [Daj Się Poznać 2017](https://www.dobreprogramy.pl/djfoxer/Daj-Sie-Poznac-2017-kolejna-edycja-konkursu-rozpoczeta,79513.html). Dzisiejszym tematem będzie ogólny zarys projektu, z jakim będę startował w tej edycji.
 
 W tym roku postanowiłem skupić się na zapoznaniu się z odnogą  *technologii*  .NET, która nie jest bardzo eksploatowana we wpisach blogowych. Mowa jest o tworzeniu wtyczek, rozszerzeń do Visual Studio. 
@@ -16,30 +15,30 @@ W tym roku postanowiłem skupić się na zapoznaniu się z odnogą  *technologii
 
 
 
-## Napiszmy rozszerzenie do Visual Studio
+## Napiszmy rozszerzenie do Visual Studio
 
-
+
 
 Stworzenie rozszerzenia do jednego z najlepszych IDE od Microsoftu jest również pewnym wyzwaniem. Przyznaję, że zupełnie nie miałem do czynienia z tematem projektowania rozszerzeń do Visual Studio. Będę zatem przedstawiał nie tylko sposób tworzenia własnej wtyczki, ale również opisywał ogólne założenia i podstawy podstaw w tym temacie.
 
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304160819_0.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304160819_0.png
+
+
 
 
 
+## Zdrowa praca przy komputerze
 
-
-## Zdrowa praca przy komputerze
-
-
+
 Nasza praca przy komputerze jest dla wielu z nas przyjemna i satysfakcjonująca. Zapewne nie tylko ja mam tak, że jestem w stanie wkręcić się w temat jaki koduję/analizuję bardzo mocno. Jednocześnie zapominając o przerwie, o chwili odpoczynku od monitora i odejściu od komputera. 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304161535_0.jpeg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304161535_0.jpeg
-
-
+
 
 Z tego też powodu, 6 lat temu (!!), stworzyłem krótką [serię wpisów](https://www.dobreprogramy.pl/djfoxer/Zdrowa-praca-przy-komputerze,s309.html) odnośnie zdrowej pracy przy komputerze. Zachęcam do przejrzenia tych tekstów. Znajdziemy w nich zarówno aplikacje do wymuszania przerw i ćwiczeń, program do monitorowania jasności obrazu monitora, jak i opis Powerballa, jako gadżetu do walki z zespołem cieśni nadgarstka. Do dziś dzień nie wyobrażam sobie pracy bez f.luxa i Workrave&#39;a. 
 
@@ -47,16 +46,16 @@ Ostatnio znajomy, startujący również w konkursie - [duszekmestre](https://dus
 
 
 
-## Healthy with Visual Studio
+## Healthy with Visual Studio
 
-
+
 Postanowiłem połączyć z sobą wcześniejsze wpisy o zdrowiej pracy przy komputerze, z chęcią stworzenia wtyczki do Visual Studio. W ten sposób powstał pomysł na rozszerzenie do IDE od Microsoftu do monitorowania naszej pracy, pomocy w robieniu przerw, a także do planowania czasu spędzonego przy programowaniu. 
 
+)
 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304161838_0.jpeg
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2017-3-4-_22_/g_-_608x405_-_-_79587x20170304161838_0.jpeg
-
-
+
 
 Jesteśmy często tak pochłonięci zadaniem, że zapominamy o robieniu przerw i prostych ćwiczeń podczas pracy. Nawet wyjście do toalety może być rodzajem relaksu i ćwiczeniem jednocześnie :)
 
@@ -70,3 +69,4 @@ W pierwszej kolejności przedstawię skrótowo technikę Pomodoro, a także kilk
 
 
 
+)

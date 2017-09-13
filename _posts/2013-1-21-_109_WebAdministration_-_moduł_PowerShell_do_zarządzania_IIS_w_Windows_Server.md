@@ -1,100 +1,99 @@
-﻿---
-layout:     post
-title:      WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server
-date:       2013-01-21 18:07:00
-summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia ...
-categories: windows porady serwery
----
+﻿---layout:     post
+title:      WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server
+date:       2013-01-21 18:07:00
+summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia ...
+categories: windows porady serwery
+---
 
 
-
+
 Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd ([AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server](http://www.dobreprogramy.pl/djfoxer/AppCmd-zarzadzanie-IIS-z-wiersza-polecen-w-Windows-Server,38643.html)). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia zaś moduł WebAdministration w PowerShellu. Dzięki niemu można również kontrolować działanie IISa, ale z jeszcze większymi możliwościami konfiguracji dzięki temu co oferuje PS.
 
 
 
 
-## Przygotowanie do pracy
+## Przygotowanie do pracy
 
-
+
 Aby móc zacząć pracę należy uruchomić PowerShella na prawach administratora. Aby załadować omawiany moduł wpisujemy:
 
 
-```ps
-Import-Module WebAdministration
-```
-
+```ps
+Import-Module WebAdministration
+```
+
 
 Jeśli nie chcemy za każdym razem ładować modułu w PowerShellu, wystarczy, iż utworzymy następujący skrót (oczywiście uruchamiany z prawami administratora):
 
 
-```ps
-%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -command &quot;import-module webadministration&quot;
-```
-
+```ps
+%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -command &quot;import-module webadministration&quot;
+```
+
 
 Podczas tworzenia skryptów warto jednak używać Windows PowerShell ISE (Integrated Scripting Environment). Uprzyjemnia pracę w pisaniu dzięki zakładkom, debugowaniu, czy dynamicznemu intellisense. Znajdziemy go w :  *%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell_ise.exe*  
 
 
-![desk](https://raw.githubusercontent.com/djfoer/djfoxer.github.io/master/_img/2013-1-21-_109_/g_-_608x405_-_-_38739x20130120224054_0.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-21-_109_/g_-_608x405_-_-_38739x20130120224054_0.png
 
-
+
 
 Dostępne polecenia znajdziemy szybko poprzez:
 
 
-```ps
-Get-Command -Module WebAdministration
-```
-
+```ps
+Get-Command -Module WebAdministration
+```
+
 
 Pomoc do każdego polecenia dostajemy wpisując:
 
-```ps
-Get-Help 
-```
-[/code]
+```ps
+Get-Help 
+```
+[/code]
 
 
 
-## Hierarchia
+## Hierarchia
 
-
+
 WebAdministration posiada hierarchę na wzór tego jak jest  w IIS:
 
 
-  * IIS
+  * IIS
 
 
 
-  * AppPools
+  * AppPools
 
 
-  * [MyAppPool]
+  * [MyAppPool]
 
 
-  * WorkerProcess
+  * WorkerProcess
+
 
 
+
 
 
+
+
+  * Sites
 
 
+  * [MySite]
+
 
 
-  * Sites
+
+
+  * SslBindings
+
 
 
-  * [MySite]
-
-
-
-
-
-  * SslBindings
-
-
-
-
+
 
 
 Każdy z elementów drzewa jest wirtualnym folderem. Działają zatem polecenia  *dir*  czy  *cd* .
@@ -105,56 +104,56 @@ Poleceń  modułu jest dokładnie 79 i w połączeniu ze składnią PowerShella 
 
 
 
-## Przykłady
+## Przykłady
+
+
 
 
 
+  * nowa witryna
+
 
 
-  * nowa witryna
-
-
-
-```ps
-New-Item IIS:\Sites\Test -bindings @{protocol=&quot;http&quot;;bindingInformation=&quot;:80:Test&quot;} -id 6 -physicalPath c:\PUB\d1
-```
-
+```ps
+New-Item IIS:\Sites\Test -bindings @{protocol=&quot;http&quot;;bindingInformation=&quot;:80:Test&quot;} -id 6 -physicalPath c:\PUB\d1
+```
+
 Wyjaśnienia wymaga zapewne użycie hash tabeli. Otóż ze względu na to, iż powiązania są w formie  *Klucz - Wartość* , taki sposób tworzenia jest bardziej uniwersalny i przyszłościowy (np. rozszerzenie poddrzewa  *binding*  o dodatkowe elementy).
 
-  * tworzenie aplikacji
+  * tworzenie aplikacji
+
 
 
-
-```ps
-New-Item &#39;IIS:\Sites\Test\a1&#39; -physicalPath c:\PUB\d\a1 -type Application
-```
-
-
-
-  * puli aplikacji 
+```ps
+New-Item &#39;IIS:\Sites\Test\a1&#39; -physicalPath c:\PUB\d\a1 -type Application
+```
+
 
 
-
-```ps
-New-Item AppPools\apool
-```
+  * puli aplikacji 
+
 
 
-  * przypisanie pula aplikacji 
+```ps
+New-Item AppPools\apool
+```
+
 
+  * przypisanie pula aplikacji 
+
 
-```ps
-Set-ItemProperty IIS:\Sites\Test\a1 -name applicationPool -value apool
-```
+```ps
+Set-ItemProperty IIS:\Sites\Test\a1 -name applicationPool -value apool
+```
+
 
-
-  * skrypt do zatrzymywania/uruchamiania witryn dostępnych w IIS
-
+  * skrypt do zatrzymywania/uruchamiania witryn dostępnych w IIS
+
 Aby pokazać jak dużo, w miarę niewielkim nakładem pracy, można zrobić w PowerShellu używając modułu do zarządzania IIS, stworzę przykładowy skrypt. Jego zadaniem będzie listowanie dostępnych witryn na IIS. Użytkownik będzie mógł podać, która witryna ma zostać zatrzymana/uruchomiona (skrypt sam zatrzyma uruchomioną witrynę i uruchomi już działającą). Poniżej zamieszczam skrypt z komentarzami:
 
 
-```ps
-Import-Module WebAdministration
+```ps
+Import-Module WebAdministration
 
 do {
     #Pobranie listy dostępnych witryn.
@@ -195,8 +194,8 @@ do {
 
     #Pobieramy wybraną witrynę po ID, a następnie uruchamiamy lub zatrzymujemy ją.
     $selected = $sites
-```
-
+```
+
     if((Get-WebSite -name $selected).State -eq &quot;Stopped&quot;){
         Start-Website -name $selected
         Write-Host &quot;uruchomiono $($selected)&quot;
@@ -218,8 +217,8 @@ while (1)
 
 
 
-## Podsumowanie
+## Podsumowanie
 
+
 
-
-Moduł WebAdministration do PowerShella, to kolejny po [AppCmd](http://www.dobreprogramy.pl/djfoxer/AppCmd-zarzadzanie-IIS-z-wiersza-polecen-w-Windows-Server,38643.html) sposób na zarządzanie IIS bez użycia GUI. Duże możliwości jakie oferuje PS sprawiają, iż jest to wyśmienite narzędzie do tworzenia zarówno prostych jak i zaawansowanych skryptów z modułem WebAdministration.
+Moduł WebAdministration do PowerShella, to kolejny po [AppCmd](http://www.dobreprogramy.pl/djfoxer/AppCmd-zarzadzanie-IIS-z-wiersza-polecen-w-Windows-Server,38643.html) sposób na zarządzanie IIS bez użycia GUI. Duże możliwości jakie oferuje PS sprawiają, iż jest to wyśmienite narzędzie do tworzenia zarówno prostych jak i zaawansowanych skryptów z modułem WebAdministration.)
