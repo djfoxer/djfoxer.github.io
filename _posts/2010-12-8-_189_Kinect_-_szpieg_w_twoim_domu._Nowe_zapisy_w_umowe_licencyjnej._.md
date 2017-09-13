@@ -2,7 +2,7 @@
 layout:     post
 title:      Kinect - szpieg w twoim domu. Nowe zapisy w umowe licencyjnej. 
 date:       2010-12-08 23:37:00
-summary:    "Wiedza cię wybiera, niewiedza gubi."Czy instalując jakąś aplikację czytacie umowę licencyjna zawarta w instalatorze?Wątpię :) Podobnie jest z instrukcjami obsługi. A potem czekają nas niemiłe niespodzianki. Rys. 1. Przykład umowy licencyjnej ;)W przypadku Microsoftu, jest jeszcze ciekawiej. Bo o il...
+summary:    "Wiedza cię wybiera, niewiedza gubi."Czy instalując jakąś aplikację czytacie umowę licencyjna zawarta w instalatorze?Wątpię  — ) Podobnie jest z instrukcjami obsługi. A potem czekają nas niemiłe niespodzianki. Rys. 1. Przykład umowy licencyjnej ;)W przypadku Microsoftu, jest jeszcze ciekawiej. Bo o il...
 categories: hobby inne
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      The Humble Indie Bundle 3
 date:       2011-08-02 23:25:00
-summary:    The Humble (Indie) Bundle ? W dużym skrócie czym jest The Humble (Indie) Bundle:- kupujesz paczkę gier za tyle ile chcesz! (dowolna kwota większa od $0 )- gry nie mają żadnych zabezpieczeń- brak limitów pobrań- pieniądze idą na cele charytatywne lub do developerów (sam ustalasz jaka część kwoty pójd...
+summary:    The Humble (Indie) Bundle ? W dużym skrócie czym jest The Humble (Indie) Bundle — - kupujesz paczkę gier za tyle ile chcesz! (dowolna kwota większa od $0 )- gry nie mają żadnych zabezpieczeń- brak limitów pobrań- pieniądze idą na cele charytatywne lub do developerów (sam ustalasz jaka część kwoty pójd...
 categories: windows linux gry
 ---
 

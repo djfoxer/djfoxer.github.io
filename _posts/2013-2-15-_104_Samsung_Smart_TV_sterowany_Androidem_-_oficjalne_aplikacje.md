@@ -2,7 +2,7 @@
 layout:     post
 title:      Samsung Smart TV sterowany Androidem - oficjalne aplikacje
 date:       2013-02-15 21:39:00
-summary:    Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie: Samsung Smart TV seria 8. 46" - domowe centrum rozrywki). Ale to nie wszystko! Otóż mając smartfon można również i nim...
+summary:    Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie —  Samsung Smart TV seria 8. 46" - domowe centrum rozrywki). Ale to nie wszystko! Otóż mając smartfon można również i nim...
 categories: sprzęt porady urządzenia mobilne
 ---
 

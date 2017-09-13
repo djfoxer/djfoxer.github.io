@@ -2,7 +2,7 @@
 layout:     post
 title:      Osobisty test pendrive&#39;ów
 date:       2011-08-29 21:47:00
-summary:    Ile pendrive'ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szy...
+summary:    Ile pendrive'ów ma każdy z nas w domu?  — ) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szy...
 categories: sprzęt porady inne
 ---
 

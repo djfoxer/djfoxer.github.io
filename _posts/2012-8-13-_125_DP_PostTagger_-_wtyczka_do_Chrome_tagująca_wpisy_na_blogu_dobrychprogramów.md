@@ -2,7 +2,7 @@
 layout:     post
 title:      DP PostTagger - wtyczka do Chrome tagująca wpisy na blogu dobrychprogramów
 date:       2012-08-13 18:13:00
-summary:    Oto jest, długo oczekiwana (czyż, nie?) wtyczka do Chrome, która taguje wpisy, oczekujące do wejścia na stronę główną.Czym jest DP PostTagger i jak działa?DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer © 2012 :P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdza ona...
+summary:    Oto jest, długo oczekiwana (czyż, nie?) wtyczka do Chrome, która taguje wpisy, oczekujące do wejścia na stronę główną.Czym jest DP PostTagger i jak działa?DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer © 2012  — P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdza ona...
 categories: oprogramowanie internet porady
 ---
 

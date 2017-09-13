@@ -2,7 +2,7 @@
 layout:     post
 title:      Daj Się Poznać 2017 — kolejna edycja konkursu rozpoczęta
 date:       2017-03-01 20:16:00
-summary:    Przyszedł marzec, a wraz z nim kolejna edycja programistycznego konkursu Daj Się Poznać 2017. Każdy kto koduje i chce podjąć wyzwanie, powinien jak najszybciej zgłosić się do omawianego współzawodnictwa wśród deweloperskiej braci :) Daj Się Poznać 2017Czym jest ów konkurs? To nie lada wyzwania dla k...
+summary:    Przyszedł marzec, a wraz z nim kolejna edycja programistycznego konkursu Daj Się Poznać 2017. Każdy kto koduje i chce podjąć wyzwanie, powinien jak najszybciej zgłosić się do omawianego współzawodnictwa wśród deweloperskiej braci  — ) Daj Się Poznać 2017Czym jest ów konkurs? To nie lada wyzwania dla k...
 categories: porady programowanie hobby
 ---
 

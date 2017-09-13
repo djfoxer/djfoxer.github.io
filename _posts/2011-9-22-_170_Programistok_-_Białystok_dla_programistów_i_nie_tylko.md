@@ -2,7 +2,7 @@
 layout:     post
 title:      Programistok - Białystok dla programistów i nie tylko
 date:       2011-09-22 10:16:00
-summary:    W Białymstoku powstała bardzo ciekawa inicjatywa promująca nowe technologie i trendy w programowaniu - Programistok. (Programistok na Facebooku: http://www.facebook.com/pages/Programistok/237808102923666)Cykliczne spotkania będą omawiać m.in. programowanie na urządzenia mobilne, testowanie aplikacji...
+summary:    W Białymstoku powstała bardzo ciekawa inicjatywa promująca nowe technologie i trendy w programowaniu - Programistok. (Programistok na Facebooku —  http — //www.facebook.com/pages/Programistok/237808102923666)Cykliczne spotkania będą omawiać m.in. programowanie na urządzenia mobilne, testowanie aplikacji...
 categories: windows linux programowanie
 ---
 

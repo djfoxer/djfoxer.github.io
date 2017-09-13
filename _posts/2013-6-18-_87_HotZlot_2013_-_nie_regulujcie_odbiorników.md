@@ -2,7 +2,7 @@
 layout:     post
 title:      HotZlot 2013 - nie regulujcie odbiorników
 date:       2013-06-18 22:26:00
-summary:    HotZlot 2013 już za około miesiąc. Wszyscy zapewne czekają na zaproszenia i rejestrację. Redakcja skutecznie odwraca naszą uwagę od HotZlotu konkursem związanym z Office 365, ale my wiemy, że coś się szykuje ;) Pod adresem http://2013.hotzlot.pl/ znajduje się niby niewiele, ot niewinny błąd:Szybki r...
+summary:    HotZlot 2013 już za około miesiąc. Wszyscy zapewne czekają na zaproszenia i rejestrację. Redakcja skutecznie odwraca naszą uwagę od HotZlotu konkursem związanym z Office 365, ale my wiemy, że coś się szykuje ;) Pod adresem http — //2013.hotzlot.pl/ znajduje się niby niewiele, ot niewinny błąd — Szybki r...
 categories: inne
 ---
 

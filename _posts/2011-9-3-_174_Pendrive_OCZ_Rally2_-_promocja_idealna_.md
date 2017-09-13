@@ -2,7 +2,7 @@
 layout:     post
 title:      Pendrive OCZ Rally2 - promocja idealna?
 date:       2011-09-03 12:45:00
-summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało "odkryte" (CSI:DobreProgramy :P) przypadkiem, przy wcześniejszym wpisie: "Osobisty test pendrive'ów". W skrócie: test 6 pendive'ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.Był tam równie...
+summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało "odkryte" (CSI — DobreProgramy  — P) przypadkiem, przy wcześniejszym wpisie —  "Osobisty test pendrive'ów". W skrócie —  test 6 pendive'ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.Był tam równie...
 categories: sprzęt porady inne
 ---
 

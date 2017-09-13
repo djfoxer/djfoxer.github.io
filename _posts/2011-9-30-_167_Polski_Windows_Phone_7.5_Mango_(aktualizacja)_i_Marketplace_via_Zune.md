@@ -2,7 +2,7 @@
 layout:     post
 title:      Polski Windows Phone 7.5 Mango (aktualizacja) i Marketplace via Zune
 date:       2011-09-30 07:55:00
-summary:    Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku:http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-upd... W tym malutkim wpisie pragnę przedstawić:1. Jak zaktuali...
+summary:    Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku — http — //answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-upd... W tym malutkim wpisie pragnę przedstawić — 1. Jak zaktuali...
 categories: windows sprzęt urządzenia mobilne
 ---
 

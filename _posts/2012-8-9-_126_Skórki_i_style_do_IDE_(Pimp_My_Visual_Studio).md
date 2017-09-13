@@ -2,7 +2,7 @@
 layout:     post
 title:      Skórki i style do IDE (Pimp My Visual Studio)
 date:       2012-08-09 16:57:00
-summary:    Oto kolejny wpis z wakacyjnej serii: "Pimp My Visual Studio". Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!Dark VS L...
+summary:    Oto kolejny wpis z wakacyjnej serii —  "Pimp My Visual Studio". Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!Dark VS L...
 categories: windows porady programowanie
 ---
 

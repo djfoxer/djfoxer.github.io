@@ -2,7 +2,7 @@
 layout:     post
 title:      Hakujemy Visual Studio — dobieramy się do niedostępnych elementów IDE
 date:       2017-03-27 18:26:00
-summary:    API udostępnione przez SDK do Visual Studio pozwala na olbrzymie zmiany w IDE. Niestety nie zawsze to co chcemy zrobić jest możliwe w oficjalny sposób. W tym wpisie przedstawię sposób na modyfikowanie elementów interfejsu Visual Studio, które nie są możliwe poprzez API. Będziemy hakowali Visuala :)A...
+summary:    API udostępnione przez SDK do Visual Studio pozwala na olbrzymie zmiany w IDE. Niestety nie zawsze to co chcemy zrobić jest możliwe w oficjalny sposób. W tym wpisie przedstawię sposób na modyfikowanie elementów interfejsu Visual Studio, które nie są możliwe poprzez API. Będziemy hakowali Visuala  — )A...
 categories: windows oprogramowanie programowanie
 ---
 

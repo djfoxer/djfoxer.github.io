@@ -2,7 +2,7 @@
 layout:     post
 title:      ZTE Grand X IN - zaskakuje już na samym początku
 date:       2013-04-10 22:34:00
-summary:    Nie lubię wpisów z kategorii "pierwsze wrażenia", chyba jednak zrobię wyjątek (ale tytułu takiego nie dam :P ). Muszę przyznać, że smartfon od ZTE z procesorem Intela zaskakuje od początku! Poniższe uwagi są luźnymi spostrzeżeniami jakie nasuwają się w pierwszym kontakcie z tym, jakże ciekawym, mode...
+summary:    Nie lubię wpisów z kategorii "pierwsze wrażenia", chyba jednak zrobię wyjątek (ale tytułu takiego nie dam  — P ). Muszę przyznać, że smartfon od ZTE z procesorem Intela zaskakuje od początku! Poniższe uwagi są luźnymi spostrzeżeniami jakie nasuwają się w pierwszym kontakcie z tym, jakże ciekawym, mode...
 categories: urządzenia mobilne
 ---
 

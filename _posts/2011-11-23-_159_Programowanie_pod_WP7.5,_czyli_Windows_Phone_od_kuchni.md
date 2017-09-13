@@ -2,7 +2,7 @@
 layout:     post
 title:      Programowanie pod WP7.5, czyli Windows Phone od kuchni
 date:       2011-11-23 23:14:00
-summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć" :P i napisać coś własnego na Windows Phone 7.5. Od razu napisz...
+summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć"  — P i napisać coś własnego na Windows Phone 7.5. Od razu napisz...
 categories: windows programowanie urządzenia mobilne
 ---
 

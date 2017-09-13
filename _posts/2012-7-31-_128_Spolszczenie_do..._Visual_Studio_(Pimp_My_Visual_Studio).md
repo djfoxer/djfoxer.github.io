@@ -2,7 +2,7 @@
 layout:     post
 title:      Spolszczenie do... Visual Studio (Pimp My Visual Studio)
 date:       2012-07-31 12:00:00
-summary:    Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. "Pimp My Visual Studio". Cóż będzie w nich? Otóż wiele narzędzi, porad, jak "odpicować" Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze: spolszczeniu do Visual Studio. Zapraszam.Polskie wersje języko...
+summary:    Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. "Pimp My Visual Studio". Cóż będzie w nich? Otóż wiele narzędzi, porad, jak "odpicować" Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze —  spolszczeniu do Visual Studio. Zapraszam.Polskie wersje języko...
 categories: windows porady programowanie
 ---
 

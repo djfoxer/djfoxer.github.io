@@ -2,7 +2,7 @@
 layout:     post
 title:      Unique WAU Elastomer — recenzja fotela komputerowego
 date:       2016-06-08 17:27:00
-summary:    Na blogu wiele osób rozpisuje się odnośnie monitorów, procesorów, oprogramowania itp. Komfort pracy wynika z odpowiedniego  doboru myszki, klawiatury czy ergonomicznej podkładki. Często jednak zapominamy o najważniejszym elemencie obcowania z komputerem: wygodnym fotelu.Kupno fotela/krzesła do kompu...
+summary:    Na blogu wiele osób rozpisuje się odnośnie monitorów, procesorów, oprogramowania itp. Komfort pracy wynika z odpowiedniego  doboru myszki, klawiatury czy ergonomicznej podkładki. Często jednak zapominamy o najważniejszym elemencie obcowania z komputerem —  wygodnym fotelu.Kupno fotela/krzesła do kompu...
 categories: sprzęt porady inne
 ---
 

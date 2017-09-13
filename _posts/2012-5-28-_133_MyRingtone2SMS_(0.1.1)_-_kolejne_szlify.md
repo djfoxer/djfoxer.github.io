@@ -2,7 +2,7 @@
 layout:     post
 title:      MyRingtone2SMS (0.1.1) - kolejne szlify
 date:       2012-05-28 23:42:00
-summary:    Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone: MyRingtone2SMS. Pomimo "zapracowanych dni" na juwenaliach :P udało mi się stworzyć kolejną wersję, już bardziej doszlifowaną, z kilkoma bardzo ciekawymi opcjami.Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplika...
+summary:    Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone —  MyRingtone2SMS. Pomimo "zapracowanych dni" na juwenaliach  — P udało mi się stworzyć kolejną wersję, już bardziej doszlifowaną, z kilkoma bardzo ciekawymi opcjami.Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplika...
 categories: oprogramowanie programowanie urządzenia mobilne
 ---
 

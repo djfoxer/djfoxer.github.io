@@ -2,7 +2,7 @@
 layout:     post
 title:      Dysk SSD z Windows - konfiguracja
 date:       2011-11-10 20:37:00
-summary:    Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie "bloger kwartału" i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja :) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłużyć na wyróż...
+summary:    Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie "bloger kwartału" i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja  — ) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłużyć na wyróż...
 categories: windows sprzęt porady
 ---
 

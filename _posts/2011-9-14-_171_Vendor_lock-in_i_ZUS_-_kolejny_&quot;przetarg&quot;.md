@@ -2,7 +2,7 @@
 layout:     post
 title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
 date:       2011-09-14 23:45:00
-summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów:...
+summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów — ...
 categories: inne
 ---
 

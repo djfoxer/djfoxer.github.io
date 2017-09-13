@@ -2,7 +2,7 @@
 layout:     post
 title:      Orange zapomniał o moim Orange
 date:       2013-09-07 17:27:00
-summary:    Pewnego dnia, po rozmowie z konsultantem Orange, dostałem tuż po zakończonym połączeniu taki oto SMS:Teraz się dziwie, że w ogóle go przeczytałem, bo zazwyczaj ignoruje smsy od Orange. Jedynie o czym do mnie piszą to o wystawionej fakturze, a o imieninach to już nie pamiętają!Wracając do tematu. Szy...
+summary:    Pewnego dnia, po rozmowie z konsultantem Orange, dostałem tuż po zakończonym połączeniu taki oto SMS — Teraz się dziwie, że w ogóle go przeczytałem, bo zazwyczaj ignoruje smsy od Orange. Jedynie o czym do mnie piszą to o wystawionej fakturze, a o imieninach to już nie pamiętają!Wracając do tematu. Szy...
 categories: windows oprogramowanie urządzenia mobilne
 ---
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      Software Informer - panaceum na wszelkie bolączki
 date:       2010-11-12 15:50:00
-summary:    Update allKażdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki :P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawd...
+summary:    Update allKażdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki  — P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawd...
 categories: windows oprogramowanie porady
 ---
 

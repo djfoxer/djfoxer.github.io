@@ -2,7 +2,7 @@
 layout:     post
 title:      Zdrowa praca przy komputerze cz. 2 - Urządzenia wspomagające
 date:       2011-05-28 00:12:00
-summary:    Postanowiłem dodać, króciutki wpis o pewnym małym urządzeniu, które zakupiłem kilka lat temu, pod wpływem artykułu w gazecie (niech mają! :P) CD-ACTION. Recenzent zachwycał się kuleczką, którą kręcił w dłoni. Uznałem to za kolejny zbędny gadżet, aż do momentu, gdy uświadomiłem, sobie, iż jestem w gr...
+summary:    Postanowiłem dodać, króciutki wpis o pewnym małym urządzeniu, które zakupiłem kilka lat temu, pod wpływem artykułu w gazecie (niech mają!  — P) CD-ACTION. Recenzent zachwycał się kuleczką, którą kręcił w dłoni. Uznałem to za kolejny zbędny gadżet, aż do momentu, gdy uświadomiłem, sobie, iż jestem w gr...
 categories: windows oprogramowanie porady
 ---
 

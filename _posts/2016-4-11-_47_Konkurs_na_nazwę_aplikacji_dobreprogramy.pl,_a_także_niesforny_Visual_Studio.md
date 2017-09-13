@@ -2,7 +2,7 @@
 layout:     post
 title:      Konkurs na nazwę aplikacji dobreprogramy.pl, a także niesforny Visual Studio
 date:       2016-04-11 21:47:00
-summary:    Tworząc uniwersalną aplikację do powiadomień z portalu dobreprogramy natknąłem się na bardzo ciekawy problem.  Postanowiłem opisać ową przygody, a także zapytać Was o pomysł na nazwę aplikacji portalowej :)Na początku skupmy się jednak na ciekawym przypadku...Device cannot be foundW ostatnim czasie ...
+summary:    Tworząc uniwersalną aplikację do powiadomień z portalu dobreprogramy natknąłem się na bardzo ciekawy problem.  Postanowiłem opisać ową przygody, a także zapytać Was o pomysł na nazwę aplikacji portalowej  — )Na początku skupmy się jednak na ciekawym przypadku...Device cannot be foundW ostatnim czasie ...
 categories: windows programowanie urządzenia mobilne
 ---
 

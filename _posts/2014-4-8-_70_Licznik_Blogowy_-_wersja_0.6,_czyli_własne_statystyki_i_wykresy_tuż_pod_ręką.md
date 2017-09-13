@@ -2,7 +2,7 @@
 layout:     post
 title:      Licznik Blogowy - wersja 0.6, czyli własne statystyki i wykresy tuż pod ręką
 date:       2014-04-08 13:33:00
-summary:    Zapewne wielu z Was pamiętam, a może i używa:) , mojej wtyczki Licznik Blogowy do najpopularniejszych przeglądarek, skierowanej do blogerów na portalu dobreprogramy. Jeśli ktoś nie kojarzycie, to w skrócie: Licznik Blogowy to wtyczka do Chroma/Opery/Firefoxa. Za jej pomocą przejrzycie szybko pełne s...
+summary:    Zapewne wielu z Was pamiętam, a może i używa — ) , mojej wtyczki Licznik Blogowy do najpopularniejszych przeglądarek, skierowanej do blogerów na portalu dobreprogramy. Jeśli ktoś nie kojarzycie, to w skrócie —  Licznik Blogowy to wtyczka do Chroma/Opery/Firefoxa. Za jej pomocą przejrzycie szybko pełne s...
 categories: oprogramowanie porady inne
 ---
 

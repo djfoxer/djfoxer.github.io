@@ -2,7 +2,7 @@
 layout:     post
 title:      Zdrowa praca przy komputerze cz. 1 - Aplikacje wspomagające
 date:       2011-04-17 14:08:00
-summary:    Każdy z nas spędza przy komputerze pewien czas, prawie każdego dnia. Dla części jest to również narzędzie pracy. Często zapominamy, iż oprócz czystego biurka :) , należy zadbać o to by nie zaszkodzić sobie.W tym króciutkim, pierwszym wpisie o "Zdrowej pracy przy komputerze", chciałbym zacząć od zapr...
+summary:    Każdy z nas spędza przy komputerze pewien czas, prawie każdego dnia. Dla części jest to również narzędzie pracy. Często zapominamy, iż oprócz czystego biurka  — ) , należy zadbać o to by nie zaszkodzić sobie.W tym króciutkim, pierwszym wpisie o "Zdrowej pracy przy komputerze", chciałbym zacząć od zapr...
 categories: windows oprogramowanie porady
 ---
 
