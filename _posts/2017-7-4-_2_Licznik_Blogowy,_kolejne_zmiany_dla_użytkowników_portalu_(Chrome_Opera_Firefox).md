@@ -12,7 +12,7 @@ Licznik Blogowy to wtyczka dla każdego, kto odwiedza blogi na portalu dobreprog
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-7-4-_2_/g_-_608x405_-_-_81944x20170701154016_0.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-7-4-_2_/g_-_608x405_-_-_81944x20170701154016_0.png)
 
 
 
