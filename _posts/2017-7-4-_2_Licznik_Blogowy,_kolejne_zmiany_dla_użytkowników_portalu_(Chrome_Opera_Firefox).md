@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Licznik Blogowy, kolejne zmiany dla użytkowników portalu (Chrome/Opera/Firefox)
 date:       2017-07-04 16:25:00
