@@ -3,7 +3,7 @@ layout:     post
 title:      UWP Community Toolkit — niezbędnik dewelopera Universal Windows Platform
 date:       2017-01-12 17:26:00
 summary:    Tworzenie aplikacji na najświeższą platformę Windows (Universal Windows Platform) nie powinno sprawiać dużych problemów nawet początkującym osobom w tym temacie. Warto jednak już od pierwszych kroków wyposażyć się w ciekawy zbiór bibliotek od Microsoftu, który uprzyjemni pracę w UWP. Zróżnicowany ze...
-categories: windows porady programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -102,45 +102,45 @@ Do metody należy dostarczyć taki oto XML:
 
 ```html
 
-&lt;toast launch=&quot;action=viewEvent&amp;amp;eventId=1983&quot; scenario=&quot;reminder&quot;&gt;
+<toast launch="action=viewEvent&amp;eventId=1983" scenario="reminder">
   
-  &lt;visual&gt;
-    &lt;binding template=&quot;ToastGeneric&quot;&gt;
-      &lt;text&gt;Adaptive Tiles Meeting&lt;/text&gt;
-      &lt;text&gt;Conf Room 2001 / Building 135&lt;/text&gt;
-      &lt;text&gt;10:00 AM - 10:30 AM&lt;/text&gt;
-    &lt;/binding&gt;
-  &lt;/visual&gt;
+  <visual>
+    <binding template="ToastGeneric">
+      <text>Adaptive Tiles Meeting</text>
+      <text>Conf Room 2001 / Building 135</text>
+      <text>10:00 AM - 10:30 AM</text>
+    </binding>
+  </visual>
 
-  &lt;actions&gt;
+  <actions>
     
-    &lt;input id=&quot;snoozeTime&quot; type=&quot;selection&quot; defaultInput=&quot;15&quot;&gt;
-      &lt;selection id=&quot;1&quot; content=&quot;1 minute&quot;/&gt;
-      &lt;selection id=&quot;15&quot; content=&quot;15 minutes&quot;/&gt;
-      &lt;selection id=&quot;60&quot; content=&quot;1 hour&quot;/&gt;
-      &lt;selection id=&quot;240&quot; content=&quot;4 hours&quot;/&gt;
-      &lt;selection id=&quot;1440&quot; content=&quot;1 day&quot;/&gt;
-    &lt;/input&gt;
+    <input id="snoozeTime" type="selection" defaultInput="15">
+      <selection id="1" content="1 minute"/>
+      <selection id="15" content="15 minutes"/>
+      <selection id="60" content="1 hour"/>
+      <selection id="240" content="4 hours"/>
+      <selection id="1440" content="1 day"/>
+    </input>
 
-    &lt;action
-      activationType=&quot;system&quot;
-      arguments=&quot;snooze&quot;
-      hint-inputId=&quot;snoozeTime&quot;
-      content=&quot;&quot;/&gt;
+    <action
+      activationType="system"
+      arguments="snooze"
+      hint-inputId="snoozeTime"
+      content=""/>
 
-    &lt;action
-      activationType=&quot;system&quot;
-      arguments=&quot;dismiss&quot;
-      content=&quot;&quot;/&gt;
+    <action
+      activationType="system"
+      arguments="dismiss"
+      content=""/>
     
-  &lt;/actions&gt;
+  </actions>
   
-&lt;/toast&gt;
+</toast>
 
 ```
 
 
-Niby nic wielkiego, ale musimy usiąść z dokumentacją i &quot;ręcznie&quot; stworzyć takiego XMLa, jednocześnie zapominając o intellisense czy walidacji błędów podczas pisania.
+Niby nic wielkiego, ale musimy usiąść z dokumentacją i "ręcznie" stworzyć takiego XMLa, jednocześnie zapominając o intellisense czy walidacji błędów podczas pisania.
 
 W tym przypadku z pomocą przyjdzie nam UWP Community Toolkit. Pakiet dostarczy odpowiednią strukturę klas, która będzie w stanie wygenerować na jej podstawie XMLa:
 
@@ -149,7 +149,7 @@ W tym przypadku z pomocą przyjdzie nam UWP Community Toolkit. Pakiet dostarczy 
 
 var xml = new ToastContent()
     {
-        Launch = &quot;action=viewEvent&amp;eventId=1983&quot;,
+        Launch = "action=viewEvent&eventId=1983",
         Scenario = ToastScenario.Reminder,
 
         Visual = new ToastVisual()
@@ -160,17 +160,17 @@ var xml = new ToastContent()
                 {
                     new AdaptiveText()
                     {
-                        Text = &quot;Adaptive Tiles Meeting&quot;
+                        Text = "Adaptive Tiles Meeting"
                     },
 
                     new AdaptiveText()
                     {
-                        Text = &quot;Conf Room 2001 / Building 135&quot;
+                        Text = "Conf Room 2001 / Building 135"
                     },
 
                     new AdaptiveText()
                     {
-                        Text = &quot;10:00 AM - 10:30 AM&quot;
+                        Text = "10:00 AM - 10:30 AM"
                     }
                 }
             }
@@ -180,16 +180,16 @@ var xml = new ToastContent()
         {
             Inputs =
             {
-                new ToastSelectionBox(&quot;snoozeTime&quot;)
+                new ToastSelectionBox("snoozeTime")
                 {
-                    DefaultSelectionBoxItemId = &quot;15&quot;,
+                    DefaultSelectionBoxItemId = "15",
                     Items =
                     {
-                        new ToastSelectionBoxItem(&quot;1&quot;, &quot;1 minute&quot;),
-                        new ToastSelectionBoxItem(&quot;15&quot;, &quot;15 minutes&quot;),
-                        new ToastSelectionBoxItem(&quot;60&quot;, &quot;1 hour&quot;),
-                        new ToastSelectionBoxItem(&quot;240&quot;, &quot;4 hours&quot;),
-                        new ToastSelectionBoxItem(&quot;1440&quot;, &quot;1 day&quot;)
+                        new ToastSelectionBoxItem("1", "1 minute"),
+                        new ToastSelectionBoxItem("15", "15 minutes"),
+                        new ToastSelectionBoxItem("60", "1 hour"),
+                        new ToastSelectionBoxItem("240", "4 hours"),
+                        new ToastSelectionBoxItem("1440", "1 day")
                     }
                 }
             },
@@ -198,7 +198,7 @@ var xml = new ToastContent()
             {
                 new ToastButtonSnooze()
                 {
-                    SelectionBoxId = &quot;snoozeTime&quot;
+                    SelectionBoxId = "snoozeTime"
                 },
 
                 new ToastButtonDismiss()

@@ -3,7 +3,7 @@ layout:     post
 title:      Nokia DC-16 - przenośnia ładowarka na USB
 date:       2013-06-03 15:56:00
 summary:    Baterie w smartfonach to najsłabsze ogniwo w naszych mobilnych urządzeniach. Pomimo coraz lepszych procesorów i większych wyświetlaczy, baterie nie zmieniły się zbytnio. Zwiększony pobór prądu skutkuje tym, iż na rynku pojawia się duża liczba przenośnych ładowarek, a niektórzy (jak mordzio) próbują ...
-categories: sprzęt porady urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -27,7 +27,7 @@ Baterie w smartfonach to najsłabsze ogniwo w naszych mobilnych urządzeniach. P
 
  
 
-Nokia DC-16 to świetnie wykonane urządzenie z twardego plastiku o wysokiej jakości. W oczy rzucają się różne dostępne kolory (na grafice brakuje jeszcze żółtego), które nawiązują do aktualnej strategii Nokii - wypuszczania kolorowych smartfonów. Kształtem przypomina cygaro i jest bardzo lekka (75 gram) i zgrabna. W pudełku dostajemy także krótki kabel USB - microUSB do ładowania baterii ładowarki/urządzenia mobilnego. Z jednej strony DC-16 mamy &quot;duże&quot; wejście USB, przez które ładujemy zewnętrzne urządzenie. Po drugiej stronie jest microUSB, do ładowania wewnętrznego akumulatorka. 
+Nokia DC-16 to świetnie wykonane urządzenie z twardego plastiku o wysokiej jakości. W oczy rzucają się różne dostępne kolory (na grafice brakuje jeszcze żółtego), które nawiązują do aktualnej strategii Nokii - wypuszczania kolorowych smartfonów. Kształtem przypomina cygaro i jest bardzo lekka (75 gram) i zgrabna. W pudełku dostajemy także krótki kabel USB - microUSB do ładowania baterii ładowarki/urządzenia mobilnego. Z jednej strony DC-16 mamy "duże" wejście USB, przez które ładujemy zewnętrzne urządzenie. Po drugiej stronie jest microUSB, do ładowania wewnętrznego akumulatorka. 
 
 
 
@@ -66,7 +66,7 @@ Akumulatorek można ładować zarówno z komputera, jak i z gniazdka. Szkoda, ż
 
 
 
-Gdy urządzenie się ładuje, diody będą migać, zaś po naładowaniu światło będzie świecić. Kiedy DC-16 &quot;rozładuje się&quot; wówczas pierwsza dioda zacznie migać. Co ważne, jeśli podłączymy jednocześnie ładowanie akumulatorków w ładowarce i urządzenie do doładowania - w pierwszej kolejności zostaną naładowane akumulatorki wewnętrzne, a później zacznie się ładowanie zewnętrznego urządzenia.
+Gdy urządzenie się ładuje, diody będą migać, zaś po naładowaniu światło będzie świecić. Kiedy DC-16 "rozładuje się" wówczas pierwsza dioda zacznie migać. Co ważne, jeśli podłączymy jednocześnie ładowanie akumulatorków w ładowarce i urządzenie do doładowania - w pierwszej kolejności zostaną naładowane akumulatorki wewnętrzne, a później zacznie się ładowanie zewnętrznego urządzenia.
 
 
 
@@ -136,7 +136,7 @@ Można zatem śmiało powiedzieć, że ładowarka Nokia DC-16 może maksymalnie 
 
 
 
-Cena katalogowa w sklepie Nokii wynosi ok. 100zł. Na szczęście można kupić DC-16 sporo taniej. W sklepach internetowych zapłacimy maksymalnie 70 zł. Na allegro spokojnie znajdziemy aukcje z ofertą &quot;kup teraz&quot; poniżej 50zł. To nie koniec niskich cen. Swego czasu Biedronka oferowała DC-16 w rewelacyjnej niskiej cenie 30zł, a szczęśliwcy mogli wygrać 200 ładowarek w cyklicznych konkursach Nokii dla Lumii z Windows Phone (dzięki czemu powstał ten wpis), o czym w następnym akapicie...
+Cena katalogowa w sklepie Nokii wynosi ok. 100zł. Na szczęście można kupić DC-16 sporo taniej. W sklepach internetowych zapłacimy maksymalnie 70 zł. Na allegro spokojnie znajdziemy aukcje z ofertą "kup teraz" poniżej 50zł. To nie koniec niskich cen. Swego czasu Biedronka oferowała DC-16 w rewelacyjnej niskiej cenie 30zł, a szczęśliwcy mogli wygrać 200 ładowarek w cyklicznych konkursach Nokii dla Lumii z Windows Phone (dzięki czemu powstał ten wpis), o czym w następnym akapicie...
 
 
 
@@ -175,4 +175,4 @@ Najciekawsze jest jednak to, iż będzie można wygrać te urządzenie w nadchod
 ### Podsumowanie
 
 
-Z czystym sumieniem mogę polecić ładowarkę Nokia DC-16. Świetny design, duża wytrzymałość i spora dawka &quot;energii&quot; w trasie, dla naszego smartfona, to największe plusy. Jeśli dodamy jeszcze do tego niską cenę, to dla osób, potrzebujących dodatkowym mAh w urządzeniach przenośnych, zakup DC-16 jest wręcz nieodzowny.
+Z czystym sumieniem mogę polecić ładowarkę Nokia DC-16. Świetny design, duża wytrzymałość i spora dawka "energii" w trasie, dla naszego smartfona, to największe plusy. Jeśli dodamy jeszcze do tego niską cenę, to dla osób, potrzebujących dodatkowym mAh w urządzeniach przenośnych, zakup DC-16 jest wręcz nieodzowny.

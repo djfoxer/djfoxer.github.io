@@ -2,29 +2,29 @@
 layout:     post
 title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
 date:       2010-11-02 11:59:00
-summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w &quot;zawodach&quot; co chwile musiały sprawdzać czy na stronie nie ma żółtej &quot;gwiazdeczki&quot;. To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnoś...
-categories: programowanie hobby inne
+summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w "zawodach" co chwile musiały sprawdzać czy na stronie nie ma żółtej "gwiazdeczki". To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez te...
+categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
 
 Dioda konkursowa - Intel królem marketingu
 
-Sam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w &quot;zawodach&quot; co chwile musiały sprawdzać czy na stronie nie ma żółtej &quot;gwiazdeczki&quot;. To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez ten miesiąc. 
+Sam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w "zawodach" co chwile musiały sprawdzać czy na stronie nie ma żółtej "gwiazdeczki". To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez ten miesiąc. 
 
 Mam nadzieje, że redakcja udostępni jakieś statystyki, odnośnie użytkowników biorących udział w konkursie i odwiedzin vortalu. A że popularność portalu wzrosła jest pewne. 
 
-W mojej pracy przed rozpoczęciem konkursu, większość osób korzystała z dp.pl jedynie w celu ściągania aplikacji. Od kiedy rozpoczął się konkurs, każdy wiedział co kryje się pod hasłem &quot;dioda&quot;, oraz część osób na bieżąco obserwowała rankingi na stronie i niektórzy nawet założyli konta i także czekali na diodkę. Było w tym wiele emocji, nerwów i niesłychanie dużo frajdy :P 
+W mojej pracy przed rozpoczęciem konkursu, większość osób korzystała z dp.pl jedynie w celu ściągania aplikacji. Od kiedy rozpoczął się konkurs, każdy wiedział co kryje się pod hasłem "dioda", oraz część osób na bieżąco obserwowała rankingi na stronie i niektórzy nawet założyli konta i także czekali na diodkę. Było w tym wiele emocji, nerwów i niesłychanie dużo frajdy :P 
 
 Pytania specjalne były naprawdę wciągające. Ale to co mnie zaskoczyło i również wciągnęło to pytania normalne, z 4 odpowiedziami. Mowa tu oczywiście o słynnym pytaniu:
 
  *Kiedy powstał pierwszy dostępny komercyjnie procesor Intela?
-Wtedy pojawił się na rynku pierwszy komputer osobisty z procesorem Intel&#174; 8088 (był to IMB PC).* 
+Wtedy pojawił się na rynku pierwszy komputer osobisty z procesorem Intel® 8088 (był to IMB PC).* 
 
-Dyskusja jaka wywiązała się po pojawieniu się pytania chyba zaskoczyła wszystkich. Większość z nas &quot;przekopała&quot; internet w poszukiwaniu danych odnośnie pierwszych procesorów Intela. Każdy przedstawiał swoje racje i obawy. To było coś niesamowitego. Szkoda, że konkurs już się skończył. Ale zostawił na pewno w nas bardzo miłe wspomnienia, czekamy na kontynuację! :) 
+Dyskusja jaka wywiązała się po pojawieniu się pytania chyba zaskoczyła wszystkich. Większość z nas "przekopała" internet w poszukiwaniu danych odnośnie pierwszych procesorów Intela. Każdy przedstawiał swoje racje i obawy. To było coś niesamowitego. Szkoda, że konkurs już się skończył. Ale zostawił na pewno w nas bardzo miłe wspomnienia, czekamy na kontynuację! :) 
 
 Ale nie zbaczajmy z tematu, to jeszcze nie czas na podsumowanie. Głównymi beneficjentami konkursu są oczywiści poszczególni użytkownicy, którzy wygrali nagrody. Ale również sam vortal dobreprogramy.pl no i oczywiście... INTEL. Reklamę jaką sobie zrobiła firma Intel jest wręcz bezcenna. Przez miesiąc logo była na stronie głównej dp.pl, każda z osób biorących udział w konkursie czekała na pytania związane z firmą Intel, świadomość związana z marką wzrosła niewątpliwe. 
-Przeliczmy wartość nagród (ceny z ceneo.pl, cena plecaka obliczona &quot;na oko&quot;:P):
+Przeliczmy wartość nagród (ceny z ceneo.pl, cena plecaka obliczona "na oko":P):
 
          1x   MSI Classic CR620-049XPL -  1x 2 145zł = 2 145zł
          3x   ASUS Eee PC 1001PX -          3x 1 059zł = 3 177zł
@@ -32,7 +32,7 @@ Przeliczmy wartość nagród (ceny z ceneo.pl, cena plecaka obliczona &quot;na o
 --------------------------------------------------------------------
                                                                                 9 822 zł
 
-Nie jestem tam jakimś marketingowcem, ale nie jest to chyba wygórowana wartość jak na miesięczny konkurs. Oczywiście pewnie firma Intel mogła dopłacić dla osób przygotowujących konkurs i &quot;wesprzeć&quot; dobreprogramy.pl Ale chyba popularność konkursu zaskoczyła wszystkich i przyniosła dla każdej ze stron wymierne korzyści. 
+Nie jestem tam jakimś marketingowcem, ale nie jest to chyba wygórowana wartość jak na miesięczny konkurs. Oczywiście pewnie firma Intel mogła dopłacić dla osób przygotowujących konkurs i "wesprzeć" dobreprogramy.pl Ale chyba popularność konkursu zaskoczyła wszystkich i przyniosła dla każdej ze stron wymierne korzyści. 
 
 Uffff, zaraz, miało być o wykrywaniu diody, a nie jakieś analizy konkursu:) Zatem do dzieła.
 
@@ -50,7 +50,7 @@ Pierwsze spojrzenie na diodę mogło mylnie sugerować, iż żółta dioda zapal
 
 [http://www.dobreprogramy.pl/App_Themes/Intel/images/dioda.swf](http://www.dobreprogramy.pl/App_Themes/Intel/images/dioda.swf)
 
-Jednakże już samo spojrzenie na sam plik swf, sugerowało, iż jest inaczej. Gdy pytanie konkursowe było aktywne, żółta dioda konkursowa była ustawiana jako tło i &quot;przykrywana&quot; plikiem swf który przyjmował kolor niebieski, lub był przezroczysty, co sprawiało, iż dioda migała na żółto. Ktoś w komentarzach, słusznie zauważył, iż dioda na stronie [http://konkurs.dobreprogramy.pl/](http://konkurs.dobreprogramy.pl/), gdy nie ma pytania miga na niebiesko. Oczywiście. Tło było niebieskie, a plik swf z niebieskim kolorem migał również niebieskim kolorem.
+Jednakże już samo spojrzenie na sam plik swf, sugerowało, iż jest inaczej. Gdy pytanie konkursowe było aktywne, żółta dioda konkursowa była ustawiana jako tło i "przykrywana" plikiem swf który przyjmował kolor niebieski, lub był przezroczysty, co sprawiało, iż dioda migała na żółto. Ktoś w komentarzach, słusznie zauważył, iż dioda na stronie [http://konkurs.dobreprogramy.pl/](http://konkurs.dobreprogramy.pl/), gdy nie ma pytania miga na niebiesko. Oczywiście. Tło było niebieskie, a plik swf z niebieskim kolorem migał również niebieskim kolorem.
 
 Następnie należało odkryć skąd jest brany kolor diody. Z pomocą przyszedł dodatek Firebug do Firefoxa, po jego uruchomieniu otrzymałem coś niezwykle pomocnego:
 
@@ -119,7 +119,7 @@ Link do web serwisu był również ciekawy:
 
  *http://www.dobreprogramy.pl/ContesstIsActive.ashx?q=20101009124534* 
 
-Query string zawierał ciąg znaków, który był &quot;losowy&quot;. Dzięki czemu na starszych przeglądarkach (np. IE6) obrazek zwracany z web serwisu nie był cacheowany.
+Query string zawierał ciąg znaków, który był "losowy". Dzięki czemu na starszych przeglądarkach (np. IE6) obrazek zwracany z web serwisu nie był cacheowany.
 Jednakże łatwo zauważamy, iż jest to aktualna data w formacie: 
 
  *ROKmiesiącDZIEŃgodzinaMINUTAsekunda* .
@@ -149,7 +149,7 @@ par.ColorB_To - składowa B pixela, granica górna
 ```
  
 
-Kod sprawdzający czy dioda się &quot;zapaliła&quot;:
+Kod sprawdzający czy dioda się "zapaliła":
 
 ```csharp
 
@@ -160,23 +160,21 @@ DateTime now = DateTime.Now;
 
 
                     WebClient wc = new WebClient();
-                    byte
-```
- data = wc.DownloadData(par.Url
-                        + &quot;?q=&quot;
-                        + now.Year.ToString(&quot;0000&quot;)
-                        + now.Month.ToString(&quot;00&quot;)
-                        + now.Day.ToString(&quot;00&quot;)
-                        + now.Hour.ToString(&quot;00&quot;)
-                        + now.Minute.ToString(&quot;00&quot;)
-                        + now.Second.ToString(&quot;00&quot;)
+                    byte[] data = wc.DownloadData(par.Url
+                        + "?q="
+                        + now.Year.ToString("0000")
+                        + now.Month.ToString("00")
+                        + now.Day.ToString("00")
+                        + now.Hour.ToString("00")
+                        + now.Minute.ToString("00")
+                        + now.Second.ToString("00")
                         );
 
                     Bitmap bitmap = new Bitmap(new MemoryStream(data));
 
                     Color c = bitmap.GetPixel(par.PixelX, par.PixelY);
 
-                    if (c.R &gt;= par.ColorR_From &amp;&amp; c.R = par.ColorG_From &amp;&amp; c.G = par.ColorB_From &amp;&amp; c.B = par.ColorR_From &amp;&amp; c.R = par.ColorG_From &amp;&amp; c.G = par.ColorB_From &amp;&amp; c.B &lt;= par.ColorB_To)
+                    if (c.R >= par.ColorR_From && c.R = par.ColorG_From && c.G = par.ColorB_From && c.B = par.ColorR_From && c.R = par.ColorG_From && c.G = par.ColorB_From && c.B <= par.ColorB_To)
                     {
                         return true;
                     }
@@ -186,7 +184,9 @@ DateTime now = DateTime.Now;
                     }
 }
 
-[/code]
+
+```
+
 
 Krótki opis:
 - metoda IsDiodeActive zwraca true/false z informacją czy dioda się zapaliła, czy nie
@@ -237,21 +237,21 @@ Zmieniony kod:
 public bool IsDiodeActive(Parametrs par)
 {
 WebClient wc = new WebClient();
-                    byte
-```
- dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
+                    byte[] dataHtml = wc.DownloadData("http://konkurs.dobreprogramy.pl/");
                     string plainHtml = Encoding.UTF8.GetString(dataHtml);
 
                     Point p = GetOffset(plainHtml);
 
-                    byte[] dataImg = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/ContestHandler.ashx?q=&quot; + GetQuery(plainHtml));
+                    byte[] dataImg = wc.DownloadData("http://konkurs.dobreprogramy.pl/ContestHandler.ashx?q=" + GetQuery(plainHtml));
 
                     Bitmap bitmap = new Bitmap(new MemoryStream(dataImg));
                     Color c = bitmap.GetPixel(par.PixelX + p.X, par.PixelY + p.Y);
 
 (... dalej jak w wersji 1.0 )
 }
-[/code]
+
+```
+
 
 Krótki opis:
 - zmiana była dość znacząca, teraz pobieramy cała stronę (http://konkurs.dobreprogramy.pl/, gdyż jest lżejsza niż http://dobreprogramy.pl)
@@ -265,7 +265,7 @@ Krótki opis:
  *Update - Dioda 2.5* 
 Bardzo znaczący update diody. Można powiedzieć, iż wersja 2.0 powinna od razu zawierać zmiany wprowadzone w wersji 2.5.
 
-W samej diodzie nic się nie zmieniło. Zmienił się tylko (lub aż), kod CSS ustawiający diodę. Prosty kod CSS (patrz rys. 3 (A)), został zamieniony na &quot;zamotany&quot; kod przedstawiony na rys. 3 (B).
+W samej diodzie nic się nie zmieniło. Zmienił się tylko (lub aż), kod CSS ustawiający diodę. Prosty kod CSS (patrz rys. 3 (A)), został zamieniony na "zamotany" kod przedstawiony na rys. 3 (B).
 
 Jednakże przyklejając go do Notepad++ szybko się orientujemy, że kod ten został tylko delikatnie obfuskowany, co widzimy na rys. 3 (C). Dodano komentarze, które zaciemniały kod. Mała zmian, ale dość pomysłowa :)
 
@@ -279,15 +279,13 @@ Zmieniony kod:
 public bool IsDiodeActive(Parametrs par)
 {
 WebClient wc = new WebClient();
-                    byte
-```
- dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
+                    byte[] dataHtml = wc.DownloadData("http://konkurs.dobreprogramy.pl/");
                     string plainHtml = Encoding.UTF8.GetString(dataHtml);
 
                     string[] values = GetDataFromHtml(plainHtml);
                     Point p = new Point(int.Parse(values[1]), int.Parse(values[2]));
 
-                    byte[] dataImg = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl&quot; + values[0]);
+                    byte[] dataImg = wc.DownloadData("http://konkurs.dobreprogramy.pl" + values[0]);
 
                     Bitmap bitmap = new Bitmap(new MemoryStream(dataImg));
 
@@ -295,7 +293,9 @@ WebClient wc = new WebClient();
 
 (... dalej jak w wersji 2.0 )
 }
-[/code]
+
+```
+
 
 Krótki opis:
 - nadal pobieramy kod html z http://konkurs.dobreprogramy.pl/

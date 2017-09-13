@@ -3,7 +3,7 @@ layout:     post
 title:      Wyskakujące powiadomienia w Windows 10 — aplikacja portalowa w UWP
 date:       2016-03-31 22:47:00
 summary:    Ostatnio pokazałem  pierwszą działającą wersję aplikacji w UWP (Universal Windows Platform), która posiadała logowanie i wyświetlała prosty, niesformatowany tekst powiadomień. W dzisiejszym wpisie przedstawię kolejne nowe rzeczy, jakie dodałem do programu.Toast notifications w Windows 10Microsoft w ...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -52,28 +52,28 @@ Zacznijmy zatem od szablonu XML, jaki będzie użyty w naszym przypadku. Na tę 
 
 XmlDocument toastXml = new XmlDocument();
 toastXml.LoadXml(
-    $@&quot;
-&lt;toast&gt;
-    &lt;visual&gt;
-        &lt;binding template=&#39;ToastGeneric&#39;&gt;
-            &lt;text&gt;&lt;/text&gt;
-            &lt;text&gt;&lt;/text&gt;
-            &lt;text&gt;&lt;/text&gt;
-            &lt;image placement=&#39;appLogoOverride&#39;&gt;&lt;/image&gt;
-        &lt;/binding&gt;
-    &lt;/visual&gt;
-    &lt;actions&gt;
-        &lt;action
-            content=&#39;pokaż&#39;
-            activationType=&#39;foreground&#39;
-            arguments=&#39;show&#39;/&gt;
+    $@"
+<toast>
+    <visual>
+        <binding template='ToastGeneric'>
+            <text></text>
+            <text></text>
+            <text></text>
+            <image placement='appLogoOverride'></image>
+        </binding>
+    </visual>
+    <actions>
+        <action
+            content='pokaż'
+            activationType='foreground'
+            arguments='show'/>
 
-        &lt;action
-            content=&#39;anuluj&#39;
-            activationType=&#39;foreground&#39;
-            arguments=&#39;hide&#39;/&gt;
-    &lt;/actions&gt;
-&lt;/toast&gt;&quot;
+        <action
+            content='anuluj'
+            activationType='foreground'
+            arguments='hide'/>
+    </actions>
+</toast>"
 );
 
 ```
@@ -91,28 +91,28 @@ ToastNotificationManager.GetTemplateContent(ToastTemplateType.ToastImageAndText0
 ```
 
 
-Nasz szablon składa się z trzech pól tekstowych (pierwsze będzie pogrubione) i grafiki. Obrazek posiada atrybut   *placement=&#39;appLogoOverride&#39;* , określa on w tym przypadku, iż będziemy nadpisywali ikonę w powiadomieniu (domyślną ikonę aplikacji) własną grafiką. Dwa przyciski action:  *pokaż*  i  *anuluj*  będą odpowiednio otwierały stronę www do przypisanego powiadomienia lub zamykały notyfikację (ewentualnie oznaczały powiadomienia jako przeczytane). Atrybut  *activationType*  z  *foreground*  określa, że akcje będą działały na uruchomionej aplikacji w głównym planie. Atrybuty  *arguments*  w przyciskach pozwolą na rozróżnienie w jaki element kliknęliśmy.
+Nasz szablon składa się z trzech pól tekstowych (pierwsze będzie pogrubione) i grafiki. Obrazek posiada atrybut   *placement='appLogoOverride'* , określa on w tym przypadku, iż będziemy nadpisywali ikonę w powiadomieniu (domyślną ikonę aplikacji) własną grafiką. Dwa przyciski action:  *pokaż*  i  *anuluj*  będą odpowiednio otwierały stronę www do przypisanego powiadomienia lub zamykały notyfikację (ewentualnie oznaczały powiadomienia jako przeczytane). Atrybut  *activationType*  z  *foreground*  określa, że akcje będą działały na uruchomionej aplikacji w głównym planie. Atrybuty  *arguments*  w przyciskach pozwolą na rozróżnienie w jaki element kliknęliśmy.
 
 Mając zatem zmienną  *notification* , która jest pojedynczym powiadomieniem, powyższy szablon uzupełniamy w następujący sposób:
 
 
 ```csharp
 
-XmlNodeList toastImageAttributes = toastXml.GetElementsByTagName(&quot;image&quot;);
-((XmlElement)toastImageAttributes
-```
-).SetAttribute(&quot;src&quot;, notification.Avatar);
-((XmlElement)toastImageAttributes[0]).SetAttribute(&quot;alt&quot;, &quot;img&quot;);
+XmlNodeList toastImageAttributes = toastXml.GetElementsByTagName("image");
+((XmlElement)toastImageAttributes[0]).SetAttribute("src", notification.Avatar);
+((XmlElement)toastImageAttributes[0]).SetAttribute("alt", "img");
 
-XmlNodeList toastTextAttributes = toastXml.GetElementsByTagName(&quot;text&quot;);
+XmlNodeList toastTextAttributes = toastXml.GetElementsByTagName("text");
 toastTextAttributes[0].InnerText = notification.Title;
 toastTextAttributes[1].InnerText = notification.AddedDate.
-                    ToString(&quot;dd.MM.yyyy HH:mm:ss&quot;, CultureInfo.InvariantCulture);
+                    ToString("dd.MM.yyyy HH:mm:ss", CultureInfo.InvariantCulture);
 toastTextAttributes[2].InnerText = notification.FullText;
 
-toastTextAttributes = toastXml.GetElementsByTagName(&quot;actions&quot;);
-((XmlElement)toastTextAttributes[0]).SetAttribute(&quot;url&quot;, notification.TargetUrl);
-[/code]
+toastTextAttributes = toastXml.GetElementsByTagName("actions");
+((XmlElement)toastTextAttributes[0]).SetAttribute("url", notification.TargetUrl);
+
+```
+
 
 Dodatkowo dodaję atrybut  *url* , który posiada adres www, związany z powiadomieniem.
 
@@ -135,10 +135,10 @@ obsługa eventu:
 
 private async void Toast_Activated(ToastNotification sender, object args)
 {
-    if ((args as ToastActivatedEventArgs).Arguments == &quot;show&quot;)
+    if ((args as ToastActivatedEventArgs).Arguments == "show")
     {
-       string url=((XmlElement)sender.Content.GetElementsByTagName(&quot;actions&quot;).First())
-                    .GetAttribute(&quot;url&quot;);
+       string url=((XmlElement)sender.Content.GetElementsByTagName("actions").First())
+                    .GetAttribute("url");
        if (!string.IsNullOrEmpty(url))
        {
             await Launcher.LaunchUriAsync(new Uri(url));
@@ -167,7 +167,7 @@ ToastNotificationManager.CreateToastNotifier().Show(toast);
 
 
 
-Jak zatem wyglądają notyfikacje &quot;na żywo&quot;? Sprawdźmy:
+Jak zatem wyglądają notyfikacje "na żywo"? Sprawdźmy:
 
 
 
@@ -221,7 +221,7 @@ Jeszcze na koniec dwa screeny z delikatnie odświeżonej listy z powiadomieniami
 ## Kolejny wpis
 
 
-Następne posty będą związane już z działaniem aplikacji w tle i pobieraniem/uzyskiwaniem powiadomień przy wyłączonym programie. Temat już wstępnie przejrzałem i będzie ciężko. Domyślnie aplikacje UWP mogą uruchamiać wątek minimalnie co 15 minut (!!??) lub odbierać powiadomienia &quot;na żywo&quot;, ale wymaga to wykupienia miejsca na Azure. Na pewno kolejne odsłona serii będzie ciekawa :) Zachęcam do substytucji ;) 
+Następne posty będą związane już z działaniem aplikacji w tle i pobieraniem/uzyskiwaniem powiadomień przy wyłączonym programie. Temat już wstępnie przejrzałem i będzie ciężko. Domyślnie aplikacje UWP mogą uruchamiać wątek minimalnie co 15 minut (!!??) lub odbierać powiadomienia "na żywo", ale wymaga to wykupienia miejsca na Azure. Na pewno kolejne odsłona serii będzie ciekawa :) Zachęcam do substytucji ;) 
 
 Sam wpis może pojawić się trochę później, gdyż w ten weekend jadę do Dębna na maraton :) Trzymajcie kciuki ;)
 

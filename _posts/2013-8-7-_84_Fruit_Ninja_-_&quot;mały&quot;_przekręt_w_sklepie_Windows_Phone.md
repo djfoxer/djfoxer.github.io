@@ -3,12 +3,12 @@ layout:     post
 title:      Fruit Ninja - &quot;mały&quot; przekręt w sklepie Windows Phone
 date:       2013-08-07 00:03:00
 summary:    Osoby nieśledzące szczegółowo newsów ze świata Windows Phone, mogły przegapić bardzo ciekawy wątek, jaki pojawił się w ostatnich tygodniach. Małe zamieszanie związane z etyką w IT, podejściem fair play do klientów i podważeniem własności wersji cyfrowych gier, pojawiło się wraz z publikacją aktualiz...
-categories: oprogramowanie bezpieczeństwo urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_5" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_5" checked="checked" value="32"><label for="chkTagsList_5">bezpieczeństwo</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-Osoby nieśledzące szczegółowo newsów ze świata Windows Phone, mogły przegapić bardzo ciekawy wątek, jaki pojawił się w ostatnich tygodniach. Małe zamieszanie związane z etyką w IT, podejściem  *fair play*  do klientów i podważeniem własności wersji cyfrowych gier, pojawiło się wraz z publikacją aktualizacji dla słynnej gry Fruit Ninja. Producent [Halfbrick Studios](http://www.windowsphone.com/pl-PL/store/publishers?publisherId=Halfbrick%2BStudios&amp;appId=49c69a08-60fe-df11-9264-00237de2db9e), znany z dwóch MEGA hitów na smartfony (i nie tylko): [Jetpack Joyride](http://www.windowsphone.com/pl-pl/store/app/jetpack-joyride/d5969251-fef6-451d-a224-0613686188a6) i oczywiście [Fruit Ninja](http://www.windowsphone.com/pl-pl/store/app/fruit-ninja/1928d4d7-68c9-4170-b284-a264fde14f1f), zrobił krok, którego nikt nie spodziewał się, szczególnie po tak znanej marce. Oto cała historia...
+Osoby nieśledzące szczegółowo newsów ze świata Windows Phone, mogły przegapić bardzo ciekawy wątek, jaki pojawił się w ostatnich tygodniach. Małe zamieszanie związane z etyką w IT, podejściem  *fair play*  do klientów i podważeniem własności wersji cyfrowych gier, pojawiło się wraz z publikacją aktualizacji dla słynnej gry Fruit Ninja. Producent [Halfbrick Studios](http://www.windowsphone.com/pl-PL/store/publishers?publisherId=Halfbrick%2BStudios&appId=49c69a08-60fe-df11-9264-00237de2db9e), znany z dwóch MEGA hitów na smartfony (i nie tylko): [Jetpack Joyride](http://www.windowsphone.com/pl-pl/store/app/jetpack-joyride/d5969251-fef6-451d-a224-0613686188a6) i oczywiście [Fruit Ninja](http://www.windowsphone.com/pl-pl/store/app/fruit-ninja/1928d4d7-68c9-4170-b284-a264fde14f1f), zrobił krok, którego nikt nie spodziewał się, szczególnie po tak znanej marce. Oto cała historia...
 
 
 

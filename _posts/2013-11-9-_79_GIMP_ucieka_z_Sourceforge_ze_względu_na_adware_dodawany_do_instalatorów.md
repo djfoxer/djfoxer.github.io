@@ -3,14 +3,14 @@ layout:     post
 title:      GIMP ucieka z Sourceforge ze względu na adware dodawany do instalatorów
 date:       2013-11-09 16:26:00
 summary:    GIMP na swojej stronie internetowej poinformował o rezygnacji z przechowywania instalatorów pod Windows na Sourceforge. Autorzy uciekają od znanej strony hostingowej, ze względu na spyware / adware / malware (niepotrzebne skreślić), jaki dodawany jest do oryginalnych instalatorów, które przechowywan...
-categories: oprogramowanie internet bezpieczeństwo
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_5" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_5" checked="checked" value="32"><label for="chkTagsList_5">bezpieczeństwo</label>
 ---
 
 
 
 GIMP na swojej stronie internetowej [poinformował](http://www.gimp.org/) o rezygnacji z przechowywania instalatorów pod Windows na Sourceforge. Autorzy uciekają od znanej strony hostingowej, ze względu na spyware / adware / malware (niepotrzebne skreślić), jaki dodawany jest do oryginalnych instalatorów, które przechowywane są u nich na serwerach. Od tej pory pliki instalacyjne pod Windows będą znajdowały się na serwerach GIMPa.
 
-Problem niechcianych &quot;dodatków&quot; dodawanych przez Sourceforge do instalatorów to bardzo ciekawy i kontrowersyjny temat. Autorzy aplikacji, którzy wrzucają swoje aplikacje na ten hosting, muszą się liczyć z tym, że ich potencjalni klienci zostaną zaatakowani toolbarami, aplikacjami adware i innym oprogramowaniem. Najbardziej kontrowersyjne jest to, iż tak &quot;dopakowany&quot; instalator pochodzi oczywiście z oficjalnej strony do pobierania. Nie ma alternatywy, a sam proces instalacji jest bardzo podchwytliwy. 
+Problem niechcianych "dodatków" dodawanych przez Sourceforge do instalatorów to bardzo ciekawy i kontrowersyjny temat. Autorzy aplikacji, którzy wrzucają swoje aplikacje na ten hosting, muszą się liczyć z tym, że ich potencjalni klienci zostaną zaatakowani toolbarami, aplikacjami adware i innym oprogramowaniem. Najbardziej kontrowersyjne jest to, iż tak "dopakowany" instalator pochodzi oczywiście z oficjalnej strony do pobierania. Nie ma alternatywy, a sam proces instalacji jest bardzo podchwytliwy. 
 
 
 
@@ -26,7 +26,7 @@ Idealnym przykładem jest FileZilla, znany klient FTP. Kiedy pobierałem go bezp
 
 
 
-Duży zielony przycisk sugeruje, że jedyną opcją do zainstalowania jest naciśnięcie go, zaś rezygnacja w tym momencie oznaczać ma, wyjście z instalatora. Oczywiście tak nie jest. Kiedy klikniemy na &quot;Odrzuć&quot;, wówczas zrezygnujemy jedynie z instalowania dodatkowego  spyware / adware / malware. Sourceforge jednakże nie odpuści tak prosto, jednorazowe kliknięcie w &quot;Odrzuć&quot; spowoduje... przeładowanie okienka z ofertą sponsorowaną. Dopiero po drugim naciśnięciu, przejdziemy do faktycznej instalacji. 
+Duży zielony przycisk sugeruje, że jedyną opcją do zainstalowania jest naciśnięcie go, zaś rezygnacja w tym momencie oznaczać ma, wyjście z instalatora. Oczywiście tak nie jest. Kiedy klikniemy na "Odrzuć", wówczas zrezygnujemy jedynie z instalowania dodatkowego  spyware / adware / malware. Sourceforge jednakże nie odpuści tak prosto, jednorazowe kliknięcie w "Odrzuć" spowoduje... przeładowanie okienka z ofertą sponsorowaną. Dopiero po drugim naciśnięciu, przejdziemy do faktycznej instalacji. 
 
 
 

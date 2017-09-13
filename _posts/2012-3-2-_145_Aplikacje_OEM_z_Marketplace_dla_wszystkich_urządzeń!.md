@@ -3,7 +3,7 @@ layout:     post
 title:      Aplikacje OEM z Marketplace dla wszystkich urządzeń!
 date:       2012-03-02 00:22:00
 summary:    Tytuł wpisu może jest trochę niejasny, ale szybko wytłumaczę. Każdy producent smartphonów z Windows Phone na pokładzie, ma możliwość udostępnienia tylko dla swoich urządzeń, specjalnie przygotowanych aplikacji. Są to darmowe programy, które występują w Marketplace w dodatkowej kategorii, tylko dla u...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -52,7 +52,7 @@ Jeśli chcemy powrócić do oryginalnego Marketplace, wystarczy zainstalować  w
 
 Aktualizacje nieoryginalnych aplikacji OEM, mogą się pojawiać później, jednakże bez wgrania danego pliku xap, z którego pochodzi program, nie zaktualizujemy ich.
 
-Niektóre aplikacje, nie będą działać na urządzeniach &quot;nie oryginalnych&quot; ze względów oczywistych (np. konfigurator ustawień sieciowych, czy połączeń ). Niestety, ale  również niektóre programy, sprawdzają urządzenia na jakich są odpalane i nie pozwalają na odpalenie (dzieje się tak np. z Nokia Nawigacja). Mimo wszystko duża część aplikacji działa bez zarzutu! 
+Niektóre aplikacje, nie będą działać na urządzeniach "nie oryginalnych" ze względów oczywistych (np. konfigurator ustawień sieciowych, czy połączeń ). Niestety, ale  również niektóre programy, sprawdzają urządzenia na jakich są odpalane i nie pozwalają na odpalenie (dzieje się tak np. z Nokia Nawigacja). Mimo wszystko duża część aplikacji działa bez zarzutu! 
 
 Oto krótki przegląd jakie unikalne aplikacje, oferują  poszczególni producenci dla swoich użytkowników.
 
@@ -130,7 +130,7 @@ Samsung oferuje dość sporo aplikacji, kilka słowników, standardowo aplikacje
 
 
 
-Marketplace HTC wyróżnia się świetnym Hubem (działa na &quot;nieoryginalnych&quot; urządzeniach!).
+Marketplace HTC wyróżnia się świetnym Hubem (działa na "nieoryginalnych" urządzeniach!).
 
 
 

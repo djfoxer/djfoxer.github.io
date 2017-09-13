@@ -3,7 +3,7 @@ layout:     post
 title:      Logujemy się do dobreprogramy.pl z poziomu kodu C# (+ wprowadzenie do projektu)
 date:       2016-03-16 18:12:00
 summary:    Dwa ostatnie wpisy przedstawiały analizę sposobu logowania się i zarządzania powiadomieniami na portalu dobreprogramy. Przyszedł już czas na stworzenie kodu w C#, który pozwałaby już coś w praktyce zrobić.Dzisiaj skupimy się na logowaniu do portalu, a zapewne na dniach przedstawię mechanizm do zarzą...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -95,13 +95,13 @@ Kod wygląda następująco:
 
             //get Cookie from old login page
             request = WebRequest.Create(Const.OldLoginUrlWithTimeStamp);
-            request.Method = &quot;GET&quot;;
+            request.Method = "GET";
             response = await request.GetResponseAsync();
 
-            cookie = response.Headers
+            cookie = response.Headers["Set-cookie"]?.Split(';')?.FirstOrDefault();
+
 ```
-?.Split(&#39;;&#39;)?.FirstOrDefault();
-[/code]
+
 
 Do stworzenia requesta użyjemy metody Create z klasy abstrakcyjnej WebRequest.  *OldLoginUrlWithTimeStamp*  jest właściwością zwracająca adres 
 ```html
@@ -114,10 +114,10 @@ Pobieranie danych zrobione jest asynchronicznie, aby nie obawiać się o zamraż
 
 ```csharp
 
-            cookie = response.Headers
+            cookie = response.Headers["Set-cookie"]?.Split(';')?.FirstOrDefault();
+
 ```
-?.Split(&#39;;&#39;)?.FirstOrDefault();
-[/code]
+
 
 Mamy już ciasteczko. Teraz musimy zalogować się  z użyciem pobranego ciasteczka.
 
@@ -135,20 +135,20 @@ Budujemy zatem zapytanie do serwera, które zaloguje nam użytkownika.
 ```csharp
 
             request = WebRequest.Create(Const.LoginUrl);
-            request.Method = &quot;POST&quot;;
-            request.Headers
-```
- = cookie;
-            request.ContentType = &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;;
+            request.Method = "POST";
+            request.Headers["Cookie"] = cookie;
+            request.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
             byte[] form = Encoding.UTF8.GetBytes(
-                &quot;what=login&amp;login=&quot; + Uri.EscapeDataString(login)
-                + &quot;&amp;password=&quot; + Uri.EscapeDataString(password) +
-                &quot;&amp;persistent=true&quot;);
+                "what=login&login=" + Uri.EscapeDataString(login)
+                + "&password=" + Uri.EscapeDataString(password) +
+                "&persistent=true");
             using (Stream os = await request.GetRequestStreamAsync())
             {
                 os.Write(form, 0, form.Length);
             }
-[/code]
+
+```
+
 
 Podobnie jak wyżej, posłużymy się metodą  *Create*  z klasy  *WebRequest* , tym razem jednam wyślemy POSTa po adres:
 
@@ -160,11 +160,11 @@ https://ssl.dobreprogramy.pl/Providers/LoginProvider.ashx
 
 Mając już ciasteczko dodajemy go do nagłówka zapytania. Wymagane jest również ustawienie typu zawartości wysyłanych danych. Dzięki wcześniejszemu postowi wiemy, jakie dane są uzupełnianie w przeglądarce i dokładnie to same informacje przekazujemy do requesta w polu  *ContentType* .
 
- *&quot;Formularz&quot;*  ( *form* ) logowania budujemy również w taki sam sposób, jak podsłuchaliśmy w przeglądarce. Oprócz informacji o typie zapytania ( *what=login* ) i autologowaniu w przyszłości ( *persistent=true* ) musimy tutaj podać hasło i login użytkownika ( *login*  i  *password* ). Tutaj musimy zadbać o poprawność danych, login i hasło muszą zostać zapisane w formie, która nie spowoduje błędów w przesyłaniu danych w ten sposób. Z pomocą przyjdzie metoda  *EscapeDataString*  z wbudowanej klasy pomocniczej Uri, która  pozwoli na dodanie tzw. znaków ucieczki. Czyli np. taki tekst:
+ *"Formularz"*  ( *form* ) logowania budujemy również w taki sam sposób, jak podsłuchaliśmy w przeglądarce. Oprócz informacji o typie zapytania ( *what=login* ) i autologowaniu w przyszłości ( *persistent=true* ) musimy tutaj podać hasło i login użytkownika ( *login*  i  *password* ). Tutaj musimy zadbać o poprawność danych, login i hasło muszą zostać zapisane w formie, która nie spowoduje błędów w przesyłaniu danych w ten sposób. Z pomocą przyjdzie metoda  *EscapeDataString*  z wbudowanej klasy pomocniczej Uri, która  pozwoli na dodanie tzw. znaków ucieczki. Czyli np. taki tekst:
 
 
 ```txt
-Nancy krzyknęła &quot;Hello World!&quot; do tłumu.
+Nancy krzyknęła "Hello World!" do tłumu.
 ```
 
 
@@ -172,7 +172,7 @@ zamieni na:
 
 
 ```txt
-Nancy krzykn\u0119\u0142a \&quot;Hello World!\&quot; do t\u0142umu.
+Nancy krzykn\u0119\u0142a \"Hello World!\" do t\u0142umu.
 ```
 
 

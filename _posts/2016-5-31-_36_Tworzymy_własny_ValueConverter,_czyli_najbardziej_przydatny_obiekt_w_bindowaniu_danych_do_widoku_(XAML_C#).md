@@ -3,7 +3,7 @@ layout:     post
 title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
 date:       2016-05-31 23:57:00
 summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który kon...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -20,7 +20,7 @@ Na widoku nowe powiadomienia nie są przezroczyste, zaś stare mają przezroczys
 
 
 
-Oczywiście najbardziej używanym konwerterem jest: Bool &lt;=&gt; Visibility, czyli mając zmienną o typu Bool(true/false), chcemy sterować widocznością elementu (Visibility.Visible/Visibility.Collapsed).Przejdźmy jednak do naszego przykładu.
+Oczywiście najbardziej używanym konwerterem jest: Bool <=> Visibility, czyli mając zmienną o typu Bool(true/false), chcemy sterować widocznością elementu (Visibility.Visible/Visibility.Collapsed).Przejdźmy jednak do naszego przykładu.
 
 Zamiast tworzyć nową właściwość, szybko tworzymy klasę implementującą interfejs IValueConverter.
 
@@ -66,14 +66,14 @@ Na widoku, czyli w pliku XAML, konwertera użyjemy w następujący sposób:
 
 ```xml
 
-&lt;Grid
-        Opacity=&quot;{
+<Grid
+        Opacity="{
         Binding Status, 
         Converter={StaticResource StatusToOpacityConverter},
         Mode=OneWay
-        }&quot; 
+        }" 
                       
-        &gt;(...)&lt;/Grid&gt;
+        >(...)</Grid>
 
 ```
 
@@ -85,14 +85,14 @@ Na końcu pamiętajmy jeszcze o rejestracji  *StatusToOpacityConverter*  w  *App
 
 ```xml
 
-&lt;Application
+<Application
     (...)
-    xmlns:helpers=&quot;using:djfoxer.dp.notification.App.Helpers&quot;&gt;
-    &lt;Application.Resources&gt;
+    xmlns:helpers="using:djfoxer.dp.notification.App.Helpers">
+    <Application.Resources>
         (...)
-        &lt;helpers:StatusToOpacityConverter  x:Key=&quot;StatusToVisibilityConverter&quot;  /&gt;
-    &lt;/Application.Resources&gt;
-&lt;/Application&gt;
+        <helpers:StatusToOpacityConverter  x:Key="StatusToVisibilityConverter"  />
+    </Application.Resources>
+</Application>
 
 ```
 

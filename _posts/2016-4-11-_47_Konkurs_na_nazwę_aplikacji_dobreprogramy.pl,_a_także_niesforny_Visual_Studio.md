@@ -3,7 +3,7 @@ layout:     post
 title:      Konkurs na nazwę aplikacji dobreprogramy.pl, a także niesforny Visual Studio
 date:       2016-04-11 21:47:00
 summary:    Tworząc uniwersalną aplikację do powiadomień z portalu dobreprogramy natknąłem się na bardzo ciekawy problem.  Postanowiłem opisać ową przygody, a także zapytać Was o pomysł na nazwę aplikacji portalowej :)Na początku skupmy się jednak na ciekawym przypadku...Device cannot be foundW ostatnim czasie ...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -71,7 +71,7 @@ Przejdźmy jednak do sedna...
 
 
 
-Tworząc aplikację natknąłem się na jeszcze jeden ciekawy  *&quot;problem&quot;* :
+Tworząc aplikację natknąłem się na jeszcze jeden ciekawy  *"problem"* :
 
 <blockquote>
 <p>Jak ma nazywać się aplikacja od obsługi powiadomień z portalu dobreprogramy.pl? :)</p>

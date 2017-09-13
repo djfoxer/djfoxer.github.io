@@ -2,15 +2,15 @@
 layout:     post
 title:      Zdrowa praca przy komputerze cz. 1 - Aplikacje wspomagające
 date:       2011-04-17 14:08:00
-summary:    Każdy z nas spędza przy komputerze pewien czas, prawie każdego dnia. Dla części jest to również narzędzie pracy. Często zapominamy, iż oprócz czystego biurka :) , należy zadbać o to by nie zaszkodzić sobie.W tym króciutkim, pierwszym wpisie o &quot;Zdrowej pracy przy komputerze&quot;, chciałbym zacz...
-categories: windows oprogramowanie porady
+summary:    Każdy z nas spędza przy komputerze pewien czas, prawie każdego dnia. Dla części jest to również narzędzie pracy. Często zapominamy, iż oprócz czystego biurka :) , należy zadbać o to by nie zaszkodzić sobie.W tym króciutkim, pierwszym wpisie o "Zdrowej pracy przy komputerze", chciałbym zacząć od zapr...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
 
 Każdy z nas spędza przy komputerze pewien czas, prawie każdego dnia. Dla części jest to również narzędzie pracy. Często zapominamy, iż oprócz czystego biurka :) , należy zadbać o to by nie zaszkodzić sobie.
 
-W tym króciutkim, pierwszym wpisie o &quot;Zdrowej pracy przy komputerze&quot;, chciałbym zacząć od zaprezentowania dwóch bardzo przydatnych aplikacji, zarówno w domu jak i w pracy.
+W tym króciutkim, pierwszym wpisie o "Zdrowej pracy przy komputerze", chciałbym zacząć od zaprezentowania dwóch bardzo przydatnych aplikacji, zarówno w domu jak i w pracy.
 
 
 
@@ -21,7 +21,7 @@ W tym króciutkim, pierwszym wpisie o &quot;Zdrowej pracy przy komputerze&quot;,
 
 Pierwszą aplikacją jest mały program do oszczędzania naszych oczu podczas pracy w nocy. Ok, w nocy mało kto pracuje przy kompie, ale czytając tekst na jasnym tle przy sztucznym oświetleniu (powiedzmy jakaś żarówka) nasz wzrok bardzo się męczy. Problemem jest duży kontrast, pomiędzy bardzo jasnym wyświetlaniem obrazu przez monitor, a tłem naszego pokoju. Po dłuższej pracy oczy męczą się szybciej, niż przy naturalnym świetle.
 
-Przydatny w takich chwilach jest program F.lux  [1]. Jego zadaniem jest jedynie (albo aż) dopasowanie jasności monitora, do oświetlenia panującego w pokoju. Aplikacja jest bardzo prosta. Jedyna konfiguracja to wybranie z menu &quot;Change Location..&quot; -&gt; &quot;Locate&quot;. Program przekieruje do strony, gdzie wpisujemy miasto i wynikowe współrzędne geograficzne wklejamy do okienka programu. Od tego momentu F.lux będzie dostosowywał  jasność obrazu, do warunków panujących na zewnątrz. Dzięki temu nasze oczy nie będą odczuwać dyskomfortu spowodowanego efektem kontrastu. 
+Przydatny w takich chwilach jest program F.lux  [1]. Jego zadaniem jest jedynie (albo aż) dopasowanie jasności monitora, do oświetlenia panującego w pokoju. Aplikacja jest bardzo prosta. Jedyna konfiguracja to wybranie z menu "Change Location.." -> "Locate". Program przekieruje do strony, gdzie wpisujemy miasto i wynikowe współrzędne geograficzne wklejamy do okienka programu. Od tego momentu F.lux będzie dostosowywał  jasność obrazu, do warunków panujących na zewnątrz. Dzięki temu nasze oczy nie będą odczuwać dyskomfortu spowodowanego efektem kontrastu. 
 
 
 
@@ -58,11 +58,11 @@ W skrócie najważniejsze funkcje aplikacji:
 - propozycje ćwiczeń w ramach przerw (10 ćwiczeń)
 - mikro-przerwy (po kilkanaście sekund)
 - dowolna konfigurowalność przerw (długość, ilość ćwiczeń itp.)
-- &quot;tryb czytania&quot;
+- "tryb czytania"
 - możliwość pracy kilku zespołów w sieci
 - ustawienie dziennego limitu (przydatne w pracy :))
 
-Przy opisie tej aplikacji na jednym z vortali znalazłem wpis Czytelnika: &quot;Nieszczęśliwi są ci, którzy potrzebują takich programów, żeby zachować rozsądek przy komputerze.&quot; Ewidentnie widać, iż ktoś nie zrozumiał gdzie takie programy mają racje bytu. Sam mam taki program zainstalowany, ale w pracy! Dziennym limit mam na 8h i przerwę co godzinę na ok 7min. Często pisząc jakiś kawałek kodu człowiek tak się wkręca w to co robi, iż zapomina o częstych przerwach. Ta aplikacja nam o tym przypomni. 
+Przy opisie tej aplikacji na jednym z vortali znalazłem wpis Czytelnika: "Nieszczęśliwi są ci, którzy potrzebują takich programów, żeby zachować rozsądek przy komputerze." Ewidentnie widać, iż ktoś nie zrozumiał gdzie takie programy mają racje bytu. Sam mam taki program zainstalowany, ale w pracy! Dziennym limit mam na 8h i przerwę co godzinę na ok 7min. Często pisząc jakiś kawałek kodu człowiek tak się wkręca w to co robi, iż zapomina o częstych przerwach. Ta aplikacja nam o tym przypomni. 
 
 
 
@@ -73,10 +73,10 @@ Przy opisie tej aplikacji na jednym z vortali znalazłem wpis Czytelnika: &quot;
 
 Dodatkowo polecam ustawienie:
  
-- &quot;Preferencje&quot; -&gt; &quot;Interfejs użytkownika&quot; -&gt; &quot;Ogólne&quot; -&gt; Tryb blokowania ustawić na: &quot;Blokuj wszystko&quot;
-- &quot;Preferencje&quot; -&gt; &quot;Zegary&quot; -&gt; &quot;Odpoczynek&quot; -&gt; odznaczyć &quot;Pokaż przyciski &#39;Opóźnij&#39; i &#39;Pomiń&#39; &quot;.
+- "Preferencje" -> "Interfejs użytkownika" -> "Ogólne" -> Tryb blokowania ustawić na: "Blokuj wszystko"
+- "Preferencje" -> "Zegary" -> "Odpoczynek" -> odznaczyć "Pokaż przyciski 'Opóźnij' i 'Pomiń' ".
 
-Dzięki temu Workrave &quot;wymusi&quot; nam przerwę. Oczywiście czasem jest to bolesne (&quot;aha! czyli tu był błąd, więc wystarczy tylko dodać ten kawałek kodu oraz skop... &lt;Plask!&gt; &quot;Czas na przerwę&quot; :D ), ale zdrowie jest najważniejsze. A praca nie zając ;)
+Dzięki temu Workrave "wymusi" nam przerwę. Oczywiście czasem jest to bolesne ("aha! czyli tu był błąd, więc wystarczy tylko dodać ten kawałek kodu oraz skop... <Plask!> "Czas na przerwę" :D ), ale zdrowie jest najważniejsze. A praca nie zając ;)
 
 
 

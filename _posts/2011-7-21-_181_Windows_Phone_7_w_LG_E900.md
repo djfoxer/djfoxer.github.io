@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7 w LG E900
 date:       2011-07-21 18:54:00
 summary:    Na wstępie dziękuje za zaproszenie na HotZlot. To było niesamowite przeżycie! Możliwość porozmawiania z ludźmi z redakcji i z czytelnikami dobrych programów, których znało się jedynie z xywek/avatarów - bezcenne :)Wpis nigdy by nie powstał, gdyby nie konkurs na Kinecta, gdzie udało mi się wywalczyć ...
-categories: urządzenia mobilne
+categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -27,7 +27,7 @@ Na wstępnie dodam, iż telefon został zaktualizowany do najnowszej dostępnej 
 
 Ekran główny dzieli się na dwa pod-ekrany. Na pierwszym mamy listę kafelków w dwóch kolumnach. Tutaj ustawiamy wedle upodobania, najczęściej używane funkcje, aplikacje. Kafle z SMS-ami, połączeniami, kalendarzem itp. prezentują skrótowe informacje o zawartości. Jest to naprawdę bardzo praktyczne! 
 
-Drugi ekran (przewijamy ekran w lewo), jest ekranem zarządczym. To taki &quot;panel sterowania&quot;. Mamy w nim spis wszystkich aplikacji, funkcji. Z tego miejsca zarządzamy naszym urządzeniem. Całość zostało zaplanowane z głową bez rewolucji, ale też i bez udziwnień.
+Drugi ekran (przewijamy ekran w lewo), jest ekranem zarządczym. To taki "panel sterowania". Mamy w nim spis wszystkich aplikacji, funkcji. Z tego miejsca zarządzamy naszym urządzeniem. Całość zostało zaplanowane z głową bez rewolucji, ale też i bez udziwnień.
 
 
 
@@ -48,7 +48,7 @@ Standardową są to trzy płaszczyzny: pierwsza: tło w postaci grafiki, druga: 
 
 
 
-Kolejną ważnym elementem są dodatkowe opcje, przyciski dostępne w dolnym pasku (wyślij, edytuj, opcje...). Microsoft, założył, iż każdy(!) piszący na Phone 7 ma używać standardowych rozmiarów ikon i to tylko czarno-białych! Ilość widocznych przycisków również ograniczono z góry. Pozostałe funkcje dostępne są po dotknięciu do trzech kropeczek &quot;...&quot; (więcej). Zabieg ten spowodował, iż menu w każdej aplikacji wygląda identycznie i nie sposób się zgubić. Szybko doszedłem do wniosku, że to naprawdę świetny pomysł. Menu dzięki temu jest dodatkowo schludne i nieprzeciążone. Minusem może być jedynie to, iż ikonu dla niektórych osób mogą być ciut za małe i przez to niezbyt czytelne.
+Kolejną ważnym elementem są dodatkowe opcje, przyciski dostępne w dolnym pasku (wyślij, edytuj, opcje...). Microsoft, założył, iż każdy(!) piszący na Phone 7 ma używać standardowych rozmiarów ikon i to tylko czarno-białych! Ilość widocznych przycisków również ograniczono z góry. Pozostałe funkcje dostępne są po dotknięciu do trzech kropeczek "..." (więcej). Zabieg ten spowodował, iż menu w każdej aplikacji wygląda identycznie i nie sposób się zgubić. Szybko doszedłem do wniosku, że to naprawdę świetny pomysł. Menu dzięki temu jest dodatkowo schludne i nieprzeciążone. Minusem może być jedynie to, iż ikonu dla niektórych osób mogą być ciut za małe i przez to niezbyt czytelne.
 
 Jako przykład minimalizacji UI, dodam jeszcze, iż wszelkiego rodzaju przetwarzanie danych (podłączenie do WiFi, łączenie z Facebookiem itp.), przedstawione jest w postaci malutkich kwadracików, przewijający przez przez ekran. Proste i piękne! 
 
@@ -62,13 +62,13 @@ Dzięki niezłemu pomysłowi z kafelkami, obsługa całości za pomocą palca sp
 
 
 
-Każdy telefon z Windows Phone musi został wyposażony w 3 przyciski od lewej (wg ustaleń Microsoftu): &quot;Wstecz&quot;- cofa do ekranu wcześniejszego, &quot;Start&quot; - powraca do ekranu powitalnego i&quot; Szukaj&quot; - szuka elementów w obecnie znajdującym się zestawie (np. Marketplace) lub w sieci. 
+Każdy telefon z Windows Phone musi został wyposażony w 3 przyciski od lewej (wg ustaleń Microsoftu): "Wstecz"- cofa do ekranu wcześniejszego, "Start" - powraca do ekranu powitalnego i" Szukaj" - szuka elementów w obecnie znajdującym się zestawie (np. Marketplace) lub w sieci. 
 
 Przycisk wstecz działa tak jak powinien.W każdej chwili możemy skorzystać z cofnięcia się do strony wcześniej. Działa to wszędzie, bez względu na aktualnie uruchomioną aplikacje i spisuje się świetnie.
 
 Po prawej szukanie wykorzystuje silnik binga do przeszukiwania sieci, szkoda że nie można szukać np. po lokalnych zasobach (sms, kontakty itp.)
 
-Po środku przycisk &quot;Windows&quot;, który zabiera nas zawsze do domu :) Dłuższe przytrzymanie powoduje uruchomienie modułu do wydawania komend głosowych. Funkcjonalnie jest ot bajer, ale działa bardzo dobrze. Możemy głosowo otworzyć kalendarz, przejrzeć smsy, czy zadzwonić do kogoś. Oczywiście z racji wykrywania słów jedynie w języku angielskim, czasem bywają problemy z dzwonieniem głosowym do osób, z twardo wymawianymi współgłosami. I tak o  ile &quot;call Elwira&quot; nie udało się rozpoznać dla Windows Phone 7, o tyle &quot;call baśka&quot; poszło za pierwszym razem ;)
+Po środku przycisk "Windows", który zabiera nas zawsze do domu :) Dłuższe przytrzymanie powoduje uruchomienie modułu do wydawania komend głosowych. Funkcjonalnie jest ot bajer, ale działa bardzo dobrze. Możemy głosowo otworzyć kalendarz, przejrzeć smsy, czy zadzwonić do kogoś. Oczywiście z racji wykrywania słów jedynie w języku angielskim, czasem bywają problemy z dzwonieniem głosowym do osób, z twardo wymawianymi współgłosami. I tak o  ile "call Elwira" nie udało się rozpoznać dla Windows Phone 7, o tyle "call baśka" poszło za pierwszym razem ;)
 
 
 
@@ -105,7 +105,7 @@ Z telefonem otrzymujemy ładowarkę z odpinanym kablem USB, bardzo przyzwoite s�
 
 Bateria.... no cóż nie jest super pojemna. Prz bardzo oszczędnym użytkowaniu starczyć może nawet na 5 dni (smsy, czasem jakaś rozmowa, bez żadnych zabaw:P ). W normalnym użytkowaniu będzie to około 3 do 4 dni max. 
 
-Jakość wykonania telefonu jest dobra. Miło leży w dłoni, użyte materiały wydają się być wysokiej jakości. Jeśli miałbym zwrócić na coś uwagę to na środkowy przycisk z &quot;Windowsem&quot;, wygląda tak jak by nalepka z logiem miała się odkleić w niedługim czasie, obecnie jednak wszystko jest na swoim miejscu :)
+Jakość wykonania telefonu jest dobra. Miło leży w dłoni, użyte materiały wydają się być wysokiej jakości. Jeśli miałbym zwrócić na coś uwagę to na środkowy przycisk z "Windowsem", wygląda tak jak by nalepka z logiem miała się odkleić w niedługim czasie, obecnie jednak wszystko jest na swoim miejscu :)
 
  *Szczegóły techniczne:* 
 
@@ -132,7 +132,7 @@ Bardzo miło korzysta się również z aparatu. 5MP sprawuje się na zdjęciach,
 
 Windows Phone 7 posiada wbudowaną przeglądarkę  Internet Explorer , bazująca na kodzie dużej IE7. Działa dość płynnie. Posiada 6 zakładem. Minus to brak flasha. Oczywiście filmy z YouTube możemy oglądać, za pomocą jednej z wielu aplikacji dostępnych w Marketplace.
 
-Obecna wersja posiada również system &quot;kopiuj - wklej&quot; który można posłużyć w pisaniu SMS-ów, przenoszeniu numerów telefonów itp. Całość działa dość szybko i intuicyjnie. 
+Obecna wersja posiada również system "kopiuj - wklej" który można posłużyć w pisaniu SMS-ów, przenoszeniu numerów telefonów itp. Całość działa dość szybko i intuicyjnie. 
 
 Instalując na komputerze Zune, możemy bezproblemowo wgrywać zdjęcia/muzykę na telefon jak i go aktualizować. Wszytko przebiega bardzo szybko i bez problemów. Miłym akcentem jest to, iż aplikacja sama zadba o przekonwertowanie np. filmów na format zjadliwy dla Windows Phone 7.
 
@@ -166,11 +166,11 @@ Brak obsługi wielozadaniowości dla aplikacji film trzecich. Widać wzorowanie 
 
 Mimo, że Windows Phone 7 posiada świetny interface, brakuje jednak możliwości dostosowania go do własnych potrzeb. Zmiana kolorystyki to trochę mało.
 
-Może najmniejsza &quot;usterka&quot;, ale czemu w gotowych emotikonach nie ma &quot;:*&quot;? Dlaczego? :P Jakaś poprawność polityczna, czy co? :P
+Może najmniejsza "usterka", ale czemu w gotowych emotikonach nie ma ":*"? Dlaczego? :P Jakaś poprawność polityczna, czy co? :P
 
 
 
-### Windows Phone 7.5 &quot;Mango&quot;
+### Windows Phone 7.5 "Mango"
 
 
 
@@ -200,7 +200,7 @@ Oczywiście telefon z Windows Phone 7 mimo kilku braków, prezentuje się bardzo
 + prostota i funkcjonalność
 + wzorowa integracja z Facebookiem
 + szybko rozwijający się Marketplace
-+ intuicyjnie zrobiona obsługa &quot;kopiuj wklej&quot;
++ intuicyjnie zrobiona obsługa "kopiuj wklej"
 + przyjemność płynąca z używania telefonu :)
 
 
@@ -210,7 +210,7 @@ Oczywiście telefon z Windows Phone 7 mimo kilku braków, prezentuje się bardzo
 - dla niektórych za małe literki/ikony w dolnym menu dla aplikacji
 - brak profili dźwiękowych
 - niemożność zmiany dźwięków na własne
-- &quot;bezużyteczny&quot; Bluetooth 
+- "bezużyteczny" Bluetooth 
 
 
 Ocena: 5-/6 

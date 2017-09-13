@@ -3,7 +3,7 @@ layout:     post
 title:      Nowości w C# 6 — cóż ciekawego otrzymujemy?
 date:       2016-07-18 18:57:00
 summary:    Tak, tak, tak. C# 6 jest już z nami od jakiegoś już czasu, ale w życiu nie jest tak kolorowo i nie wszyscy mogli przejść na nowego Visual Studio 2015 tuż po tym jak się ukazał. Dodatkowo nawet jeśli ktoś już przesiadł się na najświeższe IDE od MS, to i tak nie zawsze mógł używać nowości, które wpadł...
-categories: windows programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -33,11 +33,11 @@ To chyba jedna z bardziej wyczekiwanych nowości w C# 6. Zmorą deweloperów two
 
 ```csharp
 
-if (client != null &amp;&amp;
-    client.Baskets != null &amp;&amp;
-    client.Baskets.Any(x =&gt; x.Items != null &amp;&amp; x.Items.Length &gt; 1))
+if (client != null &&
+    client.Baskets != null &&
+    client.Baskets.Any(x => x.Items != null && x.Items.Length > 1))
 {
-    Console.WriteLine(&quot;OK!&quot;);
+    Console.WriteLine("OK!");
 }
 
 ```
@@ -49,9 +49,9 @@ Od teraz możemy zastąpić sprawdzanie czy zmienna nie jest nullem poprzez uży
 
 ```csharp
 
-if (client?.Baskets?.Any(x =&gt; x.Items?.Length &gt; 0) ?? false)
+if (client?.Baskets?.Any(x => x.Items?.Length > 0) ?? false)
 {
-    Console.WriteLine(&quot;OK!&quot;);
+    Console.WriteLine("OK!");
 }
 
 ```
@@ -96,8 +96,8 @@ Możemy już inicjalizować właściwości, podobnie jak w przypadku pól:
 
 public class Customer
 {
-    public string First { get; set; } = &quot;Jon&quot;;
-    public string Last { get; set; } = &quot;Snow&quot;;
+    public string First { get; set; } = "Jon";
+    public string Last { get; set; } = "Snow";
 }
 
 ```
@@ -115,7 +115,7 @@ Warto dodać, że inicjalizacja nie przebiega poprzez  *set* , ale wartość jes
 
 public class Customer
 {
-    public string First { get; } = &quot;Jon&quot;;
+    public string First { get; } = "Jon";
     public string Last { get; }
 
     public Customer(string last)
@@ -140,11 +140,11 @@ Kolejną ciekawią nowością jest interpolacja Stringów. Zamiast używać  *St
 
 ```csharp
 
-string first = &quot;Jon&quot;, last = &quot;Snow&quot;;
+string first = "Jon", last = "Snow";
 
-var s_old = String.Format(&quot;{0} likes {1}&quot;, first, last);
+var s_old = String.Format("{0} likes {1}", first, last);
 
-var s_csharp6 = $&quot;{first} likes {last} now {DateTime.Now:d}&quot;;
+var s_csharp6 = $"{first} likes {last} now {DateTime.Now:d}";
 
 ```
 
@@ -174,7 +174,7 @@ public decimal AddMoney(decimal toAdd)
 
 ```csharp
 
-public decimal AddMoney(decimal toAdd) =&gt; Money += toAdd;
+public decimal AddMoney(decimal toAdd) => Money += toAdd;
 
 ```
 
@@ -190,7 +190,7 @@ public string FullName
 {
     get
     {
-        return First + &quot; &quot; + Last;
+        return First + " " + Last;
     }
 }
 
@@ -201,7 +201,7 @@ public string FullName
 
 ```csharp
 
-public string FullName =&gt; First + &quot; &quot; + Last;
+public string FullName => First + " " + Last;
 
 ```
 
@@ -213,23 +213,23 @@ W ten sposób otrzymujemy znacznie  *lżejszy*  kod od strony wizualnej. Czyteln
 
 public class Customer
 {
-    public string First { get; } = &quot;Jon&quot;;
-    public string Last { get; } = &quot;Snow&quot;;
+    public string First { get; } = "Jon";
+    public string Last { get; } = "Snow";
     public decimal Money { get; set; } = 100;
-    private string
-```
- values = new string[100];
+    private string[] values = new string[100];
     
     //metody
-    public decimal AddMoney(decimal toAdd) =&gt; Money += toAdd;
-    public void Print() =&gt; Console.WriteLine(FullName);
+    public decimal AddMoney(decimal toAdd) => Money += toAdd;
+    public void Print() => Console.WriteLine(FullName);
     //właściwości 
-    public string FullName =&gt; First + &quot; &quot; + Last;
+    public string FullName => First + " " + Last;
     //indeksator
-    public string this[long id] =&gt; id &gt;= 0 &amp;&amp; id &lt; values.Length ? values[id] : null;
+    public string this[long id] => id >= 0 && id < values.Length ? values[id] : null;
 
 }
-[/code]
+
+```
+
 
 
 
@@ -321,9 +321,9 @@ C# 6 wprowadza również wyrażenie  *nameof* , które zwraca stringa będącego
 
 ```csharp
 
-return nameof(var1) //&quot;var1&quot;
+return nameof(var1) //"var1"
 
-return nameof(collection.Item.Index) //&quot;Index&quot;
+return nameof(collection.Item.Index) //"Index"
 
 ```
 
@@ -332,7 +332,7 @@ Idealnie nada się do wywołania  *PropertyChanged* , wyrzucania wyjątków z in
 
 ```csharp
 
-if (value== null) throw new ArgumentNullException(nameof(value)+ &quot; is null :(&quot;);
+if (value== null) throw new ArgumentNullException(nameof(value)+ " is null :(");
 
 ```
 
@@ -350,15 +350,15 @@ W nowej wersji języka dostaliśmy możliwość dodawania filtrów do wyjątków
 
 try
 {
-	throw new Exception(&quot;My exception&quot;);
+	throw new Exception("My exception");
 }
-catch (Exception ex) when (ex.Message == &quot;My exception&quot;)
+catch (Exception ex) when (ex.Message == "My exception")
 {
-	Console.WriteLine(&quot;My exception caught&quot;);
+	Console.WriteLine("My exception caught");
 }
 catch (Exception ex) 
 {
-	Console.WriteLine(&quot;Other exception caught here&quot;);
+	Console.WriteLine("Other exception caught here");
 }
 
 ```
@@ -377,9 +377,9 @@ catch (Exception ex)
 
 ```csharp
 
-var dic = new Dictionary&lt;string, int&gt; {
-    {&quot;x&quot;, 1},
-    {&quot;y&quot;, 2}
+var dic = new Dictionary<string, int> {
+    {"x", 1},
+    {"y", 2}
 };
 
 ```
@@ -388,13 +388,13 @@ var dic = new Dictionary&lt;string, int&gt; {
 
 ```csharp
 
-var dic = new Dictionary&lt;string, int&gt; {
-    
-```
- = &quot;1&quot;,
-    [&quot;y&quot;] = &quot;2&quot;,
+var dic = new Dictionary<string, int> {
+    ["x"] = "1",
+    ["y"] = "2",
 };
-[/code]
+
+```
+
 
 
 
@@ -436,16 +436,16 @@ namespace MyExtensions
 {
     public static class DicExt
     {
-        public static void Add(this Dictionary&lt;string, int&gt; dic, int value)
+        public static void Add(this Dictionary<string, int> dic, int value)
         {
-            dic.Add(&quot;Number &quot; + no.ToString(), value);
+            dic.Add("Number " + no.ToString(), value);
         }
     }
 }
 
 using MyExtensions
 
-var dic = new Dictionary&lt;string, int&gt; { 1, 4, 10 };
+var dic = new Dictionary<string, int> { 1, 4, 10 };
 
 
 ```
@@ -454,7 +454,7 @@ var dic = new Dictionary&lt;string, int&gt; { 1, 4, 10 };
 
 
 
-  * do numerów z błędami w  *#pragma warning disable/restore*  doszedł opcjonalny prefix &quot;CS&quot;  
+  * do numerów z błędami w  *#pragma warning disable/restore*  doszedł opcjonalny prefix "CS"  
 
 
   * usprawniono mechanizm przeciążeń

@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7.8 - aktualizacja oficjalnie dostępne dla wszystkich urządzeń
 date:       2013-01-31 10:30:00
 summary:    30 stycznia o godzinie 19 naszego czasu, Microsoft udostępnił aktualizację smartfonów z Windows Phone 7.x do wersji 7.8. Co ciekawe, aktualizację będą dostępne dla większości urządzeń, bez względu na brandowanie. Oczywiście nie wszystkie na raz, ale jest pewność, że urządzenia ze starszej linii Wind...
-categories: sprzęt oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -22,7 +22,7 @@ Jeśli po podłączeniu do [Zune](http://www.windowsphone.com/pl-PL/how-to/wp7/z
 ## Aktualizacja - wymuszenie poprzez Zune
 
 
-Jest jednak sposób na wymuszenie aktualizacji, gdy [Zune](http://www.windowsphone.com/pl-PL/how-to/wp7/zune-software) nie pokazuje dostępnej nowej wersji ( *Telefon -&gt; Aktualizuj* ). Oto kroki, aby wymusić zainstalowanie Windows Phone 7.8:
+Jest jednak sposób na wymuszenie aktualizacji, gdy [Zune](http://www.windowsphone.com/pl-PL/how-to/wp7/zune-software) nie pokazuje dostępnej nowej wersji ( *Telefon -> Aktualizuj* ). Oto kroki, aby wymusić zainstalowanie Windows Phone 7.8:
 
 
   * uruchamiamy sprawdzenie aktualizacji
@@ -43,7 +43,7 @@ Jest jednak sposób na wymuszenie aktualizacji, gdy [Zune](http://www.windowspho
 ## Aktualizacja - aplikacja od [ WindowsPhoneHacker - Seven-Eighter](http://windowsphonehacker.com/articles/want_windows_phone_7.8_now_try_this_easy_tool-01-31-13)
 
 
-Jeśli żaden z powyższych sposobów nie działa, można spróbować małej aplikacji stworzonej przez znanego w środowisku Windows Phone jaxbot&#39;a, do ściągnięcia [przez ten link](http://windowsphonehacker.com/articles/want_windows_phone_7.8_now_try_this_easy_tool-01-31-13). Aplikacja jest prosta w obsłudze i sprowadza się tylko do wybrania wersji językowej, nie powinna nikomu sprawić problemu. Jeśli występują jakieś błędy, można spróbować zainstalować [tą paczkę](http://forum.xda-developers.com/attachment.php?s=eb9b7343e9f9d068e82e74b61c1ab9eb&amp;attachmentid=751891&amp;d=1318801790).
+Jeśli żaden z powyższych sposobów nie działa, można spróbować małej aplikacji stworzonej przez znanego w środowisku Windows Phone jaxbot'a, do ściągnięcia [przez ten link](http://windowsphonehacker.com/articles/want_windows_phone_7.8_now_try_this_easy_tool-01-31-13). Aplikacja jest prosta w obsłudze i sprowadza się tylko do wybrania wersji językowej, nie powinna nikomu sprawić problemu. Jeśli występują jakieś błędy, można spróbować zainstalować [tą paczkę](http://forum.xda-developers.com/attachment.php?s=eb9b7343e9f9d068e82e74b61c1ab9eb&attachmentid=751891&d=1318801790).
 
 Aktualizację poprzez omawianą aplikację robimy na własną odpowiedzialność. Jest to jednak niemalże w 100% bezpieczne. Aplikacja używa w tle Zune i robi również backup, zatem nie ma praktycznie o co się obawiać. Całość przebiega szybko, prosto i bezpiecznie. 
 
@@ -91,7 +91,7 @@ Całkiem niedawno pojawiła się aplikacja Sharp7Eighter. Działa ona na podobne
   * automatyczne aktualizowanie tapety z serwisu Bing
 
 
-  * wybór dostawcy wyszukiwania (Bing, Google) w  *Ustawienia -&gt; aplikacje -&gt; Internet Explorer -&gt; Domyślny dostawca wyszukiwani* a
+  * wybór dostawcy wyszukiwania (Bing, Google) w  *Ustawienia -> aplikacje -> Internet Explorer -> Domyślny dostawca wyszukiwani* a
 
 
   * dodatkowe aplikacje (tylko Nokia, o których za chwilę)
@@ -121,7 +121,7 @@ Otóż Nokia, jako ścisły partner Microsoftu i główny beneficjent Windows Ph
   * [Twórca dzwonków](http://www.windowsphone.com/pl-pl/store/app/tw%C3%B3rca-dzwonk%C3%B3w/dae4700e-6eeb-43b1-b48d-aee18b46fddc) - proste tworzenie dzwonków z piosenek jakie mamy na urządzeniu
 
 
-  * Kinograf - szybkie tworzenie animacji (gif) z obrazu zarejestrowanego kamerą. Przy czym można wybrać konkretne obszary, które mają się &quot;poruszać&quot;.  Nokia planuje w najbliższym czasie dodanie również tej aplikacji dla urządzeń z 7.8. Obecnie jest ona dostępna tylko na Lumie z [Windows Phone 8](http://www.windowsphone.com/pl-pl/store/app/kinograf/594477c0-e991-4ed4-8be4-466055670e69).
+  * Kinograf - szybkie tworzenie animacji (gif) z obrazu zarejestrowanego kamerą. Przy czym można wybrać konkretne obszary, które mają się "poruszać".  Nokia planuje w najbliższym czasie dodanie również tej aplikacji dla urządzeń z 7.8. Obecnie jest ona dostępna tylko na Lumie z [Windows Phone 8](http://www.windowsphone.com/pl-pl/store/app/kinograf/594477c0-e991-4ed4-8be4-466055670e69).
 
 
   * kolejne nowości niebawem? - wygląda na to, iż Nokia nie chce zostawić użytkowników tak szybko i możliwe, że będą dostępne jeszcze kolejne dodatki do Windows Phone 7.8, o których się dowiemy w najbliższej przyszłości

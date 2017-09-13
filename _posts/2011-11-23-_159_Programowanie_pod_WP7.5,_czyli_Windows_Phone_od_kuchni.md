@@ -2,13 +2,13 @@
 layout:     post
 title:      Programowanie pod WP7.5, czyli Windows Phone od kuchni
 date:       2011-11-23 23:14:00
-summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby &quot;spoważnieć&quot; :P i napisać coś własnego na Windows Phone 7.5. Od r...
-categories: windows programowanie urządzenia mobilne
+summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć" :P i napisać coś własnego na Windows Phone 7.5. Od razu napisz...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby &quot;spoważnieć&quot; :P i napisać coś własnego na Windows Phone 7.5. Od razu napisze, że jest kilka problemów (i to wcale nie natury programistycznej).
+Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć" :P i napisać coś własnego na Windows Phone 7.5. Od razu napisze, że jest kilka problemów (i to wcale nie natury programistycznej).
 
 
 
@@ -22,7 +22,7 @@ Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i de
 
 
 
-Chcący zacząć programować dla Windows Phone 7(.5) powinniśmy umieć &quot;na dzień dobry&quot; podstawy C#/VB oraz podstawy Silverlighta lub XNA jeśli zechcemy tworzyć gry (także na XBox360!). Aplikacje pisane są w Visual Studio 2010 for Windows Phone. W Tym krótkim przewodniku postaram się opisać jak zacząć przygodę z pisaniem aplikacji na Windows Phone. A zatem, do dzieła!
+Chcący zacząć programować dla Windows Phone 7(.5) powinniśmy umieć "na dzień dobry" podstawy C#/VB oraz podstawy Silverlighta lub XNA jeśli zechcemy tworzyć gry (także na XBox360!). Aplikacje pisane są w Visual Studio 2010 for Windows Phone. W Tym krótkim przewodniku postaram się opisać jak zacząć przygodę z pisaniem aplikacji na Windows Phone. A zatem, do dzieła!
 
 
 
@@ -47,7 +47,7 @@ InstallOnLHS=0
 InstallOnWinXP=0
 7. Zapisujemy plik i startujemy z instalacją poleceniem: setup.exe /web
 
-Cały pakiet instaluje się normalnie, bez najmniejszych błędów. Jednakże jest to połowiczny sukces. Możemy pisać aplikacji i je kompilować, jednakże nie będzie działało debugowanie na emulatorze. Problemem jest brak wsparcia DirectX 10+ na XP. Śmieszne jest to, że tak naprawdę ten DirectX 10+ do niczego nie jest potrzebny (u mnie na Windows Vista całość śmiga mimo, że karta wspiera max DirectX 9.0c). Jest to kolejna próba uśmiercenia XP, takie czasy. Nie pomaga wgranie &quot;zhackowanych&quot; plików z DirectX 10. Jest jednak jedno wyjście. Możemy nasze programy debugować... na urządzeniu po wcześniejszym deployu (który wymaga odblokowania urządzenia, o czym dalej). Podsumowując: jakby ktoś mocno się uparł, może na XP odpalić Visual Studio 2010 for Windows Phone :)
+Cały pakiet instaluje się normalnie, bez najmniejszych błędów. Jednakże jest to połowiczny sukces. Możemy pisać aplikacji i je kompilować, jednakże nie będzie działało debugowanie na emulatorze. Problemem jest brak wsparcia DirectX 10+ na XP. Śmieszne jest to, że tak naprawdę ten DirectX 10+ do niczego nie jest potrzebny (u mnie na Windows Vista całość śmiga mimo, że karta wspiera max DirectX 9.0c). Jest to kolejna próba uśmiercenia XP, takie czasy. Nie pomaga wgranie "zhackowanych" plików z DirectX 10. Jest jednak jedno wyjście. Możemy nasze programy debugować... na urządzeniu po wcześniejszym deployu (który wymaga odblokowania urządzenia, o czym dalej). Podsumowując: jakby ktoś mocno się uparł, może na XP odpalić Visual Studio 2010 for Windows Phone :)
 
 Wracając do rzeczywistości. Z racji tego, że mam na laptopie Viste i instalowałem system od nowa, musiałem pobrać wszystkie aktualizacje, aż do SP2. Ściąganie poprawek trwało kilka godzin! Chcąc mieć SP2 trzeba mieć SP1, ale mając SP1 nie można przejść do SP2, tylko trzeba ściągnąć inne poprawki, w tym niewymagane, które mimo wszystko są wymagana do instalacji SP2, podobni było z SP1 blebleblalblabla, masakra... 
 
@@ -69,7 +69,7 @@ Z racji tego, iż temat programowania na Windows Phone 7 jest dość świeży, c
 Zaczynając od darmowych ebooków:
 - Programming Windows Phone 7 (autor Charles Petzold, tego Pana większość pewnie kojarzy :D ) - [http://www.charlespetzold.com/phone/](http://www.charlespetzold.com/phone/)
 - Silverlight for Windows Phone Toolkit In Depth (Boryana Miloshevska) [http://windowsphonegeek.com/WPToolkitBook](http://windowsphonegeek.com/WPToolkitBook)
-- Windows Phone Programming in C# (Windows Phone Version 7.5) (Rob Miles) [https://www.facultyresourcecenter.com/curriculum/pfv.aspx?ID=8874&amp;c1=en-us&amp;c2=0&amp;Login=](https://www.facultyresourcecenter.com/curriculum/pfv.aspx?ID=8874&amp;c1=en-us&amp;c2=0&amp;Login=)
+- Windows Phone Programming in C# (Windows Phone Version 7.5) (Rob Miles) [https://www.facultyresourcecenter.com/curriculum/pfv.aspx?ID=8874&c1=en-us&c2=0&Login=](https://www.facultyresourcecenter.com/curriculum/pfv.aspx?ID=8874&c1=en-us&c2=0&Login=)
 
 poprzez kursy online:
 - Kurs programowania Windows Phone 7 
@@ -82,7 +82,7 @@ poprzez kursy online:
 i wydania książek w języku polskim:
 - Windows Phone 7. Tworzenie efektownych aplikacji (Henry Lee, Eugene Chuvyrov) [http://helion.pl/ksiazki/windows-phone-7-tworzenie-efektownych-aplikacji-henry-lee-eugene-chuvyrov,winph7.htm](http://helion.pl/ksiazki/windows-phone-7-tworzenie-efektownych-aplikacji-henry-lee-eugene-chuvyrov,winph7.htm)
 
-W sieci jest tego bardzo dużo, zainteresowani tematem znajdą tego, całkiem sporo. Przypominam, także o konkursie &quot;Zgarnij telefon z Windows Phone w GeekClub&quot; ([http://www.codeguru.pl/static/WP7](http://www.codeguru.pl/static/WP7)), gdzie po opublikowaniu 5 aplikacji na Windows Phone Marketplace, można wygrać samrtfon z Windows Phone 7.5.
+W sieci jest tego bardzo dużo, zainteresowani tematem znajdą tego, całkiem sporo. Przypominam, także o konkursie "Zgarnij telefon z Windows Phone w GeekClub" ([http://www.codeguru.pl/static/WP7](http://www.codeguru.pl/static/WP7)), gdzie po opublikowaniu 5 aplikacji na Windows Phone Marketplace, można wygrać samrtfon z Windows Phone 7.5.
 
 Aplikacja gotowa, chcę wrzucić ją na własnego smartfona...
 

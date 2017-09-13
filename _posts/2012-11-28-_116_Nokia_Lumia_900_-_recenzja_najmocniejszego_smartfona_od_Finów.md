@@ -3,7 +3,7 @@ layout:     post
 title:      Nokia Lumia 900 - recenzja najmocniejszego smartfona od Finów
 date:       2012-11-28 15:51:00
 summary:    Za nami już prezentacja nowego Windows Phone 8 oraz kilku urządzeń działających pod tym systemem. Takie cuda jak Nokia Lumia 920 / 820, HTC 8X / 8S, czy sporych rozmiarów Samsung Ativ S (4.8 calowy ekran) są marzeniem wielu z nas. Obecnie jednak ceny są dość wysokie (chociaż HTC 8S ma być już za 130...
-categories: sprzęt porady urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -16,7 +16,7 @@ Za nami już prezentacja nowego Windows Phone 8 oraz kilku urządzeń działają
 
 
 
-Nokia Lumia 900 jest najwyższym modelem od Finów. Moim skromnym zdaniem, to również najbardziej atrakcyjne urządzenie pracujące na Windows Phone 7, ale o tym za chwilę. &quot;Dziewięćsetka&quot; pochodzi z drugiej generacji smartfonów, które miały już na starcie wersję 7.5 Mango. Ten model posiada procesor 1.4 GHz, który dodaje jeszcze więcej mocy dla systemu od Microsoftu (przypomnę, że nie jest to najszybszy model, HTC Titan (I/II) posiada zegar 1.5 GHz). Również GPU został zaktualizowany do wyższej wersji Adreno 205 (1. generacja posiadała model 200) co przekłada się na znacznie większą ilość renderowanych klatek. Będzie można to zauważyć w testach systemu w dalszych podpunktach. Pamięć RAM została na tym samym poziomie, czyli 512MB. Nokia w swoim smartfonie z najwyższej  półki, umieściła aż 16GB pamięci, która powinna wystarczyć w zupełności dla większości użytkowników. 
+Nokia Lumia 900 jest najwyższym modelem od Finów. Moim skromnym zdaniem, to również najbardziej atrakcyjne urządzenie pracujące na Windows Phone 7, ale o tym za chwilę. "Dziewięćsetka" pochodzi z drugiej generacji smartfonów, które miały już na starcie wersję 7.5 Mango. Ten model posiada procesor 1.4 GHz, który dodaje jeszcze więcej mocy dla systemu od Microsoftu (przypomnę, że nie jest to najszybszy model, HTC Titan (I/II) posiada zegar 1.5 GHz). Również GPU został zaktualizowany do wyższej wersji Adreno 205 (1. generacja posiadała model 200) co przekłada się na znacznie większą ilość renderowanych klatek. Będzie można to zauważyć w testach systemu w dalszych podpunktach. Pamięć RAM została na tym samym poziomie, czyli 512MB. Nokia w swoim smartfonie z najwyższej  półki, umieściła aż 16GB pamięci, która powinna wystarczyć w zupełności dla większości użytkowników. 
 
 
 
@@ -109,7 +109,7 @@ Kilka zdjęć pokazujących ogromną różnicę pomiędzy ClearBlack AMOLED (Nok
 ### Aparat
 
 
-Omawiany model posiada główny aparat 8 Mpix z optyką  Carl Zeiss. W Lumii 900 flesz zbudowany jest z podwójnej diody LED, która potrafi nieźle doświetlić ciemniejsze sceny (pamiętajmy jednak, iż jest to nadal aparat w telefonie komórkowym!). Pomimo, iż to ten sam model co w Lumii 800, jakość zdjęć jest jakby trochę lepsza. Otóż w przypadku &quot;osiemsetki&quot;, szczególnie jasne sceny, mają tendencje do nabierania delikatnie szarych odcieni. W Lumii 900, przy tych samych parametrach (auto), nie zaobserwowałem podobnej przypadłość.
+Omawiany model posiada główny aparat 8 Mpix z optyką  Carl Zeiss. W Lumii 900 flesz zbudowany jest z podwójnej diody LED, która potrafi nieźle doświetlić ciemniejsze sceny (pamiętajmy jednak, iż jest to nadal aparat w telefonie komórkowym!). Pomimo, iż to ten sam model co w Lumii 800, jakość zdjęć jest jakby trochę lepsza. Otóż w przypadku "osiemsetki", szczególnie jasne sceny, mają tendencje do nabierania delikatnie szarych odcieni. W Lumii 900, przy tych samych parametrach (auto), nie zaobserwowałem podobnej przypadłość.
 
 Jakość zdjęć wykonanych Lumią 900 jest naprawdę świetna! Myślę, że można spokojnie pokusić się o stwierdzenie, że jest to poziom aparatów kompaktowych. Co ciekawe, nie trzeba wcale bawić się zbytnio opcjami, aby uzyskać zadowalające efekty. Oczywiście mamy wiele ustawień, które pozwolą dostroić jakość obrazu, ale i bez nich zdjęcia stoją na wysokim poziomie (chociaż w przypadku zdjęć makro i robionych w nocy, warto pokusić się o włączenie odpowiedniej opcji w aparacie). 
 
@@ -155,7 +155,7 @@ Wrażenia z odsłuchu na najwyższym modelu od Nokii z serii 7.x są bardzo pozy
 ### Bateria
 
 
-Bateria w opisywanej Lumii to model z 1830 mAh. Odpowiedź na  odwieczne pytanie: &quot;jak długo działa na baterii?&quot; nie jest łatwe. U każdego będzie ona trzymać inaczej. Przy średnim użytkowaniu potrafi wytrzymać powyżej półtorej dnia do dwóch. W skrajnych przypadkach, gdy chcemy zaoszczędzić więcej na baterii, Lumia 900 pozwala się nacieszyć sobą bez ładowania spokojnie  powyżej 3 dni. Oczywiście, wystarczy usiąść na 30 minut do gry online, aby po tym czasie bateria spadła o 5%. Myślę jednak, iż jak na takie rozmiary ekranu bateria trzyma całkiem dobrze. 
+Bateria w opisywanej Lumii to model z 1830 mAh. Odpowiedź na  odwieczne pytanie: "jak długo działa na baterii?" nie jest łatwe. U każdego będzie ona trzymać inaczej. Przy średnim użytkowaniu potrafi wytrzymać powyżej półtorej dnia do dwóch. W skrajnych przypadkach, gdy chcemy zaoszczędzić więcej na baterii, Lumia 900 pozwala się nacieszyć sobą bez ładowania spokojnie  powyżej 3 dni. Oczywiście, wystarczy usiąść na 30 minut do gry online, aby po tym czasie bateria spadła o 5%. Myślę jednak, iż jak na takie rozmiary ekranu bateria trzyma całkiem dobrze. 
 
 
 
@@ -163,9 +163,9 @@ Bateria w opisywanej Lumii to model z 1830 mAh. Odpowiedź na  odwieczne pytanie
 
 
 
-Dodano również żyroskop, niedostępny w poprzedniej generacji (ze wszystkich Lumi tylko ten model go posiada) i uznałem, że warto poświęcić dla niego oddzielny podpunkt. Otóż trzeba tu zaznaczyć, iż wcześniejsze urządzenia mają wbudowany akcelerometr, a nie żyroskop! Różnica jest mała, ale znacząca. Żyroskop dodaje orientacje w przestrzeni i jest mniej wrażliwy na drgania itp. Dzięki temu m.in. w [Photosynth](http://photosynth.net/) skanowanie przestrzeni w jakiej się znajdujemy, jest dużo prostsze i wygodniejsze. Wzrasta także efektywność pracy. Może wydać się to drobnostką, ale na żywo różnice są naprawdę duże. Bywa, iż akcelerometr w pewnych warunkach &quot;wariuje&quot;. Telefon nie posiadający żyroskopu wymaga więcej precyzji i skupienia, przy tworzeniu np. zdjęć 3D w [Photosynth](http://photosynth.net/). 
+Dodano również żyroskop, niedostępny w poprzedniej generacji (ze wszystkich Lumi tylko ten model go posiada) i uznałem, że warto poświęcić dla niego oddzielny podpunkt. Otóż trzeba tu zaznaczyć, iż wcześniejsze urządzenia mają wbudowany akcelerometr, a nie żyroskop! Różnica jest mała, ale znacząca. Żyroskop dodaje orientacje w przestrzeni i jest mniej wrażliwy na drgania itp. Dzięki temu m.in. w [Photosynth](http://photosynth.net/) skanowanie przestrzeni w jakiej się znajdujemy, jest dużo prostsze i wygodniejsze. Wzrasta także efektywność pracy. Może wydać się to drobnostką, ale na żywo różnice są naprawdę duże. Bywa, iż akcelerometr w pewnych warunkach "wariuje". Telefon nie posiadający żyroskopu wymaga więcej precyzji i skupienia, przy tworzeniu np. zdjęć 3D w [Photosynth](http://photosynth.net/). 
 
- *Czy wiesz, że...*  &quot;dzięki&quot; omawianej aplikacji wyszło na jaw, iż LG E900 ma defekt akcelerometru, który jest zbyt czuły. Ot taka, ciekawostka :)
+ *Czy wiesz, że...*  "dzięki" omawianej aplikacji wyszło na jaw, iż LG E900 ma defekt akcelerometru, który jest zbyt czuły. Ot taka, ciekawostka :)
 
 Pozostałe czysto techniczne szczegóły znajdują się na stronie Nokii: [Specyfikacje dla telefonu Nokia Lumia 900](http://www.nokia.com/pl-pl/produkty/telefony/lumia900/specyfikacje/).
 
@@ -205,7 +205,7 @@ Nieodblokowane urządzenia nie mogą przesyłać plików za pośrednictwem Bluet
 
 
 
-System na każdym ze smartfonów działa podobnie. Soft od Microsoftu, wszędzie jest stabilny i niesamowicie szybki. Tak też jest w przypadku Lumi 900. Windows Phone na tym modelu chodzi  wyśmienicie i dostał jeszcze więcej &quot;mocy&quot;. Porównanie Lumii 900 z procesorem 1.4 GHz, do starszych modelów z pierwszej generacji, z 1GHz zegarem, wypada oczywiście na korzyść opisywanej Nokii. 
+System na każdym ze smartfonów działa podobnie. Soft od Microsoftu, wszędzie jest stabilny i niesamowicie szybki. Tak też jest w przypadku Lumi 900. Windows Phone na tym modelu chodzi  wyśmienicie i dostał jeszcze więcej "mocy". Porównanie Lumii 900 z procesorem 1.4 GHz, do starszych modelów z pierwszej generacji, z 1GHz zegarem, wypada oczywiście na korzyść opisywanej Nokii. 
 
 Testy przeprowadzone przy pomocy [WP Bench](http://www.windowsphone.com/pl-pl/store/app/wp-bench-free/962a9521-952c-41e0-8763-25af86bc8937) pokazują, jak duża różnica jest pomiędzy modelami z pierwszej, a drugiej generacji urządzeń z Windows Phone 7.x. Wyniki zamieszczone poniżej przedstawiają porównanie Lumi 900 i LG E900. 
 
@@ -348,7 +348,7 @@ Funkcjonalność znana z innych urządzeń. Dzwoniący telefon można szybko wyc
 
 
 
-Oczywiście to nie wszystkie dodatki od Nokii. Mamy także:  *Wyślij do*  do połączenia przez DLNA,  *Creative Studio*  do prostej obróbki obrazu i pozostałe aplikacje, które dostępne są pod innymi nazwą u pozostałych producentów urządzeń z Windows Phone. Warto dodać, że właściciele Noki mają sezonowe akcje promocyjne, jak np. darmową wersję gry [Mirror&#39;s Edge](http://www.windowsphone.com/pl-pl/store/app/mirror-edge/b07473fc-585f-4a3d-b4b8-5be5237c0a9b). Przyznać należy, iż Nokia najlepiej zadbała o swoich użytkowników. Ale to nie wszystko.
+Oczywiście to nie wszystkie dodatki od Nokii. Mamy także:  *Wyślij do*  do połączenia przez DLNA,  *Creative Studio*  do prostej obróbki obrazu i pozostałe aplikacje, które dostępne są pod innymi nazwą u pozostałych producentów urządzeń z Windows Phone. Warto dodać, że właściciele Noki mają sezonowe akcje promocyjne, jak np. darmową wersję gry [Mirror's Edge](http://www.windowsphone.com/pl-pl/store/app/mirror-edge/b07473fc-585f-4a3d-b4b8-5be5237c0a9b). Przyznać należy, iż Nokia najlepiej zadbała o swoich użytkowników. Ale to nie wszystko.
 
 
 
@@ -405,6 +405,6 @@ Nokia Lumia 900 to smartfon ciekawy pod wieloma względami. Od strony sprzętowe
 
 Jeśli przyjrzymy się systemowi mobilnemu, to już nie jest tak łatwo. Po pierwsze w większości urządzeń z Windows Phone jest on identyczny. A zatem, wady są takie jak i w całym ekosystemie: brak wykorzystania Bluetooth do przesyłania plików, czy nieobecne rozszerzenie o kartę pamięci. Zamknięty system niektórych przeraża, a niektórych zachęca do zakupu. Stabilność, szybkość, ergonomia i bezpieczeństwo to cechy trafnie opisujące Windows Phone. Dzięki zróżnicowanym aplikacjom w Windows Phone Store nie ma mowy już o narzekaniu na brak niezbędnego softu. Każdy kto używał przez dłuższy czas okienek od Microsoftu, wie iż są one warte swojej ceny i spisują się rewelacyjnie.
 
-Nokia dodatkowo zadbała o to, aby użytkownik Lumii był wynagrodzony za wybór ich sprzętu. Wiele ekskluzywnych aplikacji sprawiło, iż nie bez przypadku Lumię są najczęściej wybieranymi smartfonami z WP7. &quot;Fińscy&quot; developerzy dodają wiele ciekawych funkcji, których Windows Phone w innych słuchawkach nie ma.
+Nokia dodatkowo zadbała o to, aby użytkownik Lumii był wynagrodzony za wybór ich sprzętu. Wiele ekskluzywnych aplikacji sprawiło, iż nie bez przypadku Lumię są najczęściej wybieranymi smartfonami z WP7. "Fińscy" developerzy dodają wiele ciekawych funkcji, których Windows Phone w innych słuchawkach nie ma.
 
 Ważnym punktem jest również aktualizacja do 7.8, przynosząca wiele zmian i nowości. Niektóre z nich naprawią stare dolegliwości (brak przesyłania przez Bluetooth, wyłączani WiFi przy zablokowanym ekranie) i doda nowości z Windows Phone 8 (ekran startowy, tapety z Bing). Dołączając wsparcie przedłużone o kolejne 18 miesięcy, otrzymamy ciekawe urządzenie, które jest bardzo atrakcyjne na rynku. Najmocniejszy nowy model Lumi z WP7 można już kupić poniżej 1000zł. Za tą cenę otrzymamy świetny smartfon od strony technicznej z nowoczesnym systemem, który będzie dalej ulepszany i wspierany. Szczególnie, iż aplikacje napisane na WP7 ruszą bez problemu na WP8 (nie licząc gier, niestety). Z drugiej strony najtańsza słuchawka z nowym Windows Phone 8 kosztuje 1300zł (wspomniane już HTC 8S). Czy w takim razie wybór Lumii 900 jest nadal opłacalny? To zależy. Otóż HTC 8S dostępny ma być od grudnia/stycznia (?) zapewne potrwa to jeszcze zanim będzie można go kupić bez większych problemów. Jeśli porównamy hardware, to wyjdzie, iż Lumia 900 posiada lepszy sprzęt (procesor  dwurdzeniowy 1GHz vs jednordzeniowy 1.4Ghz) i wielka szkoda, że nie można będzie sprawdzić jakby działały na nim nowe okienka. Myślę, że to kwestia czasu i zapewne ludzie na XDA coś będą mogli z tym fantem zrobić. Kupno zatem nie jest niczym szalonym. Warto zapoznać się z tym smartfonem. Na pewno nie poczujecie się zawiedzeni, a wręcz zaskoczeni tym co oferuje Nokia Lumia 900. Nowości w 7.8 zwiększą satysfakcję płynącą z pracy z systemem. Warto się zastanowić!

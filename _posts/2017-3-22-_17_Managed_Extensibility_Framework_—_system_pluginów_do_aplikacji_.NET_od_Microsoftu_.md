@@ -3,7 +3,7 @@ layout:     post
 title:      Managed Extensibility Framework — system pluginów do aplikacji .NET od Microsoftu 
 date:       2017-03-22 16:42:00
 summary:    W poprzednim wpisie pokazałem jak szybko stworzyć własne okienko w Visual Studio (timer w okienku IDE). Dziś opiszę MEF, czyli framework do tworzenia lekkich aplikacji i pisania rozszerzeń do nich. To właśnie na nim opiera się IDE od Microsoftu.MEF w teoriiObecnie MEF (Managed Extensibility Framewor...
-categories: windows porady programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -73,9 +73,7 @@ namespace MEFExample
 {
     class Program
     {
-        static void Main(string
-```
- args)
+        static void Main(string[] args)
         {
             HostApp hostApp = new HostApp();
             hostApp.Start();
@@ -84,7 +82,9 @@ namespace MEFExample
         }
     }
 }
-[/code]
+
+```
+
 
 Stwórzmy zatem prosty interface do pluginu, a także jego implementację.
 
@@ -110,19 +110,19 @@ using System.ComponentModel.Composition;
 
 namespace MEFExample
 {
-    
-```
-
+    [Export(typeof(IMessagePlugin))]
     public class MessagePlugin : IMessagePlugin
     {
         public string GetMessage()
         {
-            return &quot;Message from plugin&quot;;
+            return "Message from plugin";
         }
     }
 }
 
-[/code]
+
+```
+
 
 W ty miejscu nasza implementacja pluginu jest oznaczona atrybutem  *Export* . Oznacza to tyle, że eksportujemy nasz kod (implementację) do kontenera.
 
@@ -139,9 +139,7 @@ namespace MEFExample
 {
     public class HostApp
     {
-        
-```
-
+        [Import]
         public IMessagePlugin MessageToClient { get; set; }
 
         public void Start()
@@ -159,7 +157,9 @@ namespace MEFExample
         }
     }
 }
-[/code]
+
+```
+
 
 Zauważmy dwa ważne elementy: atrybut  *Import*  i metodę  *Compose* . Dodanie atrybutu  *Import*  zaimportuje z kontenera implementację IMessagePlugin, która została dodana wcześniej przy eksporcie. 
 

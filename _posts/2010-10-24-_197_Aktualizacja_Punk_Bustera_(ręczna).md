@@ -2,8 +2,8 @@
 layout:     post
 title:      Aktualizacja Punk Bustera (ręczna)
 date:       2010-10-24 12:42:00
-summary:    WstępWitam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z &quot;niewiadomych&quot; przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wers...
-categories: oprogramowanie porady gry
+summary:    WstępWitam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z "niewiadomych" przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wersji.Jest to...
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -16,11 +16,11 @@ categories: oprogramowanie porady gry
 
 
 Witam, kilka osób było zainteresowanych sposobem ręcznej aktualizacja Punk Bustera. 
-Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z &quot;niewiadomych&quot; przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wersji.
+Temat jest dość ważny dla graczy (w moim przypadku CoD4), gdyż często z "niewiadomych" przyczyn Punk Buster dostarczony z grą ,w wielu przypadkach nie jest w stanie zaktualizować się do najnowszej wersji.
 
 Jest to bezpośredni powód powstawania lagów w grze lub/oraz niemożności podłączenia się do serwerów wymagających nowszej wersji Punk Bustera, gdyż aktualizacja Punk Bustera próbuje cały czas ściągnąć nowszą wersję. 
 
-Małe śledztwo doprowadziło do odkrycie ciekawej zależności. Otóż problemem może być to, iż starsza wersja Punk Bustera &quot;nie pozwala&quot; się odinstalować. Gdyż zarówno PnkBstrA i PnkBstrB są usługami systemu Windows.
+Małe śledztwo doprowadziło do odkrycie ciekawej zależności. Otóż problemem może być to, iż starsza wersja Punk Bustera "nie pozwala" się odinstalować. Gdyż zarówno PnkBstrA i PnkBstrB są usługami systemu Windows.
 
 
 
@@ -71,10 +71,10 @@ Z oficjalnej strony Punk Bustera ściągamy program PBSetup, do automatycznej ak
 5. 
 
 Uruchamiamy ściągnięty program i dodajemy grę dla jakiej chcemy zaktualizować/zainstalować Punk Bustera:
-- klikamy &quot;Add Game&quot; (A)
+- klikamy "Add Game" (A)
 - z listy rozwijanej, w nowo otwartym oknie, wybieramy grę (B) 
-- klikamy na &quot;Add Game&quot; (C) 
-- klikamy na &quot;Check for Updates&quot; (D) 
+- klikamy na "Add Game" (C) 
+- klikamy na "Check for Updates" (D) 
 PBSetup powinien sam ściągnąć nową wersje Punk Bustera i aktualizacje
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      &quot;Amerykański sen&quot; Microsoftu, na którym traci Windows Phone
 date:       2013-03-19 09:09:00
 summary:    Do poniższych przemyśleń doszedłem w ostatnim czasie, po publikacji danych na temat regionalizacji w ekosystemie Windows Phone. Są to dwie, ważne informacje. Szczególnie ważne dla nas, użytkowników z Polski (jak i wszystkich spoza USA). Microsoft jako cel postawił sobie zawojowanie rynku USA. To wid...
-categories: oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -24,7 +24,7 @@ Microsoft jako cel postawił sobie zawojowanie rynku USA. To widać od początku
 
 
 
-Otóż urządzenia z [Windows Phone 7](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html) nie miały nawet polskiego interfejsu, czy klawaitury. Co było dość uciążliwe z oczywistych względów. Te pojawiły się dopiero rok po premierze, wraz z wydaniem dużej aktualizacji do [7.5 tzw. Mango](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html). Oczywiście to nie koniec przykładów jak Microsoft traktuje klientów spoza USA. Linia Windows Phone 7.x ma nadal kilka małych &quot;dodatków&quot;, które świadczą jak producent mobilnych okienek podchodzi do klientów. Nadal bez zmiany wyszukiwania na język angielski (co nie ponosi za sobą żadnych zmian w języku interfejsu) okienko wyszukiwania jest desktopową wersją binga ze zbyt szerokim obrazkiem (wygląda to tragicznie, co pokazane jest na poniższych screenach).
+Otóż urządzenia z [Windows Phone 7](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html) nie miały nawet polskiego interfejsu, czy klawaitury. Co było dość uciążliwe z oczywistych względów. Te pojawiły się dopiero rok po premierze, wraz z wydaniem dużej aktualizacji do [7.5 tzw. Mango](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html). Oczywiście to nie koniec przykładów jak Microsoft traktuje klientów spoza USA. Linia Windows Phone 7.x ma nadal kilka małych "dodatków", które świadczą jak producent mobilnych okienek podchodzi do klientów. Nadal bez zmiany wyszukiwania na język angielski (co nie ponosi za sobą żadnych zmian w języku interfejsu) okienko wyszukiwania jest desktopową wersją binga ze zbyt szerokim obrazkiem (wygląda to tragicznie, co pokazane jest na poniższych screenach).
 
 
 
@@ -53,7 +53,7 @@ Ktoś powie, ale przecież powstał nowy Windows Phone 8! Tak, ale w tym przypad
 
 W nowych mobilnych okienkach nie ma już większości wad, jakie były w Windows Phone 7.x. Mamy już w pełni polski system z głosowym sterowaniem. Okno wyszukiwania i dodatkowe funkcje są również w naszym języku wyszukiwania. To zostało nam, użytkownikom z Polski i nie tylko, dane wraz z nowym systemem.
 
-Oczywiście to byłoby zbyt piękne, jakby Microsoft, ponownie nie faworyzował użytkowników z USA. Reklamowana funkcja Data Sense, która pozwala na zbieranie szczegółowych informacji o użyciu transferu danych i wielu świetnych funkcjach została... exclusivem amerykańskiej sieci Verizon! Dodatkowo trwają prace nad zaimplementowaniem Data Sense dla AT&amp;T, oczywiście w USA! Jak dla mnie to totalny żart z osób spoza USA. Nawet regionalne ograniczenia dla aplikacji można przeboleć, ale ograniczenie jednej z ważniejszych funkcjonalności? Nawet Nokia z Windows Phone 7.x ma trywialny licznik danych!
+Oczywiście to byłoby zbyt piękne, jakby Microsoft, ponownie nie faworyzował użytkowników z USA. Reklamowana funkcja Data Sense, która pozwala na zbieranie szczegółowych informacji o użyciu transferu danych i wielu świetnych funkcjach została... exclusivem amerykańskiej sieci Verizon! Dodatkowo trwają prace nad zaimplementowaniem Data Sense dla AT&T, oczywiście w USA! Jak dla mnie to totalny żart z osób spoza USA. Nawet regionalne ograniczenia dla aplikacji można przeboleć, ale ograniczenie jednej z ważniejszych funkcjonalności? Nawet Nokia z Windows Phone 7.x ma trywialny licznik danych!
 
 
 
@@ -94,4 +94,4 @@ Cóż widzimy? Angielski wcale nie ma jakieś ogromnej przewagi nad pozostałymi
 
 
 
-Microsoft powinien ocknąć się jak najszybciej z &quot;amerykańskiego snu&quot; i to nie tylko w kwestii Windows Phone (promocje i dostępność aplikacji w Xbox Live dla Xboxa 360, pakiety i zniżki dla Windows). Inaczej Windows Phone, zostanie jedynie marginalnym systemem w USA...
+Microsoft powinien ocknąć się jak najszybciej z "amerykańskiego snu" i to nie tylko w kwestii Windows Phone (promocje i dostępność aplikacji w Xbox Live dla Xboxa 360, pakiety i zniżki dla Windows). Inaczej Windows Phone, zostanie jedynie marginalnym systemem w USA...

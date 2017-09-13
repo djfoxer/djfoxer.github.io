@@ -3,7 +3,7 @@ layout:     post
 title:      Android Wear — emulator w Visual Studio i pierwsza aplikacja w Xamarinie (C#)
 date:       2016-08-29 18:41:00
 summary:    Testy Motoroli Moto 360 2 w akcji Lenovo pokazały spory potencjał w aplikacjach na Android Wear. Zupełnym przypadkiem od jakiegoś już czasu grzebię się w Xamarinie, czyli platformie skierowanej do programistów .NET (C#) do tworzenia multiplatformowych aplikacji (nie tylko mobilnych). Z czystej cieka...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -67,9 +67,9 @@ Przyszedł zatem czas na konfigurację emulatora Android Wear pod Visual Studio.
 
 
 
-Wybieramy dowolne urządzenie z Android Wear. Ze względu na to, że przyzwyczaiłem się już do okrągłego ekranu Moto 360 zaznaczam: Android Wear Round. Teraz stworzymy nową &quot;maszynę wirtualną&quot; na podstawie definicji zaznaczanego urządzenia klikając na przycisk &quot;Create AVD...&quot;
+Wybieramy dowolne urządzenie z Android Wear. Ze względu na to, że przyzwyczaiłem się już do okrągłego ekranu Moto 360 zaznaczam: Android Wear Round. Teraz stworzymy nową "maszynę wirtualną" na podstawie definicji zaznaczanego urządzenia klikając na przycisk "Create AVD..."
 
-W nowym oknie sprawdzamy, czy mamy żądaną wersję Androida i urządzenia (w tym przypadku Android 7.0 i Android Wear). Musimy także wybrać odpowiedni skin emulatora i wersję procesora pod Android Wear, o tym ostatnim za chwilę. Warto zaznaczyć także &quot;Use Host GPU&quot;, w moim przypadku brak tej opcji powodował nieprawidłowe wyświetlanie ekranu urządzenia  na emulatorze. 
+W nowym oknie sprawdzamy, czy mamy żądaną wersję Androida i urządzenia (w tym przypadku Android 7.0 i Android Wear). Musimy także wybrać odpowiedni skin emulatora i wersję procesora pod Android Wear, o tym ostatnim za chwilę. Warto zaznaczyć także "Use Host GPU", w moim przypadku brak tej opcji powodował nieprawidłowe wyświetlanie ekranu urządzenia  na emulatorze. 
 
 
 
@@ -94,7 +94,7 @@ bcdedit /set hypervisorlaunchtype off
 ```
 
 
-Dodatkowo musimy mieć HAXM (Intel&#174; Hardware Accelerated Execution Manager). Silnik wirtualizacji pobieramy tutaj: [Intel&#174; HAXM](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager). Wszsytko było by piękne gdyby nie to, że wersja HAXM w obecnej wersji (6.0.3) gryzie się z Windows 10 Anniversary Update! Na daną chwilę, osoby z najnowszą aktualizacją do Windows 10, nie są w stanie skorzystać z HAXM, a co za tym idzie uruchomić emulatora bazującego na Intel Atom. Niestety w takim przypadku zostaje tylko wybór wolniejszego emulatora ARM.
+Dodatkowo musimy mieć HAXM (Intel® Hardware Accelerated Execution Manager). Silnik wirtualizacji pobieramy tutaj: [Intel® HAXM](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager). Wszsytko było by piękne gdyby nie to, że wersja HAXM w obecnej wersji (6.0.3) gryzie się z Windows 10 Anniversary Update! Na daną chwilę, osoby z najnowszą aktualizacją do Windows 10, nie są w stanie skorzystać z HAXM, a co za tym idzie uruchomić emulatora bazującego na Intel Atom. Niestety w takim przypadku zostaje tylko wybór wolniejszego emulatora ARM.
 
 
 
@@ -109,7 +109,7 @@ Jeśli wszystko zrobiliśmy poprawnie, wówczas na pierwszej zakładce Android V
 
 
 
-Wystarczy tylko kliknąć na &quot;Start&quot; i &quot;Launch&quot;, aby uruchomić nasz nowiutki emulator Android Wear:
+Wystarczy tylko kliknąć na "Start" i "Launch", aby uruchomić nasz nowiutki emulator Android Wear:
 
 
 
@@ -168,6 +168,6 @@ Pierwsze uruchomienie może trochę potrwać. IDE wrzuci na Android Wear prócz 
 ## Podsumowanie
 
 
-Android Wear to dość świeża platforma, tym bardziej framework na Xamarina to niezmiernie nowa odnoga na tej platformie. Warto dodać, że aplikacje na Android Wear można pisać w C# tylko w czystym Xamarinie, nie użyjemy tutaj Xamarin.Forms. Postawienie emulatora może sprawić trochę problemów, ale uważam, że warto. Chętni powinni spróbować swoich sił z aplikacjami na Android Weara już teraz. Aplikacje na zegarek używają wielu tych samych kontrolek, co zwykłe aplikacja na Androida. W większości przypadków apki na Android Wear współpracować będę z tymi &quot;większymi&quot; na smartfonie. Do wymianach danych pomiędzy nimi służy Data API i Message API, ale to już temat na inny wpis...
+Android Wear to dość świeża platforma, tym bardziej framework na Xamarina to niezmiernie nowa odnoga na tej platformie. Warto dodać, że aplikacje na Android Wear można pisać w C# tylko w czystym Xamarinie, nie użyjemy tutaj Xamarin.Forms. Postawienie emulatora może sprawić trochę problemów, ale uważam, że warto. Chętni powinni spróbować swoich sił z aplikacjami na Android Weara już teraz. Aplikacje na zegarek używają wielu tych samych kontrolek, co zwykłe aplikacja na Androida. W większości przypadków apki na Android Wear współpracować będę z tymi "większymi" na smartfonie. Do wymianach danych pomiędzy nimi służy Data API i Message API, ale to już temat na inny wpis...
 
 

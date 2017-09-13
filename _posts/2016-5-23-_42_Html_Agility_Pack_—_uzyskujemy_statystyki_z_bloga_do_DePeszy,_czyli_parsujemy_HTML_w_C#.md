@@ -3,7 +3,7 @@ layout:     post
 title:      Html Agility Pack — uzyskujemy statystyki z bloga do DePeszy, czyli parsujemy HTML w C#
 date:       2016-05-23 16:57:00
 summary:    Portalowa aplikacja DePesza jest już od jakiegoś czasu w Sklepie Windows. Prace nad doszlifowaniem programu i dodaniem nowych elementów trwają i jeszcze przed końcem maja pojawi się w markecie nowa wersja. Dziś jednak chciałbym przedstawić mały element, który zostanie dodany w kolejnym wydaniu DePes...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -94,43 +94,41 @@ Kod podzielony jest na dwie główne metody. Pierwsza część odpowiedzialna je
 
 ```csharp
 
-public async Task&lt;List&lt;Post&gt;&gt; GetBlogMainStatistics(int pageNo, List&lt;Post&gt; postLink, HttpClient httpClient)
+public async Task<List<Post>> GetBlogMainStatistics(int pageNo, List<Post> postLink, HttpClient httpClient)
 {
 
-    var request = new HttpRequestMessage(HttpMethod.Get, new Uri(Const.BlogPrefix + pageNo + &quot;.html&quot;));
+    var request = new HttpRequestMessage(HttpMethod.Get, new Uri(Const.BlogPrefix + pageNo + ".html"));
     var response = await httpClient.SendRequestAsync(request);
 
     HtmlDocument doc = new HtmlDocument();
     doc.LoadHtml(await response.Content.ReadAsStringAsync());
 
-    var divWithLinks = doc.DocumentNode.Descendants(&quot;div&quot;)
-            .Where(d =&gt; d.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-            d.Attributes
-```
-.Value.Contains(&quot;contentText&quot;))
+    var divWithLinks = doc.DocumentNode.Descendants("div")
+            .Where(d => d.Attributes.Contains("class") &&
+            d.Attributes["class"].Value.Contains("contentText"))
             .FirstOrDefault();
     if (divWithLinks != null)
     {
-        int lastOrderId = postLink.Select(x =&gt; x.OrderId).LastOrDefault();
+        int lastOrderId = postLink.Select(x => x.OrderId).LastOrDefault();
 
-        divWithLinks.Descendants(&quot;tr&quot;).ToList().ForEach(x =&gt;
+        divWithLinks.Descendants("tr").ToList().ForEach(x =>
         {
-            var elemA = x.Descendants(&quot;a&quot;).FirstOrDefault();
-            var elemSpan = x.Descendants(&quot;span&quot;).FirstOrDefault();
+            var elemA = x.Descendants("a").FirstOrDefault();
+            var elemSpan = x.Descendants("span").FirstOrDefault();
 
-            if (elemA != null &amp;&amp; elemSpan != null)
+            if (elemA != null && elemSpan != null)
             {
                 var newPost = new Post()
                 {
                     Title = elemA.InnerText,
-                    Url = elemA.Attributes[&quot;href&quot;].Value,
+                    Url = elemA.Attributes["href"].Value,
                     IsPublished = elemSpan.InnerText == Const.PostStatusPublished,
-                    IsHomePage = elemSpan.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-                        elemSpan.Attributes[&quot;class&quot;].Value.Contains(Const.PostHomePage),
+                    IsHomePage = elemSpan.Attributes.Contains("class") &&
+                        elemSpan.Attributes["class"].Value.Contains(Const.PostHomePage),
                     OrderId = ++lastOrderId
                 };
                 newPost.Id = newPost.Url
-                    .Split(new string[] { &quot;,&quot;, &quot;.html&quot; }, StringSplitOptions.RemoveEmptyEntries)
+                    .Split(new string[] { ",", ".html" }, StringSplitOptions.RemoveEmptyEntries)
                         .Reverse().First();
                 postLink.Add(newPost);
             }
@@ -139,23 +137,25 @@ public async Task&lt;List&lt;Post&gt;&gt; GetBlogMainStatistics(int pageNo, List
         });
     }
 
-    var nextLink = doc.DocumentNode.Descendants(&quot;div&quot;)
-        .Where(d =&gt; d.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-            d.Attributes[&quot;class&quot;].Value.Contains(&quot;controls&quot;))
+    var nextLink = doc.DocumentNode.Descendants("div")
+        .Where(d => d.Attributes.Contains("class") &&
+            d.Attributes["class"].Value.Contains("controls"))
             .FirstOrDefault();
  
-    var nextUrl = (Const.BlogPrefix + (pageNo + 1) + &quot;.html&quot;);
+    var nextUrl = (Const.BlogPrefix + (pageNo + 1) + ".html");
  
-    if (nextLink != null &amp;&amp; nextLink.Descendants(&quot;a&quot;).Where(a =&gt; 
-    a.Attributes.Contains(&quot;href&quot;) &amp;&amp;
-    a.Attributes[&quot;href&quot;].Value == nextUrl).Count() &gt; 0)
+    if (nextLink != null && nextLink.Descendants("a").Where(a => 
+    a.Attributes.Contains("href") &&
+    a.Attributes["href"].Value == nextUrl).Count() > 0)
     {
         await GetBlogMainStatistics((pageNo + 1), postLink, httpClient);
     }
 
     return postLink;
 }
-[/code]
+
+```
+
 
 
 
@@ -168,7 +168,7 @@ Omówmy teraz funkcję  *GetBlogMainStatistics* . Na początku pobieramy poprzez
 
 ```csharp
 
-&quot;http://www.dobreprogramy.pl/MojBlog,&quot; + pageNo + &quot;.html&quot;
+"http://www.dobreprogramy.pl/MojBlog," + pageNo + ".html"
 
 ```
 
@@ -189,13 +189,13 @@ W kolejnym kroku tworzymy zapytanie LINQ, które pobierze główny element ( *di
 
 ```csharp
 
-var divWithLinks = doc.DocumentNode.Descendants(&quot;div&quot;)
-            .Where(d =&gt; d.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-            d.Attributes
-```
-.Value.Contains(&quot;contentText&quot;))
+var divWithLinks = doc.DocumentNode.Descendants("div")
+            .Where(d => d.Attributes.Contains("class") &&
+            d.Attributes["class"].Value.Contains("contentText"))
             .FirstOrDefault();
-[/code]
+
+```
+
 
 Zapytanie w LINQ wygląda znacznie przyjemniej niż gdybyśmy używali XPatha. Korzeniem jest DocumentNode, z którego pobieramy wszystkich potomków, którzy są elementami  *div* . Szukamy elementów  *div* , które posiadają atrybut  *classs* , a w nim wartość  *contentText* . Na tym schemacie opiera się całość działań na danym dokumencie HTML.
 
@@ -204,35 +204,35 @@ Teraz będąc w głównym elemencie  *div*  pobieramy wszystkie wpisy na stronie
 
 ```csharp
 
-int lastOrderId = postLink.Select(x =&gt; x.OrderId).LastOrDefault();
+int lastOrderId = postLink.Select(x => x.OrderId).LastOrDefault();
 
-divWithLinks.Descendants(&quot;tr&quot;).ToList().ForEach(x =&gt;
+divWithLinks.Descendants("tr").ToList().ForEach(x =>
 {
-    var elemA = x.Descendants(&quot;a&quot;).FirstOrDefault();
-    var elemSpan = x.Descendants(&quot;span&quot;).FirstOrDefault();
+    var elemA = x.Descendants("a").FirstOrDefault();
+    var elemSpan = x.Descendants("span").FirstOrDefault();
 
-    if (elemA != null &amp;&amp; elemSpan != null)
+    if (elemA != null && elemSpan != null)
     {
         var newPost = new Post()
         {
             Title = elemA.InnerText,
-            Url = elemA.Attributes
-```
-.Value,
+            Url = elemA.Attributes["href"].Value,
             IsPublished = elemSpan.InnerText == Const.PostStatusPublished,
-            IsHomePage = elemSpan.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-                elemSpan.Attributes[&quot;class&quot;].Value.Contains(Const.PostHomePage),
+            IsHomePage = elemSpan.Attributes.Contains("class") &&
+                elemSpan.Attributes["class"].Value.Contains(Const.PostHomePage),
             OrderId = ++lastOrderId
         };
         newPost.Id = newPost.Url
-         .Split(new string[] { &quot;,&quot;, &quot;.html&quot; }, StringSplitOptions.RemoveEmptyEntries)
+         .Split(new string[] { ",", ".html" }, StringSplitOptions.RemoveEmptyEntries)
                 .Reverse().First();
         postLink.Add(newPost);
     }
 
 
 });
-[/code]
+
+```
+
 
 Z każdego elementu  *tr*  uzyskujemy nazwę wpisu, adres, a także status wpisu. Z adresu url można także  wydobyć Id wpisu. Link jest ustandaryzowany i wygląda tak:
 
@@ -240,7 +240,7 @@ Z każdego elementu  *tr*  uzyskujemy nazwę wpisu, adres, a także status wpisu
 
 ```csharp
 
-&quot;http://www.dobreprogramy.pl/Blog,Edycja,&quot;+ID_WPISU&quot;+.html&quot;
+"http://www.dobreprogramy.pl/Blog,Edycja,"+ID_WPISU"+.html"
 
 ```
 
@@ -250,22 +250,22 @@ Funkcja  *GetBlogMainStatistics*  jest rekurencyjna i warunek stopu jest sprawdz
 
 ```csharp
 
-var nextLink = doc.DocumentNode.Descendants(&quot;div&quot;)
-    .Where(d =&gt; d.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-        d.Attributes
-```
-.Value.Contains(&quot;controls&quot;))
+var nextLink = doc.DocumentNode.Descendants("div")
+    .Where(d => d.Attributes.Contains("class") &&
+        d.Attributes["class"].Value.Contains("controls"))
         .FirstOrDefault();
 
-var nextUrl = (Const.BlogPrefix + (pageNo + 1) + &quot;.html&quot;);
+var nextUrl = (Const.BlogPrefix + (pageNo + 1) + ".html");
 
-if (nextLink != null &amp;&amp; nextLink.Descendants(&quot;a&quot;).Where(a =&gt; 
-a.Attributes.Contains(&quot;href&quot;) &amp;&amp;
-a.Attributes[&quot;href&quot;].Value == nextUrl).Count() &gt; 0)
+if (nextLink != null && nextLink.Descendants("a").Where(a => 
+a.Attributes.Contains("href") &&
+a.Attributes["href"].Value == nextUrl).Count() > 0)
 {
     await GetBlogMainStatistics((pageNo + 1), postLink, httpClient);
 }
-[/code]
+
+```
+
 
 W ten sposób uzyskamy listę z blogami. Kolejnym etapem jest przejrzenie jej i pobranie każdej strony z edycją wpisu, aby uzyskać dane odnośnie liczby wyświetleń i komentarzy.
 
@@ -280,7 +280,7 @@ Cała funkcja jest znacznie prostsza niż poprzednia:
 
 ```csharp
 
-public async Task&lt;List&lt;Post&gt;&gt; GetBlogCounters(List&lt;Post&gt; postLink, HttpClient httpClient)
+public async Task<List<Post>> GetBlogCounters(List<Post> postLink, HttpClient httpClient)
 {
     HtmlDocument doc = new HtmlDocument();
 
@@ -291,27 +291,27 @@ public async Task&lt;List&lt;Post&gt;&gt; GetBlogCounters(List&lt;Post&gt; postL
 
         doc.LoadHtml(await response.Content.ReadAsStringAsync());
 
-        var details = doc.DocumentNode.Descendants(&quot;section&quot;)
-            .Where(d =&gt; d.Attributes.Contains(&quot;class&quot;) &amp;&amp;
-            d.Attributes
-```
-.Value.Contains(&quot;user-info&quot;)).LastOrDefault();
+        var details = doc.DocumentNode.Descendants("section")
+            .Where(d => d.Attributes.Contains("class") &&
+            d.Attributes["class"].Value.Contains("user-info")).LastOrDefault();
         if (details != null)
         {
-            var divs = details.Descendants(&quot;div&quot;).ToList();
-            if (divs.Count &gt;= 12)
+            var divs = details.Descendants("div").ToList();
+            if (divs.Count >= 12)
             {
                 post.VisitorsCounter = int.Parse(divs[9].InnerText);
                 post.CommentsCounter = int.Parse(divs[12].InnerText);
                 post.DateLastModification = DateTime.ParseExact(divs[5].InnerText, 
-                    &quot;dd.MM.yyyy HH:mm&quot;, CultureInfo.InvariantCulture);
+                    "dd.MM.yyyy HH:mm", CultureInfo.InvariantCulture);
             }
         }
     }
 
     return postLink;
 }
-[/code]
+
+```
+
 
 
 

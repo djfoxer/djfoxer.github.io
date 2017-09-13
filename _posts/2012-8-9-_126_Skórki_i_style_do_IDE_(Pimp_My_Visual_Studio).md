@@ -2,13 +2,13 @@
 layout:     post
 title:      Skórki i style do IDE (Pimp My Visual Studio)
 date:       2012-08-09 16:57:00
-summary:    Oto kolejny wpis z wakacyjnej serii: &quot;Pimp My Visual Studio&quot;. Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu...
-categories: windows porady programowanie
+summary:    Oto kolejny wpis z wakacyjnej serii: "Pimp My Visual Studio". Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!Dark VS L...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
 
-Oto kolejny wpis z wakacyjnej serii: &quot;Pimp My Visual Studio&quot;. Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!
+Oto kolejny wpis z wakacyjnej serii: "Pimp My Visual Studio". Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!
 
 
 
@@ -54,9 +54,9 @@ Na szczęście w sieci jest strona, która zawiera ogromną bazę ustawień kolo
 
 Dzięki stronie [StudioStyles](http://studiostyl.es/) możemy całkowicie zmienić kolor edytora. Są tak zarówno jasne, jak i ciemne style. Każdy znajdzie coś dla siebie. 
 
-Przed importem nowego stylu, warto zrobić kopię obecnych ustawień ( *Tools -&gt; Import and Export Settings... -&gt; Export selected environment settings* ).
+Przed importem nowego stylu, warto zrobić kopię obecnych ustawień ( *Tools -> Import and Export Settings... -> Export selected environment settings* ).
 
-Wybrany styl ze strony zaczytujemy poprzez:  *Tools -&gt; Import and Export Settings... -&gt; Import selected environment settings* .
+Wybrany styl ze strony zaczytujemy poprzez:  *Tools -> Import and Export Settings... -> Import selected environment settings* .
 
 
 
@@ -140,7 +140,7 @@ Dostajemy możliwość importu utworzonych skórki. Ciekawą propozycją są cie
 
  *
 
-### Dostępne &quot;odcinki&quot; Pimp My Visual Studio:
+### Dostępne "odcinki" Pimp My Visual Studio:
 
 * 
 

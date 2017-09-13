@@ -3,7 +3,7 @@ layout:     post
 title:      Magazyn Lag #2 - drugi numer, warto było czekać
 date:       2013-07-23 13:52:00
 summary:    W styczniu opisywałem pierwszy numer magazynu Lag (Lag - nowy magazyn o grach w dobie kryzysu). Od tego czasu założenia magazynu się nie zmieniły. Nadal jest to papierowy zbiór artykułów o gamingu, ze świetnymi grafikami towarzyszącymi, podanej w formie książeczki z wysokiej jakości papieru. Mogę ju...
-categories: gry inne
+categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -41,7 +41,7 @@ Oczywiście najważniejsza jest jednak treść, a zatem...
 
 
 
-Twórcy magazynu doszli do wniosku, że warto w numerze skupić się na konkretnym temacie. Tak też zrobiono i w Lag #2 przewodnim motywem są &quot;zakładnicy&quot;. Co ważne, każdy z artykułów temat ten porusza i realizuje w inny sposób. Wyszło to niezmiernie ciekawie i wciągająco. Praktycznie każdy z artykułów czyta się na jednym wdechu. Temat zakładników w magazynie przedstawia wiele płaszczyzn i punktów widzenia. Czternaście artykułów i czternaście różnych przypadków &quot;zniewolenia&quot;, od uzależnienia od gier, po ograniczenia developerów indie, czy twórców gier AAA, aż po gry w kraju, gdzie liczba palców u postaci w grach nie powinna wynosić cztery... rozrzut jest ogromny, a wszystko trzyma się kupy (choć czasem może trochę na siłę, ale nie czuć tego zbytnio) i sprawa wielką frajdę w czytaniu. 
+Twórcy magazynu doszli do wniosku, że warto w numerze skupić się na konkretnym temacie. Tak też zrobiono i w Lag #2 przewodnim motywem są "zakładnicy". Co ważne, każdy z artykułów temat ten porusza i realizuje w inny sposób. Wyszło to niezmiernie ciekawie i wciągająco. Praktycznie każdy z artykułów czyta się na jednym wdechu. Temat zakładników w magazynie przedstawia wiele płaszczyzn i punktów widzenia. Czternaście artykułów i czternaście różnych przypadków "zniewolenia", od uzależnienia od gier, po ograniczenia developerów indie, czy twórców gier AAA, aż po gry w kraju, gdzie liczba palców u postaci w grach nie powinna wynosić cztery... rozrzut jest ogromny, a wszystko trzyma się kupy (choć czasem może trochę na siłę, ale nie czuć tego zbytnio) i sprawa wielką frajdę w czytaniu. 
 
 
 

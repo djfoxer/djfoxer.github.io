@@ -3,7 +3,7 @@ layout:     post
 title:      Szybkie ćwiczenia podczas pracy przy komputerze
 date:       2017-04-28 17:30:00
 summary:    Prace nad wtyczką do Visual Studio powoli nabierają tempa. W obecnej chwili zbliżam się do wydania pierwszej wersji dodatku do marketu z pluginami do IDE od Microsoftu. Jednakże w tym wpisie przedstawię kilka prostych ćwiczeń, które znajdą się w mojej wtyczce Healthy with Visual Studio. Pomogą one w...
-categories: oprogramowanie porady programowanie
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 

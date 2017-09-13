@@ -3,7 +3,7 @@ layout:     post
 title:      ZTE Grand X IN - wady, które mogą odrzucać
 date:       2013-04-17 08:54:00
 summary:    Początki styczności z tym smartfonem są naprawdę bardzo pozytywne (ZTE Grand X IN - zaskakuje już na samym początku). Kilka wad, które zauważyłem, nie wydawały się specjalnie duże. Nowy procesor Intela, który siedzi w tym smartfonie nie może się nie podobać (Intel w Androidzie - moc i fragmentacja),...
-categories: sprzęt urządzenia mobilne inne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 

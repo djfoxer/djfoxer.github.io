@@ -3,7 +3,7 @@ layout:     post
 title:      Analiza logowania do portalu dobreprogramy.pl — uzyskujemy dostęp do zasobów użytkownika
 date:       2016-03-12 12:23:00
 summary:    Za nami już wpis odnośnie sposobu działania systemu powiadomień na portalu. Przed przystąpieniem do tworzenia kodu należy koniecznie przeanalizować jeszcze jeden, najważniejszy element tego zagadnienia - logowanie do portalu.System powiadomień, opisany wcześniej, działa na podstawie zalogowanego uży...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -28,9 +28,9 @@ System powiadomień, opisany wcześniej, działa na podstawie zalogowanego użyt
 
 
 
-Ponownie do pracy niezbędne będzie nam narzędzie deweloperskie, dostarczone wraz z przeglądarką. Zaczniemy od ciasteczka. Kiedy użytkownika podłączy się do aplikacji ASP.NET generowana jest sesja, która identyfikowana jest po unikalnym kluczu. &#211;w klucz zwracany jest dla użytkownika i przechowywany w ciasteczku w przeglądarce. Aplikacja ASP.NET wrzuca klucz w ciasteczko o nazwie:  *ASP.NET_SessionId* . 
+Ponownie do pracy niezbędne będzie nam narzędzie deweloperskie, dostarczone wraz z przeglądarką. Zaczniemy od ciasteczka. Kiedy użytkownika podłączy się do aplikacji ASP.NET generowana jest sesja, która identyfikowana jest po unikalnym kluczu. Ów klucz zwracany jest dla użytkownika i przechowywany w ciasteczku w przeglądarce. Aplikacja ASP.NET wrzuca klucz w ciasteczko o nazwie:  *ASP.NET_SessionId* . 
 
-Sesja tworzona jest już przy podłączeniu do aplikacji webowej, zatem już przed zalogowaniem otrzymujemy id sesji. Własne ciasteczko możemy podejrzeć w narzędziu deweloperskim, wchodząc na zakładkę  *Resources*  i klikając na  *Cookies -&gt; www.dobreprogramy.pl* :
+Sesja tworzona jest już przy podłączeniu do aplikacji webowej, zatem już przed zalogowaniem otrzymujemy id sesji. Własne ciasteczko możemy podejrzeć w narzędziu deweloperskim, wchodząc na zakładkę  *Resources*  i klikając na  *Cookies -> www.dobreprogramy.pl* :
 
 
 
@@ -69,7 +69,7 @@ https://ssl.dobreprogramy.pl/Logowanie.html
 
 
 
-Dostaniemy się do niej  przez link. Jest to klasyczny formularz. Zatem wpisujemy swoje dane do logowania i załóżmy, że  dodatkowo zaznaczamy opcję &quot;W przyszłości zaloguj mnie automatycznie&quot;, dzięki niej będziemy zawsze zalogowani.
+Dostaniemy się do niej  przez link. Jest to klasyczny formularz. Zatem wpisujemy swoje dane do logowania i załóżmy, że  dodatkowo zaznaczamy opcję "W przyszłości zaloguj mnie automatycznie", dzięki niej będziemy zawsze zalogowani.
 
 Załóżmy, że wpisaliśmy swoje dane i kliknęliśmy na przycisk logowania. Przejdźmy teraz na zakładkę  *Network* , aby podejrzeć co się dzieje podczas logowania do portalu (warto zaznaczyć opcję  *Preserve log* , aby przeglądarka nie czyściła logów przy przeładowaniu):
 

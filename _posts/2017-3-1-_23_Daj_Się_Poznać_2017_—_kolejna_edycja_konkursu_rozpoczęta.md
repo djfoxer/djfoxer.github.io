@@ -3,7 +3,7 @@ layout:     post
 title:      Daj Się Poznać 2017 — kolejna edycja konkursu rozpoczęta
 date:       2017-03-01 20:16:00
 summary:    Przyszedł marzec, a wraz z nim kolejna edycja programistycznego konkursu Daj Się Poznać 2017. Każdy kto koduje i chce podjąć wyzwanie, powinien jak najszybciej zgłosić się do omawianego współzawodnictwa wśród deweloperskiej braci :) Daj Się Poznać 2017Czym jest ów konkurs? To nie lada wyzwania dla k...
-categories: porady programowanie hobby
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Niezbędne, &quot;zakazane&quot; aplikacje do Windows Phone 7.5
 date:       2012-10-24 15:45:00
 summary:    Świat Windows Phone i nie tylko, czeka z niecierpliwością na nowe wcielenie systemu w wersji 8.  Aby umilić czas, przygotowałem kolejną porcję aplikacji, których nie sposób znaleźć w Marketplace. Przedstawione niżej programy, rozszerzają możliwość konfiguracji Windows Phone, a także dodają nowe funk...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -44,15 +44,15 @@ WinTT jest jednym z pierwszych tweakerów jakie powstały na Windows Phone. Ofer
 - włączenie dostępu do Marketplace/Muzyki/Wideo podczas synchronizacji z Zune
 - wymuszenie wyszukania aktualizacji dla zainstalowanych aplikacji
 - dodatkowe opcje prywatności dla IE
-- wyłączyć &quot;usypianie&quot; aplikacji, które przechodzą do działania w tle (kosztem pamięci), przykład:
+- wyłączyć "usypianie" aplikacji, które przechodzą do działania w tle (kosztem pamięci), przykład:
 [youtube=http://www.youtube.com/watch?v=GNSKQG4cgD8]
 
 
 
 
- *OEM Market*  - zakładka, z której ustawiamy, jaki Marketplace OEMowy ma się wyświetlać na naszym urządzeniu (Nokia, Dell, Samsung, HTC, LG, Acer, Fujitsu, ZTE). Radzę uważać z zabawą w tym menu. Otóż zdarzają się przypadki (było tak też na moim LG, po ustawieniu Marketplace Noki), iż  certyfikat na urządzeniu &quot;zwariował&quot; i nie pozwalał na uruchomienie żadnej aplikacji pochodzącej z Marketpalce! Zazwyczaj nie wstępuje to natychmiast, ale najczęściej po kilku dniach/tygodniach działania na niezmienionym, nieoryginalnym Marketplace.
+ *OEM Market*  - zakładka, z której ustawiamy, jaki Marketplace OEMowy ma się wyświetlać na naszym urządzeniu (Nokia, Dell, Samsung, HTC, LG, Acer, Fujitsu, ZTE). Radzę uważać z zabawą w tym menu. Otóż zdarzają się przypadki (było tak też na moim LG, po ustawieniu Marketplace Noki), iż  certyfikat na urządzeniu "zwariował" i nie pozwalał na uruchomienie żadnej aplikacji pochodzącej z Marketpalce! Zazwyczaj nie wstępuje to natychmiast, ale najczęściej po kilku dniach/tygodniach działania na niezmienionym, nieoryginalnym Marketplace.
 
- *Shortcuts*  - możliwość dodania skrótów do głównego ekranu. Bez otwierania zbędnych okien, naciskając na skrót, włączymy/wyłączymy daną opcję &quot;w locie&quot;. Dostępne mamy: WiFi, GPS, Udostępnianie Internetu, BT, Tryb samolotowy, Dane pakietowe, Oszczędzanie baterii oraz najbardziej przydatne: włączenie dostępu do Marketplace/Muzyki/Wideo podczas synchronizacji z Zune.
+ *Shortcuts*  - możliwość dodania skrótów do głównego ekranu. Bez otwierania zbędnych okien, naciskając na skrót, włączymy/wyłączymy daną opcję "w locie". Dostępne mamy: WiFi, GPS, Udostępnianie Internetu, BT, Tryb samolotowy, Dane pakietowe, Oszczędzanie baterii oraz najbardziej przydatne: włączenie dostępu do Marketplace/Muzyki/Wideo podczas synchronizacji z Zune.
 
 
 
@@ -143,7 +143,7 @@ Ostatni niezbędna aplikacja dla  użytkowania z odblokowanym systemem z Windows
 
 
 
-Z pomocą przychodzi Orientation Lock. Dzięki niemu, po utworzeniu skrótu na głównym menu (lub bezpośrednio z opcji aplikacji), &quot;w locie&quot; można zablokować autorotację ekranu. Świetna i niezmiernie przydatna funkcja.
+Z pomocą przychodzi Orientation Lock. Dzięki niemu, po utworzeniu skrótu na głównym menu (lub bezpośrednio z opcji aplikacji), "w locie" można zablokować autorotację ekranu. Świetna i niezmiernie przydatna funkcja.
 
 Orientation Lock dostępny jest tylko na stronie twórcy: [windows phone hacker](http://windowsphonehacker.com/articles/orientation_lock_release-02-06-12) i wymaga jedynie odblokowania deweloperskego!
 

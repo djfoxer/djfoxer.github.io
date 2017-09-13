@@ -3,7 +3,7 @@ layout:     post
 title:      Project My Screen - udostępnianie ekranu Windows Phone 8.1 na ekran komputera po kablu USB
 date:       2014-04-19 01:48:00
 summary:    Zapewne od początku istnienia Windows Phone użytkownicy zastanawiali się w jaki sposób można przekazywać obraz ze smartfonu na ekran komputera. Atmosferę podgrzewa sam Microsoft, który przy każdej prezentacji przy użyciu urządzenia z mobilnym systemem, używał przekazywania ekranu z telefonu do aplik...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

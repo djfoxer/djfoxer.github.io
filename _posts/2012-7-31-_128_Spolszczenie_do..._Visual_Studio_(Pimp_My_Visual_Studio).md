@@ -2,13 +2,13 @@
 layout:     post
 title:      Spolszczenie do... Visual Studio (Pimp My Visual Studio)
 date:       2012-07-31 12:00:00
-summary:    Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. &quot;Pimp My Visual Studio&quot;. Cóż będzie w nich? Otóż wiele narzędzi, porad, jak &quot;odpicować&quot; Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze: spolszczeniu do Visual Studio. Zapraszam.P...
-categories: windows porady programowanie
+summary:    Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. "Pimp My Visual Studio". Cóż będzie w nich? Otóż wiele narzędzi, porad, jak "odpicować" Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze: spolszczeniu do Visual Studio. Zapraszam.Polskie wersje języko...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
 
-Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. &quot;Pimp My Visual Studio&quot;. Cóż będzie w nich? Otóż wiele narzędzi, porad, jak &quot;odpicować&quot; Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze: spolszczeniu do Visual Studio. Zapraszam.
+Sezon wakacyjny w pełni, więc postanowiłem ruszyć z nową serią wpisów pt. "Pimp My Visual Studio". Cóż będzie w nich? Otóż wiele narzędzi, porad, jak "odpicować" Visual Studio i dopasować je do własnych potrzeb. Zaczynamy! Jako pierwsze: spolszczeniu do Visual Studio. Zapraszam.
 
 
 
@@ -26,7 +26,7 @@ Przypadkiem natrafiłem w sieci na informacje, iż Microsoft wraz z Politechnik�
 
 
 
-Kiedyś śmiałem się z [SharpDevelopera](http://www.icsharpcode.net/OpenSource/SD/), gdy zobaczyłem w spolszczeniu &quot;odrobaczanie&quot;. Cóż zatem prezentuje polska wersja Visual Studio?
+Kiedyś śmiałem się z [SharpDevelopera](http://www.icsharpcode.net/OpenSource/SD/), gdy zobaczyłem w spolszczeniu "odrobaczanie". Cóż zatem prezentuje polska wersja Visual Studio?
 
 
 
@@ -39,7 +39,7 @@ Otóż spolszczenie nie jest takie złe :) Po kilku dniach pracy mogę stwierdzi
 
 Przetłumaczono praktycznie cały interface Visuala. Od menu, poprzez opisy szablonów projektów, skończywszy na kreatorach. Widać i czuć, że teksty były tworzone we współpracy z ludźmi obeznanymi w temacie. Do interpunkcji nie ma co się czepiać, bo to nie wypracowanie.  
 
-Jednakże, nie wiem jak innych, ale razi mnie słówko &quot;rozwiązanie&quot;. Otóż angielskie słowo &quot;solution&quot; nie jest łatwo przetłumaczyć na nasz język. Chyba jest to nawet niemożliwe, wg mnie można było spokojnie zostawić je w oryginalnej wersji. W ostateczności spróbować spolszczyć (&quot;solucja?&quot;). Kwestia gustu.
+Jednakże, nie wiem jak innych, ale razi mnie słówko "rozwiązanie". Otóż angielskie słowo "solution" nie jest łatwo przetłumaczyć na nasz język. Chyba jest to nawet niemożliwe, wg mnie można było spokojnie zostawić je w oryginalnej wersji. W ostateczności spróbować spolszczyć ("solucja?"). Kwestia gustu.
 
 Na szczęście słowo dubug nie zostało przetłumaczone (dzięki!). Nie wszystkie zwroty zostały przetłumaczone i miejscami jest miszmasz.
 
@@ -114,7 +114,7 @@ Dodaje kilka screenów do obejrzenia. Jeśli ktoś się zdecyduje, link jest wy�
 
  *
 
-### Dostępne &quot;odcinki&quot; Pimp My Visual Studio:
+### Dostępne "odcinki" Pimp My Visual Studio:
 
 * 
 

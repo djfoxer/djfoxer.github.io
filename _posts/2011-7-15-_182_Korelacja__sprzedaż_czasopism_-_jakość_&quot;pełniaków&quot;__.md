@@ -2,15 +2,15 @@
 layout:     post
 title:      Korelacja: sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
 date:       2011-07-15 23:12:00
-summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do &quot;badania&quot; wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępni...
-categories: hobby inne
+summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do "badania" wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość ...
+categories: <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
 
 W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.
 
-Do &quot;badania&quot; wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość sprzedanych egzemplarzy. Dodatkowo, dzięki temu, iż są to magazyny o grach, łatwiej będzie sprawdzić oceny gier, niż gdyby były to czasopisma o oprogramowaniu.
+Do "badania" wziąłem dwa czasopisma: CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość sprzedanych egzemplarzy. Dodatkowo, dzięki temu, iż są to magazyny o grach, łatwiej będzie sprawdzić oceny gier, niż gdyby były to czasopisma o oprogramowaniu.
 
  *Coś ze statystyki* 
 
@@ -19,20 +19,20 @@ Aby nie przedłużać i nie przynudzać wstępu o statystyce, krótko przedstawi
 Korelacja - siła zależność między zmiennymi
 Współczynnik korelacji Pearsona  *p*  - znormalizowana miara (-1,1) określająca siłę korelacji; -1,1 - ścisła korelacja, 0 - brak korelacji.
 Do  obliczenia współczynnika korelacji  *p* , potrzebna jest znajomość dwuwymiarowego rozkładu badanych cech dla danej populacji, a takich danych najczęściej nie posiadamy. Skutkiem tego jest, to iż korzystamy z estymatora  *r*  do oszacowania  *p*  , będącego współczynnikiem korelacji z próby.
-Z racji tego, iż próba nie jest duża, skorzystamy z rozkładu t Studenta  (&quot;uproszczony&quot;, bardzo popularny rozkład różnych statystyk, wyniki sprawdzamy w gotowej tabeli). 
+Z racji tego, iż próba nie jest duża, skorzystamy z rozkładu t Studenta  ("uproszczony", bardzo popularny rozkład różnych statystyk, wyniki sprawdzamy w gotowej tabeli). 
 Korzystając z t Studenta, ustalamy określony poziom istotności  *a*  (max. prawdopodobieństwo popełnienia błędu 1. rodzaju - odrzucenie hipotezy prawdziwej - (głównej)).
 Hipotezy - szukając korelacji, w teorii sprawdzamy dwie hipotezy tzw. zerową i alternatywną. Zerowa w danym przypadku mówi o braku korelacji, zaś alternatywna o istnieniu powiązania. Odrzucenie hipotezy zerowej, skutkuje przyjęciem hipotezy alternatywnej.
 
 Odrzucenie lub przyjęcie hipotezy, uzależniamy od wyliczonego  *t*  Studenta porównując go, z wartością  *ta*  - z tablicy t Studenta:
-  *| t | &gt;= ta*   - odrzucamy hipotezę H0
-  *| t | &lt; ta*   - brak podstaw do odrzucenia hipotezy H0
+  *| t | >= ta*   - odrzucamy hipotezę H0
+  *| t | < ta*   - brak podstaw do odrzucenia hipotezy H0
 
-Tak to wygląda &quot;na sucho&quot;. Po więcej zapraszam do genialnej książki &quot;Statystyka matematyczna modele i zadania&quot; - Jerzy Greń oraz na wikipedię ;) . 
+Tak to wygląda "na sucho". Po więcej zapraszam do genialnej książki "Statystyka matematyczna modele i zadania" - Jerzy Greń oraz na wikipedię ;) . 
 
 
  *Sprzedaż* 
 
-Na początek, wyniki sprzedaży. Nikogo nie powinny zdziwić statystyki. CD Action od lat jest liderem prasy o grach, PLAY! ociera się już o granice wypłacalności. CD Action jest bardziej miarodajny niż PLAY!, które zostało wzięte do obliczeń jedynie jako ciekawostka i jako możliwość porównania danych ze statystykami CD Action. Dodatkowo PLAY! funduje czytelnikom prócz gier, które pochodzą &quot;znikąd&quot;, to jeszcze często mają &quot;czyszczenie magazynów&quot; (pełne wersje gier z poprzednich miesięcy). Wiadomo, iż nie sprzyja to zwiększeniu sprzedaży.
+Na początek, wyniki sprzedaży. Nikogo nie powinny zdziwić statystyki. CD Action od lat jest liderem prasy o grach, PLAY! ociera się już o granice wypłacalności. CD Action jest bardziej miarodajny niż PLAY!, które zostało wzięte do obliczeń jedynie jako ciekawostka i jako możliwość porównania danych ze statystykami CD Action. Dodatkowo PLAY! funduje czytelnikom prócz gier, które pochodzą "znikąd", to jeszcze często mają "czyszczenie magazynów" (pełne wersje gier z poprzednich miesięcy). Wiadomo, iż nie sprzyja to zwiększeniu sprzedaży.
 
 
 
@@ -55,7 +55,7 @@ Korzystając z Excela (funkcja PEARSON, [wzór](http://office.microsoft.com/pl-p
 Z racji małej próby (n = 16 miesięcy), obliczamy wartość statystyki t Studenta:
  *t = (r/sqrt(1-r^2)*)sqrt(n-2) = 1,07* 
 wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,14479* 
- *|t| = 1,07 &lt; 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
+ *|t| = 1,07 < 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
 
 Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a PLAY!  (co widać na wykresie;  wiadomo ćwiczenie na początek :P )
 
@@ -85,7 +85,7 @@ wrz-10 Tom Clancy’s Rainbow Six Vegas (85), Hitman Trylogia (73, 87, 74), Ford
 paź-10 King’s Bounty: Legend (79), Cryostasis (69), Darkness Within: In Pursuit of Loath Nolder (52)
 lis-10 Dark Messiah of Might and Magic (72), Necro Vision (63), Sublustrum (63)
 gru-10 Tomb Raider: Legend (82), Lost Via Domus (52)
-sty-11 Kane &amp; Lynch: Dead Men (67), Resident Evil 4 (76)
+sty-11 Kane & Lynch: Dead Men (67), Resident Evil 4 (76)
 lut-11 Tomb Raider: Anniversary (83), Devil May Cry 3 (66)
 mar-11 Braid (90), SBK X (73), Thief Trylogia (92, 85, 87)
 kwi-11 Call of Juarez: Bound in Blood (78), Bionic Commando (69), Shaun White Snowboarding (60), Allods Online (69)
@@ -116,7 +116,7 @@ mar-11 Trine (80), Alpha Prime (59), Vivisector
 kwi-11 Warfare, Steam Slug, Grupa Błyskawicznego Reagowania
 
 
-Dane odnośnie ocen pełnych wersji zamieszczonych w PLAY! nie nadają się zbytnio do analizy. Częste &quot;czyszczenie magazynów&quot; oraz mało znane gry, uniemożliwiają wiarygodną analizę korelacji. Mimo wszystko, zebrane dane umieściłem na wykresach z danymi CD Action. 
+Dane odnośnie ocen pełnych wersji zamieszczonych w PLAY! nie nadają się zbytnio do analizy. Częste "czyszczenie magazynów" oraz mało znane gry, uniemożliwiają wiarygodną analizę korelacji. Mimo wszystko, zebrane dane umieściłem na wykresach z danymi CD Action. 
 
  *Pełniaki - średnia ocen pełnych wersji * 
 
@@ -136,7 +136,7 @@ obliczamy estymator  *r*
 obliczamy wartość statystyki t Studenta:
  *t = (r/sqrt(1-r^2)*)sqrt(n-2) = -1,65* 
 wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,14479* 
- *|t| = 1,65 &lt; 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
+ *|t| = 1,65 < 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
 
 
 
@@ -169,7 +169,7 @@ obliczamy estymator  *r*
 obliczamy wartość statystyki t Studenta:
  *t = (r/sqrt(1-r^2)*)sqrt(n-2) = -1,52* 
 wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,14479* 
- *|t| = 1,52 &lt; 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
+ *|t| = 1,52 < 2,14479 = ta*  - brak podstaw do odrzucenia hipotezy H0.
 
 
 
@@ -193,7 +193,7 @@ obliczamy estymator  *r*
 obliczamy wartość statystyki t Studenta:
  *t = (r/sqrt(1-r^2)*)sqrt(n-2) = -2,80* 
 wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,14479* 
- *|t| = 2,80 &gt; 2,14479 = ta*  - odrzucamy hipotezę H0, o braku korelacji.
+ *|t| = 2,80 > 2,14479 = ta*  - odrzucamy hipotezę H0, o braku korelacji.
 
 Bingo! Trafiony zatopiony. 
 Podsumowując ten krok: możemy założyć, iż istnieje korelacja (powiązanie), pomiędzy sprzedażą magazynów z grami (na przykładzie CD Action), a najwyżej ocenianą grą z danego miesiąca.
@@ -217,7 +217,7 @@ Jeśli czasopismo zamieszcza pełną wersję gry, która posiada bardzo wysokie 
 (Patrz: sprzedaż (Wykres 1) / maksymalna ocena (Wykres nr 4) za miesiąc: marzec 2010, czerwiec 2010, grudzień 2010, marzec 2011 - dobre oceny maksymalne - słaba sprzedaż).
 
 Co w takim razie dzieje się z drugiej strony?
-Sprzedaż gier &quot;średnich&quot; (ale nie &quot;kaszanek&quot; jak w PLAY!) powoduje wzrost sprzedaży (patrz wykresy 1 i 4 za miesiąc: luty 2010, kwiecień 2010, styczeń 2011). Osoby kupujące gry nie chcą kupować podczas premiery średniaków, gdyż wolą wydać pieniądze na lepsze gry. Co za tym idzie. Widząc grę w czasopiśmie za mniejsze pieniądze z chęcią kupią coś, co może nie jest hitem (a może właśnie im się spodoba?),  ale nie posiadają w swojej kolekcji. 
+Sprzedaż gier "średnich" (ale nie "kaszanek" jak w PLAY!) powoduje wzrost sprzedaży (patrz wykresy 1 i 4 za miesiąc: luty 2010, kwiecień 2010, styczeń 2011). Osoby kupujące gry nie chcą kupować podczas premiery średniaków, gdyż wolą wydać pieniądze na lepsze gry. Co za tym idzie. Widząc grę w czasopiśmie za mniejsze pieniądze z chęcią kupią coś, co może nie jest hitem (a może właśnie im się spodoba?),  ale nie posiadają w swojej kolekcji. 
 
 Proszę zauważyć dwukrotny wzrost sprzedaży PLAY! w lipcu 2010, mimo średnich wyników. Powód? Ciekawe gry (The Path) lub sequele prawdziwych hitów (Gothic 3), ale mające średnie recenzje. 
 
@@ -225,7 +225,7 @@ Proszę zauważyć dwukrotny wzrost sprzedaży PLAY! w lipcu 2010, mimo średnic
 
 Obliczenia dały naprawdę ciekawe i, jak dla mnie, zaskakujące wyniki. Temat nie jest zamknięty. Już teraz, mam kilka pomysłów jak go rozwinąć. Dodanie większej ilości danych, nowe, bardziej miarodajne cechy do porównania. 
 
-Dane z magazynu PLAY! posłużyły jedynie do celów porównawczych na wykresach. Oceny nie różnią się może zbytnio od siebie (Wykres nr 2), ale w PLAY! część gier jest na tyle słaba, iż nie ma ocen. Zaś o &quot;czyszczeniu magazynów&quot; nawet nie wspomnę ;)
+Dane z magazynu PLAY! posłużyły jedynie do celów porównawczych na wykresach. Oceny nie różnią się może zbytnio od siebie (Wykres nr 2), ale w PLAY! część gier jest na tyle słaba, iż nie ma ocen. Zaś o "czyszczeniu magazynów" nawet nie wspomnę ;)
 
 Wpis okazał się bardzo interesujący i pożyteczny(? :P). Zaznaczam, iż mogą gdzieś pojawić się błędy w obliczeniach/statystykach. Jeśli coś, piszcie śmiało. Dzięki temu wpisowi przypomniałem sobie czasy statystyki ze studiów i (jakkolwiek by to zabrzmiało) w sumie nieźle się bawiłem :D.
 

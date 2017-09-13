@@ -2,13 +2,13 @@
 layout:     post
 title:      Samsung Smart TV sterowany Androidem - oficjalne aplikacje
 date:       2013-02-15 21:39:00
-summary:    Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie: Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki). Ale to nie wszystko! Otóż mając smartfon można również ...
-categories: sprzęt porady urządzenia mobilne
+summary:    Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie: Samsung Smart TV seria 8. 46" - domowe centrum rozrywki). Ale to nie wszystko! Otóż mając smartfon można również i nim...
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie: [Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki](http://www.dobreprogramy.pl/djfoxer/Samsung-Smart-TV-seria--domowe-centrum-rozrywki,38262.html)). Ale to nie wszystko! Otóż mając smartfon można również i nim sterować funkcjami Smart TV. Co więcej ze smartofnu można zrobić... odbiornik TV! Ten wpis poświęcony będzie oficjalnym aplikacjom Samsunga na Androida. Na pewno będziecie zaskoczeni możliwościami jakie oferują te programy. Zapraszam do wpisu! 
+Mając Smart TV w domu jesteśmy przyzwyczajeni, iż sterujemy zazwyczaj urządzeniem klasycznie z pilota lub w nowych modelach za pomocą głosu lub ruchu rąk (więcej w obszernym wpisie: [Samsung Smart TV seria 8. 46" - domowe centrum rozrywki](http://www.dobreprogramy.pl/djfoxer/Samsung-Smart-TV-seria--domowe-centrum-rozrywki,38262.html)). Ale to nie wszystko! Otóż mając smartfon można również i nim sterować funkcjami Smart TV. Co więcej ze smartofnu można zrobić... odbiornik TV! Ten wpis poświęcony będzie oficjalnym aplikacjom Samsunga na Androida. Na pewno będziecie zaskoczeni możliwościami jakie oferują te programy. Zapraszam do wpisu! 
 
 Spośród kilku dostępnych aplikacji od Samsunga wybrałem dwie. Są to jednak najbardziej użytecznie i zaskakujące funkcjalnościami. Oczywiście bez żadnych plączących się kabli, dane są przekazywane przez WiFi.
 
@@ -18,7 +18,7 @@ Spośród kilku dostępnych aplikacji od Samsunga wybrałem dwie. Są to jednak 
 
 
 
-[AllShare™ Control](https://play.google.com/store/apps/details?id=com.sec.android.allShareControl&amp;hl=pl) jest jednym z najbardziej rozbudowanych aplikacji do sterowania sprzętem. Co więcej, już po uruchomieniu aplikacji widzimy, iż nie tylko Smart TV jest możliwy do obsługiwania przez AllShare™ Control:
+[AllShare™ Control](https://play.google.com/store/apps/details?id=com.sec.android.allShareControl&hl=pl) jest jednym z najbardziej rozbudowanych aplikacji do sterowania sprzętem. Co więcej, już po uruchomieniu aplikacji widzimy, iż nie tylko Smart TV jest możliwy do obsługiwania przez AllShare™ Control:
 
 
 

@@ -2,13 +2,13 @@
 layout:     post
 title:      &quot;Co wAppStore?&quot; - coś więcej niż Marketplace dla Windows Phone
 date:       2012-04-03 23:32:00
-summary:    &quot;Co wAppStore?&quot; - nic ciekawego :)Oczywiście nie będzie to opis AppStora Appla. Program wAppStore to alternatywny (kolejny) Marketplace, gdzie znajdziemy aplikacje dla Windows Phone.Teoretycznie jest to program, bardzo zbliżony do Bazaar, który opisywałem już wcześniej. Znajdziemy w nim ap...
-categories: oprogramowanie porady urządzenia mobilne
+summary:    "Co wAppStore?" - nic ciekawego :)Oczywiście nie będzie to opis AppStora Appla. Program wAppStore to alternatywny (kolejny) Marketplace, gdzie znajdziemy aplikacje dla Windows Phone.Teoretycznie jest to program, bardzo zbliżony do Bazaar, który opisywałem już wcześniej. Znajdziemy w nim aplikacje, k...
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-&quot;Co wAppStore?&quot; - nic ciekawego :)
+"Co wAppStore?" - nic ciekawego :)
 
 Oczywiście nie będzie to opis AppStora Appla. Program wAppStore to alternatywny (kolejny) Marketplace, gdzie znajdziemy aplikacje dla Windows Phone.Teoretycznie jest to program, bardzo zbliżony do [Bazaar](http://wp-bazaar.com), który [opisywałem już wcześniej](http://www.dobreprogramy.pl/djfoxer/Bazaar-alternatywny-Windows-Phone-Marketplace-z-PC,30433.html). Znajdziemy w nim aplikacje, które nie znalazły się w oficjalnym Marketplace Microsoftu. Czyli kolejny zbiór aplikacji, które możemy zainstalować w naszym odblokowanym urządzeniu z Windows Phone. 
 
@@ -18,7 +18,7 @@ Oczywiście nie będzie to opis AppStora Appla. Program wAppStore to alternatywn
 
 
 
-Nie jest jednak nastawiony on tylko na aplikacje homebrew, jak Bazaar, gdyż ma tych apliakcji zaledwie 5... wAppStore, jest przeglądarką aplikacji również z oryginalnego Marketplace. Co ciekawe! Możemy wyszukiwać, zarówno w samym, oficjalnym Marketplace Microsoftu, ale również w hubach poszczególnych producentów urządzeń! Ba! Nie tylko huby producentów urządzeń (jak Nokia, czy HTC), istnieje możliwość przejrzenia hubów dla... sieci komórkowych (O2, AT&amp;T)! 
+Nie jest jednak nastawiony on tylko na aplikacje homebrew, jak Bazaar, gdyż ma tych apliakcji zaledwie 5... wAppStore, jest przeglądarką aplikacji również z oryginalnego Marketplace. Co ciekawe! Możemy wyszukiwać, zarówno w samym, oficjalnym Marketplace Microsoftu, ale również w hubach poszczególnych producentów urządzeń! Ba! Nie tylko huby producentów urządzeń (jak Nokia, czy HTC), istnieje możliwość przejrzenia hubów dla... sieci komórkowych (O2, AT&T)! 
 
 
 
@@ -45,7 +45,7 @@ Nie oszukujmy się, wAppStore posiada obecnie 5 (!) aplikacji homebrew (w tym ci
 
 
 
-Opisywałem niedawno[ jak można dostać się do hubów producentów urządzeń](http://www.dobreprogramy.pl/djfoxer/Aplikacje-OEM-z-Marketplace-dla-wszystkich-urzadzen,30608.html). Było to jednak dość mocno kłopotliwe. Należało za każdym razem, gdy chleliśmy zmienić huba, podłączyć urządzenie do PC, wgrać aplikację i zrestartować urządzenie. Cóż, dzięki wAppStore nie jest to już potrzebne. Program posiada możliwość pobrania i zainstalowania aplikacji dostępnej jedynie dla wybranych urządzeń. Ale to nie koniec. Okazuje się, iż oddzielne aplikacje posiadają również operatorzy komórkowi! Nie ma tam &quot;szału&quot;, ale możliwe, że w przyszłości pojawią się unikatowe aplikacje od operatorów sieciowych. Polecam przejrzeć ofertę!
+Opisywałem niedawno[ jak można dostać się do hubów producentów urządzeń](http://www.dobreprogramy.pl/djfoxer/Aplikacje-OEM-z-Marketplace-dla-wszystkich-urzadzen,30608.html). Było to jednak dość mocno kłopotliwe. Należało za każdym razem, gdy chleliśmy zmienić huba, podłączyć urządzenie do PC, wgrać aplikację i zrestartować urządzenie. Cóż, dzięki wAppStore nie jest to już potrzebne. Program posiada możliwość pobrania i zainstalowania aplikacji dostępnej jedynie dla wybranych urządzeń. Ale to nie koniec. Okazuje się, iż oddzielne aplikacje posiadają również operatorzy komórkowi! Nie ma tam "szału", ale możliwe, że w przyszłości pojawią się unikatowe aplikacje od operatorów sieciowych. Polecam przejrzeć ofertę!
 
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Zdrowa praca przy komputerze cz. 3 - Aplikacje wspomagające 2
 date:       2011-06-03 00:07:00
 summary:    W tym jakże krótkim wpisie pragnę kontynuować wątek odnośnie zdrowej pracy przy komputerze. Pierwszy wpis był odnośnie aplikacji, i dziś również chciałbym ten temat w pewien sposób kontynuować. EyeDefenderBohaterem dzisiejszego wpisu jest program EyeDefender. Jest to malutka aplikacja (zaledwie 185K...
-categories: windows oprogramowanie porady
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 

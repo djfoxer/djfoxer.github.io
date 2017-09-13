@@ -3,7 +3,7 @@ layout:     post
 title:      Aplikacje „uśmiercone” przez Windows Phone 8.1
 date:       2014-04-16 15:37:00
 summary:    Premiera Windows Phone 8.1 w kanale deweloperskim już za nami. Zapewne większość z nas ma już najnowszą odsłonę okienek i pierwszy zachwyt powoli mija. Czas na podsumowania i wnioski. Postanowiłem pójść trochę w inną stronę i przedstawić nowości w Windows Phone 8.1, które mogą „uśmiercić” używane do...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

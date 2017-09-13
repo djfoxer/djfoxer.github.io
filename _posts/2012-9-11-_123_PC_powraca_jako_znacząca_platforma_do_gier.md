@@ -3,7 +3,7 @@ layout:     post
 title:      PC powraca jako znacząca platforma do gier
 date:       2012-09-11 19:13:00
 summary:    Od dawna mówi się, że rynek gier na PC umiera. Zmierzch ery PC, co także wiąże się z końcem rynku rozrywkowego na przysłowiowych blaszakach, ogłaszany jest już od kilku lat. Czy jednak takie stwierdzenia, nie są zbyt wcześnie? Wygląda na to, iż może być wręcz odwrotnie. Otóż gry na PC odżyły i mają ...
-categories: gry hobby inne
+categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -28,7 +28,7 @@ Ubisoft biadoli, a wystarczy...
 
 Pomimo narzekań Ubisoftu i podważaniem sensu wypuszczania gier na PC, okazuje się, że nie jest chyba tak źle, a wręcz odwrotnie. Ubi narzekając na piractwo zupełnie zignorowało graczy. Zabezpieczania, które nie pozwalały uruchomić gry bez dostępu do sieci (nawet do zabawy offline), problemy z serwerami, przyczyniły się do niechęci jaka powstała wśród społeczności graczy. Wszystko w imię walki z piractwem?
 
-Cóż, ten model nie mógł się przyjąć na dłuższą metę. Wielki Ubisoft, nagle zmiękł. Zapowiedziano zniesienie, tak uciążliwych dla graczy posiadających oryginalne oprogramowanie, zabezpieczeń DRM. Co więcej, wbrew wszelakim zapowiedziom Ubisoftu, gra I Am Alive, doczekała się portu na komputery osobiste. Pojedynczy przypadek? Oczywiście nie. Wszelkie koszty portu gry Alan Wake, zwróciły się po niecałych 48h od premiery. A zatem na PC nadal można zarobić! Wystarczy oferować atrakcyjny produkt, o dobre jakości, nie utrudniając życia dla odbiorców - graczy. Przypomnę, że gdy Bioware za zakończenie w Mass Effect 3, został totalnie &quot;zjechany&quot; przez branżę rozrywkową, by nie popaść w niełaskę, wydał darmowe DLC uzupełniające zakończenie  - lepiej późno niż wcale. 
+Cóż, ten model nie mógł się przyjąć na dłuższą metę. Wielki Ubisoft, nagle zmiękł. Zapowiedziano zniesienie, tak uciążliwych dla graczy posiadających oryginalne oprogramowanie, zabezpieczeń DRM. Co więcej, wbrew wszelakim zapowiedziom Ubisoftu, gra I Am Alive, doczekała się portu na komputery osobiste. Pojedynczy przypadek? Oczywiście nie. Wszelkie koszty portu gry Alan Wake, zwróciły się po niecałych 48h od premiery. A zatem na PC nadal można zarobić! Wystarczy oferować atrakcyjny produkt, o dobre jakości, nie utrudniając życia dla odbiorców - graczy. Przypomnę, że gdy Bioware za zakończenie w Mass Effect 3, został totalnie "zjechany" przez branżę rozrywkową, by nie popaść w niełaskę, wydał darmowe DLC uzupełniające zakończenie  - lepiej późno niż wcale. 
 
 Mając na uwadze rynek PC, nie można zapomnieć o ważnym graczu, otóż...
 
@@ -48,7 +48,7 @@ Powrót PC, jako znaczącej platformy do gier, nie mógł się obyć bez zewnęt
 ## Konsole nakręcają rynek PC
 
 
-Nie mam na myśli wszelakich portów gier (często exclusivów ), które obecnie częściej pojawiają się na komputerach stacjonarnych. Nawet jeśli posiadając PC, skazani jesteśmy na &quot;nieskończony&quot; upgrade, to jednak każdy (w mniejszym lub większym stopniu) ma szansę na rozbudowę własnego blaszaka. W sytuacjach ekstremalnych - wymianę. 
+Nie mam na myśli wszelakich portów gier (często exclusivów ), które obecnie częściej pojawiają się na komputerach stacjonarnych. Nawet jeśli posiadając PC, skazani jesteśmy na "nieskończony" upgrade, to jednak każdy (w mniejszym lub większym stopniu) ma szansę na rozbudowę własnego blaszaka. W sytuacjach ekstremalnych - wymianę. 
 
 Jednakże dzięki temu,  rynek gier PC idzie do przodu. Szczególnie widać to na przykładzie grafiki, która już od dłuższego czasu jest niedostępna na obecnej generacji konsol. Nie oszukujmy się. Grafika jest w grach ważna (ale nie najważniejsza!). Tak było, jest i będzie. Wiadomo, że nie jest głównym miernikiem rozrywki, ale gdy oprawa cieszy oko, grywalność też może skoczyć o kilka punktów. Dla malkontentów, polecam serię [Doom Starców](http://www.gaminator.tv/tag/video/doom-starc%C3%B3w) Maćka Makuły, dla przypomnienia jak to było kiedyś :) 
 

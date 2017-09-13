@@ -3,7 +3,7 @@ layout:     post
 title:      MyRingtone2SMS - bo Microsoft zaspał [0.0.2]
 date:       2012-05-04 11:25:00
 summary:    Temat ograniczeń Windows Phone był poruszany wiele razy. Brak przesyłania plików poprzez Bluetooth, brak slotu na pamięć SD itp. Dla mnie osobiście te braki nie przeszkadzają, gdyż nawet jakby te funkcjonalności były, pewnie bym ich nie używał :) Ale, jest jedno ale. W Windows Phone brakuje mi pewne...
-categories: oprogramowanie programowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -18,7 +18,7 @@ Postanowiłem zatem napisać własną aplikację do ustawiania dźwięków SMS, 
 
 
 
-Może trochę historii. Pierwsze wydanie Windows Phone 7 nie pozwalało na ustawienie własnego dzwonka. Nigdzie. Byliśmy skazani na domyślne dzwonki, nie były one złe, ale... uwielbiam dzwonek SMS &quot;Power Rangers&quot; :D To była załóżmy epoka  *kamienia łupanego* . Czasy  *obecne*  nadeszły, wraz z premierą Windows Phone 7.5 Mango. I cóż otrzymaliśmy w raz z premierą nowej wersji systemu? Oczywiście wiele, bardzo dużo nowych rzeczy w tym... zmiana dzwonka nadchodzącego połączenia! Wreszcie!
+Może trochę historii. Pierwsze wydanie Windows Phone 7 nie pozwalało na ustawienie własnego dzwonka. Nigdzie. Byliśmy skazani na domyślne dzwonki, nie były one złe, ale... uwielbiam dzwonek SMS "Power Rangers" :D To była załóżmy epoka  *kamienia łupanego* . Czasy  *obecne*  nadeszły, wraz z premierą Windows Phone 7.5 Mango. I cóż otrzymaliśmy w raz z premierą nowej wersji systemu? Oczywiście wiele, bardzo dużo nowych rzeczy w tym... zmiana dzwonka nadchodzącego połączenia! Wreszcie!
 
 
 
@@ -40,7 +40,7 @@ Mango udostępnił dla aplikacji możliwość zapisu dźwięków jako dzwonków.
 
 Skoro Mango (zanosi się na to, że w Tango/Refresh również nie będziemiało tej opcji) nadal nie oferuje zmiany dzwonka SMS na własny, postanowiłem zmienić tą sytuacje :) A co! :P
 
-[Dzięki SDK, które udostępnił Heathcliff74](http://www.wp7roottools.com/), możliwy jest dostęp bezpośrednio do plików na dysku i &quot;grzebanie&quot; w rejestrze. Cóż, kilka chwil na XDA Developers i okazuje się, że pliki dzwonków zapisywane są w folderze  *&quot;\My Documents\My Ringtones\&quot;* , zaś dzwonki SMS dla dostawców OEM w folderze  *Windows* . Jeszcze kilka zmian w rejestrze i dzwonek SMS pojawia się na liście dostępnych dzwonków do wiadomości tekstowych w opcjach systemu.
+[Dzięki SDK, które udostępnił Heathcliff74](http://www.wp7roottools.com/), możliwy jest dostęp bezpośrednio do plików na dysku i "grzebanie" w rejestrze. Cóż, kilka chwil na XDA Developers i okazuje się, że pliki dzwonków zapisywane są w folderze  *"\My Documents\My Ringtones\"* , zaś dzwonki SMS dla dostawców OEM w folderze  *Windows* . Jeszcze kilka zmian w rejestrze i dzwonek SMS pojawia się na liście dostępnych dzwonków do wiadomości tekstowych w opcjach systemu.
 
 W taki sposób powstał pomysł  na aplikację MyRingtone2SMS. Program odczytuje dostępne dzwonki, jakie zostały pobrane poprzez aplikacje zewnętrzne np. [Free Ringtones](http://www.windowsphone.com/en-US/apps/46a064d2-1375-4052-94f6-80da09f76c86). Lista dzwonków widoczna jest na ekranie głównym. Wystarczy teraz zaznaczyć któraś pozycję, aby pokazała się ona na liście z wyborem dzwonka SMS (Ustawienia).
 
@@ -96,7 +96,7 @@ lub
 
 0.0.2 
 
-  * dodanie pobierania dzwonków z folderu  *&quot;\My Documents\Ringtones\&quot;* 
+  * dodanie pobierania dzwonków z folderu  *"\My Documents\Ringtones\"* 
 
 
   * wykrywanie niespójności danych, z możliwością uśnięcia danych z rejestru

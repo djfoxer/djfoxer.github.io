@@ -3,7 +3,7 @@ layout:     post
 title:      Subiektywnie: TeamViewer na systemie Android (tablet) i Windows Phone (smartfon)
 date:       2013-12-20 18:05:00
 summary:    Mając w jednym pomieszczeniu urządzenie z Windows Phone i Androidem, nie można liczyć na spokój i odpoczynek. Owe dwa systemy są dość różne, a jeśli do tego dojdzie diametralnie inny rozmiar ekranu, to nie sposób obiektywnie porównać aplikacje dostępne zarówno na tablet jak i smartfon. Pomimo tego, ...
-categories: sprzęt oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -24,10 +24,10 @@ W tym wpisie postaram się przedstawić TeamViewer na urządzeniach mobilnych. B
 Działać będziemy na:
 
 
-  * smartfon - Windows Phone 8, [Nokia Lumia 820](http://www.nokia.com/pl-pl/produkty/telefony/lumia820/specyfikacje/), ekran 4,3&quot; (800 x 480) 
+  * smartfon - Windows Phone 8, [Nokia Lumia 820](http://www.nokia.com/pl-pl/produkty/telefony/lumia820/specyfikacje/), ekran 4,3" (800 x 480) 
 
 
-  * tablet - Android 4.2.1, [ASUS Transformer Pad TF300TL](http://www.asus.com/pl/Tablets_Mobile/ASUS_Transformer_Pad_TF300TL), ekran 10,1&quot; (1280x800) 
+  * tablet - Android 4.2.1, [ASUS Transformer Pad TF300TL](http://www.asus.com/pl/Tablets_Mobile/ASUS_Transformer_Pad_TF300TL), ekran 10,1" (1280x800) 
 
 
 
@@ -90,7 +90,7 @@ Bardzo praktyczną opcją jest możliwość automatycznego zmniejszenia rozdziel
 ### Możliwości
 
 
-Jak już wspomniałem, system zdalny obsługujemy w trybie gestów myszy (Windows Phone i Android) lub dotykowym (Android). System mobilny od Microsoftu został pozbawiony kilku elementów, które występują w &quot;robociku&quot;. Android pozwala na przesyłanie dźwięku, co jest dużym plusem, aczkolwiek nie jest niezbędne przy typowych pracach zdalnych poprzez internet.
+Jak już wspomniałem, system zdalny obsługujemy w trybie gestów myszy (Windows Phone i Android) lub dotykowym (Android). System mobilny od Microsoftu został pozbawiony kilku elementów, które występują w "robociku". Android pozwala na przesyłanie dźwięku, co jest dużym plusem, aczkolwiek nie jest niezbędne przy typowych pracach zdalnych poprzez internet.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-20-_77_/g_-_288x192_-_-_51075x20131219184357_0.png)
@@ -111,7 +111,7 @@ Największą zaletą wersji na system od Googla jest możliwość wymiany plikó
 ### Praca z systemem zdalnym
 
 
-Na obu urządzeniach TeamViewer działa wyśmienicie i jest bardzo wygodny. Opóźnienia przy dobrym łączu są znikome i jedynie widać delikatne &quot;klatkowanie&quot; w przypadku gdy włączymy  
+Na obu urządzeniach TeamViewer działa wyśmienicie i jest bardzo wygodny. Opóźnienia przy dobrym łączu są znikome i jedynie widać delikatne "klatkowanie" w przypadku gdy włączymy  
 film na systemie gospodarza. Jakość połączenia można dostosować do szybkości łącza (a nawet wyłączyć tapetę). Zarówno Lumia 820 jak i Transformer Pad umożliwiły mi sprawdzenie działania poprzez sieć 3G i mogę śmiało powiedzieć, że na Windows Phone i Androidzie całość działała bardzo przyzwoicie. Opóźnienia były, ale wcale nie takie duże, jak można było przypuszczać.
 
 
@@ -120,7 +120,7 @@ film na systemie gospodarza. Jakość połączenia można dostosować do szybko�
 ## Podsumowanie
 
  
-TeamViewer to solidne oprogramowanie do łączenia z zdalnym systemem. Obie wersje prezentują wysoki poziom i dużą łatwość obsługi. Aplikacja na Androida wyróżnia się udostępnianiem plików i obsługą za pomocą &quot;realnego dotyku&quot;, liczę zatem na to, że kolejne wersje na Windows Phone zostaną uzupełnione o te braki. Na tablecie Asus można było momentami odnieść wrażenie, że Windows 8 jest systemem wbudowanym, duży ekran i wysoka rozdzielczość robią swoje. W Lumii już takiej iluzji nie uświadczymy, jednakże nadal na małym ekranie obsługa jest zaskakująco prosta i przyjemna. 
+TeamViewer to solidne oprogramowanie do łączenia z zdalnym systemem. Obie wersje prezentują wysoki poziom i dużą łatwość obsługi. Aplikacja na Androida wyróżnia się udostępnianiem plików i obsługą za pomocą "realnego dotyku", liczę zatem na to, że kolejne wersje na Windows Phone zostaną uzupełnione o te braki. Na tablecie Asus można było momentami odnieść wrażenie, że Windows 8 jest systemem wbudowanym, duży ekran i wysoka rozdzielczość robią swoje. W Lumii już takiej iluzji nie uświadczymy, jednakże nadal na małym ekranie obsługa jest zaskakująco prosta i przyjemna. 
 
 Bardzo ciężko jest znaleźć jakiś słaby punkt aplikacji. Na obu systemach i zupełnie różnych ekranach, TeamViewer  spisywał się wzorowo. Trywialne łączenie się z systemem gospodarza (praktycznie bez zbędnej konfiguracji), sporo dodatkowych opcji oraz szybkie wymiana danych pomiędzy serwerem a gościem po sieci komórkowej sprawiają, że jest to program godny polecenia.
 

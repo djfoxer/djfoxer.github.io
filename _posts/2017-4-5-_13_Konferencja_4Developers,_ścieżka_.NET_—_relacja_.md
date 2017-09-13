@@ -3,7 +3,7 @@ layout:     post
 title:      Konferencja 4Developers, ścieżka .NET — relacja 
 date:       2017-04-05 18:13:00
 summary:    W dniu 3 kwietnia uczestniczyłem w imprezie 4Developers w Warszawie. Organizatorzy określają event jako interdyscyplinarny festiwal technologiczny dla programistów, czyli konferencja dla programistów z wieloma ścieżkami do wyboru. W tym roku było na prawdę zacnie. Oto moja krótka relacja z tego even...
-categories: porady programowanie inne
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -62,7 +62,7 @@ Wydarzenie nie było skierowane tylko do wybranego grona deweloperów. Mieliśmy
   * Bottega IT Minds
 
 
-  * Business Relations &amp; Soft Skills
+  * Business Relations & Soft Skills
 
 
   * GameDev
@@ -204,7 +204,7 @@ Prezentacja przedstawiała trudności w wielo-wielowarstwowych aplikach i dużyc
 
 
 
-### It&#39;s all about the state, czyli co skrywa async/await w C#? - Dariusz Pawlukiewicz
+### It's all about the state, czyli co skrywa async/await w C#? - Dariusz Pawlukiewicz
 
 
 Techniczna prelekcja o elemencie języka, który wszedł wraz z C# 5. Można było dowiedzieć się  jak od strony CLI działają async/await i jak w to wszystko została wplątana maszyna stanowa.

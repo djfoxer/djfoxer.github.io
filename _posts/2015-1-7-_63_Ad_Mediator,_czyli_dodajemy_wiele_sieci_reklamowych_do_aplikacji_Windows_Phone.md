@@ -3,7 +3,7 @@ layout:     post
 title:      Ad Mediator, czyli dodajemy wiele sieci reklamowych do aplikacji Windows Phone
 date:       2015-01-07 20:53:00
 summary:    Sposobów na zarabianie na aplikacjach mobilnych jest bardzo dużo. Od udostępniania płatnych wersji oprogramowania, poprzez mikropłatności, aż do reklam umieszczanych wewnątrz aplikacji. Ten ostatni element nie wymaga dużego wkładu własnego od programisty, nie zmusza użytkowników do wydawania ciężko ...
-categories: porady programowanie urządzenia mobilne
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -23,7 +23,7 @@ AdMob (Google), AdDuplex, Smaato i inne, mają własne SDK do obsługi reklam w 
 
 
 
-Wszyscy znają zasadę DRY (Don’t Repeat Yourself), która zalecająca unikanie różnego rodzaju powtórzeń wykonywanych przez deweloperów. W obecnych czasach, gdzie mamy dostęp do sieci, forów i NuGeta, warto dodać jeszcze zasadę DROP: Don&#39;t Repeat Other People. Nie inaczej jest w tym przypadku. Od dłuższego czasu dostępna jest kontrolka [AdRotator](http://getadrotator.com/), która współpracuje z wieloma sieciami reklamowymi i posiada ciekawy zestaw opcji. Jednakże warto wiedzieć, że w listopadzie 2014 Microsoft stworzył własną kontrolkę [Ad Mediator](https://visualstudiogallery.msdn.microsoft.com/401703a0-263e-4949-8f0f-738305d6ef4b) do zarządzania wieloma sieciami reklamowymi pod Windows Phone. Jest to ciekawa alternatywa do AdRotator, a do tego posiada interesujące funkcje, które znacznie ułatwiają wdrożenie i konfigurację wielu sieci reklamowych. Olbrzymim plusem jest także możliwość zdalnego zarządzania kontrolką z poziomu [Dev Center](https://dev.windowsphone.com/en-us/dashboard).
+Wszyscy znają zasadę DRY (Don’t Repeat Yourself), która zalecająca unikanie różnego rodzaju powtórzeń wykonywanych przez deweloperów. W obecnych czasach, gdzie mamy dostęp do sieci, forów i NuGeta, warto dodać jeszcze zasadę DROP: Don't Repeat Other People. Nie inaczej jest w tym przypadku. Od dłuższego czasu dostępna jest kontrolka [AdRotator](http://getadrotator.com/), która współpracuje z wieloma sieciami reklamowymi i posiada ciekawy zestaw opcji. Jednakże warto wiedzieć, że w listopadzie 2014 Microsoft stworzył własną kontrolkę [Ad Mediator](https://visualstudiogallery.msdn.microsoft.com/401703a0-263e-4949-8f0f-738305d6ef4b) do zarządzania wieloma sieciami reklamowymi pod Windows Phone. Jest to ciekawa alternatywa do AdRotator, a do tego posiada interesujące funkcje, które znacznie ułatwiają wdrożenie i konfigurację wielu sieci reklamowych. Olbrzymim plusem jest także możliwość zdalnego zarządzania kontrolką z poziomu [Dev Center](https://dev.windowsphone.com/en-us/dashboard).
 
 
 Ad Mediator wspiera Windows Phone 8.0/8.1 pod Silverlightem oraz Windows Phone 8.1 XAML. W przyszłości lista ta zostanie rozszerzona o aplikacje Windows Phone 8.1 tworzone w JavaScripcie oraz aplikacje pod Windows Store (Modern). Kontrolka posiada następujące sieci reklamowe (z uwzględnieniem wsparcia dla poszczególnych typów aplikacji):
@@ -53,13 +53,13 @@ Najszybszym sposobem stworzenia kontrolki jest przeciągnięcie AdMediatorContro
 
 
 ```xml
-  &lt;WindowsPhone8:AdMediatorControl 
-            x:Name=&quot;AdMediator_121F5B&quot;
-            Id=&quot;AdMediator-Id-ED7FED89-9736-4889-A807-894C9765148F&quot; 
-            Height=&quot;80&quot;
-            Width=&quot;480&quot;
-            VerticalAlignment=&quot;Top&quot; 
-            HorizontalAlignment=&quot;Center&quot; /&gt;
+  <WindowsPhone8:AdMediatorControl 
+            x:Name="AdMediator_121F5B"
+            Id="AdMediator-Id-ED7FED89-9736-4889-A807-894C9765148F" 
+            Height="80"
+            Width="480"
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Center" />
 ```
 
 
@@ -76,26 +76,26 @@ W celu debugowania, jak i reakcji na zdarzenia (np. ukrywanie kontrolki, gdy nie
 //problem z konfiguracją SDK wybranej sieci
 void AdMediator_AdSdkEvent(object sender, AdSdkEventArgs e)
 {
-    Debug.WriteLine(&quot;AdSdk event {0} by {1}&quot;, e.EventName, e.Name);
+    Debug.WriteLine("AdSdk event {0} by {1}", e.EventName, e.Name);
 }
 
 //nie wyświetlą się żadne reklamy
 void AdMediator_AdMediatorError(object sender, AdMediatorFailedEventArgs e)
 {
-    Debug.WriteLine(&quot;AdMediatorError:&quot; + e.Error + &quot; &quot; + e.ErrorCode );
+    Debug.WriteLine("AdMediatorError:" + e.Error + " " + e.ErrorCode );
 }
 
 //kontrolka wyświetli reklamę z wybranej sieci
 void AdMediator_AdFilled(object sender, AdSdkEventArgs e)
 {
-    Debug.WriteLine(&quot;AdFilled:&quot; + e.Name);
+    Debug.WriteLine("AdFilled:" + e.Name);
 }
 
 //błąd wybranej sieci (brak połączenia z serwerem, brak reklam z sieci, itp.)
 void AdMediator_AdError(object sender, AdFailedEventArgs e)
 {
-    Debug.WriteLine(&quot;AdSdkError by {0} ErrorCode: {1} ErrorDescription: {2} 
-                Error: {3}&quot;,e.Name, e.ErrorCode, e.ErrorDescription, e.Error);
+    Debug.WriteLine("AdSdkError by {0} ErrorCode: {1} ErrorDescription: {2} 
+                Error: {3}",e.Name, e.ErrorCode, e.ErrorDescription, e.Error);
 }
 ```
 
@@ -115,33 +115,33 @@ Zaleca się, aby do pliku App.xaml.cs dodać obsługę wyjątków sieci reklamow
     if (e != null)
    {
        Exception exception = e.ExceptionObject;
-       if ((exception is XmlException || exception is NullReferenceException) &amp;&amp; exception.ToString().ToUpper().Contains(&quot;INNERACTIVE&quot;))
+       if ((exception is XmlException || exception is NullReferenceException) && exception.ToString().ToUpper().Contains("INNERACTIVE"))
        {
-           Debug.WriteLine(&quot;Handled Inneractive exception {0}&quot;, exception);
+           Debug.WriteLine("Handled Inneractive exception {0}", exception);
            e.Handled = true;
            return;
        }
-       else if (exception is NullReferenceException &amp;&amp; exception.ToString().ToUpper().Contains(&quot;SOMA&quot;))
+       else if (exception is NullReferenceException && exception.ToString().ToUpper().Contains("SOMA"))
        {
-           Debug.WriteLine(&quot;Handled Smaato null reference exception {0}&quot;, exception);
+           Debug.WriteLine("Handled Smaato null reference exception {0}", exception);
            e.Handled = true;
            return;
        }
-       else if ((exception is System.IO.IOException || exception is NullReferenceException) &amp;&amp; exception.ToString().ToUpper().Contains(&quot;GOOGLE&quot;))
+       else if ((exception is System.IO.IOException || exception is NullReferenceException) && exception.ToString().ToUpper().Contains("GOOGLE"))
       {
-          Debug.WriteLine(&quot;Handled Google exception {0}&quot;, exception);
+          Debug.WriteLine("Handled Google exception {0}", exception);
           e.Handled = true;
           return;
        }
-       else if (exception is ObjectDisposedException &amp;&amp; exception.ToString().ToUpper().Contains(&quot;MOBFOX&quot;))
+       else if (exception is ObjectDisposedException && exception.ToString().ToUpper().Contains("MOBFOX"))
        {
-           Debug.WriteLine(&quot;Handled Mobfox exception {0}&quot;, exception);
+           Debug.WriteLine("Handled Mobfox exception {0}", exception);
            e.Handled = true;
            return;
        }
-       else if ((exception is NullReferenceException || exception is XamlParseException) &amp;&amp; exception.ToString().ToUpper().Contains(&quot;MICROSOFT.ADVERTISING&quot;))
+       else if ((exception is NullReferenceException || exception is XamlParseException) && exception.ToString().ToUpper().Contains("MICROSOFT.ADVERTISING"))
        {
-           Debug.WriteLine(&quot;Handled Microsoft.Advertising exception {0}&quot;, exception);
+           Debug.WriteLine("Handled Microsoft.Advertising exception {0}", exception);
            e.Handled = true;
            return;
        }
@@ -173,7 +173,7 @@ Przyszedł czas na konfiguracje sieci reklamowych. W przykładzie użyję Micros
 
 Ad Mediator umożliwia szybkie dodanie wybranych sieci reklamowych. W tym celu należy na projekcie Windows Phone kliknąć prawym przyciskiem i wybrać opcję:
 
-Add-&gt;ConnectedService...
+Add->ConnectedService...
 
 
 

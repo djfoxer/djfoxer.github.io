@@ -2,8 +2,8 @@
 layout:     post
 title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
 date:       2010-04-01 11:09:00
-summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:- włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) - &quot;naprawa&quot; ...
-categories: windows oprogramowanie porady
+summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:- włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) - "naprawa" dźwięku na...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
@@ -14,7 +14,7 @@ Słowem wstępu
 Witam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).
 Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:
 - włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) 
-- &quot;naprawa&quot; dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)  
+- "naprawa" dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)  
 Zapraszam do lektury :)
 
 
@@ -43,9 +43,9 @@ Znalezienie rozwiązania trochę mi zajęło czasu, więc che podzielić się z 
 Programiści (może raczej designerzy) nie popisali się tworząc okno zarządzania kartą dźwiękową Realtek HD Audio. To co widzimy jest tragiczne! 
 
 Brak skalowalności, niektóre przyciski po najechaniu myszką zmieniają kolor informując o możliwości interakcji, a niektóre nie. 
-Zakładki, z racji małego okna, nie wyświetlają się wszystkie i musimy je &quot;strzałeczkami&quot; przewijać (a można było by umieścić je w kilu rzędach), przez co tracimy ogólny podgląd. 
-Podobnie jest na zakładce Mikser, musimy na oślep klikać w &quot;strzałki&quot;, żeby znaleźć to czego poszukujemy (wystarczyło by dodać malutki pasek przewijania).
-Ogólnie nie przekonuje mnie to co zrobili panowie z Realtek&#39;a. Ale może to tylko moje zdanie. Ok, koniec narzekań, przejdźmy do pierwszego problemu...
+Zakładki, z racji małego okna, nie wyświetlają się wszystkie i musimy je "strzałeczkami" przewijać (a można było by umieścić je w kilu rzędach), przez co tracimy ogólny podgląd. 
+Podobnie jest na zakładce Mikser, musimy na oślep klikać w "strzałki", żeby znaleźć to czego poszukujemy (wystarczyło by dodać malutki pasek przewijania).
+Ogólnie nie przekonuje mnie to co zrobili panowie z Realtek'a. Ale może to tylko moje zdanie. Ok, koniec narzekań, przejdźmy do pierwszego problemu...
 
 
 
@@ -55,8 +55,8 @@ Ogólnie nie przekonuje mnie to co zrobili panowie z Realtek&#39;a. Ale może to
 
 
 
-I tutaj &quot;kłania&quot; się super intuicyjny interface dzieła Realtek&#39;a. Normalnie można to zrobić w Regulacji głośności dostępny w systemie. Ale na kartach Realteka nie ma tak prosto!
-Opcja jest tam nieaktywna! Takowa opcja jest ukryta w Menadżerze Realtek&#39;a. Tylko w miejscy tak logicznym, że aż mnie ściska! Wiecie gdzie? W panelu odtwarzania dźwięku!
+I tutaj "kłania" się super intuicyjny interface dzieła Realtek'a. Normalnie można to zrobić w Regulacji głośności dostępny w systemie. Ale na kartach Realteka nie ma tak prosto!
+Opcja jest tam nieaktywna! Takowa opcja jest ukryta w Menadżerze Realtek'a. Tylko w miejscy tak logicznym, że aż mnie ściska! Wiecie gdzie? W panelu odtwarzania dźwięku!
 
 
 Aby włączyć boosta (zwiększenie wydajność mikrofonu) musisz: 
@@ -88,18 +88,18 @@ W przypadku nowych systemów Windows,boost ukryty jest w zakładce  *Mikrofon* ,
 
 
 
-## &quot;Naprawa&quot; dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)
+## "Naprawa" dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)
 
 
 
 
 
-Nie jest to raczej duży problem, ale mimo, iż mam duże doświadczenie z komputerami to trochę mi to zajęło żeby znaleźć co trzeba zrobić, aby się pozbyć tego. Oto szybkie kroki na wyeliminowanie powyższego &quot;ficzeru;)&quot; : 
+Nie jest to raczej duży problem, ale mimo, iż mam duże doświadczenie z komputerami to trochę mi to zajęło żeby znaleźć co trzeba zrobić, aby się pozbyć tego. Oto szybkie kroki na wyeliminowanie powyższego "ficzeru;)" : 
 
 
-&quot;Naprawa&quot; dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon:
-1. Z meny start przechodzimy do folderu: Akcesoria -&gt; rozrywka -&gt; Regulacja głośności
-2. W otwartym oknie z menu wybieramy opcje -&gt; właściwości
+"Naprawa" dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon:
+1. Z meny start przechodzimy do folderu: Akcesoria -> rozrywka -> Regulacja głośności
+2. W otwartym oknie z menu wybieramy opcje -> właściwości
 3. W nowo otwartym oknie z comboboxa wybieramy Audio Input i klikamy na OK
 4. Mając nowe okno wyciszamy wszystko oprócz: Regulacja nagrywania oraz Głośność mikrofonu
 5. W taki oto sposób pozbyliśmy się nagrywania przez mikrofon inny dźwięków z komputera (mp3/radio/gry/ dźwięki systemowe i inne)
@@ -122,10 +122,10 @@ Nie jest to raczej duży problem, ale mimo, iż mam duże doświadczenie z kompu
 
 
 Mam nadzieję, że oba rozwiązania się przydadzą i czekam na opinie, komentarze i propozycje.
-Pozdrawiam, do następnego &quot;zczytania się&quot; :)
+Pozdrawiam, do następnego "zczytania się" :)
 
 P.S.
-Odnośnie gry Cod4: MW, jeśli kogoś interesuje jak pozbyć się lagów w tej grze, które spowodowane są przez &quot;rewelacyjnego&quot; PunkBuster proszę o info w komentarzach.
+Odnośnie gry Cod4: MW, jeśli kogoś interesuje jak pozbyć się lagów w tej grze, które spowodowane są przez "rewelacyjnego" PunkBuster proszę o info w komentarzach.
 
 
 

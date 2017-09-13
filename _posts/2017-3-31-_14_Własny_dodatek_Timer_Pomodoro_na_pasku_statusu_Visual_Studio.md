@@ -3,7 +3,7 @@ layout:     post
 title:      Własny dodatek Timer Pomodoro na pasku statusu Visual Studio
 date:       2017-03-31 17:10:00
 summary:    W poprzednim wpisie pokazywałem jak rozszerzyć Visual Studio o elementy, do których dostęp nie jest możliwy poprzez SDK. Przyszedł czas zatem na wykorzystanie wiedzy w praktyce. Napiszemy podstawy wtyczki HealthyWithVS, w których będzie możliwe pokazanie na pasku zadań timera z pomidorkiem, zgodnie ...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -51,14 +51,14 @@ Do gotowego kodu dorzucamy informację o własnym, menu podpiętym pod główny 
 
 ```html
 
-&lt;Menus&gt;
-  &lt;Menu guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;TopLevelMenu&quot; priority=&quot;0x700&quot; type=&quot;Menu&quot;&gt;
-    &lt;Parent guid=&quot;guidSHLMainMenu&quot; id=&quot;IDG_VS_MM_TOOLSADDINS&quot; /&gt;
-    &lt;Strings&gt;
-      &lt;ButtonText&gt;Healthy With VS&lt;/ButtonText&gt;
-    &lt;/Strings&gt;
-  &lt;/Menu&gt;
-&lt;/Menus&gt;
+<Menus>
+  <Menu guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="TopLevelMenu" priority="0x700" type="Menu">
+    <Parent guid="guidSHLMainMenu" id="IDG_VS_MM_TOOLSADDINS" />
+    <Strings>
+      <ButtonText>Healthy With VS</ButtonText>
+    </Strings>
+  </Menu>
+</Menus>
 
 ```
 
@@ -70,11 +70,11 @@ Tworzymy również grupę, która będzie podpięta pod nasze górne menu:
 
 ```html
 
-&lt;Groups&gt;
-  &lt;Group guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;MyMenuGroup&quot; priority=&quot;0x0600&quot;&gt;
-    &lt;Parent guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;TopLevelMenu&quot;/&gt;
-  &lt;/Group&gt;
-&lt;/Groups&gt;
+<Groups>
+  <Group guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+    <Parent guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="TopLevelMenu"/>
+  </Group>
+</Groups>
 
 
 ```
@@ -85,16 +85,16 @@ Na koniec w sekcji  *Buttons*  dodajemy przycisk, który podpinamy do grupy:
 
 ```html
 
-&lt;Buttons&gt;
-  &lt;Button guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;CommandShowTomatoStatusBarId&quot; priority=&quot;0x0100&quot; type=&quot;Button&quot;&gt;
-    &lt;Parent guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;MyMenuGroup&quot; /&gt;
-    &lt;Icon guid=&quot;guidImageStatus&quot; id=&quot;bmpPic1&quot; /&gt;
-    &lt;Strings&gt;
-      &lt;CommandName&gt;cmdidMyFirstCommand&lt;/CommandName&gt;
-      &lt;ButtonText&gt;Show Pomodoro Status Bar&lt;/ButtonText&gt;
-    &lt;/Strings&gt;
-  &lt;/Button&gt;
-&lt;/Buttons&gt;
+<Buttons>
+  <Button guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="CommandShowTomatoStatusBarId" priority="0x0100" type="Button">
+    <Parent guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="MyMenuGroup" />
+    <Icon guid="guidImageStatus" id="bmpPic1" />
+    <Strings>
+      <CommandName>cmdidMyFirstCommand</CommandName>
+      <ButtonText>Show Pomodoro Status Bar</ButtonText>
+    </Strings>
+  </Button>
+</Buttons>
 
 ```
 
@@ -106,52 +106,52 @@ W celu nie przeciągania tej części (i nie zaciemniania rozwiązania) udostęp
 
 ```html
 
-&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
-&lt;CommandTable xmlns=&quot;http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;
-  &lt;Extern href=&quot;stdidcmd.h&quot;/&gt;
-  &lt;Extern href=&quot;vsshlids.h&quot;/&gt;
-  &lt;Commands package=&quot;guidCommandShowTomatoStatusBarPackage&quot;&gt;
-    &lt;Groups&gt;
-      &lt;Group guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;MyMenuGroup&quot; priority=&quot;0x0600&quot;&gt;
-        &lt;Parent guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;TopLevelMenu&quot;/&gt;
-      &lt;/Group&gt;
-    &lt;/Groups&gt;
-    &lt;Menus&gt;
-      &lt;Menu guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;TopLevelMenu&quot; priority=&quot;0x700&quot; type=&quot;Menu&quot;&gt;
-        &lt;Parent guid=&quot;guidSHLMainMenu&quot; id=&quot;IDG_VS_MM_TOOLSADDINS&quot; /&gt;
-        &lt;Strings&gt;
-          &lt;ButtonText&gt;Healthy With VS&lt;/ButtonText&gt;
-        &lt;/Strings&gt;
-      &lt;/Menu&gt;
-    &lt;/Menus&gt;
-    &lt;Buttons&gt;
-      &lt;Button guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;CommandShowTomatoStatusBarId&quot; priority=&quot;0x0100&quot; type=&quot;Button&quot;&gt;
-        &lt;Parent guid=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; id=&quot;MyMenuGroup&quot; /&gt;
-        &lt;Icon guid=&quot;guidImageStatus&quot; id=&quot;bmpPic1&quot; /&gt;
-        &lt;Strings&gt;
-          &lt;CommandName&gt;cmdidMyFirstCommand&lt;/CommandName&gt;
-          &lt;ButtonText&gt;Show Pomodoro Status Bar&lt;/ButtonText&gt;
-        &lt;/Strings&gt;
-      &lt;/Button&gt;
-    &lt;/Buttons&gt;
-    &lt;Bitmaps&gt;
-      &lt;Bitmap guid=&quot;guidImageStatus&quot; href=&quot;..\Resources\statusbar.png&quot; usedList=&quot;bmpPic1&quot;/&gt;
-    &lt;/Bitmaps&gt;
-  &lt;/Commands&gt;
-  &lt;Symbols&gt;
-    &lt;GuidSymbol name=&quot;guidCommandShowTomatoStatusBarPackage&quot; value=&quot;{03b63e3b-39cd-4c93-98b6-42cf447f55e6}&quot; /&gt;
-    &lt;GuidSymbol name=&quot;guidCommandShowTomatoStatusBarPackageMenu&quot; value=&quot;{fffe3072-816e-43db-81c7-28e48c5b788b}&quot; &gt;
-    &lt;/GuidSymbol&gt;
-    &lt;GuidSymbol name=&quot;guidCommandShowTomatoStatusBarPackageCmdSet&quot; value=&quot;{2089436a-ed0c-4bae-b1a3-d16000d5e669}&quot;&gt;
-      &lt;IDSymbol name=&quot;MyMenuGroup&quot; value=&quot;0x1020&quot; /&gt;
-      &lt;IDSymbol name=&quot;CommandShowTomatoStatusBarId&quot; value=&quot;0x0100&quot; /&gt;
-      &lt;IDSymbol name=&quot;TopLevelMenu&quot; value=&quot;0x1021&quot;/&gt;
-    &lt;/GuidSymbol&gt;
-    &lt;GuidSymbol name=&quot;guidImageStatus&quot; value=&quot;{47a9ad46-e6a2-4d57-885c-9cefda0253d9}&quot; &gt;
-      &lt;IDSymbol name=&quot;bmpPic1&quot; value=&quot;1&quot; /&gt;
-    &lt;/GuidSymbol&gt;
-  &lt;/Symbols&gt;
-&lt;/CommandTable&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  <Commands package="guidCommandShowTomatoStatusBarPackage">
+    <Groups>
+      <Group guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="MyMenuGroup" priority="0x0600">
+        <Parent guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="TopLevelMenu"/>
+      </Group>
+    </Groups>
+    <Menus>
+      <Menu guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="TopLevelMenu" priority="0x700" type="Menu">
+        <Parent guid="guidSHLMainMenu" id="IDG_VS_MM_TOOLSADDINS" />
+        <Strings>
+          <ButtonText>Healthy With VS</ButtonText>
+        </Strings>
+      </Menu>
+    </Menus>
+    <Buttons>
+      <Button guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="CommandShowTomatoStatusBarId" priority="0x0100" type="Button">
+        <Parent guid="guidCommandShowTomatoStatusBarPackageCmdSet" id="MyMenuGroup" />
+        <Icon guid="guidImageStatus" id="bmpPic1" />
+        <Strings>
+          <CommandName>cmdidMyFirstCommand</CommandName>
+          <ButtonText>Show Pomodoro Status Bar</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+    <Bitmaps>
+      <Bitmap guid="guidImageStatus" href="..\Resources\statusbar.png" usedList="bmpPic1"/>
+    </Bitmaps>
+  </Commands>
+  <Symbols>
+    <GuidSymbol name="guidCommandShowTomatoStatusBarPackage" value="{03b63e3b-39cd-4c93-98b6-42cf447f55e6}" />
+    <GuidSymbol name="guidCommandShowTomatoStatusBarPackageMenu" value="{fffe3072-816e-43db-81c7-28e48c5b788b}" >
+    </GuidSymbol>
+    <GuidSymbol name="guidCommandShowTomatoStatusBarPackageCmdSet" value="{2089436a-ed0c-4bae-b1a3-d16000d5e669}">
+      <IDSymbol name="MyMenuGroup" value="0x1020" />
+      <IDSymbol name="CommandShowTomatoStatusBarId" value="0x0100" />
+      <IDSymbol name="TopLevelMenu" value="0x1021"/>
+    </GuidSymbol>
+    <GuidSymbol name="guidImageStatus" value="{47a9ad46-e6a2-4d57-885c-9cefda0253d9}" >
+      <IDSymbol name="bmpPic1" value="1" />
+    </GuidSymbol>
+  </Symbols>
+</CommandTable>
 
 
 ```
@@ -187,8 +187,8 @@ Na początku dobieramy się do ukrytego StatusBara w VS wg sposobu [z wcześniej
 
 ```csharp
 
-var statusBarObj = UIHelper.FindChildControl&lt;DockPanel&gt;(
-Application.Current.MainWindow, &quot;StatusBarPanel&quot;);
+var statusBarObj = UIHelper.FindChildControl<DockPanel>(
+Application.Current.MainWindow, "StatusBarPanel");
 
 ```
 

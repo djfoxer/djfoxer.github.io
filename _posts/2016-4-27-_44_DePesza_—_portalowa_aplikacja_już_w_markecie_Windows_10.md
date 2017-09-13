@@ -3,7 +3,7 @@ layout:     post
 title:      DePesza — portalowa aplikacja już w markecie Windows 10
 date:       2016-04-27 18:38:00
 summary:    Nastał ten dzień i portalowa aplikacja DePesza zawitała do sklepu Windows 10.Zapraszam chętnych do zainstalowania aplikacji na systemie Windows 10, zarówno na desktopie, jak i na urządzeniu mobilnym.DePesza w markecie Windows 10 i Windows 10 Mobile: linkWersja alfa — co oferuje?Nie ukrywam, że obecn...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

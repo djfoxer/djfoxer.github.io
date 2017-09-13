@@ -3,7 +3,7 @@ layout:     post
 title:      NVIDIA - nowe sterowniki + &quot;strasze&quot; gry = klops!
 date:       2010-10-26 22:48:00
 summary:    NVIDIA i jej optymalizacja sterowników..... jest faktem (i u ATI oczywiście też). Każdy o tym wie. Na rynku pojawia się nowa, wyczekiwana gra, hicior + nowa grafika. Producent wypuszcza nowe sterowniki do karty graficznej zoptymalizowane pod dany tytuł, aby móc w testach przeprowadzanych przez serwi...
-categories: sprzęt porady gry
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -18,7 +18,7 @@ categories: sprzęt porady gry
 .. jest faktem (i u ATI oczywiście też). Każdy o tym wie. Na rynku pojawia się nowa, wyczekiwana gra, hicior + nowa grafika. Producent wypuszcza nowe sterowniki do karty graficznej zoptymalizowane pod dany tytuł, aby móc w testach przeprowadzanych przez serwisy, prasę itp. itd wypaść jak najlepiej.
 
 Ok. Nic szczególnego. Normalka. Ale co się dzieje, kiedy po latach zechcemy, na nowej grafice, wrócić do starego hiciora z przed lat? Może czekać nas niemiła niespodzianka. 
-Postaram się tu opisać pewne doświadczenia z uruchomieniem &quot;starszych&quot; gier na nowych sterownikach. 
+Postaram się tu opisać pewne doświadczenia z uruchomieniem "starszych" gier na nowych sterownikach. 
 Jeśli inie interesuje Ciebie zbędna paplanina - przejdź od razu do Przypadku 1. a potem 2. :)
 Ale po kolei.
 

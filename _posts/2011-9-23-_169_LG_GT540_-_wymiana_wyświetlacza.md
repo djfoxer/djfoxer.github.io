@@ -3,7 +3,7 @@ layout:     post
 title:      LG GT540 - wymiana wyświetlacza
 date:       2011-09-23 01:30:00
 summary:    Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosz...
-categories: sprzęt porady
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 

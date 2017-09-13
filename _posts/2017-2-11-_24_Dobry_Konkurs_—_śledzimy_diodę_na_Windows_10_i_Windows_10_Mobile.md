@@ -3,7 +3,7 @@ layout:     post
 title:      Dobry Konkurs — śledzimy diodę na Windows 10 i Windows 10 Mobile
 date:       2017-02-11 11:26:00
 summary:    Od kilku dni trwa konkurs z diodą na dobrychprogramach. Ponownie śledzić będziemy pojawienie się lampki LED w dzień i w nocy. Obserwować diodę można klasycznie, przez stronę www, a także z poziomu aplikacji na Androida i iOS. Co jednak z użytkownikami Windows?Dioda nie dla  wszystkich?Dioda 2017 w o...
-categories: windows oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

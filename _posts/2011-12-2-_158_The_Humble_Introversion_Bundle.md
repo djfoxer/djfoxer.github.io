@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Introversion Bundle
 date:       2011-12-02 00:50:00
 summary:    Ruszyła kolejna edycja Humble Inde Bundle (http://www.humblebundle.com/) , czyli akcji w której można zdobyć kilka gier za dowolną kwotę. To kupujący decyduje ile dostaną developerzy, czy organizacje charytatywne!The Humble Introversion BundleObecnie do końca 6 grudnia można nabyć gry od Introversio...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 

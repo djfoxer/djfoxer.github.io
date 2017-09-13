@@ -2,13 +2,13 @@
 layout:     post
 title:      iOS7 kopią Windows Phone?
 date:       2013-06-11 15:33:00
-summary:    WWDC 2013 Appla pokazało światu &quot;nowy&quot; interfejs, który przywita się z użytkownikiem w odświeżonej wersji iOS7. Powiem szczerze, to co zobaczyłem, aż powaliło mnie na kolana. Rozumiem, że Apple nie ma już dobrych pomysłów, szkoda tylko że kopiuje totalnie interfejs Modern (Metro) z Windows...
-categories: sprzęt oprogramowanie urządzenia mobilne
+summary:    WWDC 2013 Appla pokazało światu "nowy" interfejs, który przywita się z użytkownikiem w odświeżonej wersji iOS7. Powiem szczerze, to co zobaczyłem, aż powaliło mnie na kolana. Rozumiem, że Apple nie ma już dobrych pomysłów, szkoda tylko że kopiuje totalnie interfejs Modern (Metro) z Windows Phona. Ub...
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-WWDC 2013 Appla pokazało światu &quot;nowy&quot; interfejs, który przywita się z użytkownikiem w odświeżonej wersji iOS7. Powiem szczerze, to co zobaczyłem, aż powaliło mnie na kolana. Rozumiem, że Apple nie ma już dobrych pomysłów, szkoda tylko że kopiuje totalnie interfejs Modern (Metro) z Windows Phona. Ubolewam nad tym, że ludzie z Cupertuno, tak naprawdę robią krzywdę własnym fanom, przyszłym użytkownikom nowego iOS7. Co maja powiedzieć teraz, kiedy od czasów powstania kafelkowego interfejsu w Windows Phone, cały czas narzekali na tego typu design? W jakiej sytuacji stawiają tych ludzi? To jest przykre.
+WWDC 2013 Appla pokazało światu "nowy" interfejs, który przywita się z użytkownikiem w odświeżonej wersji iOS7. Powiem szczerze, to co zobaczyłem, aż powaliło mnie na kolana. Rozumiem, że Apple nie ma już dobrych pomysłów, szkoda tylko że kopiuje totalnie interfejs Modern (Metro) z Windows Phona. Ubolewam nad tym, że ludzie z Cupertuno, tak naprawdę robią krzywdę własnym fanom, przyszłym użytkownikom nowego iOS7. Co maja powiedzieć teraz, kiedy od czasów powstania kafelkowego interfejsu w Windows Phone, cały czas narzekali na tego typu design? W jakiej sytuacji stawiają tych ludzi? To jest przykre.
 
 Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogramy.pl/Xanthia/WWDC--co-tym-razem-pokazalo-Apple,41854.html) opisała swoje spostrzeżenia odnośnie całej konferencji. Ja zaś w tym wpisie przedstawię punkt widzenia użytkownika Windows Phone. Jest to o tyle ciekaw, że tak na prawdę nowy interfejs w iOS7 jest bardzo znajomy. Apple zaprezentowało nowy UI, którego składniki żywcem wzięte są z Windows Phone. Oto najbardziej rzucające się elementy, które zaprezentowano do tej pory:
 
@@ -76,7 +76,7 @@ Dla mnie to wcale nie wygląda na rewolucję czy nawet ewolucję, a na zwykłą 
 
 Przychodzące połączenie jest dokładnie wzięte z mobilnego systemu Microsoftu. Tu nawet nie próbowano zaciemnić tego, co było wzorem dla designerów iOS.
 Idąc dalej, ekran multitaskingu. Nawiązania przychodzą dość łatwo. Szczególnie, że w Windows Phone 8.1, dodatkowo obok tekstu będzie ikona aplikacji. Poza tym, możliwe, ze tło będzie do ustawienia jak w Windows 8 (wzorki).
-Kalkulator a&#39;la Modern Design, ok w sumie nic szczególnego, ale jednak.
+Kalkulator a'la Modern Design, ok w sumie nic szczególnego, ale jednak.
 Co więcej, do tej pory ekran blokowania w iOS miał swój niepowtarzalny styl. Teraz przyszła pora na podejrzenie co ma konkurencja (Android i WP) i zrobienie coś podobnego lub wręcz identycznego.
 Na koniec wiadomości sms. Schemat był prosty, kopiujemy Windows Phone i dodajemy zaokrąglenia i voila... mamy nowy ekran w iOS7 :)
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Gry na Samsung Smart TV sterowane smartfonem (Android)
 date:       2013-03-11 17:51:00
 summary:    Samsung Smart TV to nie tylko, telewizor, ale i mini komputer w salonie. Artykuły o sterowaniu za pomocą smartfona (oficjalne aplikacje Samsunga dla Androida oraz nieoficjalne dla Androida i Windows Phone)  to dopiero początek. Ten wpis przedstawi kilka gier na Smart TV. Nie będą to jednak zwyczajne...
-categories: sprzęt urządzenia mobilne gry
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 

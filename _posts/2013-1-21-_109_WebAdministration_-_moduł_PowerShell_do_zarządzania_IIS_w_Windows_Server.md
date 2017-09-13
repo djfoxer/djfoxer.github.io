@@ -3,7 +3,7 @@ layout:     post
 title:      WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server
 date:       2013-01-21 18:07:00
 summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia ...
-categories: windows porady serwery
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
 ---
 
 
@@ -28,7 +28,7 @@ Jeśli nie chcemy za każdym razem ładować modułu w PowerShellu, wystarczy, i
 
 
 ```ps
-%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -command &quot;import-module webadministration&quot;
+%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -command "import-module webadministration"
 ```
 
 
@@ -50,9 +50,9 @@ Get-Command -Module WebAdministration
 Pomoc do każdego polecenia dostajemy wpisując:
 
 ```ps
-Get-Help 
+Get-Help [polecenie cmdlet]
 ```
-[/code]
+
 
 
 
@@ -116,7 +116,7 @@ Poleceń  modułu jest dokładnie 79 i w połączeniu ze składnią PowerShella 
 
 
 ```ps
-New-Item IIS:\Sites\Test -bindings @{protocol=&quot;http&quot;;bindingInformation=&quot;:80:Test&quot;} -id 6 -physicalPath c:\PUB\d1
+New-Item IIS:\Sites\Test -bindings @{protocol="http";bindingInformation=":80:Test"} -id 6 -physicalPath c:\PUB\d1
 ```
 
 Wyjaśnienia wymaga zapewne użycie hash tabeli. Otóż ze względu na to, iż powiązania są w formie  *Klucz - Wartość* , taki sposób tworzenia jest bardziej uniwersalny i przyszłościowy (np. rozszerzenie poddrzewa  *binding*  o dodatkowe elementy).
@@ -126,7 +126,7 @@ Wyjaśnienia wymaga zapewne użycie hash tabeli. Otóż ze względu na to, iż p
 
 
 ```ps
-New-Item &#39;IIS:\Sites\Test\a1&#39; -physicalPath c:\PUB\d\a1 -type Application
+New-Item 'IIS:\Sites\Test\a1' -physicalPath c:\PUB\d\a1 -type Application
 ```
 
 
@@ -160,50 +160,48 @@ do {
     #Pobranie listy dostępnych witryn.
     #Dzięki temu, iż moduł do IIS tworzy wirtualny katalog IIS,
     #można użyć standardowej metody Get-ChildItem - listowanie zawartości folderu.
-    $values = Get-ChildItem(&quot;IIS:\Sites\&quot;)
+    $values = Get-ChildItem("IIS:\Sites\")
     $no = 0
     $sites = @{}
 
-    Write-Host &quot;&quot;
-    Write-Host &quot;Dostępne witryny:&quot;
-    Write-Host &quot;&quot;
-    Write-Host &quot;--------------------&quot;
+    Write-Host ""
+    Write-Host "Dostępne witryny:"
+    Write-Host ""
+    Write-Host "--------------------"
 
     foreach ($item in $values){
         #W pętli wypisujemy na ekran zawartość folderu IIS.
         #Dodatkowo zapamiętujemy w zmiennej słownikowej id witryny i jej nazwę.
         $no++
         $sites.Add($no.ToString(),$item.Name) 
-        Write-Host &quot;$($no) - $($item.Name) ($($item.State),$($item.PhysicalPath))&quot;
+        Write-Host "$($no) - $($item.Name) ($($item.State),$($item.PhysicalPath))"
     }
 
-    Write-Host &quot;--------------------&quot;
-    Write-Host &quot;&quot;
+    Write-Host "--------------------"
+    Write-Host ""
 
-    $input = &quot;&quot;;
+    $input = "";
 
 
     #Kręcimy się w pętli, aż użytkownik nie poda pasującego ID 
-    #lub zechce wyjść ze skryptu (&quot;koniec&quot;).
+    #lub zechce wyjść ze skryptu ("koniec").
     do {
-        $input = Read-Host &#39;wybierz ID aplikacji do zmiany (&quot;koniec&quot; zamyka skrypt)&#39;
-    }while ($input -ne &quot;koniec&quot; -band $sites.ContainsKey($input) -eq $false)
+        $input = Read-Host 'wybierz ID aplikacji do zmiany ("koniec" zamyka skrypt)'
+    }while ($input -ne "koniec" -band $sites.ContainsKey($input) -eq $false)
 
-    if($input -eq &quot;koniec&quot;){
+    if($input -eq "koniec"){
         exit
     }
 
     #Pobieramy wybraną witrynę po ID, a następnie uruchamiamy lub zatrzymujemy ją.
-    $selected = $sites
-```
-
-    if((Get-WebSite -name $selected).State -eq &quot;Stopped&quot;){
+    $selected = $sites[$input]
+    if((Get-WebSite -name $selected).State -eq "Stopped"){
         Start-Website -name $selected
-        Write-Host &quot;uruchomiono $($selected)&quot;
+        Write-Host "uruchomiono $($selected)"
     }
     else{
         Stop-Website -name $selected
-        Write-Host &quot;zatrzymano $($selected)&quot;
+        Write-Host "zatrzymano $($selected)"
     }
 }
 while (1)
@@ -212,7 +210,9 @@ while (1)
 
 
 
-[/code]
+
+```
+
 
 
 

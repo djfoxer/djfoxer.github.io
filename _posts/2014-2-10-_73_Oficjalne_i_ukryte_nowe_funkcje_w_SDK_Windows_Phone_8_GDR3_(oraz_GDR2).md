@@ -3,7 +3,7 @@ layout:     post
 title:      Oficjalne i ukryte nowe funkcje w SDK Windows Phone 8 GDR3 (oraz GDR2)
 date:       2014-02-10 17:32:00
 summary:    Wraz z premierą Windows Phone 8 GDR3 Microsoft dodał kilka nowych elementów do SDK. Nie są to jakiejś rewolucyjne zmiany, ale interesujące funkcjonalności, które mogą się przydać przy tworzeniu aplikacji na nowy system mobilny z Redmond. Najciekawsze jednak jest to, że część rzeczy nie jest dostępna...
-categories: porady programowanie urządzenia mobilne
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -25,12 +25,12 @@ private static Version GDR2 = new Version(8, 0, 10322);
 
 public static bool HasGDR2
 {
-    get { return Environment.OSVersion.Version &gt;= GDR2; }
+    get { return Environment.OSVersion.Version >= GDR2; }
 }
 
 public static bool HasGDR3
 {
-    get { return Environment.OSVersion.Version &gt;= GDR3; }
+    get { return Environment.OSVersion.Version >= GDR3; }
 }
 
 
@@ -48,7 +48,7 @@ Zatem przejdźmy do nowości.
 
 Microsoft w GDR2 wprowadził możliwość blokowania robienia zrzutów ekranu. Nieodblokowany system Windows Phone 7.x nie miał możliwości robienia screenów. Od wersji 8 możemy zrobić zrzuty ekrany za pomocą kombinacji klawiszy: [Power]+[Windows]. Najwidoczniej taka opcja nie jest zawsze pożądana, stąd też od wersji GDR2 (odkryto to dopiero przy wersji GDR3) można z poziomu aplikacji dynamicznie zablokować robienie zrzutów ekranu.
 
-Nieudokumentowana przez Microsoft właściwość  *IScreenCaptureEnabled*  w klasie  *PhoneApplicationPage*  pozwala na blokowanie i odblokowanie robienia screenów podczas działania aplikacji. Aby dostać się do właściwości trzeba posłużyć się mechanizmem refleksji. Poniższy kod działa jako extension method do instancji klasy  *PhoneApplicationPage*  (&quot;strona&quot; w Windows Phone dziedziczy po tej klasie):
+Nieudokumentowana przez Microsoft właściwość  *IScreenCaptureEnabled*  w klasie  *PhoneApplicationPage*  pozwala na blokowanie i odblokowanie robienia screenów podczas działania aplikacji. Aby dostać się do właściwości trzeba posłużyć się mechanizmem refleksji. Poniższy kod działa jako extension method do instancji klasy  *PhoneApplicationPage*  ("strona" w Windows Phone dziedziczy po tej klasie):
 
 
 ```csharp
@@ -56,7 +56,7 @@ Nieudokumentowana przez Microsoft właściwość  *IScreenCaptureEnabled*  w kla
 public static bool SetScreenCaptureEnabled(this PhoneApplicationPage page, bool enable)
 {
     if (HasGDR2)
-        page.GetType().GetProperty(&quot;IsScreenCaptureEnabled&quot;).SetValue(page, enable);
+        page.GetType().GetProperty("IsScreenCaptureEnabled").SetValue(page, enable);
         return true;
     else
         return false;
@@ -65,7 +65,7 @@ public static bool SetScreenCaptureEnabled(this PhoneApplicationPage page, bool 
 public static bool? IsScreenCaptureEnabled(this PhoneApplicationPage page)
 {
     if (HasGDR2)
-       return (bool)page.GetType().GetProperty(&quot;IsScreenCaptureEnabled&quot;).GetValue(page);
+       return (bool)page.GetType().GetProperty("IsScreenCaptureEnabled").GetValue(page);
     else
         return null;
 }
@@ -97,7 +97,7 @@ Kolejną nowością, której nie znajdziemy bezpośrednio jest ustawienie dźwi�
 public static void SetSound(this ShellToast shellToast, Uri uri)
 {
     if (HasGDR3)
-        shellToast.GetType().GetProperty(&quot;Sound&quot;).SetValue(shellToast, uri);
+        shellToast.GetType().GetProperty("Sound").SetValue(shellToast, uri);
 }
 
 ```
@@ -108,9 +108,9 @@ Teraz Tworząc  *ShellToast*  wystarczy odpowiednio wywołać metodę.:
 ```csharp
 
 ShellToast toast = new ShellToast();
-toast.Title = &quot;Toast Sound&quot;;
-toast.Content = &quot;My custom sound&quot;;
-toast.SetSound(new Uri(&quot;/Assets/horn.mp3&quot;, UriKind.Relative));
+toast.Title = "Toast Sound";
+toast.Content = "My custom sound";
+toast.SetSound(new Uri("/Assets/horn.mp3", UriKind.Relative));
 toast.Show();
 
 ```
@@ -124,7 +124,7 @@ wówczas nasze powiadomienie będzie miało unikalny dźwięk.
 
 
 
-Przy okazji dodam, że od wersji GDR3 powiadomienia Toast mogą &quot;wyskakiwać&quot; także gdy dana aplikacja jest na pierwszym planie, ale została przysłonięta przez rozmowę lub wygaszacz.
+Przy okazji dodam, że od wersji GDR3 powiadomienia Toast mogą "wyskakiwać" także gdy dana aplikacja jest na pierwszym planie, ale została przysłonięta przez rozmowę lub wygaszacz.
 
 
 
@@ -132,7 +132,7 @@ Przy okazji dodam, że od wersji GDR3 powiadomienia Toast mogą &quot;wyskakiwa�
 
 
 
-Małym elementem w GDR3, który może być przydatny jest sprawdzenie czy powiadomienie zostanie wyświetlone ze względu na oszczędzanie energii. Kiedy użytkownik aktywuje tryb energooszczędny, wówczas powiadomienia nie zostaną uruchomione. Jeśli zajdzie taka potrzeba można to sprawdzić i poinformować o tym użytkownika. Właściwość &quot;ukryta&quot; jest w statycznej klasie  *PowerManager* , do której dostaniemy się oczywiście przez refleksję:
+Małym elementem w GDR3, który może być przydatny jest sprawdzenie czy powiadomienie zostanie wyświetlone ze względu na oszczędzanie energii. Kiedy użytkownik aktywuje tryb energooszczędny, wówczas powiadomienia nie zostaną uruchomione. Jeśli zajdzie taka potrzeba można to sprawdzić i poinformować o tym użytkownika. Właściwość "ukryta" jest w statycznej klasie  *PowerManager* , do której dostaniemy się oczywiście przez refleksję:
 
 
 ```csharp
@@ -140,7 +140,7 @@ Małym elementem w GDR3, który może być przydatny jest sprawdzenie czy powiad
 public bool? IsPowerSavingModeEnabled()
 {
     if (HasGDR3)
-        return (bool)typeof(PowerManager).GetProperty(&quot;PowerSavingModeEnabled&quot;).GetValue(null);
+        return (bool)typeof(PowerManager).GetProperty("PowerSavingModeEnabled").GetValue(null);
     else
         return null;
 }
@@ -164,7 +164,7 @@ Prócz powyższych zmian, mamy jeszcze kilka pomniejszych jak:
 
 ```csharp
 
-Windows.System.Launcher.LaunchUriAsync(new Uri(&quot;ms-settings-power:&quot;));
+Windows.System.Launcher.LaunchUriAsync(new Uri("ms-settings-power:"));
 
 ```
 
@@ -174,7 +174,7 @@ Windows.System.Launcher.LaunchUriAsync(new Uri(&quot;ms-settings-power:&quot;));
 
 ```csharp
 
-Windows.System.Launcher.LaunchUriAsync(new Uri(&quot;ms-settings-screenrotation:&quot;));
+Windows.System.Launcher.LaunchUriAsync(new Uri("ms-settings-screenrotation:"));
 
 ```
 

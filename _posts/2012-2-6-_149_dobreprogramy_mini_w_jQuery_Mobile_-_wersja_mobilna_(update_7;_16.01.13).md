@@ -3,7 +3,7 @@ layout:     post
 title:      dobreprogramy mini w jQuery Mobile - wersja mobilna (update 7; 16.01.13)
 date:       2012-02-06 22:36:00
 summary:    W tamtym tygodniu qbap opisał we wpisie dobreprogramy w wersji mini swoją wizję portalu w wersji mobilnej, całkiem przypadkiem zbiegło się to z moim wpisem jQuery Mobile - programowanie mobilne. Postanowiłem połączyć dość luźno te oba wpisy i stworzyć coś co mogłoby się przydać dla każdego z nas. Ta...
-categories: oprogramowanie internet urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -51,7 +51,7 @@ Zapraszam do wyrażenia krytycznej opinii, wskazówek itp.
 
 
 
-  * pobranie wskazanych, PEŁNYCH TREŚCI WPIS&#211;W z działu Aktualności (jeden pełny wpis to ok. 3 KB!)
+  * pobranie wskazanych, PEŁNYCH TREŚCI WPISÓW z działu Aktualności (jeden pełny wpis to ok. 3 KB!)
 
 
 
@@ -73,7 +73,7 @@ Zapraszam do wyrażenia krytycznej opinii, wskazówek itp.
 
 
 
-Strona jest prosta i bardzo mała. Na górze umieściłem combobox, z którego można wybrać, który dział chcemy załadować: Aktualności, Lab, Blog, Programy, Programy - testowe (domyślnie ładowane są Aktualności). W danym momencie, jeśli raz wczytamy dział jest on zapamiętywany na czas &quot;sesji&quot;, podobnie pełne artykuły z Aktualności (jest to jedna strona więc dane trzymane są w JavaScripcie, narazie nie w ciasteczkach). 
+Strona jest prosta i bardzo mała. Na górze umieściłem combobox, z którego można wybrać, który dział chcemy załadować: Aktualności, Lab, Blog, Programy, Programy - testowe (domyślnie ładowane są Aktualności). W danym momencie, jeśli raz wczytamy dział jest on zapamiętywany na czas "sesji", podobnie pełne artykuły z Aktualności (jest to jedna strona więc dane trzymane są w JavaScripcie, narazie nie w ciasteczkach). 
 
 
 
@@ -101,7 +101,7 @@ Dzięki stworzeniu strony w jQuery Mobile, jest ona mała, przystosowana do dzia
 
 
 
-W menu wyboru widoczna jest opcja &quot;Subskrypcje&quot;. Nie jest ona jeszcze oprogramowana. W sumie liczę na jakiś odezw, czy jest sens ją robić, czy będzie jakieś zainteresowanie. W założeniach mają być tam wybrane kanały RSS blogerów na dobrychprogramach. W sumie to wyglądać będzie jak mały czytnik RSS. Z poziomy dobrychprogramów mini, byłaby możliwość dodawania/usuwania/edycji kanałów RSS blogerów. Pytanie: &quot;jest sens to robić&quot;?
+W menu wyboru widoczna jest opcja "Subskrypcje". Nie jest ona jeszcze oprogramowana. W sumie liczę na jakiś odezw, czy jest sens ją robić, czy będzie jakieś zainteresowanie. W założeniach mają być tam wybrane kanały RSS blogerów na dobrychprogramach. W sumie to wyglądać będzie jak mały czytnik RSS. Z poziomy dobrychprogramów mini, byłaby możliwość dodawania/usuwania/edycji kanałów RSS blogerów. Pytanie: "jest sens to robić"?
 
 
 
@@ -123,10 +123,10 @@ Zmiany jakie dodałem dzięki Waszemu zaangażowaniu :)
 
 
 
-  * nie będzie już ucinać napisu &quot;dobreprogramy&quot; w nagłówku
+  * nie będzie już ucinać napisu "dobreprogramy" w nagłówku
 
 
-  * &quot;dobre&quot; &quot;programy&quot; zyskał nowy image ;)
+  * "dobre" "programy" zyskał nowy image ;)
 
 
   * wyjustowanie tekstu
@@ -149,9 +149,9 @@ Sprawdziłem też wyświetlanie na Operze Mini (6.5 i 4.2)
 
 
 
-&quot;Otwieranie&quot; nowego okna, po wybraniu z menu, jest spowodowane tym, iż wysokość okna przglądarki www jest za mała. jQuery Mobile, w takim przypadku, daje tło, aby opcje wyboru były bardziej widoczne. Można to zaobserwować, też na &quot;dużych&quot; przeglądarkach, zmniejszając okno.
+"Otwieranie" nowego okna, po wybraniu z menu, jest spowodowane tym, iż wysokość okna przglądarki www jest za mała. jQuery Mobile, w takim przypadku, daje tło, aby opcje wyboru były bardziej widoczne. Można to zaobserwować, też na "dużych" przeglądarkach, zmniejszając okno.
 
-Jeśli chodzi o Amazon Kindle ,to problem jest pewnie w interpretacji w znaczniku &quot;a&quot; z atrybutem &quot;target=&#39; _blank&#39; &quot;. Coś pokombinuje, aby znaleźć złoty środek, bo lepiej jak okno z odnośnikiem do artykułu na dobreprogramy.pl otwiera się w nowym oknie.
+Jeśli chodzi o Amazon Kindle ,to problem jest pewnie w interpretacji w znaczniku "a" z atrybutem "target=' _blank' ". Coś pokombinuje, aby znaleźć złoty środek, bo lepiej jak okno z odnośnikiem do artykułu na dobreprogramy.pl otwiera się w nowym oknie.
 
 Postaram się dodać niedługo wyświetlanie komentarzy (tylko do aktualności?).
 
@@ -188,7 +188,7 @@ Wrzuciłem na serwer nową wersje, całkiem sporo zmian (m.in komentarze):
   * nowy skin
  
 
-  * &quot;usunięcie&quot; Subskrypcji
+  * "usunięcie" Subskrypcji
 
 
   * jQuery hostowane na google
@@ -212,7 +212,7 @@ Wrzuciłem na serwer nową wersje, całkiem sporo zmian (m.in komentarze):
   * dodano graficzną reprezentację ilości komentarzy
 
 
-  * usunięto &quot;Programy w wersji testowej&quot;
+  * usunięto "Programy w wersji testowej"
 
 
 
@@ -265,7 +265,7 @@ Wrzuciłem na serwer nową wersje, całkiem sporo zmian (m.in komentarze):
   * wyrzucenie api googla do wstępnego ściągania rssów
 
 
-  * pobieranie z labu &quot;specjalnych&quot; recenzji
+  * pobieranie z labu "specjalnych" recenzji
 
 
   * zmniejszenie ilości pobieranych danych
@@ -300,7 +300,7 @@ Wrzuciłem na serwer nową wersje, całkiem sporo zmian (m.in komentarze):
 
 
 
-  * pobieranie treści dla blogów z kategorii &quot;pozostałe&quot;
+  * pobieranie treści dla blogów z kategorii "pozostałe"
 
 
   * menu select do wybierania treści, zostało przekształcone w natywny select (kompatybilność ze starszymi przeglądarkami)

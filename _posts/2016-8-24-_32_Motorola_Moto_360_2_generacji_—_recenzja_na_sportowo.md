@@ -2,13 +2,13 @@
 layout:     post
 title:      Motorola Moto 360 2 generacji — recenzja na sportowo
 date:       2016-08-24 17:53:00
-summary:    Moto 360 jest ciekawym smartwatchem, który będzie kupowany jako &quot;przedłużenie&quot; smartfonu. Otrzymywanie SMSów, powiadomień, szybsza i łatwiejsza komunikacja z zewnętrznymi usługami. To i wiele więcej otrzymamy wraz z przygarnięciem zegarka od Motoroli.Przekonajmy się jednak, jak Moto 360 sp...
-categories: sprzęt oprogramowanie urządzenia mobilne
+summary:    Moto 360 jest ciekawym smartwatchem, który będzie kupowany jako "przedłużenie" smartfonu. Otrzymywanie SMSów, powiadomień, szybsza i łatwiejsza komunikacja z zewnętrznymi usługami. To i wiele więcej otrzymamy wraz z przygarnięciem zegarka od Motoroli.Przekonajmy się jednak, jak Moto 360 sprawdzi się...
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-Moto 360 jest ciekawym smartwatchem, który będzie kupowany jako &quot;przedłużenie&quot; smartfonu. Otrzymywanie SMSów, powiadomień, szybsza i łatwiejsza komunikacja z zewnętrznymi usługami. To i wiele więcej otrzymamy wraz z przygarnięciem zegarka od Motoroli.
+Moto 360 jest ciekawym smartwatchem, który będzie kupowany jako "przedłużenie" smartfonu. Otrzymywanie SMSów, powiadomień, szybsza i łatwiejsza komunikacja z zewnętrznymi usługami. To i wiele więcej otrzymamy wraz z przygarnięciem zegarka od Motoroli.
 
 Przekonajmy się jednak, jak Moto 360 sprawdzi się w roli zegarka sportowego. Jeśli wydajemy na sprzęt na nadgarstek prawie 1.5 tyś zł byłoby miło, jakby mógł on spełniać także rolę zegarka sportowego. Zapewne wielu nabywców z chęcią będzie monitorować swoje codziennie aktywności fizyczne wprost z nadgarstka.
 
@@ -96,7 +96,7 @@ Postanowiłem to zmierzyć i wybrałem się na bieganie z dwoma zegarkami. Moto 
 
 
 
-Jakie były wyniki? Zrobiłem delikatną przebieżkę na odległość 10 km. Moto 360 ze swoim krokomierzem po 5 km był &quot;w tyle&quot; jedynie ok. 400 m. Wydaje się to wynikiem całkiem niezłym, jak na tego typu metodę zliczającą odległość. Na koniec biegu różnica na niekorzyść Moto 360 wynosiła 1 km. 
+Jakie były wyniki? Zrobiłem delikatną przebieżkę na odległość 10 km. Moto 360 ze swoim krokomierzem po 5 km był "w tyle" jedynie ok. 400 m. Wydaje się to wynikiem całkiem niezłym, jak na tego typu metodę zliczającą odległość. Na koniec biegu różnica na niekorzyść Moto 360 wynosiła 1 km. 
 
 Jeśli ktoś chce pobiegać raz na jakiś czas na niewielkie dystanse i ma Moto 360, może spokojnie wybrać się z zegarkiem na krótkie przebieżki. Różnica pomiędzy wynikami nie jest na tyle duża, aby dyskwalifikować smartwatch od Motoroli jako urządzenie do mierzenia dystansu dla casuali :) Szkoda tylko tego braku GPS, oj szkoda.
 
@@ -124,7 +124,7 @@ Wraz z Moto 360 dostajemy aplikację od Motoroli, która całkiem nieźle monito
 ### Moto Body
 
 
-Smartwatch posiada już wbudowaną aplikację [Moto Body](https://play.google.com/store/apps/details?id=com.motorola.omni&amp;hl=pl). Można szybko zmierzyć puls, kroki, ilość spalonych kalorii czy zrobić krótką przebieżkę, nawet bez połączenia z telefonem!
+Smartwatch posiada już wbudowaną aplikację [Moto Body](https://play.google.com/store/apps/details?id=com.motorola.omni&hl=pl). Można szybko zmierzyć puls, kroki, ilość spalonych kalorii czy zrobić krótką przebieżkę, nawet bez połączenia z telefonem!
 
 
 
@@ -149,7 +149,7 @@ Wyniki przesłane mogą być do aplikacji na smartfonie, wówczas sprawdzimy szc
 ### Google Fit
 
 
-Kolejna aplikacja warta uwagi to [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&amp;hl=pl). Jest ona znacznie bardziej zaawansowana niż Moto Body. Możemy nie tylko mierzyć dystans przebyty w trakcie chodzenia czy biegania, ale także analizować jazdę na rowerze czy ćwiczenia fizyczne jak pompki lub brzuszki.
+Kolejna aplikacja warta uwagi to [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=pl). Jest ona znacznie bardziej zaawansowana niż Moto Body. Możemy nie tylko mierzyć dystans przebyty w trakcie chodzenia czy biegania, ale także analizować jazdę na rowerze czy ćwiczenia fizyczne jak pompki lub brzuszki.
 
 
 

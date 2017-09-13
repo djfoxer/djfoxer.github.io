@@ -3,7 +3,7 @@ layout:     post
 title:      Orange zapomniał o moim Orange
 date:       2013-09-07 17:27:00
 summary:    Pewnego dnia, po rozmowie z konsultantem Orange, dostałem tuż po zakończonym połączeniu taki oto SMS:Teraz się dziwie, że w ogóle go przeczytałem, bo zazwyczaj ignoruje smsy od Orange. Jedynie o czym do mnie piszą to o wystawionej fakturze, a o imieninach to już nie pamiętają!Wracając do tematu. Szy...
-categories: windows oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

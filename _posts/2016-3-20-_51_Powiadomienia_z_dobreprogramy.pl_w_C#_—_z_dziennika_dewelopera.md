@@ -3,7 +3,7 @@ layout:     post
 title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
 date:       2016-03-20 10:56:00
 summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przy...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -25,9 +25,7 @@ Zacznijmy zatem od pobrania JSONa z listą powiadomień dla zalogowanego użytko
 ```csharp
 
             request = WebRequest.Create(Const.NotifyUrlWithTimeStamp);
-            request.Headers
-```
- = cookie;
+            request.Headers["Cookie"] = cookie;
 
             response = await request.GetResponseAsync();
 
@@ -36,13 +34,15 @@ Zacznijmy zatem od pobrania JSONa z listą powiadomień dla zalogowanego użytko
             {
                 pageSource = sr.ReadToEnd();
             }
-[/code]
+
+```
+
 
 Podobnie jak przy logowaniu, tworzymy zapytanie do serwera poprzez użycie metody z klasy abstrakcyjnej WebRequest. Naszym adresem docelowym jest:
 
 
 ```html
-http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&amp;_=znacznik_czasu
+http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&_=znacznik_czasu
 ```
 
 
@@ -170,27 +170,27 @@ Typy powiadomień w JSONie są w formie tekstu, więc parsujemy je wg następuj�
             typeString = typeString.ToLower();
             switch (typeString)
             {
-                case &quot;comment&quot;:
+                case "comment":
                     return NotificationType.Comment;
-                case &quot;comment_blog&quot;:
+                case "comment_blog":
                     return NotificationType.CommentBlog;
-                case &quot;program_update&quot;:
+                case "program_update":
                     return NotificationType.ProgramUpdate;
-                case &quot;contest&quot;:
+                case "contest":
                     return NotificationType.Contest;
-                case &quot;friends_accept&quot;:
+                case "friends_accept":
                     return NotificationType.FriendsAccept;
-                case &quot;friends_invite&quot;:
+                case "friends_invite":
                     return NotificationType.FriendsInvite;
-                case &quot;blog_annotation&quot;:
+                case "blog_annotation":
                     return NotificationType.BlogAnnotation;
-                case &quot;private_msg&quot;:
+                case "private_msg":
                     return NotificationType.PrivateMsg;
-                case &quot;mention&quot;:
+                case "mention":
                     return NotificationType.Mention;
-                case &quot;license&quot;:
+                case "license":
                     return NotificationType.License;
-                case &quot;badges&quot;:
+                case "badges":
                     return NotificationType.Badges;
                 default:
                     return NotificationType.Unknown;
@@ -204,7 +204,7 @@ Typy powiadomień w JSONie są w formie tekstu, więc parsujemy je wg następuj�
 
 
 
-## JSON =&gt; Notification
+## JSON => Notification
 
 
 Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzięki Json.NET:
@@ -217,28 +217,28 @@ Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzię
             {
                 var c = respList.First.First;
 
-                for (int i = 0; i &lt; c.Count(); i++)
+                for (int i = 0; i < c.Count(); i++)
                 {
                     var ele = (JProperty)c.ElementAt(i);
-                    Notification n = JsonConvert.DeserializeObject&lt;Notification&gt;(ele.Value.ToString());
+                    Notification n = JsonConvert.DeserializeObject<Notification>(ele.Value.ToString());
 
-                    n.AddedDate = new DateTime(1970, 1, 1).AddMilliseconds((long)(((JValue)ele.Value
-```
-).Value));
-                    n.TypeValue = Enum.ParseToNotificationType(((JValue)ele.Value[&quot;Type&quot;]).Value.ToString());
-                    n.PublicationId = ele.Name.Split(&#39;:&#39;)[0];
-                    n.Id = ele.Name.Split(&#39;:&#39;)[1];
+                    n.AddedDate = new DateTime(1970, 1, 1).AddMilliseconds((long)(((JValue)ele.Value["Data"]).Value));
+                    n.TypeValue = Enum.ParseToNotificationType(((JValue)ele.Value["Type"]).Value.ToString());
+                    n.PublicationId = ele.Name.Split(':')[0];
+                    n.Id = ele.Name.Split(':')[1];
                     notList.Add(n);
                 }
             }
 
-[/code]
+
+```
+
 
 Głównym rdzeniem jest tutaj:
 
 
 ```csharp
-Notification n = JsonConvert.DeserializeObject&lt;Notification&gt;(ele.Value.ToString());
+Notification n = JsonConvert.DeserializeObject<Notification>(ele.Value.ToString());
 
 ```
 
@@ -268,20 +268,20 @@ Zostało jeszcze dodanie metody, które oznaczy powiadomienie jako odczytane i u
 
 
             var request = WebRequest.Create(Const.NotifyUrlRaw);
-            request.Headers
-```
- = cookie;
-            request.ContentType = &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;;
-            request.Method = &quot;POST&quot;;
+            request.Headers["Cookie"] = cookie;
+            request.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
+            request.Method = "POST";
 
-            byte[] form = Encoding.UTF8.GetBytes(string.Format(&quot;{1}%5B%5D={0}&quot;, id, method));
+            byte[] form = Encoding.UTF8.GetBytes(string.Format("{1}%5B%5D={0}", id, method));
             using (Stream os = await request.GetRequestStreamAsync())
             {
                 os.Write(form, 0, form.Length);
             }
             var resesponse = await request.GetResponseAsync();
 
-[/code]
+
+```
+
 
 Wysyłamy zapytanie pod adres: (pamiętając o ciasteczku)
 

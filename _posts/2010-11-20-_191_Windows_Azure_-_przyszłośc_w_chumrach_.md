@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Azure - przyszłośc w chumrach?
 date:       2010-11-20 18:43:00
 summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platform...
-categories: sprzęt programowanie serwery
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
 ---
 
 
@@ -52,7 +52,7 @@ Posiada ona zainstalowane:
 - IIS 7.0
 - .NET 3.5 SP1 / 4.0
 - dodatkowa możliwość uruchomienia aplikacji napisanych w: Java, PHP, Python, Ruby
-- system Azure OS (tzw. &quot;Guest&quot;), w różnych wersjach, dzięki czemu możemy uruchamiać usługi zoptymalizowane/napisane dla różnych wersji Azuer OSa
+- system Azure OS (tzw. "Guest"), w różnych wersjach, dzięki czemu możemy uruchamiać usługi zoptymalizowane/napisane dla różnych wersji Azuer OSa
 
 Możemy zaprzęgnąć do nasz pracy, następujące maszyny VM Azura:
 
@@ -151,18 +151,18 @@ Od strony programisty przygotowano Toolkit Azura dla Visual Studio 2010. Wymagan
 Azure, a w sumie i ogólna postać chmury, daje nam niewątpliwie wiele zalet:
 - koszty infrastruktury są niezmienne
 - brak problemów związanych z działaniem sprzętu hostingowego (awarie, chłodzenie, koszty administracyjne)
-- &quot;nieograniczona&quot; moc obliczeniowa
+- "nieograniczona" moc obliczeniowa
 - działania zabezpieczające po stronie Azure
 - automatyczne i dynamiczne dopasowanie infrastruktury do obciążeń
 - dostępność na poziomie 99,99%
-- CDN automatycznie dopasowujący się do położenia klienta (aby osiągnąć jak największą szybkość klient &lt;-&gt; serwer)
+- CDN automatycznie dopasowujący się do położenia klienta (aby osiągnąć jak największą szybkość klient <-> serwer)
 - gwarancja firmowana przez Microsoft
 
-Azure &quot;śmierdzi&quot;?
+Azure "śmierdzi"?
 
 
 Sama technologia Azure jest bardzo ciekawa i ma wiele zalet, jednak już przy pierwszy zetknięciu napotkamy na kilka rzeczy, które mogą wywoływać grymas na twarzy:
-- sama technologia chmury jest zupełnie innym podejściem do &quot;hostingu&quot;, może to powodować opory, szczególnie &quot;u góry&quot;
+- sama technologia chmury jest zupełnie innym podejściem do "hostingu", może to powodować opory, szczególnie "u góry"
 - koszty Azure nie są konkurencyjne w stosunku do Amazona, Google
 - brak jakiegokolwiek środowiska testowego w chmurze! Mając środowisko testowe-lokalne na komputerze (np. Visual Studio z Toolkitem do Azura), otrzymujemy 95% zgodności z realną chmurą Azure. Mozna było by np. stworzyć chmurę do testów, która miała by ograniczenia na CPU, pamięć, storage. Ewentualnie, w chmurze testowej, dane były by czyszczone co pewien czas. 
 - uciążliwa rejestracja do Azura
@@ -178,16 +178,16 @@ Sama technologia Azure jest bardzo ciekawa i ma wiele zalet, jednak już przy pi
 
 
 
-Microsoft Azure i ogólnie sama idea chmury są zapewne przyszłością. Azure ma wiele zalet, jednakże obawiam się czy w natłoku innych, już dostępnych dłużej, środowisk, nie zostanie ona zmarginalizowana. Mam nadzieje, że to nie nastąpi. A Microsoft rzuci na rynek bardziej &quot;ludzkie&quot; ceny dla Azure. Liczę na to :) 
+Microsoft Azure i ogólnie sama idea chmury są zapewne przyszłością. Azure ma wiele zalet, jednakże obawiam się czy w natłoku innych, już dostępnych dłużej, środowisk, nie zostanie ona zmarginalizowana. Mam nadzieje, że to nie nastąpi. A Microsoft rzuci na rynek bardziej "ludzkie" ceny dla Azure. Liczę na to :) 
 
 
-Dodatkowo zachęcam do zapisania się na szkolenia z Azura w &quot;Akademii Azura&quot; [4]!
+Dodatkowo zachęcam do zapisania się na szkolenia z Azura w "Akademii Azura" [4]!
 
 Dziękuję i pozdrawiam.  
 
 Linki:
 [1][Microsoft Azure Homepage](http://www.microsoft.com/windowsazure/)
-[2][Cennik usług Azure](http://www.microsoft.com/windowsazure/offers/popup/popup.aspx?lang=pl&amp;locale=pl-PL&amp;offer=MS-AZR-0003P) 
+[2][Cennik usług Azure](http://www.microsoft.com/windowsazure/offers/popup/popup.aspx?lang=pl&locale=pl-PL&offer=MS-AZR-0003P) 
 [3][Film przedstawiający koncepcję Data Center](http://www.youtube.com/watch?v=PPnoKb9fTkA)
 [4][Akademia Azura](http://www.microsoft.com/poland/aa/default.aspx)
 [5][Microsoft Online Services - centrum, gdzie zakupujemy i zarządzamy usługami m.in. Azure](https://mocp.microsoftonline.com/site/default.aspx?uiculture=pl)

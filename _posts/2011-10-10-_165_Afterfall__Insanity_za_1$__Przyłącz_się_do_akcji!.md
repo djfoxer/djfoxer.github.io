@@ -3,7 +3,7 @@ layout:     post
 title:      Afterfall: Insanity za 1$? Przyłącz się do akcji!
 date:       2011-10-10 23:40:00
 summary:    Czy nową, polską, rozbudowaną grę (strzelanka science-fiction w połączeniu z survival horrorem), na którą idą olbrzymie pieniądze (głos głównego bohatera, podkłada Żebrowski, zaś produkcja robiona jest już od dość dłuższego czasu) można kupić za 1$?Tak! Polskie studio Nicolas Games, pracujące nad Af...
-categories: windows gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 

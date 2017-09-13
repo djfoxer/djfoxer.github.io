@@ -2,13 +2,13 @@
 layout:     post
 title:      Dysk SSD z Windows - konfiguracja
 date:       2011-11-10 20:37:00
-summary:    Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie &quot;bloger kwartału&quot; i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja :) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłuży...
-categories: windows sprzęt porady
+summary:    Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie "bloger kwartału" i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja :) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłużyć na wyróż...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
 
- *Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie &quot;bloger kwartału&quot; i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja :) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłużyć na wyróżnienie:P) oraz na to, aby zaskoczyć zarówno czytelników dobrychprogramów jak i Redakcję :)* 
+ *Wpis chcę zacząć od złożenia podziękowań na ręce Redakcji dobrychprogramów za wyróżnienie "bloger kwartału" i nagrodzenie dyskiem SSD (Kingston SSDNow V+100 96 GB - miodzio). Bardzo dziękuję za docenienie takiego szaraczka jak ja :) Mam nadzieję, że będę miał szansę się wyróżnić (i zasłużyć na wyróżnienie:P) oraz na to, aby zaskoczyć zarówno czytelników dobrychprogramów jak i Redakcję :)* 
 
 Kingston SSDNow V+100 96 GB - to nie jest recenzja
 
@@ -85,8 +85,8 @@ kliknąć prawym na Komputer i  wybrać Zarządzaj. Z drzewka po lewej wybieramy
 
 Kolejnym narzędziem zbędnym i powodującym niepotrzebne operacje na dysku, jest usługa Superfetch do optymalizacji uruchamianych aplikacji podczas startu Windows. Aby ją wyłączyć ją  należy podobnie jak wyżej wejść do usług i znaleźć usługę Wstępne ładowanie do pamięci, ją również należy wyłączyć.
 
-To jeszcze nie jest koniec, aby pozbyć się &quot;złej&quot; usługi należy otworzyć Rejestr (uruchomić regedit.exe) i przejść do gałęzi:
-HKEY_LOCAL_MACHINE -&gt; System -&gt; CurrentControlset -&gt; Control -&gt; Session Manager -&gt; Memory Management -&gt; PrefetchParameters. 
+To jeszcze nie jest koniec, aby pozbyć się "złej" usługi należy otworzyć Rejestr (uruchomić regedit.exe) i przejść do gałęzi:
+HKEY_LOCAL_MACHINE -> System -> CurrentControlset -> Control -> Session Manager -> Memory Management -> PrefetchParameters. 
 W tym miejscu po prawej stronie dla parametrów:
 EnablePrefetcher
 EnableSuperfetch

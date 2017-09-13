@@ -3,7 +3,7 @@ layout:     post
 title:      jv16 PowerTools 2010 - za darmo* + Polowanie na licencje (R.I.P.?)
 date:       2010-12-05 23:17:00
 summary:    Polowanie na licencje (R.I.P.?)Hej, oczywiście nic nie ma całkowicie za darmo, no może nie dla wszystkich;) Chyba po pierwszym rysunku możecie się domyślać w czym rzecz. Rys. 1. R.I.P. Polowanie na licencjeW 2007 roku, ktoś z dobreprogramy.pl wpadł na genialny pomysł. Co pewien czas będą rozdawać za...
-categories: windows oprogramowanie porady
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
@@ -46,7 +46,7 @@ Możecie z tą licencją mieć najnowszy jv16 PowerTools 2010 za darmo!!
 
 Mam nadzieję, iż nie wyrzuciliście tych licencji! :)
 
-Zauważyłem to przypadkiem. Z rana natchnęło mnie na porządki w rejestrze ;) Uruchomiłem program. Jakoś mimo woli zacząłem przeglądać menu programu. Po wybraniu opcji &quot;Pomoc&quot; -&gt; &quot;Sprawdź uaktualnienia&quot;, zobaczyłem, iż mogę pobrać nowszą wersje na obecną licencję. Zdziwiłem się, iż link prowadzi do jv16 PowerTools 2010 :)
+Zauważyłem to przypadkiem. Z rana natchnęło mnie na porządki w rejestrze ;) Uruchomiłem program. Jakoś mimo woli zacząłem przeglądać menu programu. Po wybraniu opcji "Pomoc" -> "Sprawdź uaktualnienia", zobaczyłem, iż mogę pobrać nowszą wersje na obecną licencję. Zdziwiłem się, iż link prowadzi do jv16 PowerTools 2010 :)
 Na załączonej grafice nr 2. widać dokładnie te okienko.
 
 
@@ -57,7 +57,7 @@ Na załączonej grafice nr 2. widać dokładnie te okienko.
 
 
 Dzięki wygraniu 3 lata temu licencji na RegSupreme Pro, możecie zaktualizować swój program do jv16 PowerTools 2010.
-Wystarczy zainstalować jv16 PowerTools 2010 link: [2]. I następnie z menu &quot;Pomoc&quot; wybrać &quot;Licencja programu&quot; i wskazać na licencję z Polowania. 
+Wystarczy zainstalować jv16 PowerTools 2010 link: [2]. I następnie z menu "Pomoc" wybrać "Licencja programu" i wskazać na licencję z Polowania. 
 
 
 

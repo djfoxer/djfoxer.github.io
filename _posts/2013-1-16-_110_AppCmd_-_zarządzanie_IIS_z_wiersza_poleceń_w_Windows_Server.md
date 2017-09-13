@@ -3,7 +3,7 @@ layout:     post
 title:      AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server
 date:       2013-01-16 19:48:00
 summary:    Zarządzanie usługami IIS z poziomu GUI jest dziecinnie proste. Od wersji 7.0 wszystkie opcje są łatwo dostępne i zarządzanie jest niezmiernie proste. Oczywiście interfejs graficzny nie zawsze jest wygody w pewnych zastosowaniach. Do napisania skryptu zarządzającego witryną czy pulą aplikacji łatwiej...
-categories: windows oprogramowanie serwery
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
 ---
 
 
@@ -45,7 +45,7 @@ Narzędzie AppCmd działa poprzez wydanie odpowiednich poleceń ( *command* ) dl
 
 
 ```shell
-appcmd (command) (object-type) &lt;identifier&gt; &lt;/parameter1:value1 ...&gt;
+appcmd (command) (object-type) <identifier> </parameter1:value1 ...>
 ```
 
 
@@ -96,7 +96,7 @@ Jeśli dodamy np. parametr  */state:Started* , otrzymamy listę z tylko aktywnym
 
 
 ```shell
-appcmd add site /name:Test /id:10 /bindings:&quot;http/*:95:&quot; /physicalPath:&quot;c:\PUB\d1&quot; 
+appcmd add site /name:Test /id:10 /bindings:"http/*:95:" /physicalPath:"c:\PUB\d1" 
 ```
 
  *name*  - nazwa witryny,  *id*  - identyfikator witryny,  *bindings*  - powiązania (w tym przypadku dostęp przez port 95)
@@ -136,7 +136,7 @@ Mając już witrynę możemy pobawić się z aplikacjami w jej obrębie.
 
 
 ```shell
-appcmd add app /site.name:Test /path:/a1 /physicalPath:&quot;c:\PUB\d1\a1&quot;
+appcmd add app /site.name:Test /path:/a1 /physicalPath:"c:\PUB\d1\a1"
 ```
 
  *site.name*  - witryna,  *path*  - ścieżka wirtualna (w tym przypadku będzie to a1, czyli dostęp będzie poprzez adres:  *http://adres:95/a1* ),  *physicalPath*  - ścieżka fizyczna do folderu z plikami
@@ -166,7 +166,7 @@ Dodaliśmy własną pulę aplikacji o nazwie  *apool* .
 
 
 ```shell
-appcmd list apppool &quot;apool&quot; /text:*
+appcmd list apppool "apool" /text:*
 ```
 
 Na wyjściu otrzymamy podgląd konfiguracji puli aplikacji:
@@ -175,20 +175,20 @@ Na wyjściu otrzymamy podgląd konfiguracji puli aplikacji:
 ```txt
 
 APPPOOL
-  APPPOOL.NAME:&quot;apool&quot;
-  PipelineMode:&quot;Integrated&quot;
-  RuntimeVersion:&quot;v4.0&quot;
-  state:&quot;Started&quot;
-  
-```
- 
-    name:&quot;apool&quot; 
-    queueLength:&quot;1000&quot; 
-    autoStart:&quot;true&quot; 
-    enable32BitAppOnWin64:&quot;false&quot; 
-    managedRuntimeVersion:&quot;v4.0&quot; 
+  APPPOOL.NAME:"apool"
+  PipelineMode:"Integrated"
+  RuntimeVersion:"v4.0"
+  state:"Started"
+  [add] 
+    name:"apool" 
+    queueLength:"1000" 
+    autoStart:"true" 
+    enable32BitAppOnWin64:"false" 
+    managedRuntimeVersion:"v4.0" 
 (...)
-[/code]
+
+```
+
 
 
   * edycja
@@ -196,7 +196,7 @@ APPPOOL
 Dowolny parametr edytujemy w następujący sposób:
 
 ```shell
-appcmd set apppool &quot;apool&quot; /autoStart:&quot;false&quot;
+appcmd set apppool "apool" /autoStart:"false"
 ```
 
 
@@ -214,7 +214,7 @@ appcmd set apppool &quot;apool&quot; /autoStart:&quot;false&quot;
 
 
 ```shell
-appcmdadd vdir /app.name:&quot;Test/a1&quot; /path:/a2 /physicalPath:&quot;c:\PUB\d1\a2&quot;
+appcmdadd vdir /app.name:"Test/a1" /path:/a2 /physicalPath:"c:\PUB\d1\a2"
 ```
 
 
@@ -225,7 +225,7 @@ Powyższe polecenie w naszym przypadku utworzyło wirtualną ścieżkę dla  *Te
 
 
 ```shell
-appcmd list vdir /physicalPath:&quot;c:\PUB&quot;
+appcmd list vdir /physicalPath:"c:\PUB"
 ```
 
 Pomimo, iż listowanie, w każdym przypadku wygląda podobnie, to dzięki parametrom, można odfiltrować dane wg potrzeb. Tutaj tylko te witryny, które znajdują się fizycznie, w określonym folderze.
@@ -244,7 +244,7 @@ Dzięki appcmd w prost sposób wykonany backup konfiguracji serwera:
 
 
 ```shell
-appcmd add backup &quot;b20120116&quot;
+appcmd add backup "b20120116"
 ```
 
 
@@ -252,7 +252,7 @@ appcmd add backup &quot;b20120116&quot;
 
 
 ```shell
-appcmd restore backup &quot;b20120116&quot;
+appcmd restore backup "b20120116"
 ```
 
 
@@ -277,7 +277,7 @@ appcmd list wps /apppool.name:DefaultAppPool
 lub dziłające na okreslonym numerze PID:
 
 ```shell
-appcmd list wp &quot;35674&quot;
+appcmd list wp "35674"
 ```
 
 
@@ -295,7 +295,7 @@ Ciekawym obiektem jest  *trace*  to śledzenia witryn. Można w prosty sposób p
 
 
 ```shell
-appcmd configure trace &quot;Test&quot; /enablesite
+appcmd configure trace "Test" /enablesite
 ```
 
 Dodaliśmy śledzenie dla witryny  *Test* .
@@ -311,7 +311,7 @@ appcmd list traces
 Z logów wybieramy ten, który nas interesuje i wyświetlamy go
 
 ```shell
-appcmd list trace &quot;id_logu.xml&quot; /text:path
+appcmd list trace "id_logu.xml" /text:path
 ```
 
 

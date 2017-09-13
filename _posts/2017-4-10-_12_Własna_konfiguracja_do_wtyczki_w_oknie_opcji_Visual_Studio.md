@@ -3,7 +3,7 @@ layout:     post
 title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
 date:       2017-04-10 18:52:00
 summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do V...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -34,11 +34,11 @@ Nasza wtyczka składa się z paczek ( *Packaga* ). W celu automatycznego uruchom
 
 ```csharp
 
+[ProvideAutoLoad(VSConstants.UICONTEXT.ShellInitialized_string)]
+public sealed class CommandShowTomatoStatusBarPackage : Package
 
 ```
 
-public sealed class CommandShowTomatoStatusBarPackage : Package
-[/code]
 
 Atrybut  *ProvideAutoLoad*  oznacza uruchomienie paczkę przy starce, zaś parametr określa kiedy ma to zrobić. Mamy kilka opcji:
 
@@ -84,12 +84,12 @@ W kolejnym kroku dodamy zmienną typu bool, która zostanie przez IDE potraktowa
 ```csharp
 
 
-
-```
-
+[Category(Consts.OptionsCategoryBasicName)]
 [DisplayName(Consts.OptionsCategoryBasicStatusBarAutostartText)]
 [Description(Consts.OptionsCategoryBasicStatusBarAutostartInfoText)]
-public bool AutostartPomodoroStatusBar {get; set;}[/code]
+public bool AutostartPomodoroStatusBar {get; set;}
+```
+
 
  *Category*  określa nazwę podwęzła w naszych opcjach, zaś  *DisplayName*  i  *Description*  są odpowiednio nazwami dla zmiennej i jej opisu w okienku opcji.
 
@@ -98,10 +98,11 @@ Teraz łączymy stworzony przed chwilą Visual Studio Package z okienkiem konfig
 
 ```csharp
 
+[ProvideOptionPage(typeof(OptionPage),
+Consts.PluginName, Consts.OptionsCategoryBasicName, 0, 0, true)]
 
 ```
 
-[/code]
 
 Stworzona klasa  *OptionPage*  (dziedzicząca po  *DialogPage* ) będzie podczepiona pod drzewko opcji w konfiguracji IDE ( *Consts.PluginName*  to korzeń, a jest nazwą liścia  *Consts.OptionsCategoryBasicName* ). Efekt mamy następujący:
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Intel w Androidzie - moc i fragmentacja
 date:       2013-04-13 18:15:00
 summary:    Pierwsze wrażenia po dostaniu ZTE Grand X IN  były bardzo pozytywne. Procesor Intela na Androidzie wydawał się rewelacyjnym pomysłem. Jak to jednak wyszło w praktyce? Zapraszam do opisu kolejnych chwil spędzonych z nowym smartfonem od ZTE z Atomem.Intel i Android - ponadprzeciętna wydajność  W ZTE G...
-categories: sprzęt urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

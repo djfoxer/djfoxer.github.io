@@ -2,15 +2,15 @@
 layout:     post
 title:      Bad Word Detector  — własna wtyczka do detekcji wulgaryzmów w Visual Studio
 date:       2017-05-27 10:37:00
-summary:    Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie &quot;kupę&quot; lub inny równie ciekawy zwrot. Niestety czasem takie &quot;kwiatki&quot; wychodzą na ...
-categories: windows porady programowanie
+summary:    Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie "kupę" lub inny równie ciekawy zwrot. Niestety czasem takie "kwiatki" wychodzą na produkcję i nie są m...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
 
-Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie &quot;kupę&quot; lub inny równie ciekawy zwrot. 
+Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie "kupę" lub inny równie ciekawy zwrot. 
 
-Niestety czasem takie &quot;kwiatki&quot; wychodzą na produkcję i nie są może czymś karygodnym lub niebezpiecznym, ale wizerunkowo raczej nikt na tym nie zyskuje. Ostatnio pisał [Niebezpiecznik](https://www.facebook.com/niebezpiecznik/photos/a.389100481820.172327.176141556820/10154425418321821/?type=3&amp;theater) chociażby o &quot;fakach&quot; na stronce OKE
+Niestety czasem takie "kwiatki" wychodzą na produkcję i nie są może czymś karygodnym lub niebezpiecznym, ale wizerunkowo raczej nikt na tym nie zyskuje. Ostatnio pisał [Niebezpiecznik](https://www.facebook.com/niebezpiecznik/photos/a.389100481820.172327.176141556820/10154425418321821/?type=3&theater) chociażby o "fakach" na stronce OKE
 
 
 
@@ -18,7 +18,7 @@ Niestety czasem takie &quot;kwiatki&quot; wychodzą na produkcję i nie są moż
 
 
 
-a kilka dni wcześniej podobnie &quot;wpadł&quot; Citibank.
+a kilka dni wcześniej podobnie "wpadł" Citibank.
 
 Tworząc [na konkurs](https://www.dobreprogramy.pl/djfoxer/Healthy-with-Visual-Studio-Daj-Sie-Poznac,s308.html) wtyczkę [Healthy With VS](https://marketplace.visualstudio.com/items?itemName=djfoxer.HealthyWithVS) wpadłem na pomysł, aby stworzyć dodatek do Visual Studio, który mógłby zaradzić takim problemom. Bad Word Detector, bo tak nazwałem ten nano-projekt, wykrywa wulgaryzmy w kodzie źródłowym edytora i je zaznacza. Obecnie jest to dopiero pierwsza wersja, ale mimo to już może być przydatna. 
 
@@ -72,7 +72,7 @@ W tym przypadku nasz plik  *BadWordEditorClassifierFormat*  posiada następując
 
 ```csharp
 
-this.DisplayName = &quot;BadWordEditorClassifier&quot;; // Human readable version of the name
+this.DisplayName = "BadWordEditorClassifier"; // Human readable version of the name
 this.BackgroundColor = Colors.DarkRed;
 this.ForegroundColor = Colors.WhiteSmoke;
 this.TextDecorations = System.Windows.TextDecorations.Underline;
@@ -86,31 +86,31 @@ W tym miejscu zaznaczamy także za pomocą atrybutów, aby nasz klasyfikator by�
 
 ```csharp
 
-
-```
-
-[ClassificationType(ClassificationTypeNames = &quot;BadWordEditorClassifier&quot;)]
-[Name(&quot;BadWordEditorClassifier&quot;)]
+[Export(typeof(EditorFormatDefinition))]
+[ClassificationType(ClassificationTypeNames = "BadWordEditorClassifier")]
+[Name("BadWordEditorClassifier")]
 [UserVisible(true)] // This should be visible to the end user
 [Order(After = Priority.High)] // Set the priority 
 internal sealed class BadWordEditorClassifierFormat : ClassificationFormatDefinition
 {
    //...
 }
-[/code]
+
+```
+
 
 Sprawdzenie czy wtyczka powinna zaznaczyć tekst odbywa się w klasie  *BadWordEditorClassifier*  w metodzie  *GetClassificationSpans* . Wygląda ona następująco:
 
 ```csharp
 
 
-public IList&lt;ClassificationSpan&gt; GetClassificationSpans(SnapshotSpan span)
+public IList<ClassificationSpan> GetClassificationSpans(SnapshotSpan span)
 {
-    var result = new List&lt;ClassificationSpan&gt;();
+    var result = new List<ClassificationSpan>();
     var badDetails = BadService.Instance.BadWordsDetails(span.GetText());
     if (badDetails != null)
     {
-        badDetails.ForEach(x =&gt;
+        badDetails.ForEach(x =>
         {
             result.Add(new ClassificationSpan(new SnapshotSpan(span.Snapshot, 
                 (span.Span.Start + x.StartIndex), x.Length), this.classificationType));
@@ -130,14 +130,14 @@ Sam  *BadService*  jest Singletonem i przy pierwszym odwołaniu zaczytuje wulgar
 
 ```csharp
 
-public List&lt;BadWordInfo&gt; BadWordsDetails(string input)
+public List<BadWordInfo> BadWordsDetails(string input)
 {
-    if (input != null &amp;&amp; OnlyAlphaRegex.IsMatch(input))
+    if (input != null && OnlyAlphaRegex.IsMatch(input))
     {
-        List&lt;BadWordInfo&gt; indexList = new List&lt;BadWordInfo&gt;();
-        BadList.ForEach(bad =&gt;
+        List<BadWordInfo> indexList = new List<BadWordInfo>();
+        BadList.ForEach(bad =>
         {
-            var badMatch = Regex.Match(input, @&quot;\b&quot; + bad + @&quot;\b&quot;, RegexOptions.IgnoreCase);
+            var badMatch = Regex.Match(input, @"\b" + bad + @"\b", RegexOptions.IgnoreCase);
             while (badMatch.Success)
             {
                 indexList.Add(new BadWordInfo(badMatch.Index, bad.Length));
@@ -157,10 +157,10 @@ Na początku sprawdzamy czy tekst do analizy nie jest pusty i czy ma jakieś zna
 
 ```csharp
 
-private Regex OnlyAlphaRegex = new Regex(@&quot;
+private Regex OnlyAlphaRegex = new Regex(@"[a-zA-Z]", RegexOptions.Compiled);
+
 ```
-&quot;, RegexOptions.Compiled);
-[/code]
+
 
 Następnie iterujemy po kolejnych słowach i sprawdzamy czy całe przekleństwo (nie wyraz w środku ) występuje w tekście. Jeśli tak, to zapisujemy miejsce wystąpienia i długość wulgaryzmu. W jednym fragmencie może być kilka wystąpień , stąd też brane pod uwagę są wszystkie detekcje.
 

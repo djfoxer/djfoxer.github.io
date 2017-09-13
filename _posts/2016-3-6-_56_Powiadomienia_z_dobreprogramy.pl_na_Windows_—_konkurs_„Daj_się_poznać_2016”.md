@@ -3,7 +3,7 @@ layout:     post
 title:      Powiadomienia z dobreprogramy.pl na Windows — konkurs „Daj się poznać 2016”
 date:       2016-03-06 14:56:00
 summary:    Na portalu dzieje się coraz więcej, a szczególnie teraz, gdy Redakcja uruchomiła swojego bloga, a także BugTrackera. Szczególnie ten ostatni jest interesującym eksperymentem, który wydaje się być świeżym podejściem do kontaktu z czytelnikami w polskim Internecie. W ten klimat idealnie wpisywać się b...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

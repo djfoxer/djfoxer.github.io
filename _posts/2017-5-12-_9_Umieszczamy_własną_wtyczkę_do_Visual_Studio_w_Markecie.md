@@ -3,7 +3,7 @@ layout:     post
 title:      Umieszczamy własną wtyczkę do Visual Studio w Markecie
 date:       2017-05-12 23:23:00
 summary:    Nareszcie udało mi się znaleźć chwilę wolnego po tym całym ślubnym zamieszaniu ;) Wtyczka do Visual Studio monitorująca czas i zdrowie dewelopera już coś zaczyna sobą reprezentować. Postanowiłem zatem dodać rozszerzenie do marketu, aby każdy mógł  zainstalować ją w swoim IDE i zgłosić wszelakie błęd...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 

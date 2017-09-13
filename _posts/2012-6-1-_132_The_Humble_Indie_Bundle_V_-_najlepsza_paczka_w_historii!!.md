@@ -2,8 +2,8 @@
 layout:     post
 title:      The Humble Indie Bundle V - najlepsza paczka w historii!!
 date:       2012-06-01 00:16:00
-summary:    W skład The Humble Indie Bundle V wchodzą:(w nawiasach oceny z Metacritic)Amnesia: The Dark Descent (85)Bastion (86)LIMBO (88)Psychonauts (87)Superbrothers: Sword &amp; Sworcery EP (85)Czym jest The Humble Indie Bundle, pewnie każdy wie. W skrócie: płacimy dowolną kwotę na szczytny cel i/lub dla dev...
-categories: windows linux gry
+summary:    W skład The Humble Indie Bundle V wchodzą:(w nawiasach oceny z Metacritic)Amnesia: The Dark Descent (85)Bastion (86)LIMBO (88)Psychonauts (87)Superbrothers: Sword & Sworcery EP (85)Czym jest The Humble Indie Bundle, pewnie każdy wie. W skrócie: płacimy dowolną kwotę na szczytny cel i/lub dla develop...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -23,7 +23,7 @@ W skład [The Humble Indie Bundle V](http://www.humblebundle.com/) wchodzą:
 <p>Psychonauts (87)</p>
 </blockquote>
 <blockquote>
-<p>Superbrothers: Sword &amp; Sworcery EP (85)</p>
+<p>Superbrothers: Sword & Sworcery EP (85)</p>
 </blockquote>
 
 
@@ -64,7 +64,7 @@ Rewelacyjna przygodówka/horror ostatnich lat. Dzieło ludzi Frictional Games, k
 
  
 
-Drugą pozycją jest Bastion. Nietuzinkowy, obsypany nagrodami action-RPG. Może się wydawać, że to zwykły hack&amp;slash. Nic z tych rzeczy. Ocena 86 na Metacritic nie jest, ot tak sobie. To co rzuca na kolana to sposób opowieści. Plansza nie jest pokazana cała, jest ona budowana razem z poruszającym się bohaterem. Robi wrażenia podczas gry. Co więcej narrator komentuje nasze poczynania w grze, co sprawia, że czujemy się uczestnikami baśni, opowieści. Piękna ręczne rysowana grafika, dopełnia całości. Muzykę warto nawet odsłuchać, poza grą. Obowiązkowo do zagrania!
+Drugą pozycją jest Bastion. Nietuzinkowy, obsypany nagrodami action-RPG. Może się wydawać, że to zwykły hack&slash. Nic z tych rzeczy. Ocena 86 na Metacritic nie jest, ot tak sobie. To co rzuca na kolana to sposób opowieści. Plansza nie jest pokazana cała, jest ona budowana razem z poruszającym się bohaterem. Robi wrażenia podczas gry. Co więcej narrator komentuje nasze poczynania w grze, co sprawia, że czujemy się uczestnikami baśni, opowieści. Piękna ręczne rysowana grafika, dopełnia całości. Muzykę warto nawet odsłuchać, poza grą. Obowiązkowo do zagrania!
  *Gra dostępna jest po zakupie paczki, powyżej aktualnej średniej ceny.* 
 
 
@@ -106,7 +106,7 @@ Kolejna gra i kolejny mega przebój. Mroczna gra zręcznościowo-przygodowa, kt�
 
  
 
-Ok, ta gra może lekko nie pasować do gier Indie. Ale jest to mylne założenie. Mimo, iż to &quot;duża&quot; gra, Psychonauts czerpie wiele z tego typu gier. Jest to przygodówka TPP z niesamowitym poczuciem humoru i oryginalnością, niczym z gier Indie. Oto nasz bohater może... wchodzić do umysłów ludzi. Z racji tego, iż każdy ma jakieś &quot;odchyły&quot;, każdy poziom, rozgrywany w umyśle, to zupełnie inna i różna od pozostałych plansza i przygoda. Gra jest odjechana, chora i baardzo oryginalna. Grafika nie jest oszołamiająca (tworzona na konsole poprzedniej generacji), ale pasuje do klimatu gry. Psychonauts jest dziwne i pokręcone, a ocena 87 na Metacritic wskazuje, iż warto w to zagrać :)
+Ok, ta gra może lekko nie pasować do gier Indie. Ale jest to mylne założenie. Mimo, iż to "duża" gra, Psychonauts czerpie wiele z tego typu gier. Jest to przygodówka TPP z niesamowitym poczuciem humoru i oryginalnością, niczym z gier Indie. Oto nasz bohater może... wchodzić do umysłów ludzi. Z racji tego, iż każdy ma jakieś "odchyły", każdy poziom, rozgrywany w umyśle, to zupełnie inna i różna od pozostałych plansza i przygoda. Gra jest odjechana, chora i baardzo oryginalna. Grafika nie jest oszołamiająca (tworzona na konsole poprzedniej generacji), ale pasuje do klimatu gry. Psychonauts jest dziwne i pokręcone, a ocena 87 na Metacritic wskazuje, iż warto w to zagrać :)
 
 
 
@@ -121,7 +121,7 @@ Ok, ta gra może lekko nie pasować do gier Indie. Ale jest to mylne założenie
 
 
 
-## Superbrothers: Sword &amp; Sworcery EP
+## Superbrothers: Sword & Sworcery EP
 
 
 

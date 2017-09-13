@@ -3,7 +3,7 @@ layout:     post
 title:      Zapiekanka od djfoxer&#39;a.
 date:       2011-11-14 22:30:00
 summary:    Krótki wpis o tym, jak dzięki publikacji DjLeo o wypiekaniu kart graficznych (Gotowanie z DjLeo), upiekłem kartę, którą właściciel już chciał wyrzucić na śmietnik.PacjentEVGA GeForce 8800GTS 512MBObjawyNiemożność uruchomienia komputera. Żadnych sygnałów z płyty głównej. Nic, cisza, tak jakby płyta g...
-categories: sprzęt porady hobby
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
 ---
 
 
@@ -44,7 +44,7 @@ Poprzedni właściciel będąc świadomy możliwości utraty gwarancji, zdejmuje
 
 Radość nie trwała długo. Kilka miesięcy później artefakty pojawiły się ponownie i karta padła. 
 
-W tym momencie karta graficzna została przyniesiona do djfoxer&#39;a, w celu sprawdzenia. Jego komputer również odmówił współpracy. Werdykt: &quot;karta padła, idzie do kosza&quot;.
+W tym momencie karta graficzna została przyniesiona do djfoxer'a, w celu sprawdzenia. Jego komputer również odmówił współpracy. Werdykt: "karta padła, idzie do kosza".
 
 Mimo tego, iż byłem świadom tego, że karta jest już nienadająca się do użycia. Postanowiłem ją jeszcze potrzymać. Kiedyś znajomy oddał do serwisu płytę główną, którą opalano w celu roztopienia lutów. Kilka dni wcześniej zaś, na wykopie był wpis odnośnie wypiekania podzespołów. 
 
@@ -56,7 +56,7 @@ Przełomem był wpis DjLeo, gdzie nasz zacny Kolega, wypiekł z sukcesem kartę 
 
 
 
-Karty z NVIDII z serii GeFroce 6x - 9x mają &quot;wadę fabryczną&quot;, polegającą na złym składzie cyny lub zwyczajnie jest jej miejscami za mało. Po dłuższym działaniu cyna się utlenia, co powoduje powstanie tzw. zimnych lutów (Wiki: [Zimny lut](http://pl.wikipedia.org/wiki/Zimny_lut)). Skutkiem tego są artefakty, a następnie układ przestaje działać.
+Karty z NVIDII z serii GeFroce 6x - 9x mają "wadę fabryczną", polegającą na złym składzie cyny lub zwyczajnie jest jej miejscami za mało. Po dłuższym działaniu cyna się utlenia, co powoduje powstanie tzw. zimnych lutów (Wiki: [Zimny lut](http://pl.wikipedia.org/wiki/Zimny_lut)). Skutkiem tego są artefakty, a następnie układ przestaje działać.
 
 
 
@@ -82,6 +82,6 @@ Po podłączeniu do komputera, okazało się, że wszystko działa jak należy :
 
 
 
-Dziękuję serdecznie dla poprzedniego właściciela karty, że zgodził się oddać &quot;uszkodzoną grafikę&quot;, dla T. za pożyczenie przejściówki Dsub-Dvi, oraz oczywiście dla autora wpisu [Gotowanie z DjLeo](http://www.dobreprogramy.pl/DjLeo/Gotowanie-z-DjLeo,28311.html). 
+Dziękuję serdecznie dla poprzedniego właściciela karty, że zgodził się oddać "uszkodzoną grafikę", dla T. za pożyczenie przejściówki Dsub-Dvi, oraz oczywiście dla autora wpisu [Gotowanie z DjLeo](http://www.dobreprogramy.pl/DjLeo/Gotowanie-z-DjLeo,28311.html). 
 
  * Dziękuję i Pozdrawiam* 

@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Frozen Synapse Bundle
 date:       2011-10-03 20:17:00
 summary:    Od kilku dni trwa kolejna akcja The Humbe Inde Bundle, w której za dowolną kwotę możemy kupić paczkę gier, a także wspomóc akcje charytatywne (więcej o idei The Humbe Bundle znajdziecie w moim poprzednim wpisie odnośnie The Humble Indie Bundle 3 - http://www.dobreprogramy.pl/djfoxer/The-Humble-Indie...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 

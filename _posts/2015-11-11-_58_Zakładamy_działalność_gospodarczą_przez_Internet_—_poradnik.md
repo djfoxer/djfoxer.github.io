@@ -3,7 +3,7 @@ layout:     post
 title:      Zakładamy działalność gospodarczą przez Internet — poradnik
 date:       2015-11-11 15:40:00
 summary:    Mogę się założyć, że zapewne wielu z Was myślało już nieraz o założeniu własnej działalności. Czy to podczas tworzenia oprogramowania znajomej osobie, a może przy przysłowiowej naprawie komputera zaprzyjaźnionej firmie. Założenie działalności gospodarczej nie może być oczywiście pochopną decyzją, ac...
-categories: internet porady inne
+categories: <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 

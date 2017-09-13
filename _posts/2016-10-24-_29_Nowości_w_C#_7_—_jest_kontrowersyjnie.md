@@ -3,7 +3,7 @@ layout:     post
 title:      Nowości w C# 7 — jest kontrowersyjnie
 date:       2016-10-24 21:42:00
 summary:    Jakiś czas temu pisałem o nowościach jakie wprowadza finalna wersja C# 6. Wówczas zmiany można było przetestować w Visual Studio 2015 i spokojnie zacząć ich używać na co dzień na środowisku produkcyjnym.Będąc na tegorocznym .NET DeveloperDays słynny Jon Skeet delikatnie musnął nowości w C# 7, pokazu...
-categories: porady programowanie
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -32,7 +32,7 @@ W celu przetestowania C# 7 potrzebujemy:
   * [Visual Studio 15](https://www.visualstudio.com/en-us/news/releasenotes/vs15-relnotes) - obecnie w wersji Preview 5
 
 
-  * Dodanie do projektu paczki System.ValueTuple z NuGeta, jeśli chcemy &quot;pobawić się&quot; nowymi Tuplami
+  * Dodanie do projektu paczki System.ValueTuple z NuGeta, jeśli chcemy "pobawić się" nowymi Tuplami
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-10-24-_29_/g_-_608x405_-_-_76985x20161024210935_0.PNG)
@@ -73,8 +73,8 @@ public void CheckPackageCode(object code)
 {
     if (code is null) return;
     if (!(code is string packageCode)) return;
-    if (packageCode is &quot;errorCode&quot;) return;
-    Console.WriteLine($&quot;correct code: {packageCode}&quot;);
+    if (packageCode is "errorCode") return;
+    Console.WriteLine($"correct code: {packageCode}");
 }
 
 ```
@@ -93,13 +93,13 @@ public void CheckData(Vehicle vehicle)
             t.Shot();
             break;
         case Car c when c.DoorCount == 4:
-            Console.WriteLine($&quot;sedan with {c.DoorCount} doors&quot;);
+            Console.WriteLine($"sedan with {c.DoorCount} doors");
             break;
         case Motorbike b when b.IsHelmetAttached:
-            Console.WriteLine($&quot;motorbike ready to go!&quot;);
+            Console.WriteLine($"motorbike ready to go!");
             break;
         case null:
-            Console.WriteLine(&quot;no vehicle!&quot;);
+            Console.WriteLine("no vehicle!");
             break;
         default:
             break;
@@ -121,7 +121,7 @@ Ciekawa funkcjonalność, która nie od początku przypadnie do gustu wszystkim,
 ## Tuples
 
 
-Klasę Tuple wprowadzono w C# 4. Miała być ona alternatywą do tworzenia &quot;prywatnych&quot; dedykowanych klas w przypadku, gdy np. chcemy jednorazowo zwrócić kilka wartości z metody.
+Klasę Tuple wprowadzono w C# 4. Miała być ona alternatywą do tworzenia "prywatnych" dedykowanych klas w przypadku, gdy np. chcemy jednorazowo zwrócić kilka wartości z metody.
 
 Wraz z C# 7 otrzymujemy typy tuple i literały tuple.
 
@@ -131,7 +131,7 @@ Wraz z C# 7 otrzymujemy typy tuple i literały tuple.
 public (string, string, int) GetUserData(int id)
 {
     //load data from db
-    return (&quot;Zygmunt&quot;, &quot;zygi&quot;, 123009);
+    return ("Zygmunt", "zygi", 123009);
 }
 
 ```
@@ -143,7 +143,7 @@ W ten sposób możemy zwrócić dane znacznie szybciej niż poprzez użycie klas
 ```csharp
 
 var data = GetUserData(5);
-Console.WriteLine($&quot;data : {data.Item1},{data.Item2},{data.Item3}&quot;);
+Console.WriteLine($"data : {data.Item1},{data.Item2},{data.Item3}");
 
 ```
 
@@ -156,7 +156,7 @@ Jednakże teraz nic nie stoi na przeszkodzie, aby ponazywać poszczególne pola:
 public (string name, string login, int phone) GetUserData(int id)
 {
     //load data from db
-    return (&quot;Zygmunt&quot;, &quot;zygi&quot;, 123009);
+    return ("Zygmunt", "zygi", 123009);
 }
 
 ```
@@ -170,7 +170,7 @@ lub jeszcze w inny sposób:
 public (string, string, int) GetUserData(int id)
 {
     //load data from db
-    return (name: &quot;Zygmunt&quot;, login: &quot;zygi&quot;, phone: 123009);
+    return (name: "Zygmunt", login: "zygi", phone: 123009);
 }
 
 ```
@@ -182,7 +182,7 @@ wówczas w kodzie do poszczególnych pól odwołamy się poprzez nadane nazwy:
 ```csharp
 
 var data = GetUserData(5);
-Console.WriteLine($&quot;data : {data.name},{data.login},{data.phone}&quot;);
+Console.WriteLine($"data : {data.name},{data.login},{data.phone}");
 
 ```
 
@@ -281,7 +281,7 @@ Wówczas mając obiekt
 
 ```csharp
 
-User u = new User(&quot;Zenek&quot;, &quot;mis&quot;, 0800);
+User u = new User("Zenek", "mis", 0800);
 
 ```
 
@@ -296,14 +296,14 @@ var (userName, userLogin, userPhone) = u;
 ```
 
 
-Sugeruje się, że dekonstrukcja we własnych klasach będzie zapewne używana jako &quot;odwrotność&quot; konstruktora. Czas pokaże. Warto zauważyć, że dekonstruktor przyjmuję parametry wyjściowe i nie zwraca typu. Dzięki temu można przeciążyć dekonstruktor i mieć ich kilka w pojedynczej klasie.
+Sugeruje się, że dekonstrukcja we własnych klasach będzie zapewne używana jako "odwrotność" konstruktora. Czas pokaże. Warto zauważyć, że dekonstruktor przyjmuję parametry wyjściowe i nie zwraca typu. Dzięki temu można przeciążyć dekonstruktor i mieć ich kilka w pojedynczej klasie.
 
 
 
 ### Opinia
 
 
-Przyznaję, że dekonstrukcja w formie w jakiej przedstawiono ją w C#7 zupełnie mnie nie przekonuje. O ile jeszcze razem z tuplami ma to jakiś sens (jeśli przełkniemy tuple jako takie), to w połączeniu z obiektami zwykłych klas jest to opcja delikatnie zbędna. Przeglądając taki kod nie do końca będziemy w stanie wiedzieli skąd takie zmienne się wzięły, co więcej, dużo będzie tu zależeć od nazw poszczególnych parametrów w dekompozycji. Dodajmy do tego jeszcze przeciążenie dekompozycji i interpretacja takiego kodu będzie już wyzwaniem.  Nie wyobrażam sobie, aby używać tego ficzeru na co dzień, przy większych projektach. Czuję, że będzie to kolejny często &quot;banowany&quot; bajer w rozleglejszych rozwiązaniach, niczym starszy brat - klasa Tuple.
+Przyznaję, że dekonstrukcja w formie w jakiej przedstawiono ją w C#7 zupełnie mnie nie przekonuje. O ile jeszcze razem z tuplami ma to jakiś sens (jeśli przełkniemy tuple jako takie), to w połączeniu z obiektami zwykłych klas jest to opcja delikatnie zbędna. Przeglądając taki kod nie do końca będziemy w stanie wiedzieli skąd takie zmienne się wzięły, co więcej, dużo będzie tu zależeć od nazw poszczególnych parametrów w dekompozycji. Dodajmy do tego jeszcze przeciążenie dekompozycji i interpretacja takiego kodu będzie już wyzwaniem.  Nie wyobrażam sobie, aby używać tego ficzeru na co dzień, przy większych projektach. Czuję, że będzie to kolejny często "banowany" bajer w rozleglejszych rozwiązaniach, niczym starszy brat - klasa Tuple.
 
 
 
@@ -318,7 +318,7 @@ C# 7 uprzyjemnia także pracę z parametrami przekazywanymi z modyfikatorem  *ou
 int i;
 if (int.TryParse(s, out i))
 {
-    Console.WriteLine($&quot;int : {i}&quot;);
+    Console.WriteLine($"int : {i}");
 }
 
 ```
@@ -331,7 +331,7 @@ Wraz z C# 7 mamy zatem możliwość zadeklarowania parametru outer w miejscu jeg
 
 if (int.TryParse(s, out int i))
 {
-    Console.WriteLine($&quot;int : {i}&quot;);
+    Console.WriteLine($"int : {i}");
 }
 
 ```
@@ -344,7 +344,7 @@ Z racji tego, że typ jest znany dla parametru outer, zamiast podawać konkretny
 
 if (int.TryParse(s, out var i))
 {
-    Console.WriteLine($&quot;int : {i}&quot;);
+    Console.WriteLine($"int : {i}");
 }
 
 ```
@@ -369,7 +369,7 @@ Kolejna nowość to metody lokalne. Jest to nic innego jak możliwość deklarow
 
 public string Multi(int dataId)
 {
-    return $&quot;Multiplied {MultiplyFn(2)}  {MultiplyFn(3)}&quot;;
+    return $"Multiplied {MultiplyFn(2)}  {MultiplyFn(3)}";
 
     int MultiplyFn(int multi)
     {
@@ -389,7 +389,7 @@ Warto odnotować, że w funkcji lokalnej widoczne są zmienne z metody w której
 ### Opinia
 
 
-Jest to dość kontrowersyjna opcja na dłuższą metę. Obawiam się, że dodawanie lokalnych funkcji w metodach może spowodować, że część kodu będzie dublowana. &quot;Skoro nie ma czegoś co mam obliczyć, to zapewne nikt tego nie będzie używał&quot; - takie przekonanie może doprowadzić do rozrostu lokalnych funkcji i bałaganu w kodzie. Dodatkowo jest to już jawne dawanie zielonego światła na wyrzucenie do kosza Single Responsibility Principle (SRP)...
+Jest to dość kontrowersyjna opcja na dłuższą metę. Obawiam się, że dodawanie lokalnych funkcji w metodach może spowodować, że część kodu będzie dublowana. "Skoro nie ma czegoś co mam obliczyć, to zapewne nikt tego nie będzie używał" - takie przekonanie może doprowadzić do rozrostu lokalnych funkcji i bałaganu w kodzie. Dodatkowo jest to już jawne dawanie zielonego światła na wyrzucenie do kosza Single Responsibility Principle (SRP)...
 
 
 
@@ -401,11 +401,9 @@ W C# 7 postawiono również na optymalizację. Jednym z tych przykładów jest m
 
 ```csharp
 
-public ref Block GetDataWithRef(ref Block
-```
- data, int index) =&gt; ref data[index];
+public ref Block GetDataWithRef(ref Block[] data, int index) => ref data[index];
 
-public Block GetData(ref Block[] data, int index) =&gt; data[index];
+public Block GetData(ref Block[] data, int index) => data[index];
 
 public struct Block
 {
@@ -421,7 +419,9 @@ public void TakeARide()
     dataToComputeRef.DataBlock = 123; //ref, change in  data
     dataToCompute.DataBlock = 124;//copy, no change in data
 }
-[/code]
+
+```
+
 
 Dzięki zastosowaniu zwracanej referencji w metodzie  *GetDataWithRef*  unika się zbędnego kopiowania danych i operuje się na oryginalnych danych.
 
@@ -434,10 +434,10 @@ Mała drobnostka, która zapewne będzie powszechne wykorzystywana w projektach 
 
 
 
-## ValueTask&lt;T&gt;
+## ValueTask<T>
 
 
-C# 7 pozwoli także na optymalizację kodu asynchronicznego. Do tej pory każda metoda asynchroniczna musiała zwracać  *void* ,  *Task*  lub  *Task&lt;T&gt;*  (gdzie Task był typem refrencyjnym). Teraz ma się to zmienić i będzie można zwracać także  *ValueTask&lt;T&gt;* , typ strukturalny. 
+C# 7 pozwoli także na optymalizację kodu asynchronicznego. Do tej pory każda metoda asynchroniczna musiała zwracać  *void* ,  *Task*  lub  *Task<T>*  (gdzie Task był typem refrencyjnym). Teraz ma się to zmienić i będzie można zwracać także  *ValueTask<T>* , typ strukturalny. 
 
  *ValueTask*  ma być używany w przypadku, gdy już podczas wywołania metody asynchronicznej, znana jest zwracana wartość. Użycie tej struktury ma znacząco wpłynąć na wydajność, poprzez zmniejszenie ilości alokacji na stercie.
 
@@ -446,7 +446,7 @@ C# 7 pozwoli także na optymalizację kodu asynchronicznego. Do tej pory każda 
 ### Opinia
 
 
-Microsoft już ostrzega, iż poprawne wykorzystanie  *ValueTask&lt;T&gt;*  nie jest wcale trywialne. Użycie nowego bytu nie będzie powszechnie stosowane przez większość programistów, ale z pewnością wykorzystane zostanie w różnych zewnętrznych frameworkach i modułach. W obecnej, testowej wersji Visual Studio, nadal nie można było używać  *ValueTask* .
+Microsoft już ostrzega, iż poprawne wykorzystanie  *ValueTask<T>*  nie jest wcale trywialne. Użycie nowego bytu nie będzie powszechnie stosowane przez większość programistów, ale z pewnością wykorzystane zostanie w różnych zewnętrznych frameworkach i modułach. W obecnej, testowej wersji Visual Studio, nadal nie można było używać  *ValueTask* .
 
 
 
@@ -461,14 +461,14 @@ W C# 6 zaprezentowano metody expression bodied, które znacząco skracały pisan
 public class Vehicle
 {
 
-    public Vehicle(int fuel) =&gt; _fuel = fuel;
-    ~Vehicle() =&gt; Debug.WriteLine(&quot;Finalizer called&quot;);
+    public Vehicle(int fuel) => _fuel = fuel;
+    ~Vehicle() => Debug.WriteLine("Finalizer called");
  
     private int _fuel;
     public int Fuel
     {
-        get =&gt; _fuel;
-        set =&gt; _fuel = value;
+        get => _fuel;
+        set => _fuel = value;
         }
     }
 }
@@ -496,11 +496,11 @@ Drobnym dodatkiem jest także możliwość wyrzucania wyjątków bezpośrednio w
 public string GetUserName(string userString)
 {
     return !(userString is null) ? userString.ToUpper() : 
-        throw new InvalidOperationException(&quot;No user string!&quot;);
+        throw new InvalidOperationException("No user string!");
 }
 
-public string GetLoginFromDb(int id) =&gt; 
-        throw new NotImplementedException(&quot;GetLoginFromDb&quot;);
+public string GetLoginFromDb(int id) => 
+        throw new NotImplementedException("GetLoginFromDb");
 
 ```
 
@@ -517,7 +517,7 @@ Obecna wersja Visual Studio nie pozwalała na przetestowanie tej funkcjonalnośc
 ## Literały - usprawnienia
 
 
-C# 7 dodaje także możliwość stworzenia literałów binarnych, a także rozdzielenia wpisanych wartości znakiem &quot;_&quot;, w celu ułatwienia czytelności zapisu: 
+C# 7 dodaje także możliwość stworzenia literałów binarnych, a także rozdzielenia wpisanych wartości znakiem "_", w celu ułatwienia czytelności zapisu: 
 
 
 ```csharp
@@ -555,7 +555,7 @@ public void ComputeData(out int par1, out inr par2, out string par3)
 ```
 
 
-Możemy wywołać ją z pominięciem parametrów wejściowych przy użyciu &quot;dzikiej karty&quot;, w postaci znaku &quot;*&quot;:
+Możemy wywołać ją z pominięciem parametrów wejściowych przy użyciu "dzikiej karty", w postaci znaku "*":
 
 
 ```csharp

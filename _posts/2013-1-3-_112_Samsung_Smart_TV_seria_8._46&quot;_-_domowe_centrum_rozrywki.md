@@ -3,7 +3,7 @@ layout:     post
 title:      Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki
 date:       2013-01-03 08:19:00
 summary:    Na wstępie kilka zdań wytłumaczenia. Jak już większość z Was wie, Samsung dla wybranych blogerów dostarczył kilka sprzętów do zrecenzowania. Otóż taką paczuszkę dostałe i ja. W moim przypadku jest to telewizor Smart TV seria 8 (UE46ES8000S) o całkiem pokaźnym rozmiarze 46 cali oraz GALAXY Note II. G...
-categories: sprzęt porady inne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -46,7 +46,7 @@ To tylko kilka funkcji i możliwości jakie oferuje seria 8. Smart TV od Samsung
 ## Design
 
 
-Samsung Smart TV z serii 8. posiada kilka rozmiarów ekranu. Mój testowany model ma 46 cali. O dziwo, wcale nie wygląda on na duży. Wszystko dzięki bardzo cienkiej obudowie, która na rogach ma metalową ramkę. To ona sprawia, iż telewizor wygląda smukło i elegancko. Grubość to zaledwie 2-3 centymetry. To naprawdę niewiele! Można zatem taki sprzęt postawić niemalże wszędzie, nawet na niezbyt głębokiej półce, czy szafce. Podstawa na monitor jest jednym z ciekawych elementów zestawu. Ma ona kształt podwójnej litery &quot;U&quot; i przypomina mi trochę płozy sanek ;) Daje to nam bardzo solidną i stałą podstawę pod ekran, a zajmuje przy tym bardzo mało miejsca.
+Samsung Smart TV z serii 8. posiada kilka rozmiarów ekranu. Mój testowany model ma 46 cali. O dziwo, wcale nie wygląda on na duży. Wszystko dzięki bardzo cienkiej obudowie, która na rogach ma metalową ramkę. To ona sprawia, iż telewizor wygląda smukło i elegancko. Grubość to zaledwie 2-3 centymetry. To naprawdę niewiele! Można zatem taki sprzęt postawić niemalże wszędzie, nawet na niezbyt głębokiej półce, czy szafce. Podstawa na monitor jest jednym z ciekawych elementów zestawu. Ma ona kształt podwójnej litery "U" i przypomina mi trochę płozy sanek ;) Daje to nam bardzo solidną i stałą podstawę pod ekran, a zajmuje przy tym bardzo mało miejsca.
 
 
 
@@ -188,7 +188,7 @@ Górny pasek to zawsze widoczny podgląd źródła obrazu. Jest też miejsce na 
 
 
 
-Oczywiście większość jest w języku polskim, prócz nazw własnych jak &quot;Samsung Apps&quot;, &quot;Famili Sotry&quot;, czy &quot;Kids&quot;. Szkoda, że to również nie zostało przetłumaczone. Niby to tylko grafika, ale ułatwiłoby to znacznie wdrożenie się dla osób bez znajomości języka angielskiego.
+Oczywiście większość jest w języku polskim, prócz nazw własnych jak "Samsung Apps", "Famili Sotry", czy "Kids". Szkoda, że to również nie zostało przetłumaczone. Niby to tylko grafika, ale ułatwiłoby to znacznie wdrożenie się dla osób bez znajomości języka angielskiego.
 
 Niestety niektóre podstawowe aplikacje jak np. Fitness są przetłumaczone połowicznie. Interfejs jest po polsku, ale ćwiczenia już niestety nie.
 
@@ -209,7 +209,7 @@ Aktualizację można dokonać bezpośrednio z sieci, wówczas odpowiednie oprogr
 
 Właśnie dotarliśmy do małej bolączki Smart TV. Otóż sklep lubi płatać figle. Jeszcze kilka dni temu sklep z aplikacjami... nie wyświetlał ani ikon aplikacji ani zrzutów ekranów! Na szczęście dosłownie w ostatniej chwili przed rozpoczęciem pisania tekstu naprawiono to. Ogólnie czuć, że cały czas trwają prace nad całym systemem, częste aktualizacje nie pozwalają o tym zapomnieć.
 
-Kolejny problemik to... pobieranie aplikacji. Otóż czasem podczas ściągania jakiegoś programu, &quot;Samsung Apps&quot; blokuje pobieranie czegokolwiek. Próba pobrania kolejnych aplikacji skutkuje napisem &quot;Pobieranie&quot; i nic więcej... jedynie wyjście wówczas, to ponownie uruchomienie TV. 
+Kolejny problemik to... pobieranie aplikacji. Otóż czasem podczas ściągania jakiegoś programu, "Samsung Apps" blokuje pobieranie czegokolwiek. Próba pobrania kolejnych aplikacji skutkuje napisem "Pobieranie" i nic więcej... jedynie wyjście wówczas, to ponownie uruchomienie TV. 
 
 Czy to już koniec problemów? Niestety nie, czasem podczas ściągania kilku programów jednocześnie możemy natknąć się na taki oto błąd (reset fabryczny nie pomaga):
 
@@ -270,21 +270,21 @@ Jest to także uniwersalny pilot, którym będzie można sterować inne urządze
 
 
 
-Przeszliśmy wreszcie do bardziej atrakcyjnej formy sterowania, czyli mową. W każdej chwili możemy uaktywnić tryb, który pozwala na sterowanie urządzeniem przy użyciu wypowiadanych słów. W tym celu wypowiadamy &quot;słowo klucz&quot; np. &quot;Smart TV&quot;. Wówczas aktywujemy tryb analizujący nasze słowa. 
+Przeszliśmy wreszcie do bardziej atrakcyjnej formy sterowania, czyli mową. W każdej chwili możemy uaktywnić tryb, który pozwala na sterowanie urządzeniem przy użyciu wypowiadanych słów. W tym celu wypowiadamy "słowo klucz" np. "Smart TV". Wówczas aktywujemy tryb analizujący nasze słowa. 
 
-Na dole ekranu znajduje się wówczas kilka opcji, które podpowiadają co możemy &quot;powiedzieć&quot; do telewizora. Mamy tu standardowy wybór jak: &quot;ścisz&quot;, &quot;zgłoś&quot;, &quot;kanał piąty&quot;, &quot;głośność  10&quot;. Co więcej głosowo otworzymy wyszukiwarkę, Facbooka, wyszukamy zwrotu, zmienimy źródło obrazu, wyłączymy telewizor.
+Na dole ekranu znajduje się wówczas kilka opcji, które podpowiadają co możemy "powiedzieć" do telewizora. Mamy tu standardowy wybór jak: "ścisz", "zgłoś", "kanał piąty", "głośność  10". Co więcej głosowo otworzymy wyszukiwarkę, Facbooka, wyszukamy zwrotu, zmienimy źródło obrazu, wyłączymy telewizor.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_112_/g_-_608x405_-_-_38262x20130102230912_0.jpg)
 
 
-Analizę mowy można wyłączyć. Może się to przydać dla osób, które cenią sobie prywatność i boją się ataków hackerów ;) Dlaczego? Otóż urządzenie wyłączone (ale podpięte do prądu) można włączyć głosowo poprzez &quot;Smart TV włącz się&quot;. A zatem nawet jak Samsung jest wyłączony, cały czas jesteśmy na podsłuchu...
+Analizę mowy można wyłączyć. Może się to przydać dla osób, które cenią sobie prywatność i boją się ataków hackerów ;) Dlaczego? Otóż urządzenie wyłączone (ale podpięte do prądu) można włączyć głosowo poprzez "Smart TV włącz się". A zatem nawet jak Samsung jest wyłączony, cały czas jesteśmy na podsłuchu...
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_112_/g_-_608x405_-_-_38262x20130102230949_0.jpg)
 
 
-Mowę można skalibrować, aby przystosować do otoczenia w jakim stoi TV. Po kilku dniach można już swobodnie &quot;rozmawiać&quot; z telewizorem. Pamiętać należy, iż trzeba mówić wyraźnie i nie za szybko. Myślę jednak, że całość działa bardzo przyzwoicie.
+Mowę można skalibrować, aby przystosować do otoczenia w jakim stoi TV. Po kilku dniach można już swobodnie "rozmawiać" z telewizorem. Pamiętać należy, iż trzeba mówić wyraźnie i nie za szybko. Myślę jednak, że całość działa bardzo przyzwoicie.
 
 
 
@@ -300,16 +300,16 @@ Faktycznie działa to dość płynnie w menu. Gdy pomachamy na ekranie z filmem,
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_112_/g_-_608x405_-_-_38262x20130102230957_0.jpg)
 
 
-Bardzo ciekawie rozwiązano wykorzystanie gestów w grach. W popularnym Angry Birds naciągamy procę z &quot;wściekłym ptakiem&quot;, właśnie przy pomocy ręki. Działa to świetnie. Ba, tych gier jest już całkiem sporo nawet teraz!
+Bardzo ciekawie rozwiązano wykorzystanie gestów w grach. W popularnym Angry Birds naciągamy procę z "wściekłym ptakiem", właśnie przy pomocy ręki. Działa to świetnie. Ba, tych gier jest już całkiem sporo nawet teraz!
 
-Szkoda, że nie zawsze działa to tak jak oczekiwalismy. Otóż do precyzji Kinecta jeszcze daleko. Całkiem miła gra Put the Bomb polegająca na &quot;podniesieniu&quot; ręką bomby i przemieszczeniu jej na drugi koniec ekranu, nie jest wcale prosta. Nie mam na myśli wysokiego poziomu trudności, ale całą zabawę może utrudnić... rozpoznawanie gestów, które czasem potrafi &quot;zgubić&quot; naszą rękę. 
+Szkoda, że nie zawsze działa to tak jak oczekiwalismy. Otóż do precyzji Kinecta jeszcze daleko. Całkiem miła gra Put the Bomb polegająca na "podniesieniu" ręką bomby i przemieszczeniu jej na drugi koniec ekranu, nie jest wcale prosta. Nie mam na myśli wysokiego poziomu trudności, ale całą zabawę może utrudnić... rozpoznawanie gestów, które czasem potrafi "zgubić" naszą rękę. 
 
 
 
 ### Smartfon
 
 
-Dodatkową opcją sterowania jest oczywiście... nasz smartfon. Dostarczony [GALAXY Note II](http://www.samsung.com/global/microsite/galaxynote/note2/benefits.html?type=find) pozwala na pełne sterowanie Smart TV. Wystarczy pobrać jedną z kilku dostępnych aplikacji. Oczywiście nie tylko Android pozwala na takie &quot;cuda&quot;, np. Windows Phone również ma podobną aplikacje. 
+Dodatkową opcją sterowania jest oczywiście... nasz smartfon. Dostarczony [GALAXY Note II](http://www.samsung.com/global/microsite/galaxynote/note2/benefits.html?type=find) pozwala na pełne sterowanie Smart TV. Wystarczy pobrać jedną z kilku dostępnych aplikacji. Oczywiście nie tylko Android pozwala na takie "cuda", np. Windows Phone również ma podobną aplikacje. 
 
 
 
@@ -349,7 +349,7 @@ Warto zajrzeć do sklepu z oprogramowaniem. Sklep to może zła nazwa, ale cię�
 
 
 
-Dużo jest już typowo polskich programów. Wspomnę tylko o TVN Player, iPLA, wiele aplikacji od Wyborczej, Orange, pogoda, Polskie Radio, VOD TVP, IPLEX, WP.PL, RMF, a nawet polska policja :) Oczywiście te &quot;nasze&quot; aplikacje mają opis w sklepie w języku polskim. Niestety pozostałe, nawet jeśli mają interfejs w naszym ojczystym języku, krótką informacje o nich przeczytamy tylko w języku angielskim. 
+Dużo jest już typowo polskich programów. Wspomnę tylko o TVN Player, iPLA, wiele aplikacji od Wyborczej, Orange, pogoda, Polskie Radio, VOD TVP, IPLEX, WP.PL, RMF, a nawet polska policja :) Oczywiście te "nasze" aplikacje mają opis w sklepie w języku polskim. Niestety pozostałe, nawet jeśli mają interfejs w naszym ojczystym języku, krótką informacje o nich przeczytamy tylko w języku angielskim. 
 
 
 
@@ -417,7 +417,7 @@ Dzięki kamerce na górnej krawędzi telewizora, można spokojnie prowadzić wid
 
 
 
-Czy zatem potrzebny jest nam komputer stacjonarny? :) Zapraszam do dalszej lektury, gdzie dowiecie się, że Smart TV może zastąpić nie tylko &quot;blaszaka&quot;, ale i prostą konsolę do gier.
+Czy zatem potrzebny jest nam komputer stacjonarny? :) Zapraszam do dalszej lektury, gdzie dowiecie się, że Smart TV może zastąpić nie tylko "blaszaka", ale i prostą konsolę do gier.
 
 
 
@@ -506,7 +506,7 @@ W teście HTML5 przeglądarka otrzymała 280 punktów + 12 bonusowych!
 
 
 
-Ale to nie wszystkie miłe zaskoczenia, otóż okazuje się, że posiada ona już... Adobe Flash Player. Wersja 10, więc nie najnowsza, jednakże przypominam, że to &quot;tylko&quot; telewizor. 
+Ale to nie wszystkie miłe zaskoczenia, otóż okazuje się, że posiada ona już... Adobe Flash Player. Wersja 10, więc nie najnowsza, jednakże przypominam, że to "tylko" telewizor. 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_112_/g_-_608x405_-_-_38262x20130102233401_0.JPG)
@@ -555,7 +555,7 @@ Do testowania dostajemy m.in. aplikację Explore 3D, która pozwala na wyświetl
 
 Trzeba przyznać, że obraz robi wrażenie. Jest czysty i ostry, a kolory są żywe. Oczywiście film 2-3 godzinny to maks co można oglądać, bez uczucia zmęczenia. Pomimo całej atrakcyjności  technologii 3D, pamiętajmy o przerwach!
 
-Ciekawą funkcją jest także możliwość przejścia każdego obrazu z 2D na 3D. Czy to film w TV, czy na DVD, za pomocą pilota, w każdej chwili można wyświetlić obraz w &quot;oszukanym 3D&quot;. Faktycznie, jest delikatne poczucie głębi i wygląda to nawet nieźle. Myślę jednak, że nie jest na tyle atrakcyjne, aby oglądać tak TV dłużej.
+Ciekawą funkcją jest także możliwość przejścia każdego obrazu z 2D na 3D. Czy to film w TV, czy na DVD, za pomocą pilota, w każdej chwili można wyświetlić obraz w "oszukanym 3D". Faktycznie, jest delikatne poczucie głębi i wygląda to nawet nieźle. Myślę jednak, że nie jest na tyle atrakcyjne, aby oglądać tak TV dłużej.
 
 
 

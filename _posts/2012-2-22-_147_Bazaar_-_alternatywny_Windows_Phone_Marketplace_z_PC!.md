@@ -3,7 +3,7 @@ layout:     post
 title:      Bazaar - alternatywny Windows Phone Marketplace z PC!
 date:       2012-02-22 22:00:00
 summary:    O Bazaar można było już usłyszeć. Jest to alternatywny Marketplace dla Windows Phone, który jest zbiorem aplikacji, których próżno szukać w Microsoftowym sklepie. W jednym miejscu otrzymujemy zbiór programów typu homebrew. Do tej pory był on dostępny jedynie poprzez aplikację instalowaną na odblokow...
-categories: oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -55,7 +55,7 @@ Bazaar for PC wyposażony jest w wyszukiwarkę aplikacji homebrew, które dodatk
 
 
 
-Tyle jeśli chodzi o możliwości, jak to sprawdza się w praktyce? Jest dobrze, mogło być lepiej. Ogólnie sam interface jest ciekawy i dość oryginalny, co widać na screenach. Jednakże o ile UI jest efektowne, to nie jest już niestety efektywne. Moim subiektywnym zdaniem przeglądanie zrzutów ekranu nie jest tragiczne. Zaś sama aplikacja potrafi nam uprzykrzyć życie poprzez tło, które nagle staje się przezroczyste :) Co ważne mimo pierwszej wersji nie udało mi się &quot;wykrzaczyć&quot; aplikacji. Do narzekań, dodałbym jeszcze brak możliwości odinstalowania aplikacji, zainstalowanych już na Windows Phone, z poziomu Bazaar PC. Jest jeszcze coś, projekt jest dość młody, a i sam system jest ledwo ponad rok &quot;na wolności&quot;. Aplikacje brane są z XDA forum i nie ma oszołamiającej liczby programów, obecnie jest ich 41 (aczkolwiek powoli ta liczba się zwiększa, powoli). Brakuje też jasnych informacji, które aplikacje wymagają odblokowania developerskiego, a jakie pełnego (np. w przypadku Opera Mobile).
+Tyle jeśli chodzi o możliwości, jak to sprawdza się w praktyce? Jest dobrze, mogło być lepiej. Ogólnie sam interface jest ciekawy i dość oryginalny, co widać na screenach. Jednakże o ile UI jest efektowne, to nie jest już niestety efektywne. Moim subiektywnym zdaniem przeglądanie zrzutów ekranu nie jest tragiczne. Zaś sama aplikacja potrafi nam uprzykrzyć życie poprzez tło, które nagle staje się przezroczyste :) Co ważne mimo pierwszej wersji nie udało mi się "wykrzaczyć" aplikacji. Do narzekań, dodałbym jeszcze brak możliwości odinstalowania aplikacji, zainstalowanych już na Windows Phone, z poziomu Bazaar PC. Jest jeszcze coś, projekt jest dość młody, a i sam system jest ledwo ponad rok "na wolności". Aplikacje brane są z XDA forum i nie ma oszołamiającej liczby programów, obecnie jest ich 41 (aczkolwiek powoli ta liczba się zwiększa, powoli). Brakuje też jasnych informacji, które aplikacje wymagają odblokowania developerskiego, a jakie pełnego (np. w przypadku Opera Mobile).
 
 
 

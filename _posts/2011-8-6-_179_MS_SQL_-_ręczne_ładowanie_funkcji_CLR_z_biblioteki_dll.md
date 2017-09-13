@@ -2,13 +2,13 @@
 layout:     post
 title:      MS SQL - ręczne ładowanie funkcji CLR z biblioteki dll
 date:       2011-08-06 15:44:00
-summary:    Wpis będzie krótki i treściwy: &quot;jak ręcznie wgrać funkcję CLR do bazy MS SQL, mając bibliotekę dll?&quot; :)Kilka razy zdarzyło mi się, iż musiałem wgrywać funkcje CLR do bazy danych, ale nie było możliwość zrobienia szybkiego deploya z poziomu Visual Studio. Jedynie co mieliśmy do dyspozycji t...
-categories: programowanie
+summary:    Wpis będzie krótki i treściwy: "jak ręcznie wgrać funkcję CLR do bazy MS SQL, mając bibliotekę dll?" :)Kilka razy zdarzyło mi się, iż musiałem wgrywać funkcje CLR do bazy danych, ale nie było możliwość zrobienia szybkiego deploya z poziomu Visual Studio. Jedynie co mieliśmy do dyspozycji to bibliote...
+categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
 
-Wpis będzie krótki i treściwy: &quot;jak ręcznie wgrać funkcję CLR do bazy MS SQL, mając bibliotekę dll?&quot; :)
+Wpis będzie krótki i treściwy: "jak ręcznie wgrać funkcję CLR do bazy MS SQL, mając bibliotekę dll?" :)
 
 Kilka razy zdarzyło mi się, iż musiałem wgrywać funkcje CLR do bazy danych, ale nie było możliwość zrobienia szybkiego deploya z poziomu Visual Studio. Jedynie co mieliśmy do dyspozycji to biblioteka dll z CLR. 
 
@@ -23,10 +23,10 @@ GRANT UNSAFE ASSEMBLY TO PUBLIC
 USE [NAZWA_BAZY]
 GO
 
-EXEC dbo.sp_changedbowner @loginame = N&#39;sa&#39;, @map = FALSE
+EXEC dbo.sp_changedbowner @loginame = N'sa', @map = FALSE
 ALTER DATABASE [NAZWA_BAZY] SET TRUSTWORTHY ON
 
-EXEC sp_configure &#39;show advanced options&#39; , &#39;1&#39;;
+EXEC sp_configure 'show advanced options' , '1';
 GO
 RECONFIGURE;
 GO
@@ -37,7 +37,7 @@ GO
 
 [code]
 
-CREATE ASSEMBLY [NAMESPACE_DLLKI] FROM &#39;c:\nasza_bilbioteka.dll&#39; WITH PERMISSION_SET = unsafe 
+CREATE ASSEMBLY [NAMESPACE_DLLKI] FROM 'c:\nasza_bilbioteka.dll' WITH PERMISSION_SET = unsafe 
 
 [/code]
 
@@ -58,7 +58,7 @@ EXTERNAL NAME [NAMESPACE_DLLKI].[UserDefinedFunctions].[NAZWA_FUNKCJI_2]
  *Gdzie:
 [NAZWA_BAZY] - nazwa naszej bazy
 [NAMESPACE_DLLKI] - Namespace naszej dllki (bierzemy np.z vs)
-&#39;c:\nasza_bilbioteka.dll&#39; - ścieżka do biblioteki dll (musimy mieć dostęp)
+'c:\nasza_bilbioteka.dll' - ścieżka do biblioteki dll (musimy mieć dostęp)
 [NAZWA_FUNKCJI_1] - nazwa funkcji widziana w SQL
 [NAZWA_FUNKCJI_2] - nazwa funkcji z dllki
 @PARAMETR1 TYP - nazwa parametru wejściowego i jego typ, oczywiście nieobowiązkowe

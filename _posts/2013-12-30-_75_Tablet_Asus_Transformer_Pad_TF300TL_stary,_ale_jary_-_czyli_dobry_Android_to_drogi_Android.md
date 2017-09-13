@@ -3,7 +3,7 @@ layout:     post
 title:      Tablet Asus Transformer Pad TF300TL stary, ale jary - czyli dobry Android to drogi Android
 date:       2013-12-30 14:46:00
 summary:    Każdy z nas miał w ręku tablet z Androidem i zapewne mało który z nich działał przyzwoicie. Niestety system od Googla na urządzeniach przenośnych w większości przypadków jest oprogramowaniem, które lub przypomnieć dla użytkownika o swoich wadach . Dostałem jednak ostatnio do zabawy tablet Asus Trans...
-categories: sprzęt oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -21,7 +21,7 @@ Każdy z nas miał w ręku tablet z Androidem i zapewne mało który z nich dzia
 ## Hardware 
 
 
-Asus Transformer Pad TF300TL to tablet o ciekawych parametrach. W środku znajdziemy czterordzeniowy procesor Nvidia Tegra 3, który jest starszym bratem modelu Tegra 4. RAM w tym modelu to dokładnie 1 GB, a ilość wbudowanej pamięci wewnętrznej wynosi 16 lub 32 GB (rozszerzalna o kartę microSD), czyli standard jak na taki sprzęt. Ekran ma rozdzielczość 1280&#215;800 przy wymiarach 10.1 cala. Sprzęt zapewne nie wyróżniałby się, gdyby nie procesor od Nvidii, który miał być rewolucją w świecie tabletów.
+Asus Transformer Pad TF300TL to tablet o ciekawych parametrach. W środku znajdziemy czterordzeniowy procesor Nvidia Tegra 3, który jest starszym bratem modelu Tegra 4. RAM w tym modelu to dokładnie 1 GB, a ilość wbudowanej pamięci wewnętrznej wynosi 16 lub 32 GB (rozszerzalna o kartę microSD), czyli standard jak na taki sprzęt. Ekran ma rozdzielczość 1280×800 przy wymiarach 10.1 cala. Sprzęt zapewne nie wyróżniałby się, gdyby nie procesor od Nvidii, który miał być rewolucją w świecie tabletów.
 
 
 
@@ -30,7 +30,7 @@ Asus Transformer Pad TF300TL to tablet o ciekawych parametrach. W środku znajdz
 ### Ekran
 
 
-TF300TL posiada ekran IPS, który przy swojej rozdzielczości 1280&#215;800 wygląda dość dobrze. Przy 10 calach można byłoby pokusić się o większą ilość pikseli, ale czytelność tekstu czy ikon na pulpicie jest zadowalająca i nie czujemy bijącej z ekranu &quot;pikselozy&quot;. Jasność jest dobra, aczkolwiek nie jest to mocna strona tego Transformera. Po obcowaniu z ekranami AMOLED zwraca się uwagę na czerń, która w tym modelu rozczarowuje. Ekran jest elementem ze średniej półki. 
+TF300TL posiada ekran IPS, który przy swojej rozdzielczości 1280×800 wygląda dość dobrze. Przy 10 calach można byłoby pokusić się o większą ilość pikseli, ale czytelność tekstu czy ikon na pulpicie jest zadowalająca i nie czujemy bijącej z ekranu "pikselozy". Jasność jest dobra, aczkolwiek nie jest to mocna strona tego Transformera. Po obcowaniu z ekranami AMOLED zwraca się uwagę na czerń, która w tym modelu rozczarowuje. Ekran jest elementem ze średniej półki. 
 
 Ze względu na brak przycisków fizycznych, dolny pasek na wyświetlaczu zajęty jest przez odpowiedniki programowe. 
 
@@ -86,7 +86,7 @@ Wbudowana bateria pozwoli nawet na 5-6 godzin ciągłej zabawy. Wynik całkiem p
 ### Desing i wykonanie
 
 
-Wspomnę jeszcze o designie. Tablet od Asusa wygląda dość standardowo i raczej nie można nic w tej kwestii zarzucić (no chyba, że komuś przeszkadza &quot;nudny&quot; design). Otrzymujemy ekran chroniony grubą warstwą szkła, która sprawuje się idealnie i dobrze chroni wyświetlacz. Szeroka ramka otaczająca całość może nie jest za ładna, ale pozwala na swobodne i pewne chwycenie tabletu. Tył obudowy to plastik, który posiada chropowate okręgi, zwiększające komfort trzymania tego urządzenia. Mimo, że tablet nie należy do najcieńszych to duża grubość (10mm) nie jest odczuwalna, to zasługa zapewne delikatni spłaszczonych i zaokrąglonych krawędzi. Tutaj jednak na jaw wychodzi spory minus. Asus Transformer Pad TF300TL jest ciężki. Waży on 635 g i raczej nikt nie będzie go trzymał w jednej ręce dłużej niż przez kilka sekund. Nawet gdy mamy go w obu dłoniach, czuć większą wagę tego sprzętu. Całość jest świetnie spasowana i nie ma mowy o trzaskach czy wystających krawędziach. Jedynie szufladka na kartę SIM wydaje się być ciut zbyt delikatna i podatna na uszkodzenia mechaniczne.
+Wspomnę jeszcze o designie. Tablet od Asusa wygląda dość standardowo i raczej nie można nic w tej kwestii zarzucić (no chyba, że komuś przeszkadza "nudny" design). Otrzymujemy ekran chroniony grubą warstwą szkła, która sprawuje się idealnie i dobrze chroni wyświetlacz. Szeroka ramka otaczająca całość może nie jest za ładna, ale pozwala na swobodne i pewne chwycenie tabletu. Tył obudowy to plastik, który posiada chropowate okręgi, zwiększające komfort trzymania tego urządzenia. Mimo, że tablet nie należy do najcieńszych to duża grubość (10mm) nie jest odczuwalna, to zasługa zapewne delikatni spłaszczonych i zaokrąglonych krawędzi. Tutaj jednak na jaw wychodzi spory minus. Asus Transformer Pad TF300TL jest ciężki. Waży on 635 g i raczej nikt nie będzie go trzymał w jednej ręce dłużej niż przez kilka sekund. Nawet gdy mamy go w obu dłoniach, czuć większą wagę tego sprzętu. Całość jest świetnie spasowana i nie ma mowy o trzaskach czy wystających krawędziach. Jedynie szufladka na kartę SIM wydaje się być ciut zbyt delikatna i podatna na uszkodzenia mechaniczne.
 
 
 
@@ -139,7 +139,7 @@ Jak jednak działa sam system? Android 4.2.1 z Tegra 3 zachowuje się dobrze. Op
 
 
 
-Sam Android jednak daje o sobie czasem znać i Tegra mu nie pomoże. Po zainstalowaniu/odinstalowaniu kilkudziesięciu aplikacji z marketu poczuć można rzadkie &quot;doczytywanie&quot; się systemu. Część aplikacji bywa również niezoptymalizowana pod kątem tabletu lub Tegry, przykładem niech będzie Firefox (tutaj coś mogła zepsuć też  Mozilla, która i z FirefoxOS nie może sobie ciągle poradzić). Te popularne oprogramowanie do przeglądania www bywa dość chimerne. Przewijane strony (np. newsów na dobreprogramy.pl) bywa dość zabawne, gdyż obraz laguje lub znika na czas przewijania. Muszę ponarzekać też na Chroma, który lubi zjadać RAM i przy otwieraniu /zamykaniu zakładki lub wpisywaniu adresu z klawiatury traci czasem kontakt z użytkownikiem. 
+Sam Android jednak daje o sobie czasem znać i Tegra mu nie pomoże. Po zainstalowaniu/odinstalowaniu kilkudziesięciu aplikacji z marketu poczuć można rzadkie "doczytywanie" się systemu. Część aplikacji bywa również niezoptymalizowana pod kątem tabletu lub Tegry, przykładem niech będzie Firefox (tutaj coś mogła zepsuć też  Mozilla, która i z FirefoxOS nie może sobie ciągle poradzić). Te popularne oprogramowanie do przeglądania www bywa dość chimerne. Przewijane strony (np. newsów na dobreprogramy.pl) bywa dość zabawne, gdyż obraz laguje lub znika na czas przewijania. Muszę ponarzekać też na Chroma, który lubi zjadać RAM i przy otwieraniu /zamykaniu zakładki lub wpisywaniu adresu z klawiatury traci czasem kontakt z użytkownikiem. 
 
 Warto dodać, że Asus wyposażył tablet w kilka aplikacji na starcie. Dostajemy zatem Polaris Office 3.0, SuperNote do tworzenia notatek i oprogramowanie do zakupu książek i magazynów: Kindle, Press Reader i Zinio. Miłym gestem jest 8 GB darmowej przestrzeni w chmurze Asusa.
 

@@ -2,13 +2,13 @@
 layout:     post
 title:      Fakty i mity o Windows Phone
 date:       2012-06-19 18:05:00
-summary:    W jednym z komentarzy na portalu, WODZU podał link do blogu, ze zbiorem kilkudziesięciu (dokładnie 75) bolączek jakie ma Windows Phone wg autora strony. Po przejrzeniu kilku z nich, okazało się, że część z nich jest faktycznie prawdą. Jednakże, dużo z tych &quot;żali&quot; jest albo pisana na siłę, ...
-categories: oprogramowanie porady urządzenia mobilne
+summary:    W jednym z komentarzy na portalu, WODZU podał link do blogu, ze zbiorem kilkudziesięciu (dokładnie 75) bolączek jakie ma Windows Phone wg autora strony. Po przejrzeniu kilku z nich, okazało się, że część z nich jest faktycznie prawdą. Jednakże, dużo z tych "żali" jest albo pisana na siłę, albo nie m...
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
-W jednym z komentarzy na portalu, [WODZU](http://www.dobreprogramy.pl/WODZU) podał link do blogu, ze zbiorem kilkudziesięciu (dokładnie 75) bolączek jakie ma Windows Phone wg autora strony. Po przejrzeniu kilku z nich, okazało się, że część z nich jest faktycznie prawdą. Jednakże, dużo z tych &quot;żali&quot; jest albo pisana na siłę, albo nie ma nic wspólnego z faktami. 
+W jednym z komentarzy na portalu, [WODZU](http://www.dobreprogramy.pl/WODZU) podał link do blogu, ze zbiorem kilkudziesięciu (dokładnie 75) bolączek jakie ma Windows Phone wg autora strony. Po przejrzeniu kilku z nich, okazało się, że część z nich jest faktycznie prawdą. Jednakże, dużo z tych "żali" jest albo pisana na siłę, albo nie ma nic wspólnego z faktami. 
 
 Część osób zapomniała, iż Windows Phone nie ma nic wspólnego z kierunkiem w jakim idzie Android. Windows Phone jest umiejscowiony w segmencie razem z iPhonem, stąd mają one wiele wspólnych rozwiązań (i ograniczeń). To nie Windows Mobile, w którym można było robić niemalże wszystko. Niektóre zarzuty, nie biorą pod uwagę tego założenia.
 
@@ -29,7 +29,7 @@ Ze względu na premierę Windows Phone 8 i Windows Phone 7.8, wpis został zaktu
 ### 1.	Brak prawdziwego multitaskingu. Po wyjściu z programu jest on wyłączany. Najbardziej okrutnie to widać w przypadku różnego rodzaju komunikatorów.
 
 
-Nie jest to multitasking znany choćby z systemów desktopowych. Windows Phone &quot;hibernuje&quot; aplikację. Jednakże nie jest tak, że nic nie może działać w tle. Otóż w tle mogą działać tzw. agenci, uruchamiani co 30 minut na jakiś krótki okres czasu (idealne do np. aplikacji pogodowych). Istnieją również agenci, uruchamiani przy określonych warunkach (połączenie z WiFi, ładowanie itp.), do działań związanych np. z synchronizacją. To nie koniec, możemy użyć gotowych agentów wyspecjalizowanych do odtwarzania muzyki lub transferu plików działających w tle i nie mających tych ograniczeń ([więcej w tym linku](http://weblogs.asp.net/jgalloway/archive/2011/11/23/leveraging-background-services-and-agents-in-windows-phone-7-mango.aspx)). Jeśli chodzi o komunikatory, to ewidentnie jest to nietrafiony przykład! Otóż istnieją notyfikacje typu push, które nie wymagają nawet otwartej aplikacji. Np. komunikator [Pogaduszki](http://www.windowsphone.com/pl-PL/apps/db95b884-46be-42de-9233-258ccc07f47d) lub [GG](http://www.windowsphone.com/pl-pl/apps/81fa3f08-d030-42ba-b36c-37b95908b6d7) nie muszą być włączone, aby odbierać wiadomości w tle. Jeśli przyjdzie do nas wiadomość, otrzymamy informację na ekranie głównym. Oczywiście, nic nie dzieje się bez naszej zgody. Lista aplikacji działających w tle dostępna jest w ustawieniach. Nie ma tu miejsca na ukrycie działania jakiejś aplikacji. Wszystko jest jasne i klarowne.
+Nie jest to multitasking znany choćby z systemów desktopowych. Windows Phone "hibernuje" aplikację. Jednakże nie jest tak, że nic nie może działać w tle. Otóż w tle mogą działać tzw. agenci, uruchamiani co 30 minut na jakiś krótki okres czasu (idealne do np. aplikacji pogodowych). Istnieją również agenci, uruchamiani przy określonych warunkach (połączenie z WiFi, ładowanie itp.), do działań związanych np. z synchronizacją. To nie koniec, możemy użyć gotowych agentów wyspecjalizowanych do odtwarzania muzyki lub transferu plików działających w tle i nie mających tych ograniczeń ([więcej w tym linku](http://weblogs.asp.net/jgalloway/archive/2011/11/23/leveraging-background-services-and-agents-in-windows-phone-7-mango.aspx)). Jeśli chodzi o komunikatory, to ewidentnie jest to nietrafiony przykład! Otóż istnieją notyfikacje typu push, które nie wymagają nawet otwartej aplikacji. Np. komunikator [Pogaduszki](http://www.windowsphone.com/pl-PL/apps/db95b884-46be-42de-9233-258ccc07f47d) lub [GG](http://www.windowsphone.com/pl-pl/apps/81fa3f08-d030-42ba-b36c-37b95908b6d7) nie muszą być włączone, aby odbierać wiadomości w tle. Jeśli przyjdzie do nas wiadomość, otrzymamy informację na ekranie głównym. Oczywiście, nic nie dzieje się bez naszej zgody. Lista aplikacji działających w tle dostępna jest w ustawieniach. Nie ma tu miejsca na ukrycie działania jakiejś aplikacji. Wszystko jest jasne i klarowne.
 
 
 
@@ -40,7 +40,7 @@ Nie jest to multitasking znany choćby z systemów desktopowych. Windows Phone &
 3.	Brak obsługi kart pamięci. W ten sposób też nie prześlesz plików.
 
 
-Tryb pamięci masowej można uruchomić poprzez prostą aplikację (jeden przycisk &quot;aktywuj&quot;) [USB Storage Enabler](http://forum.xda-developers.com/showthread.php?t=1069568). Co innego, że taki tryb w obecnych czasach jest mało przydatny. Pendrive 16GB można kupić za 30zł. Większość z nas ma dostęp do sieci, wrzucenie plików poprzez np. SkyDrive jest naprawdę szybkie i wygodne.
+Tryb pamięci masowej można uruchomić poprzez prostą aplikację (jeden przycisk "aktywuj") [USB Storage Enabler](http://forum.xda-developers.com/showthread.php?t=1069568). Co innego, że taki tryb w obecnych czasach jest mało przydatny. Pendrive 16GB można kupić za 30zł. Większość z nas ma dostęp do sieci, wrzucenie plików poprzez np. SkyDrive jest naprawdę szybkie i wygodne.
 
  *Windows Phone 8* 
 
@@ -51,7 +51,7 @@ WP8 posiada tryb pamięci masowej.
 ### 4.	Brak menadżerów plików.
 
 
-Windows Phone nie jest Androidem. Każda aplikacja pracuje w izolowanym środowisku, nie współdzieląc z sobą większości plików (poza np. zdjęciami umieszonymi w &quot;Zdjęcia&quot;). Dzięki czemu nie ma śmieci po odinstalowaniu programu, a także bezpieczeństwo stoi na znacznie wyższym, niedostępnym dla Androida poziomie. W takim przypadku menadżer plików nie ma zbytnio sensu. Każda aplikacja jest integralną częścią, a wspólne pliki przechowywane są jawne w hubbie (zdjęcia, muzyka). Zawsze można przesłać pliki do chmury, jak np. SkyDrive.
+Windows Phone nie jest Androidem. Każda aplikacja pracuje w izolowanym środowisku, nie współdzieląc z sobą większości plików (poza np. zdjęciami umieszonymi w "Zdjęcia"). Dzięki czemu nie ma śmieci po odinstalowaniu programu, a także bezpieczeństwo stoi na znacznie wyższym, niedostępnym dla Androida poziomie. W takim przypadku menadżer plików nie ma zbytnio sensu. Każda aplikacja jest integralną częścią, a wspólne pliki przechowywane są jawne w hubbie (zdjęcia, muzyka). Zawsze można przesłać pliki do chmury, jak np. SkyDrive.
 
 Jednakże dla urządzeń odblokowanych jest rewelacyjna aplikacja [WP7 Root Tools](http://www.wp7roottools.com/) z m.in. menadżerem plików i edytorem rejestru.
 
@@ -76,7 +76,7 @@ Zune nie jest już potrzebne dla  WP8 (patrz punkt 3.).
 ### 6.	W tej chwili jest ograniczony do właściwie jednej rozdzielczości.
 
 
-Zgadza się. I to jest piękne. Developerzy tworząc aplikację wiedzą jakiej rozdzielczości się spodziewać i mają ułatwione zadanie. Jeśli chodzi o użytkowników końcowych, to nie powinno oni mieć jakiś zastrzeżeń. 800x480 nawet na ekranach 4,3&quot; wygląda świetnie. Zmieni się to jednak z premierą WP8, gdzie możliwe, że będą nowe rozdzielczości. Zobaczymy, jak będzie wyglądać to wówczas.
+Zgadza się. I to jest piękne. Developerzy tworząc aplikację wiedzą jakiej rozdzielczości się spodziewać i mają ułatwione zadanie. Jeśli chodzi o użytkowników końcowych, to nie powinno oni mieć jakiś zastrzeżeń. 800x480 nawet na ekranach 4,3" wygląda świetnie. Zmieni się to jednak z premierą WP8, gdzie możliwe, że będą nowe rozdzielczości. Zobaczymy, jak będzie wyglądać to wówczas.
 
  *Windows Phone 8* 
 
@@ -87,7 +87,7 @@ Nowy system występuje w trzech rozdzielczościach: WVGA (480 x 800) obecna , WX
 ### 7.	Wyszukiwanie głosowe w tej chwili to tylko Bing (wszyscy wiemy jak on dobrze działa).
 
 
-&quot;wszyscy wiemy jak on dobrze działa&quot; - tak, a jak? ;) Nie jest wcale tak źle, co innego, że nie używam tego zbytnio, a Wy (pytanie do tych co mają WP, a nie do tych co widzieli reklamę w tv :P )? 
+"wszyscy wiemy jak on dobrze działa" - tak, a jak? ;) Nie jest wcale tak źle, co innego, że nie używam tego zbytnio, a Wy (pytanie do tych co mają WP, a nie do tych co widzieli reklamę w tv :P )? 
 
  *Windows Phone 8.1*  WP8.1 - dodaje rewelacyjną Cortanę, asystentkę mowy!
 
@@ -157,7 +157,7 @@ Taaa. Ale które pliki? System pliki trzyma lokalnie i na SkyDrive. Na SkyDrive 
 ### 15.	Nie możesz zmienić kraju dla twojego Windows Live ID po ustawieniu.
 
 
-Cóż, to już problem nie związany z Windows Phone, ale ogólnie z kontem Live ID. Podobnie oczywiście jest dla użytkowników X360, ale również Sony Vita ma ograniczenia dla kont (chociaż nie jest to analogiczne jak w Live ID, ale pokazuje, że ten &quot;trend&quot; jest globalny, czy to dobrze, czy źle to już inna sprawa)
+Cóż, to już problem nie związany z Windows Phone, ale ogólnie z kontem Live ID. Podobnie oczywiście jest dla użytkowników X360, ale również Sony Vita ma ograniczenia dla kont (chociaż nie jest to analogiczne jak w Live ID, ale pokazuje, że ten "trend" jest globalny, czy to dobrze, czy źle to już inna sprawa)
 
 
 
@@ -243,7 +243,7 @@ Dla systemu z linii 7.x przygotowano aktualizację 7.8.
 ### 24.	Pasek z stanem baterii, siłą sygnału, nazwą operatora itp nie jest stale widoczny.
 
 
-To jest świetny pomysł i szybko można się przyzwyczaić i zrozumieć &quot;filozofię&quot;. Stan błyskawicznie sprawdza się, poprzez delikatne przeciągnięcie palcem po górnej krawędzi ekranu. Co więcej, jeśli np. urządzenie łączy się poprzez WiFi, zmiana stanu jest pokazywana na pasku, podobnie np. gdy jest słaba bateria. Raz użyjesz i nie będziesz chciał niczego innego ;) :P
+To jest świetny pomysł i szybko można się przyzwyczaić i zrozumieć "filozofię". Stan błyskawicznie sprawdza się, poprzez delikatne przeciągnięcie palcem po górnej krawędzi ekranu. Co więcej, jeśli np. urządzenie łączy się poprzez WiFi, zmiana stanu jest pokazywana na pasku, podobnie np. gdy jest słaba bateria. Raz użyjesz i nie będziesz chciał niczego innego ;) :P
 
  *Windows Phone 8.1*  - ukryty :)
 
@@ -252,7 +252,7 @@ To jest świetny pomysł i szybko można się przyzwyczaić i zrozumieć &quot;f
 ### 25.	Brak możliwości zamknięcia aplikacji innego niż naciśnięcia przycisku „HOME” który przenosi nas na sam początek do 1 ekranu.
 
 
-Ohh, ktoś tu chyba ze zdjęć zna WP ;) Przyciskiem &quot;Home&quot; (rozumiem, że chodzi o &quot;Windows&quot;) aplikacje nie są zamykane, ale zostają uśpione w tle. Zamyka się je poprzez przycisk &quot;Wstecz&quot;.
+Ohh, ktoś tu chyba ze zdjęć zna WP ;) Przyciskiem "Home" (rozumiem, że chodzi o "Windows") aplikacje nie są zamykane, ale zostają uśpione w tle. Zamyka się je poprzez przycisk "Wstecz".
 
  *Windows Phone 8.1*  - można przeciągnąć palcem w dół i zamknąć tak apkę (w menadżerze zadań).
 
@@ -314,7 +314,7 @@ W Zune tak. Jednakże, przyciski do przewijania działają jak trzeba.
 ### 32.	Kontakty online i offline są pomieszane ze sobą. Brak jakiejkolwiek możliwości do filtrowania!
 
 
-&quot;wiadomości&quot; (przewiń poziomo) &quot;dostępni&quot; - lista dostępnych :) Czy może być prościej?
+"wiadomości" (przewiń poziomo) "dostępni" - lista dostępnych :) Czy może być prościej?
 
 
 
@@ -332,7 +332,7 @@ Nie ma, ale czy naprawdę ktoś tego używa? :P
 ### 34.	Przycisk wyszukiwania przy wybieraniu numeru nie wyszukuje numerów do wybrania ale przeszukuje historię ostatnich połączeń.
 
 
-Może temu, że jest się w oknie &quot;historia&quot;, a nie &quot;kontakty&quot;? :P
+Może temu, że jest się w oknie "historia", a nie "kontakty"? :P
 
 
 
@@ -590,7 +590,7 @@ Jeśli zaczniemy ładować wyłączony telefon, wówczas (jeśli pozwala na to b
 ### 63.	Telefon musi być podłączony do ładowarki, żeby móc go synchronizować bezprzewodowo. To mnie najbardziej śmieszy. Microsoft ma inną definicję słowa bezprzewodowo.
 
 
-Opcja automatycznej, bezprzewodowej (bez podłączenia urządzenia do komputera) synchronizacji zostaje uruchomiona, gdy tylko podłączy się urządzenie do ładowania na dłużej niż 10 min. To jest w 100% idioto odporne. Robi się to automatycznie, ale dzięki temu wymogowi, gdy zapomni się o synchronizacji, nie będzie niemiłego zaskoczenia, &quot;że w domu telefon trzyma krócej&quot;.
+Opcja automatycznej, bezprzewodowej (bez podłączenia urządzenia do komputera) synchronizacji zostaje uruchomiona, gdy tylko podłączy się urządzenie do ładowania na dłużej niż 10 min. To jest w 100% idioto odporne. Robi się to automatycznie, ale dzięki temu wymogowi, gdy zapomni się o synchronizacji, nie będzie niemiłego zaskoczenia, "że w domu telefon trzyma krócej".
 
 
 
@@ -675,7 +675,7 @@ To tak jak z Flashem. Jest HTML5, czego chcieć więcej? :)
 ### 73.	Wbudowane zdjęcia w emaile nie pobierają się.
 
 
-Yhh. Jak to się nie widziało nigdy WP i przetacza się czyjeś opinie to tak bywa. W Windows Phone rozwiązane jest to wzorowo. Ze względu na to, żeby nikt nie narzekał, że maile same ściągają &quot;wbudowane&quot; duże zdjęcia, nie są one automatycznie pobierane. Jeśli ktoś jednak chce pobrać załączone w kodzie HTML zdjęcia (najczęściej jest tak w reklamach!), wystarczy dotknąć link na dole maila: &quot;Pobierz wiadomość i zdjęcia z Internetu (około: podany_rozmair_do_ściągnięcia)&quot;. Świetne, czyż nie? :)
+Yhh. Jak to się nie widziało nigdy WP i przetacza się czyjeś opinie to tak bywa. W Windows Phone rozwiązane jest to wzorowo. Ze względu na to, żeby nikt nie narzekał, że maile same ściągają "wbudowane" duże zdjęcia, nie są one automatycznie pobierane. Jeśli ktoś jednak chce pobrać załączone w kodzie HTML zdjęcia (najczęściej jest tak w reklamach!), wystarczy dotknąć link na dole maila: "Pobierz wiadomość i zdjęcia z Internetu (około: podany_rozmair_do_ściągnięcia)". Świetne, czyż nie? :)
 
 
 
@@ -754,7 +754,7 @@ Nowe zmiany i większa integracja z Win8/RT, zapewne spowodują szersze wsparcie
 ### 23.	Prawdopodobnie nie będzie możliwości zaktualizowania do WP8. (plotki w różnych serwisach technologicznych)
 
 
-Już wiemy, że urządzenia z WP 7.5 otrzymają wersję &quot;legacy&quot; 7.8. Na 7.8 nie uruchomimy aplikacja pisanych tylko dla WP8, zaś WP8 wspierać ma aplikacje z linii 7.x. Aktualizacja do 7.8 ma być dostępna dla wszystkich urządzeń z 7.5, bez względu na operatora. Więcej szczegółów zapewne poznamy  wkrótce.
+Już wiemy, że urządzenia z WP 7.5 otrzymają wersję "legacy" 7.8. Na 7.8 nie uruchomimy aplikacja pisanych tylko dla WP8, zaś WP8 wspierać ma aplikacje z linii 7.x. Aktualizacja do 7.8 ma być dostępna dla wszystkich urządzeń z 7.5, bez względu na operatora. Więcej szczegółów zapewne poznamy  wkrótce.
 
 
 
@@ -778,7 +778,7 @@ Najprawdopodobniej pod naciskami Nokii, zostanie to w jakimś stopniu wprowadzon
 ### 69.	Nie można wysyłać kontaktów jako wizytówki csv.
 
 
-Na dzień dzisiejszy Nokia, dla swoich aktualnych urządzeń oferować będzie Contact Share: &quot;Wysyłaj i odbieraj wizytówki za pośrednictwem wiadomości tekstowych.&quot;
+Na dzień dzisiejszy Nokia, dla swoich aktualnych urządzeń oferować będzie Contact Share: "Wysyłaj i odbieraj wizytówki za pośrednictwem wiadomości tekstowych."
 
 
 Oczywiście to nie wszystkie zmiany, a jedynie to co zmieniło się w odpowiedziach do poszczególnych punktów po prezentacji.

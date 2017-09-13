@@ -3,7 +3,7 @@ layout:     post
 title:      Easter Eggs w Windows Phone
 date:       2013-05-23 23:54:00
 summary:    Do wpisu natchnął mnie Krogulec, opisując Easter Eggs w Nokii N9. Ukryte niespodzianki od developerów nie są niczym nowym i ludzie odpowiedzialni za Windows Phone, również ukryli w swoim systemie dwa ciekawe żarciki dla dociekliwych użytkowników. Myślę, że są to jedne z lepszych Easter Eaggów w tego...
-categories: porady urządzenia mobilne inne
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -105,7 +105,7 @@ Zaś napis na Zune był takim pstryczkiem w nos dla Appla i jego przenośnych pr
 
 
 
-&#211;w napis ma przypominać właścicielom sprzętu przenośnego od Appla, że pomimo tego, iż ich sprzęt wyprodukowany został w Chinach, to myśl przewodnia płynie z jednego słusznego miejsca ;)
+Ów napis ma przypominać właścicielom sprzętu przenośnego od Appla, że pomimo tego, iż ich sprzęt wyprodukowany został w Chinach, to myśl przewodnia płynie z jednego słusznego miejsca ;)
 (pełen rys historyczny w komentarzu użytkownika [macminik](http://www.dobreprogramy.pl/djfoxer/Easter-Eggs-w-Windows-Phone,41473.html#komentarz_1166436)) 
 
 Microsoft chciał trochę zażartować z Appla i przy okazji, za pomocą Zune, przedstawić się jako konkurent w dziedzinie odtwarzaczy przenośnych (co im nie wyszło :P). W tym momencie Windows Phone w bardziej dyskretny sposób puszcza oko do sprzętu z Cupertino.

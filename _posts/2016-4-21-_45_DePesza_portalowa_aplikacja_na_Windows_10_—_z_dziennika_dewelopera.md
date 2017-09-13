@@ -3,7 +3,7 @@ layout:     post
 title:      DePesza portalowa aplikacja na Windows 10 — z dziennika dewelopera
 date:       2016-04-21 17:14:00
 summary:    Prace nad aplikacją nadal trwają. Dziękuję, za docenienie tej serii i oddane głosy na moje wpisy w marcowym konkursie blogowym ;)Jak już zapewne zauważaliście, została wybrana nazwa na aplikację portalową. Dziękuję wszystkim za komentarze. Propozycji było bardzo dużo. Wybór padł na nazwę, która jest...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -79,7 +79,7 @@ Konfiguracja jest prosta, dodajemy do xmla, definiującego powiadomienie tag aud
 
 
 ```csharp
-&lt;audio src=&quot;ms-appx:///Assets/Sounds/alert_1.mp3&quot; /&gt;
+<audio src="ms-appx:///Assets/Sounds/alert_1.mp3" />
 ```
 
 
@@ -99,14 +99,14 @@ Tutaj taki mały tip, powiadomienie toast w Windows 10 definiuje się jako xml i
 ```csharp
 
 string toastVisual =
-$@&quot;&lt;visual&gt;
-  &lt;binding template=&#39;ToastGeneric&#39;&gt;
-    &lt;text&gt;{title}&lt;/text&gt;
-    &lt;text&gt;{content}&lt;/text&gt;
-    &lt;image src=&#39;{image}&#39;/&gt;
-    &lt;image src=&#39;{logo}&#39; placement=&#39;appLogoOverride&#39; hint-crop=&#39;circle&#39;/&gt;
-  &lt;/binding&gt;
-&lt;/visual&gt;&quot;;
+$@"<visual>
+  <binding template='ToastGeneric'>
+    <text>{title}</text>
+    <text>{content}</text>
+    <image src='{image}'/>
+    <image src='{logo}' placement='appLogoOverride' hint-crop='circle'/>
+  </binding>
+</visual>";
 
 ```
 

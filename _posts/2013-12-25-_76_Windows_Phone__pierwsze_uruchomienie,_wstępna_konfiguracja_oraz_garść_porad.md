@@ -2,13 +2,13 @@
 layout:     post
 title:      Windows Phone: pierwsze uruchomienie, wstępna konfiguracja oraz garść porad
 date:       2013-12-25 15:14:00
-summary:    Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz &quot;TAK&quot;, to ten wpis jest właśnie dla Ciebie ...
-categories: oprogramowanie porady urządzenia mobilne
+summary:    Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz "TAK", to ten wpis jest właśnie dla Ciebie :) Zaprasz...
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
 
- *Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz &quot;TAK&quot;, to ten wpis jest właśnie dla Ciebie :) Zapraszam :)* 
+ *Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz "TAK", to ten wpis jest właśnie dla Ciebie :) Zapraszam :)* 
 
 
 
@@ -23,7 +23,7 @@ Każdy z nas po pierwszym uruchomieniu telefonu zastanawia się jak szybko i opt
 ### Używany smartfon = reset ustawień
 
 
-Jeśli kupiliśmy używany telefon warto zrobić reset ustawień. Nie ma sensu cofania zmian wprowadzonych przez kogoś, co więcej nie zmienimy konta Microsoft na własne. Wyczyszczenie smartfonu dokonamy przez menu  *Ustawienia =&gt; zakładka aplikacje=&gt; informacje*  i klikając na przycisk  *zresetuj telefon* . W ten sposób wyczyścimy dane prywatne (ustawienia, zdjęcia, aplikacje itd.) i skonfigurujemy wszystko sami od początku.
+Jeśli kupiliśmy używany telefon warto zrobić reset ustawień. Nie ma sensu cofania zmian wprowadzonych przez kogoś, co więcej nie zmienimy konta Microsoft na własne. Wyczyszczenie smartfonu dokonamy przez menu  *Ustawienia => zakładka aplikacje=> informacje*  i klikając na przycisk  *zresetuj telefon* . W ten sposób wyczyścimy dane prywatne (ustawienia, zdjęcia, aplikacje itd.) i skonfigurujemy wszystko sami od początku.
 
 
 
@@ -33,7 +33,7 @@ Jeśli kupiliśmy używany telefon warto zrobić reset ustawień. Nie ma sensu c
 Pierwszą rzeczą po uruchomieniu telefonu jest wyłączenie danych komórkowych. Oczywiście jeśli ktoś ma pakiet internetowy, to jest to krok zbędny. Jednakże osoby, które nie posiadają wykupionych MB u operatora komórkowego, powinny wyłączyć tę funkcję i uruchamiać ją tylko gdy zajdzie taka potrzeba. 
 
 
-W celu wyłączenia danych komórkowych:  *Ustawienia =&gt; zakładka system =&gt; sieć komórkowa* , w tym miejscu w opcji  *Transmisja danych*  ustawiamy  *wyłączona* . Przy okazji można pokusić się o wybranie połączenia 2G ( *Największa prędkość połączenia* ), w przypadku gdy zechcemy zaoszczędzić na baterii.
+W celu wyłączenia danych komórkowych:  *Ustawienia => zakładka system => sieć komórkowa* , w tym miejscu w opcji  *Transmisja danych*  ustawiamy  *wyłączona* . Przy okazji można pokusić się o wybranie połączenia 2G ( *Największa prędkość połączenia* ), w przypadku gdy zechcemy zaoszczędzić na baterii.
 
 W ten sposób system oraz aplikację w Windows Phone nie będą miały dostępu do transmisji danych (miesięczne limity i statystyki zużycia danych znajdziemy w aplikacji Data Sense, dostępnej tylko na Windows Phone 8).
 
@@ -48,12 +48,12 @@ W ten sposób system oraz aplikację w Windows Phone nie będą miały dostępu 
 ### Wybór języka polskiego
 
 
-Krok niezbędny dla osób, które kupiły urządzenie z Windows Phone pochodzące z zagranicy. Ustawienia językowe zmieniamy w menu   *Ustawienia =&gt; zakładka system =&gt; język + region*  (lub odpowiednie nazwy dla innego języka systemu). Wybieramy ustawienia jak na załączonym poniżej screenie.
+Krok niezbędny dla osób, które kupiły urządzenie z Windows Phone pochodzące z zagranicy. Ustawienia językowe zmieniamy w menu   *Ustawienia => zakładka system => język + region*  (lub odpowiednie nazwy dla innego języka systemu). Wybieramy ustawienia jak na załączonym poniżej screenie.
 
 
-Warto także sprawdzić czy klawiatura posiada ustawienia dla języka polskiego. W menu   *Ustawienia =&gt; zakładka system =&gt; klawiatura*  sprawdzamy co jest wybrane. W razie potrzeby dodajemy klawiaturę dla naszego języka ( *+ dodaj klawiatury* ) i/lub usuwamy zbędne pozycje (przytrzymujemy palcem na wybranym języku i klikamy na  *Usuń* ).
+Warto także sprawdzić czy klawiatura posiada ustawienia dla języka polskiego. W menu   *Ustawienia => zakładka system => klawiatura*  sprawdzamy co jest wybrane. W razie potrzeby dodajemy klawiaturę dla naszego języka ( *+ dodaj klawiatury* ) i/lub usuwamy zbędne pozycje (przytrzymujemy palcem na wybranym języku i klikamy na  *Usuń* ).
 
-Na koniec opcja dodatkowa. Jeśli myślimy o sterowaniu głosem, to warto dodać (jeśli nie ma) mowę dla naszego ojczystego języka. Dokonujemy tego w menu  *Ustawienia =&gt; zakładka system =&gt; mowa* . W tym miejscu w  *Język Mowy*  wybieramy  *Polski (Polska)*  (może się to wiązać z pobraniem danych z serwera Microsoftu i ponownym uruchomieniem urządzenia).
+Na koniec opcja dodatkowa. Jeśli myślimy o sterowaniu głosem, to warto dodać (jeśli nie ma) mowę dla naszego ojczystego języka. Dokonujemy tego w menu  *Ustawienia => zakładka system => mowa* . W tym miejscu w  *Język Mowy*  wybieramy  *Polski (Polska)*  (może się to wiązać z pobraniem danych z serwera Microsoftu i ponownym uruchomieniem urządzenia).
 
 
 
@@ -66,7 +66,7 @@ Na koniec opcja dodatkowa. Jeśli myślimy o sterowaniu głosem, to warto dodać
 ### Dodanie konta Microsoft
 
 
-Windows Phone opiera się na koncie Microsoft i bez podpięcia go do urządzenia nie skorzystamy z marketu, nie przerzucimy zdjęć na SkyDrive, a nawet nie synchronizujemy notatek w OneNote. Jest to również sposób na zrobienie kopii listy kontaktów. Zatem jeśli już mamy dostęp do sieci, trzeba pamiętać aby dodać (lub założyć) konto Microsoft. Jeśli nie zrobiliśmy tego na początku, można zawsze dokonać tego z menu  *Ustawienia =&gt; zakładka system =&gt; poczta + konta* , poprzez  *+ dodaj konto*  wybieramy opcję  *Konto Microsoft* . W ten sposób połączymy również Windows Phone z kontem na Facebooku. Mała uwaga. Można tylko raz ustawić konto Microsoft w urządzeniu, jedyną opcją aby je zmienić to wyczyszczenie danych i reset smartfonu.
+Windows Phone opiera się na koncie Microsoft i bez podpięcia go do urządzenia nie skorzystamy z marketu, nie przerzucimy zdjęć na SkyDrive, a nawet nie synchronizujemy notatek w OneNote. Jest to również sposób na zrobienie kopii listy kontaktów. Zatem jeśli już mamy dostęp do sieci, trzeba pamiętać aby dodać (lub założyć) konto Microsoft. Jeśli nie zrobiliśmy tego na początku, można zawsze dokonać tego z menu  *Ustawienia => zakładka system => poczta + konta* , poprzez  *+ dodaj konto*  wybieramy opcję  *Konto Microsoft* . W ten sposób połączymy również Windows Phone z kontem na Facebooku. Mała uwaga. Można tylko raz ustawić konto Microsoft w urządzeniu, jedyną opcją aby je zmienić to wyczyszczenie danych i reset smartfonu.
 
 
 
@@ -79,7 +79,7 @@ Windows Phone opiera się na koncie Microsoft i bez podpięcia go do urządzenia
 ### Aktualizacja systemu
 
 
-Kiedy podłączymy się poprzez WiFi do sieci, warto sprawdzić aktualizacje Windows Phone. Wjedźmy w   *Ustawienia =&gt; zakładka system =&gt; aktualizacje*  i poprzez przycisk  *sprawdź aktualizacje*  zobaczmy czy Microsoft nie wydał aktualizacji dla naszego systemu. 
+Kiedy podłączymy się poprzez WiFi do sieci, warto sprawdzić aktualizacje Windows Phone. Wjedźmy w   *Ustawienia => zakładka system => aktualizacje*  i poprzez przycisk  *sprawdź aktualizacje*  zobaczmy czy Microsoft nie wydał aktualizacji dla naszego systemu. 
 
 
 
@@ -92,7 +92,7 @@ Kiedy podłączymy się poprzez WiFi do sieci, warto sprawdzić aktualizacje Win
 ### Aktualizacja aplikacji od producentów urządzeń (OEM: Nokia, Samsung, HTC)
 
 
-Prócz aktualizacji Windows Phone, warto (a nawet powinno się) sprawdzić czy posiadamy najnowsze wersje składników od producentów urządzeń. Automatyczne sprawdzenie nie odbędzie się natychmiast i może trochę potrwać. Oczywiście nie mamy na to czasu i chcemy przyspieszyć ten proces.  W tym przypadku pomoże nam aplikacja [SysApp Pusher](http://www.windowsphone.com/pl-pl/store/app/sysapp-pusher/19d44d9e-f18e-4df1-9bce-36335242ed2e) (dostępna za darmo na Windows Phone 8). Dzięki niej szybko przejrzymy składniki od producenta smartfonu. Z racji tego, że jest to pierwsze uruchomienie SysApp Pusher, na liście u wybranej firmy OEM, należy po kolei sprawdzić każdą z aplikacji (szczególnie zakładkę  *System* ) w celu sprawdzenia czy nie ma aktualizacji. Warto także sprawdzić inne wbudowane oprogramowanie (np. Here Map i Here Drive dla Nokii), więcej o SysApp Pusher w krótkim [newsie](http://www.dobreprogramy.pl/SysApp-Pusher-pomoze-zaktualizowac-oprogramowanie-OEM-w-Windows-Phone,News,46515.html). Tutaj mała uwaga, w Lumiach posiadających Here Drive bez plusa (np. Nokia Lumia 520, 720) aktualizację tej aplikacji dokonamy poprawnie tylko z marketu ( *Sklep =&gt; Nokia collection* ).
+Prócz aktualizacji Windows Phone, warto (a nawet powinno się) sprawdzić czy posiadamy najnowsze wersje składników od producentów urządzeń. Automatyczne sprawdzenie nie odbędzie się natychmiast i może trochę potrwać. Oczywiście nie mamy na to czasu i chcemy przyspieszyć ten proces.  W tym przypadku pomoże nam aplikacja [SysApp Pusher](http://www.windowsphone.com/pl-pl/store/app/sysapp-pusher/19d44d9e-f18e-4df1-9bce-36335242ed2e) (dostępna za darmo na Windows Phone 8). Dzięki niej szybko przejrzymy składniki od producenta smartfonu. Z racji tego, że jest to pierwsze uruchomienie SysApp Pusher, na liście u wybranej firmy OEM, należy po kolei sprawdzić każdą z aplikacji (szczególnie zakładkę  *System* ) w celu sprawdzenia czy nie ma aktualizacji. Warto także sprawdzić inne wbudowane oprogramowanie (np. Here Map i Here Drive dla Nokii), więcej o SysApp Pusher w krótkim [newsie](http://www.dobreprogramy.pl/SysApp-Pusher-pomoze-zaktualizowac-oprogramowanie-OEM-w-Windows-Phone,News,46515.html). Tutaj mała uwaga, w Lumiach posiadających Here Drive bez plusa (np. Nokia Lumia 520, 720) aktualizację tej aplikacji dokonamy poprawnie tylko z marketu ( *Sklep => Nokia collection* ).
 
 
 
@@ -114,7 +114,7 @@ Jeśli do tej pory używany stary telefon miał Bluetooth, to w prosty sposób m
 
 
 
-Kontakty możemy również przenieść w tradycyjny sposób poprzez import z karty SIM ( *Ustawienia =&gt; zakładka aplikacje=&gt; kontakty*  i klikamy na  *importuj kontakty z karty SIM* ).
+Kontakty możemy również przenieść w tradycyjny sposób poprzez import z karty SIM ( *Ustawienia => zakładka aplikacje=> kontakty*  i klikamy na  *importuj kontakty z karty SIM* ).
 
 
 
@@ -182,38 +182,38 @@ Z racji tego, że obecnie smartfony mają coraz większe ekrany, często są pra
 
 
 
-  * zmniejsz jasność ekranu ( *Ustawienia =&gt; zakładka system =&gt; jasność*  - zaznaczenie opcji  *niska* )
+  * zmniejsz jasność ekranu ( *Ustawienia => zakładka system => jasność*  - zaznaczenie opcji  *niska* )
 
 
   * 
 
-włącz ekran blokady po 30 sekundach ( *Ustawienia =&gt; zakładka system =&gt; ekran blokady* )
+włącz ekran blokady po 30 sekundach ( *Ustawienia => zakładka system => ekran blokady* )
 
 
 
 
   * 
-wyłączenie zbędnych zadań w tle ( *Ustawienia =&gt; zakładka aplikacje=&gt; zadania w tle* )
+wyłączenie zbędnych zadań w tle ( *Ustawienia => zakładka aplikacje=> zadania w tle* )
 
 
 
   * 
-wydłużenie czasu pomiędzy synchronizacją poczty ( *Ustawienia =&gt; zakładka system =&gt; poczta + konta* , po wybraniu konta należy wybrać dłuższy czas w menu  *Pobierz nową zawartość* ).
+wydłużenie czasu pomiędzy synchronizacją poczty ( *Ustawienia => zakładka system => poczta + konta* , po wybraniu konta należy wybrać dłuższy czas w menu  *Pobierz nową zawartość* ).
 
 
 
   * 
-wyłączenie usługi Xbox Live ( *Ustawienia =&gt; zakładka aplikacje=&gt; gry* , wyłączenie  *Połącz z usługa Xbox* )
+wyłączenie usługi Xbox Live ( *Ustawienia => zakładka aplikacje=> gry* , wyłączenie  *Połącz z usługa Xbox* )
 
 
 
   * 
-wyłączenie większej czułości (obsługa za pomocą rękawiczek) w nowych Nokiach ( *Ustawienia =&gt; zakładka system =&gt; dotknij* , ustawiamy czułość wyświetlacza na  *Normalna* )
+wyłączenie większej czułości (obsługa za pomocą rękawiczek) w nowych Nokiach ( *Ustawienia => zakładka system => dotknij* , ustawiamy czułość wyświetlacza na  *Normalna* )
 
 
 
   * 
-zmniejszenie prędkości połączenia na 2G  ( *Ustawienia =&gt; zakładka system =&gt; sieć komórkowa* , w tym miejscu wybieramy połączenia 2G ( *Największa prędkość połączenia* ))
+zmniejszenie prędkości połączenia na 2G  ( *Ustawienia => zakładka system => sieć komórkowa* , w tym miejscu wybieramy połączenia 2G ( *Największa prędkość połączenia* ))
 
 
 
@@ -225,7 +225,7 @@ wyłączenie nieużywanych połączeń WiFi (również wyłączenie po zablokowa
 
 
   * 
-można również &quot;na szybkiego&quot; włączyć oszczędzanie baterii ( *Ustawienia =&gt; zakładka system =&gt; oszczędzanie baterii* )
+można również "na szybkiego" włączyć oszczędzanie baterii ( *Ustawienia => zakładka system => oszczędzanie baterii* )
 
 
 
@@ -251,7 +251,7 @@ używaj ciemnego motywu tła (szczególnie ekrany AMOLED)
 
 
   * 
-wyłączenie przesyłania zdjęć na SkyDrive ( *Ustawienia =&gt; zakładka aplikacje=&gt; zdjęcia + aparat* )
+wyłączenie przesyłania zdjęć na SkyDrive ( *Ustawienia => zakładka aplikacje=> zdjęcia + aparat* )
 
 
 
@@ -276,14 +276,14 @@ warto sprawdzić w Data Sense, które aplikacje najwięcej wykorzystują transmi
 
 
 
-Z racji tego, że smartfony są coraz częściej elementem naszego portfela, warto zabezpieczyć dostęp do systemu. Na pewno w przyszłości pokusimy się o pobranie aplikacji bankowej, a nawet już teraz część z nas otrzymuje potwierdzenia operacji na koncie poprzez SMS. W celu zabezpieczenia smartfonu przed niepowoływanymi osobami ustawmy blokowanie ekranu na hasło ( *Ustawienia =&gt; zakładka system =&gt; ekran blokady* , w tym miejscu aktywujemy przełącznik  *Hasło*  i ustawiamy opcje  *Wymagaj hasło po*  -  *za każdym razem* ).
+Z racji tego, że smartfony są coraz częściej elementem naszego portfela, warto zabezpieczyć dostęp do systemu. Na pewno w przyszłości pokusimy się o pobranie aplikacji bankowej, a nawet już teraz część z nas otrzymuje potwierdzenia operacji na koncie poprzez SMS. W celu zabezpieczenia smartfonu przed niepowoływanymi osobami ustawmy blokowanie ekranu na hasło ( *Ustawienia => zakładka system => ekran blokady* , w tym miejscu aktywujemy przełącznik  *Hasło*  i ustawiamy opcje  *Wymagaj hasło po*  -  *za każdym razem* ).
 
 
-Jeśli w kalendarzu wyświetlają się zdarzenia zarówno te, na których potwierdziliśmy naszą obecność oraz propozycje, a nie chcemy widzieć tych ostatnich, to możemy to wyłączyć w opcjach kalendarza (otwieramy kalendarz wybieramy  *&quot;...&quot; =&gt; Ustawienia*  i zaznaczamy  *Pokazuj tylko z darzenia z moją odpowiedzią...* ).
+Jeśli w kalendarzu wyświetlają się zdarzenia zarówno te, na których potwierdziliśmy naszą obecność oraz propozycje, a nie chcemy widzieć tych ostatnich, to możemy to wyłączyć w opcjach kalendarza (otwieramy kalendarz wybieramy  *"..." => Ustawienia*  i zaznaczamy  *Pokazuj tylko z darzenia z moją odpowiedzią...* ).
 
-Wybranie domyślnego wyszukiwania w Internet Explorerze na Google/Bing dokonamy w  *Ustawienia =&gt; zakładka aplikacje=&gt; Internet Explorer* , klikamy na  *ustawienia zaawansowane*  i wybieramy wyszukiwarkę w menu  *Domyślny dostawca wyszukania* .
+Wybranie domyślnego wyszukiwania w Internet Explorerze na Google/Bing dokonamy w  *Ustawienia => zakładka aplikacje=> Internet Explorer* , klikamy na  *ustawienia zaawansowane*  i wybieramy wyszukiwarkę w menu  *Domyślny dostawca wyszukania* .
 
-Jeśli zechcemy pobrać mapy offline (np. do nawigacji) zrobimy to w  *Ustawienia =&gt; zakładka aplikacje=&gt; mapy*  w menu klikamy  *pobierz mapy*  i wybieramy interesujący nas kraj. Mała uwaga.
+Jeśli zechcemy pobrać mapy offline (np. do nawigacji) zrobimy to w  *Ustawienia => zakładka aplikacje=> mapy*  w menu klikamy  *pobierz mapy*  i wybieramy interesujący nas kraj. Mała uwaga.
 
 Własny dzwonek skomponujemy przez aplikację Twórca dzwonków ([WP7](http://www.windowsphone.com/pl-pl/store/app/tw%C3%B3rca-dzwonk%C3%B3w/dae4700e-6eeb-43b1-b48d-aee18b46fddc))/Zrób dzwonek ([WP8](http://www.windowsphone.com/pl-pl/store/app/zr%C3%B3b-dzwonek/5a99cbd9-e82a-4892-8264-17a64f9142e5)) [Nokia].
 

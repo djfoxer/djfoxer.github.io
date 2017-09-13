@@ -2,13 +2,13 @@
 layout:     post
 title:      Polskie Pismo Amigowe - Amiga wiecznie żywa [#11]
 date:       2014-05-14 15:39:00
-summary:    Pisma Amigowe były w moim domu od młodzieńczych lat, kiedy to na początku podstawówki dostałem Amigę 500. Wówczas pamiętam zakupione pierwsze numery Commodore &amp; Amiga,  czy Magazyn Amiga, a nawet Świat Gier Komputerowych, gdy jeszcze publikował recenzje gier na Przyjaciółkę. Nie mogę zapomnieć o...
-categories: hobby inne
+summary:    Pisma Amigowe były w moim domu od młodzieńczych lat, kiedy to na początku podstawówki dostałem Amigę 500. Wówczas pamiętam zakupione pierwsze numery Commodore & Amiga,  czy Magazyn Amiga, a nawet Świat Gier Komputerowych, gdy jeszcze publikował recenzje gier na Przyjaciółkę. Nie mogę zapomnieć oczyw...
+categories: <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
 
-Pisma Amigowe były w moim domu od młodzieńczych lat, kiedy to na początku podstawówki dostałem Amigę 500. Wówczas pamiętam zakupione pierwsze numery Commodore &amp; Amiga,  czy Magazyn Amiga, a nawet Świat Gier Komputerowych, gdy jeszcze publikował recenzje gier na  *Przyjaciółkę* . Nie mogę zapomnieć oczywiście tutaj o moim ukochanym Amiga Computer Studio, które kupowałem niemalże do ostatniego numeru. Czas leciał, a Amiga niestety odeszła na bok. Pomimo, że nie posiadam już Amigi (a szkoda! przyznaje, że zakup  *gołej*   A1200 chodzi za mną już od jakiegoś czasu) czasem przeglądam fora i strony związane z Amisią. Kiedyś przypadkiem natrafiłem na inicjatywę pod nazwą: Polskie Pismo Amigowe. Postanowiłem zaryzykować i kupić to cudo.
+Pisma Amigowe były w moim domu od młodzieńczych lat, kiedy to na początku podstawówki dostałem Amigę 500. Wówczas pamiętam zakupione pierwsze numery Commodore & Amiga,  czy Magazyn Amiga, a nawet Świat Gier Komputerowych, gdy jeszcze publikował recenzje gier na  *Przyjaciółkę* . Nie mogę zapomnieć oczywiście tutaj o moim ukochanym Amiga Computer Studio, które kupowałem niemalże do ostatniego numeru. Czas leciał, a Amiga niestety odeszła na bok. Pomimo, że nie posiadam już Amigi (a szkoda! przyznaje, że zakup  *gołej*   A1200 chodzi za mną już od jakiegoś czasu) czasem przeglądam fora i strony związane z Amisią. Kiedyś przypadkiem natrafiłem na inicjatywę pod nazwą: Polskie Pismo Amigowe. Postanowiłem zaryzykować i kupić to cudo.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-5-14-_67_/g_-_608x405_-_-_54046x20140513203117_0.png)

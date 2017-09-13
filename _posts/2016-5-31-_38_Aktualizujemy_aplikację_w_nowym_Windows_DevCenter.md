@@ -3,7 +3,7 @@ layout:     post
 title:      Aktualizujemy aplikację w nowym Windows DevCenter
 date:       2016-05-31 23:38:00
 summary:    Wydanie aktualizacji aplikacji to spore wydarzenie dla każdego dewelopera. Niezliczone ilości godzin przesiedziane przed monitorem, kartką z notatkami, rozmowami z klientami czy testami w końcu mogą zaowocować stworzeniem poprawionej, nowej wersji oprogramowania.Wychodzę z założenia, że proces pierw...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -49,7 +49,7 @@ Wówczas po udanej certyfikacji nowa wersja zastąpi starszą.
   * Podczas certyfikacji w każdej chwili można zaprzestać tego procesu, a także całkowicie usunąć aktualizację.
 
 
-  * Pamiętaj, aby podać w opisie co wnosi nowa wersja ( *App description -&gt; Release notes* ). Wydaje się to logiczne, ale sam Microsoft o tym zapomina i wypuszcza aktualizacje swoich apek bez tej informacji!
+  * Pamiętaj, aby podać w opisie co wnosi nowa wersja ( *App description -> Release notes* ). Wydaje się to logiczne, ale sam Microsoft o tym zapomina i wypuszcza aktualizacje swoich apek bez tej informacji!
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160531232530_0.PNG)

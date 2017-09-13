@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Template Studio — szybki start w programowaniu aplikacji Universal Windows Platform
 date:       2017-05-20 14:35:00
 summary:    Osoby programujące z Universal Windows Platform dostały właśnie świetny dodatek do Visual Studio 2017 - Windows Template Studio. Prosty kreator od Microsoftu, który stworzy podstawy projektu UWP z wybranym funkcjonalnościami, zgodnie z dobrymi praktykami programowania.Windows Template StudioDodatek ...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -23,7 +23,7 @@ Osoby programujące z Universal Windows Platform dostały właśnie świetny dod
 
 Dodatek do VS2017 jest prostym kreatorem, bardzo pomocnym przy rozpoczynaniu tworzenia nowej aplikacji UWP. Kreator pozwoli deweloperom na wybranie typu projektu, frameworku MVVM, stowrzeniu podstawowych stron i ficzerów. W ten sposób stworzony zostanie gotowy szablon dla dewelopera, który zawiera wybrane elementy, z zainicjalizowanymi strukturami zgodnie z dobrymi praktykami. Programista na starcie otrzyma zatem bazę do rozwoju własnej aplikacji. Wystarczy już tylko usiąść i zacząć pracę.
 
-Windows Template Studio jest rozwinięciem pomysłu Windows App Studio, które pozwalało na &quot;wyklikanie&quot; aplikacji UWP online. Windows Template Studio jest zaś kreatorem, który tworzy dla dewelopera bazę do późniejszej pracy nad aplikacją.
+Windows Template Studio jest rozwinięciem pomysłu Windows App Studio, które pozwalało na "wyklikanie" aplikacji UWP online. Windows Template Studio jest zaś kreatorem, który tworzy dla dewelopera bazę do późniejszej pracy nad aplikacją.
 
 
 

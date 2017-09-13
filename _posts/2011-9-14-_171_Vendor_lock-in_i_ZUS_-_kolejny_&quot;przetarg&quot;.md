@@ -3,7 +3,7 @@ layout:     post
 title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
 date:       2011-09-14 23:45:00
 summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów:...
-categories: inne
+categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -14,9 +14,9 @@ Czym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na us�
 
 Kilka przykładów:
 
- *Kupujemy do firmy 100 drukarek/ploterów marki &quot;ABC&quot;. Po pewnym czasie okazuje się, iż wymian tuszy na oryginalne już dawno przekroczyła wartość zakupionego sprzętu. Dodatkowo producent udostępnia już nowszy model ploterów, o unikalnej technologii druku. Niestety, zakupione już wcześniej (w dużej ilości), materiały eksploatacyjne nie są kompatybilne wstecz. Czy warto, w tym momencie rezygnować z urządzeń firmy &quot;ABC&quot;? * 
+ *Kupujemy do firmy 100 drukarek/ploterów marki "ABC". Po pewnym czasie okazuje się, iż wymian tuszy na oryginalne już dawno przekroczyła wartość zakupionego sprzętu. Dodatkowo producent udostępnia już nowszy model ploterów, o unikalnej technologii druku. Niestety, zakupione już wcześniej (w dużej ilości), materiały eksploatacyjne nie są kompatybilne wstecz. Czy warto, w tym momencie rezygnować z urządzeń firmy "ABC"? * 
 
- *Producent oprogramowania, ma w jednym z działów świetnego programistę - Pana Zenka. Pan Zenek jako jedyny w firmie robi integracje z zewnętrznym systemem &quot;X&quot;. &#211;w moduł jest wykorzystywany w wielu produktach oferowanych przez firmę. Kod napisany jest w języku, którego nikt nie zna, tak dobrze jak Pan Zenek. Prócz naszego bohatera, nikt w firmie nie wie tak naprawdę, jak on działa. Czy zatem taka firma może pozwolić sobie na zwolnienie Pana Zenka, który staje się po pewnym czasie &quot;nietykalny&quot;? * 
+ *Producent oprogramowania, ma w jednym z działów świetnego programistę - Pana Zenka. Pan Zenek jako jedyny w firmie robi integracje z zewnętrznym systemem "X". Ów moduł jest wykorzystywany w wielu produktach oferowanych przez firmę. Kod napisany jest w języku, którego nikt nie zna, tak dobrze jak Pan Zenek. Prócz naszego bohatera, nikt w firmie nie wie tak naprawdę, jak on działa. Czy zatem taka firma może pozwolić sobie na zwolnienie Pana Zenka, który staje się po pewnym czasie "nietykalny"? * 
 
 a także:
 FlashPlayer od Adobe, format plików Office od Microsoftu, PlayStation Portable Universal Media Disc, Memory Stick do urządzeń Sony... więcej na stronie [http://en.wikipedia.org/wiki/Vendor_lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in)
@@ -39,9 +39,9 @@ ZUS jest typowym przykładem instytucji, która uzależniła się od jednego dos
 
  
 
- *Nowy &quot;przetarg&quot; w ZUSie* 
+ *Nowy "przetarg" w ZUSie* 
 
-17 sierpnia 2011 r. został ogłoszony przetarg (do dnia 26 września 2011 roku) na zakup 10 700 komputerów dla ZUSu o wartości 27,5 mln zł!! [http://www.zus.pl/bip/default.asp?id=220&amp;idz=116576](http://www.zus.pl/bip/default.asp?id=220&amp;idz=116576). 
+17 sierpnia 2011 r. został ogłoszony przetarg (do dnia 26 września 2011 roku) na zakup 10 700 komputerów dla ZUSu o wartości 27,5 mln zł!! [http://www.zus.pl/bip/default.asp?id=220&idz=116576](http://www.zus.pl/bip/default.asp?id=220&idz=116576). 
 
 Jest to ogromna kwota jaką zarobi firma, która dostarczy sprzęt jak i oprogramowanie. Ciężko to nazwać przetargiem, kiedy z góry wiadomo, iż w kwestii oprogramowania wygra... Microsoft. Cóż możemy znaleźć w siwz (specyfikacja istotnych warunków zamówienia) [http://www.zus.pl/bip/zampub/files/116609/TdDMBB2TbV9.pdf](http://www.zus.pl/bip/zampub/files/116609/TdDMBB2TbV9.pdf)?  Oto kilka przykładów, które nawet dla mnie (jako osoby nie będącej wielkim fanem otwartego oprogramowania) wydają się być nadużyciem i wskazują jednoznacznie na oprogramowanie firmy Microsoft:
 
@@ -66,7 +66,7 @@ Komplet sterowników do systemu operacyjnego zainstalowanego na stacji roboczej 
 * Warunki równoważności dla systemu operacyjnego MS Windows 7: 
 System operacyjny umożliwiający działanie: 
 
-a. Aplikacji użytkowych KSI ZUS *  (m.in. &quot;Płatnik&quot; omawiany wcześniej - przyp. djfoxer)  *, w tym m.in.: A5, AQ, AZBE, BKP, BW, DB, DF, DG, DH, 
+a. Aplikacji użytkowych KSI ZUS *  (m.in. "Płatnik" omawiany wcześniej - przyp. djfoxer)  *, w tym m.in.: A5, AQ, AZBE, BKP, BW, DB, DF, DG, DH, 
 DI, DP, DS., EP, ET, FL, FEW, FK, FWX, FX, K1, K3,  KR, KS, KW, L5, LA, LC, LI, 8
 LIBWRF, LK, LT, MU, NA, NT, NX, OK., ON, PI, R1, R2, R5, R6, R8, RG, S3, SL, TD, TX, 
 XB, XD, XF, XI, XK, XL, XM, XN, XS, XV, XZ, ZB, ZD, ZO, ZORAP. 
@@ -121,7 +121,7 @@ Warunki przetargu nie pozostawiają złudzeń. Oprogramowanie z Rdmond zawita w 
 [http://www.janosik.net/ - strona programu Janosik](http://www.janosik.net/)
 
 
-[http://www.zus.pl/bip/default.asp?id=220&amp;idz=116576 - Biuletyn informacji publicznej](http://www.zus.pl/bip/default.asp?id=220&amp;idz=116576)
+[http://www.zus.pl/bip/default.asp?id=220&idz=116576 - Biuletyn informacji publicznej](http://www.zus.pl/bip/default.asp?id=220&idz=116576)
 
 [http://www.zus.pl/bip/zampub/files/116609/TdDMBB2TbV9.pdf - specyfikacja istotnych warunków zamówienia](http://www.zus.pl/bip/zampub/files/116609/TdDMBB2TbV9.pdf)
 

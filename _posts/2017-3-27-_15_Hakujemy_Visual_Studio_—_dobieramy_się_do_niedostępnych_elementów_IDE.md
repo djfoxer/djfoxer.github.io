@@ -3,7 +3,7 @@ layout:     post
 title:      Hakujemy Visual Studio — dobieramy się do niedostępnych elementów IDE
 date:       2017-03-27 18:26:00
 summary:    API udostępnione przez SDK do Visual Studio pozwala na olbrzymie zmiany w IDE. Niestety nie zawsze to co chcemy zrobić jest możliwe w oficjalny sposób. W tym wpisie przedstawię sposób na modyfikowanie elementów interfejsu Visual Studio, które nie są możliwe poprzez API. Będziemy hakowali Visuala :)A...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -72,12 +72,12 @@ Jak zatem rozszerzyć IDE o własne kontrolki? Wystarczy z poziomu Snoopa znale�
 
 
 
-Następnie w C# wyszukamy go dynamicznie przy pomocy  *VisualTreeHelper&#39;a* . Użyjemy do tego kodu ze [StackOverflow](http://stackoverflow.com/a/1759923): 
+Następnie w C# wyszukamy go dynamicznie przy pomocy  *VisualTreeHelper'a* . Użyjemy do tego kodu ze [StackOverflow](http://stackoverflow.com/a/1759923): 
 
 
 ```csharp
 
-public static T FindChild&lt;T&gt;(DependencyObject parent, string childName)
+public static T FindChild<T>(DependencyObject parent, string childName)
    where T : DependencyObject
 {    
   // Confirm parent and childName are valid. 
@@ -86,7 +86,7 @@ public static T FindChild&lt;T&gt;(DependencyObject parent, string childName)
   T foundChild = null;
 
   int childrenCount = VisualTreeHelper.GetChildrenCount(parent);
-  for (int i = 0; i &lt; childrenCount; i++)
+  for (int i = 0; i < childrenCount; i++)
   {
     var child = VisualTreeHelper.GetChild(parent, i);
     // If the child is not of the request child type child
@@ -94,7 +94,7 @@ public static T FindChild&lt;T&gt;(DependencyObject parent, string childName)
     if (childType == null)
     {
       // recursively drill down the tree
-      foundChild = FindChild&lt;T&gt;(child, childName);
+      foundChild = FindChild<T>(child, childName);
 
       // If the child is found, break so we do not overwrite the found child. 
       if (foundChild != null) break;
@@ -102,10 +102,10 @@ public static T FindChild&lt;T&gt;(DependencyObject parent, string childName)
     else if (!string.IsNullOrEmpty(childName))
     {
       var frameworkElement = child as FrameworkElement;
-      // If the child&#39;s name is set for search
-      if (frameworkElement != null &amp;&amp; frameworkElement.Name == childName)
+      // If the child's name is set for search
+      if (frameworkElement != null && frameworkElement.Name == childName)
       {
-        // if the child&#39;s name is of the request name
+        // if the child's name is of the request name
         foundChild = (T)child;
         break;
       }
@@ -129,8 +129,8 @@ W naszym kodzie wtyczki pobranie StatusBara z Visual Studio wyglądać będzie t
 
 ```csharp
 
-var statusBarObj = UIHelper.FindChildControl&lt;DockPanel&gt;(
-Application.Current.MainWindow,&quot;StatusBarPanel&quot;);
+var statusBarObj = UIHelper.FindChildControl<DockPanel>(
+Application.Current.MainWindow,"StatusBarPanel");
 
 ```
 
@@ -141,7 +141,7 @@ Dodajmy teraz jeszcze jakiś dowolny przycisk, aby pokazać, że faktycznie dobr
 ```csharp
 
 var button = new Button();
-button.Content = &quot;Klikamy!&quot;;
+button.Content = "Klikamy!";
 statusBarObj.Children.Insert(0, button);
 
 ```

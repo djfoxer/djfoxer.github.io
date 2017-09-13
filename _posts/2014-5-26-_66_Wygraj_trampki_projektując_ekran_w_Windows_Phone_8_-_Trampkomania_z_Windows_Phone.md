@@ -3,7 +3,7 @@ layout:     post
 title:      Wygraj trampki projektując ekran w Windows Phone 8 - Trampkomania z Windows Phone
 date:       2014-05-26 16:06:00
 summary:    Konkursów i promocji związanych z Windows Phone w ostatnim czasie było i jest bardzo wiele. Ciągle można wygrać sprzęt w aplikacji Konkursy, dostępną w markecie Windows Phone. Aktywna jest również oferta dla nowych klientów, gdzie zgarnąć można 100zł i kilka niezłych gier od Gameleftu. Teraz przysze...
-categories: oprogramowanie urządzenia mobilne inne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 

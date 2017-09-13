@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Indie Bundle 4  - gwiazdka już dziś
 date:       2011-12-14 22:45:00
 summary:    Ruszyła kolejna akcja The Humble Indie Bundle 4! www.humblebundle.comDla niecierpliwych podaję listę gier z ocenami z metacritic (http://www.metacritic.com):Jamestown (81)Bit.Trip Runner (70)Super Meat Boy (87)Shank (67)NightSky (78)Cave Story+ (brak)Gratuitous Space Battles (72)Jeśli nie wiecie co ...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -73,7 +73,7 @@ Przed Wami krótki opis, co znajdziemy w nowej odsłonie.
 
 
 
-Pierwszą pozycją jest oldschoolowa strzelanka z coopem do 4 graczy. Miła &quot;rozpikselowana&quot; grafika, przypomni dawne lata, kiedy grało się w tego typu pozycje na Amidze ;) Moc zabawy i niewymagającego myślenia gameplay, gwarantują relaks pomiędzy jedzeniem w Święta, a oglądaniem Kevina na Polsacie :)
+Pierwszą pozycją jest oldschoolowa strzelanka z coopem do 4 graczy. Miła "rozpikselowana" grafika, przypomni dawne lata, kiedy grało się w tego typu pozycje na Amidze ;) Moc zabawy i niewymagającego myślenia gameplay, gwarantują relaks pomiędzy jedzeniem w Święta, a oglądaniem Kevina na Polsacie :)
 
 
 
@@ -87,7 +87,7 @@ Pierwszą pozycją jest oldschoolowa strzelanka z coopem do 4 graczy. Miła &quo
 
 
 
-Z założenia prosta gra. Ludzik porusza się w prawo stronę, a my mamy za zadanie omijanie przeszkód. Rozgrywka nie jest typowa dla gier zręcznościowych, gdyż Bit.Trip Runner można podciągnąć pod grę rytmiczno-muzyczną! Gra z tych pozycji określanych: &quot;jeszcze raz i już kończę&quot;;) Prosta rozgrywka i w miarę krótkie poziomy, sprawiają, że kiedy macie 5 minut wolnego czasu, swobodnie można sięgnąć po tą pozycję (i na 5 minutach się nie skończy :P). Niesamowita dawka grywalności! Świetna grafika i ścieżka dźwiękowa (dostępna odzienie do ściągnięcia) pozwoli odetchnąć od &quot;Last Christmas&quot;, które już zaczyna królować w radiu :)
+Z założenia prosta gra. Ludzik porusza się w prawo stronę, a my mamy za zadanie omijanie przeszkód. Rozgrywka nie jest typowa dla gier zręcznościowych, gdyż Bit.Trip Runner można podciągnąć pod grę rytmiczno-muzyczną! Gra z tych pozycji określanych: "jeszcze raz i już kończę";) Prosta rozgrywka i w miarę krótkie poziomy, sprawiają, że kiedy macie 5 minut wolnego czasu, swobodnie można sięgnąć po tą pozycję (i na 5 minutach się nie skończy :P). Niesamowita dawka grywalności! Świetna grafika i ścieżka dźwiękowa (dostępna odzienie do ściągnięcia) pozwoli odetchnąć od "Last Christmas", które już zaczyna królować w radiu :)
 
 
 
@@ -115,7 +115,7 @@ Pozycja, która zapewne przyciągnie wielu niezdecydowanych na zakup The Humble 
 
  
 
-Mega dynamiczna i krwawa zręcznościówka 2D z przepiękna grafiką. Przerysowane walki z przeciwnikami, okraszone hektolitrami krwi, wymyślnymi ciosami i combosami,   przypominają filmy Tarantino (jak chociażby genialny From Dusk Till Dawn). Do eksterminacji mamy ogromny arsenał broni palnych, białych do tego możemy dołączyć rożne ciosy i combosy, które można jeszcze łączyć i modyfikować oraz wszystko razem wymieszać i dodać szczyptę przypadkowości i szaleństwa. Grywalność stoi na wysokim, wręcz zabójczym (ho ho ho) poziomie. Polecam ciepło :) Może nie jako uzupełnienie rodzinnego obiadu świątecznego, ale jako zastępstwo (uzupełnienie) dla mocnego filmu z gatunku &quot;rozpierdziuch&quot;!
+Mega dynamiczna i krwawa zręcznościówka 2D z przepiękna grafiką. Przerysowane walki z przeciwnikami, okraszone hektolitrami krwi, wymyślnymi ciosami i combosami,   przypominają filmy Tarantino (jak chociażby genialny From Dusk Till Dawn). Do eksterminacji mamy ogromny arsenał broni palnych, białych do tego możemy dołączyć rożne ciosy i combosy, które można jeszcze łączyć i modyfikować oraz wszystko razem wymieszać i dodać szczyptę przypadkowości i szaleństwa. Grywalność stoi na wysokim, wręcz zabójczym (ho ho ho) poziomie. Polecam ciepło :) Może nie jako uzupełnienie rodzinnego obiadu świątecznego, ale jako zastępstwo (uzupełnienie) dla mocnego filmu z gatunku "rozpierdziuch"!
 
 
 

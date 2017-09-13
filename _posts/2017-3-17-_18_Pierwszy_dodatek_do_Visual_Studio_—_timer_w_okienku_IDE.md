@@ -3,7 +3,7 @@ layout:     post
 title:      Pierwszy dodatek do Visual Studio — timer w okienku IDE
 date:       2017-03-17 17:06:00
 summary:    Przyszedł czas na mięsko. W tym wpisie przedstawię sposób na stworzenie wtyczki do Visual Studio, która będzie timerem odliczającym 25 minut w dół (technika Pomodoro).Stworzony dodatek będzie pływającym okienkiem, które będzie można przypiąć w dowolne miejsce w ekranie roboczym Visual Studio.Zaczyna...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -72,20 +72,20 @@ W ten sposób Visual Studio przygotuje gotowe okno, które można będzie dostos
 
 ```html
 
-      &lt;Button guid=&quot;guidTimerToolWindowPackageCmdSet&quot; id=&quot;TimerToolWindowCommandId&quot;
-        priority=&quot;0x0100&quot; type=&quot;Button&quot;&gt;
-        &lt;Parent guid=&quot;guidSHLMainMenu&quot; id=&quot;IDG_VS_WNDO_OTRWNDWS1&quot;/&gt;
-        &lt;Icon guid=&quot;guidImages&quot; id=&quot;bmpPic1&quot; /&gt;
-        &lt;Strings&gt;
-          &lt;ButtonText&gt;TimerToolWindow&lt;/ButtonText&gt;
-        &lt;/Strings&gt;
-      &lt;/Button&gt;
-    &lt;/Buttons&gt;
+      <Button guid="guidTimerToolWindowPackageCmdSet" id="TimerToolWindowCommandId"
+        priority="0x0100" type="Button">
+        <Parent guid="guidSHLMainMenu" id="IDG_VS_WNDO_OTRWNDWS1"/>
+        <Icon guid="guidImages" id="bmpPic1" />
+        <Strings>
+          <ButtonText>TimerToolWindow</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
 
 ```
 
 
-Powyższy kod umiejscawia przycisk (button) w menu Other Windows ( *&lt;Parent guid=&quot;guidSHLMainMenu&quot; id=&quot;IDG_VS_WNDO_OTRWNDWS1&quot;/&gt;* ).
+Powyższy kod umiejscawia przycisk (button) w menu Other Windows ( *<Parent guid="guidSHLMainMenu" id="IDG_VS_WNDO_OTRWNDWS1"/>* ).
 
 Elementy do naszego okna są grupowane w  *paczkę* , która zawiera niezbędne klasy odpowiadające za inicjalizację i ustawienie wszelakich opcji. Na tym etapie stworzone przez Visual Studio pliki wystarczą nam w zupełności. Przejdźmy jednak do pliku  *TimerToolWindowControl.xaml* , który jest zwykłym widokiem xaml.
 
@@ -116,9 +116,9 @@ Kod nie będzie również specjalnie wymyślny, tak aby był jak najprostszy.  *
         uint seconds = 0;
         uint maxSeconds = 1500;
 
-        /// &lt;summary&gt;
-        /// Initializes a new instance of the &lt;see cref=&quot;TimerToolWindowControl&quot;/&gt; class.
-        /// &lt;/summary&gt;
+        /// <summary>
+        /// Initializes a new instance of the <see cref="TimerToolWindowControl"/> class.
+        /// </summary>
         public TimerToolWindowControl()
         {
             this.InitializeComponent();
@@ -132,7 +132,7 @@ Kod nie będzie również specjalnie wymyślny, tak aby był jak najprostszy.  *
 
         private void DisTimer_Tick(object sender, System.EventArgs e)
         {
-            if (seconds &lt;= 0)
+            if (seconds <= 0)
             {
                 disTimer.Stop();
                 BackgroundColor = Brushes.Red;
@@ -165,7 +165,7 @@ Kod nie będzie również specjalnie wymyślny, tak aby był jak najprostszy.  *
 
         private void SetTimerText()
         {
-            SecondsText = ((seconds - (seconds % 60)) / 60).ToString(&quot;D2&quot;) + &quot; : &quot; + (seconds % 60).ToString(&quot;D2&quot;);
+            SecondsText = ((seconds - (seconds % 60)) / 60).ToString("D2") + " : " + (seconds % 60).ToString("D2");
         }
 
 ```

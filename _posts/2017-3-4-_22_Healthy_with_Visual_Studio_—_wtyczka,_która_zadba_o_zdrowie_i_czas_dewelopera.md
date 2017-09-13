@@ -3,7 +3,7 @@ layout:     post
 title:      Healthy with Visual Studio — wtyczka, która zadba o zdrowie i czas dewelopera
 date:       2017-03-04 19:35:00
 summary:    Kolejny wpis związany z konkursem Daj Się Poznać 2017. Dzisiejszym tematem będzie ogólny zarys projektu, z jakim będę startował w tej edycji.W tym roku postanowiłem skupić się na zapoznaniu się z odnogą technologii .NET, która nie jest bardzo eksploatowana we wpisach blogowych. Mowa jest o tworzeniu...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -41,7 +41,7 @@ Nasza praca przy komputerze jest dla wielu z nas przyjemna i satysfakcjonująca.
 
 
 
-Z tego też powodu, 6 lat temu (!!), stworzyłem krótką [serię wpisów](https://www.dobreprogramy.pl/djfoxer/Zdrowa-praca-przy-komputerze,s309.html) odnośnie zdrowej pracy przy komputerze. Zachęcam do przejrzenia tych tekstów. Znajdziemy w nich zarówno aplikacje do wymuszania przerw i ćwiczeń, program do monitorowania jasności obrazu monitora, jak i opis Powerballa, jako gadżetu do walki z zespołem cieśni nadgarstka. Do dziś dzień nie wyobrażam sobie pracy bez f.luxa i Workrave&#39;a. 
+Z tego też powodu, 6 lat temu (!!), stworzyłem krótką [serię wpisów](https://www.dobreprogramy.pl/djfoxer/Zdrowa-praca-przy-komputerze,s309.html) odnośnie zdrowej pracy przy komputerze. Zachęcam do przejrzenia tych tekstów. Znajdziemy w nich zarówno aplikacje do wymuszania przerw i ćwiczeń, program do monitorowania jasności obrazu monitora, jak i opis Powerballa, jako gadżetu do walki z zespołem cieśni nadgarstka. Do dziś dzień nie wyobrażam sobie pracy bez f.luxa i Workrave'a. 
 
 Ostatnio znajomy, startujący również w konkursie - [duszekmestre](https://duszekmestre.github.io/), podesłał mi ciekawy system do zarządzani czasem - Pomodoro Technique. Prosty zestaw czynności wspomagający wydaną i zdrową pracę, opierający się na 25 minutowej, intensywnej pracy z wyznaczonymi  przerwami. Zestawienie tych wszystkich doświadczeń i wiedzy, było impulsem do...
 

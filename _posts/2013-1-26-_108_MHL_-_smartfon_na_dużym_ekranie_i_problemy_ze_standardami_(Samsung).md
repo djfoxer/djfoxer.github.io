@@ -3,7 +3,7 @@ layout:     post
 title:      MHL - smartfon na dużym ekranie i problemy ze standardami (Samsung)
 date:       2013-01-26 00:29:00
 summary:    MHL to w miarę nowy standard przesyłania dźwięku i obrazu. Wystarczy mieć urządzenie wspierające standard MHL i odpowiedni adapter. Okazuje się jednak, iż nie jest tak zawsze prosto jak mogło by się wydawać. Najważniejsze jednak, że efekt końcowy jest świetny.  Zapraszam do lektury.MHL - standardMHL...
-categories: sprzęt porady urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -80,7 +80,7 @@ Ową przejściówkę podłączmy między adapterem MHL, a urządzeniem mobilnym 
 
 
 
-Do testów otrzymałem [UE46ES8000S](http://www.samsung.com/pl/consumer/tv-audio-video/televisions/led/UE46ES8000SXXH), opisany już wcześniej na blogu ([Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki](http://www.dobreprogramy.pl/djfoxer/Samsung-Smart-TV-seria--domowe-centrum-rozrywki,38262.html)). Zakup adaptera za 120zł wydawał się niezbyt dobrym pomysłem. Dzięki podpowiedzi mordzia ([Made in China](http://www.dobreprogramy.pl/mordzio/Made-in-China,38447.html)) kupiłem adapter i przejściówkę za ok $7 z przesyłką. 
+Do testów otrzymałem [UE46ES8000S](http://www.samsung.com/pl/consumer/tv-audio-video/televisions/led/UE46ES8000SXXH), opisany już wcześniej na blogu ([Samsung Smart TV seria 8. 46" - domowe centrum rozrywki](http://www.dobreprogramy.pl/djfoxer/Samsung-Smart-TV-seria--domowe-centrum-rozrywki,38262.html)). Zakup adaptera za 120zł wydawał się niezbyt dobrym pomysłem. Dzięki podpowiedzi mordzia ([Made in China](http://www.dobreprogramy.pl/mordzio/Made-in-China,38447.html)) kupiłem adapter i przejściówkę za ok $7 z przesyłką. 
 
 
 
@@ -110,7 +110,7 @@ Oto kilka screenów z zabawy z dużym ekranem.
 
 
 
-Obraz ze smartfona na 46 calowym ekranie prezentują się świetnie. Grafika w rozdzielczości 1080p daje radę. Przeglądanie stron na dużym telewizorze jest niesamowicie wygodne, a  odczucia są rewelacyjnie. Pierwsze co powiedziałem jak zobaczyłem tapetę Note2 na 46 calach było:  *WOW*  :) Następnie szybko uruchomiłem, jedną z ładniejszych gier 3D na Androida czyli [DEAD TRIGGER](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger&amp;hl=pl). 
+Obraz ze smartfona na 46 calowym ekranie prezentują się świetnie. Grafika w rozdzielczości 1080p daje radę. Przeglądanie stron na dużym telewizorze jest niesamowicie wygodne, a  odczucia są rewelacyjnie. Pierwsze co powiedziałem jak zobaczyłem tapetę Note2 na 46 calach było:  *WOW*  :) Następnie szybko uruchomiłem, jedną z ładniejszych gier 3D na Androida czyli [DEAD TRIGGER](https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger&hl=pl). 
 
 
 
@@ -127,7 +127,7 @@ Obraz miał już lekko zauważalne piksele, niewidoczne na małym ekraniku Note2
 
 Smartfon podłączony przez MHL do telewizora musi wyświetlać obraz na dwóch ekranach. Obliczeń jest zatem więcej i miejscami to czuć. Wyraźnie widać spowolnienia w bardziej wymagających grach. Wykonałem kilka małych testów, by sprawdzić jakie są to opóźnienia.
 
-Do tego celu użyłem [AnTuTu Benchmark](https://play.google.com/store/apps/details?id=com.antutu.ABenchMark&amp;hl=pl). Oto wyniki
+Do tego celu użyłem [AnTuTu Benchmark](https://play.google.com/store/apps/details?id=com.antutu.ABenchMark&hl=pl). Oto wyniki
 
 
   * pełen test
@@ -173,10 +173,10 @@ Podsumowanie będzie krótkie: zakup adaptera MHL jest wart przemyślenia. Cena 
 
 Na koniec najważniejsze, gdyż wiele osób o to pytało:
 <blockquote>
-<p>&quot; Czy TV musi wspierać MHL, aby móc odbierać sygnał ze smartfona (microUSB+MHL), podłączony pod TV przez HDMI?</p>
+<p>" Czy TV musi wspierać MHL, aby móc odbierać sygnał ze smartfona (microUSB+MHL), podłączony pod TV przez HDMI?</p>
 </blockquote>
 <blockquote>
-<p>- NIE! Wystarczy, że smartfon wspiera MHL.&quot;</p>
+<p>- NIE! Wystarczy, że smartfon wspiera MHL."</p>
 </blockquote>
 
 Aby na TV wyświetlać obraz ze smrtfona po MHL nie trzeba mieć TV ze znaczkiem MHL. Wystarczy wejście HDMI , należy pamiętać jednak, że wówczas pod adapter MHL koniecznie trzeba podpiąć zasilanie. Testy wykonałem na Note 2 z MHL podłączonym pod starszy monitor Samsunga [UE32EH5020W](http://www.samsung.com/pl/support/model/UE32EH5020WXXH) (bez znaczka MHL)

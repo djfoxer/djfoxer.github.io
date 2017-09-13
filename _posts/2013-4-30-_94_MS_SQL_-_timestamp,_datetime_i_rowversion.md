@@ -3,7 +3,7 @@ layout:     post
 title:      MS SQL - timestamp, datetime i rowversion
 date:       2013-04-30 17:56:00
 summary:    Tworząc bazę często natykamy się na konieczność stworzenia mechanizmu, który będzie pozwalał na wykrywanie zmian w poszczególnych wierszach tabeli. Różne są podejścia do tego zagadnienia. Na przykładzie bazy MS SQL można rozwiązać to na kilka sposobów. Do tego celu idealnie nada się change tracking ...
-categories: porady programowanie
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 

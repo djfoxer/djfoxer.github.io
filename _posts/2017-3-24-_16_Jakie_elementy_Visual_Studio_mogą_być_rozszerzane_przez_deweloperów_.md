@@ -3,7 +3,7 @@ layout:     post
 title:      Jakie elementy Visual Studio mogą być rozszerzane przez deweloperów?
 date:       2017-03-24 17:36:00
 summary:    IDE od Microsoftu pozwala na rozszerzenie możliwości środowiska programistycznego za pomocą wtyczek. Do jakich elementów Visual Studio można tworzyć wtyczki? W skrócie można napisać, że niemalże każda część składowa IDE jest podatna na rozbudowanie. Przyjrzyjmy się jednak szczegółom.   Menu i pasek ...
-categories: windows oprogramowanie programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -54,7 +54,7 @@ Narzędzia do Visual Studio umożliwiają stworzenie własnego szablonu projektu
 ### Opcje i ustawienia użytkownika
 
 
-Tworząc własną wtyczkę musimy czasem dać użytkownikowi możliwość konfiguracji pluginu. SDK do Visual Studio oferuje możliwość dodania opcji do głównego okienka z ustawieniami IDE. Dodatkowo rozszerzymy ilość zapisywanych danych w momencie importu/eksportu preferencji użytkownika (Tools-&gt;Import/Export Settings).
+Tworząc własną wtyczkę musimy czasem dać użytkownikowi możliwość konfiguracji pluginu. SDK do Visual Studio oferuje możliwość dodania opcji do głównego okienka z ustawieniami IDE. Dodatkowo rozszerzymy ilość zapisywanych danych w momencie importu/eksportu preferencji użytkownika (Tools->Import/Export Settings).
 
 
 
@@ -113,7 +113,7 @@ Obecnie edytor może być rozszerzony w następujących elementach:
   * obsługa eventów myszki
 
 
-  * obsługa drag&amp;drop
+  * obsługa drag&drop
 
 
   * własne opcje w edytorze

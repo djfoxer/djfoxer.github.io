@@ -3,7 +3,7 @@ layout:     post
 title:      LG ucieka od Windows Phone
 date:       2012-05-01 14:52:00
 summary:    LG Electronics ogłosiło, iż ze względu na słabą sprzedaż urządzeń z Windows Phone, rezygnuje z dalszego tworzenia smartfonów opartych na tym systemie. Koreański producent postanowił skupić się na Androidzie. W najbliższej przyszłości nowe urządzenia od LG będą dostępne jedynie z systemem od Googla.W...
-categories: urządzenia mobilne inne
+categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -64,14 +64,14 @@ Na koniec przedstawię kilka statystyk zebranych przez dwie aplikacje, dość po
 
 
 
-### ...i&#39;m a WP7!
+### ...i'm a WP7!
 
 
-Czyli aplikacja społecznościowa dla użytkowników WP. Posiada lokalizowanie osób zarejestrowanych w [...i&#39;m a WP7!](http://www.windowsphone.com/pl-PL/apps/16b4f331-e05b-e011-854c-00237de2db9e), statystyki, wskazówki, artykuły itp. 
+Czyli aplikacja społecznościowa dla użytkowników WP. Posiada lokalizowanie osób zarejestrowanych w [...i'm a WP7!](http://www.windowsphone.com/pl-PL/apps/16b4f331-e05b-e011-854c-00237de2db9e), statystyki, wskazówki, artykuły itp. 
 
 
 
-Wg statystyk zebranych przez  *...i&#39;m a WP7!* , wśród użytkowników ich aplikacji, 8% posiadało urządzenia od LG.
+Wg statystyk zebranych przez  *...i'm a WP7!* , wśród użytkowników ich aplikacji, 8% posiadało urządzenia od LG.
 
 
 
@@ -118,4 +118,4 @@ Zobaczymy, jak LG postąpi z obecnymi klientami smartfonów z WP. Powrót nie b�
 ## [Update 1]
 
 
-Podobno porzucenie Windows Phone, nie jest jednoznaczne. LG chwilowo che skupić się na Androidzie, ale o WP nie zapomni. Czy uda się tak &quot;odstawić&quot; platformę na bok, zahibernować? Zobaczymy, oby nie obudzili się z ręką w....
+Podobno porzucenie Windows Phone, nie jest jednoznaczne. LG chwilowo che skupić się na Androidzie, ale o WP nie zapomni. Czy uda się tak "odstawić" platformę na bok, zahibernować? Zobaczymy, oby nie obudzili się z ręką w....

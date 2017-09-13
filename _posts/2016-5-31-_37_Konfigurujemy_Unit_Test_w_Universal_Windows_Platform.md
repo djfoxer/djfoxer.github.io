@@ -3,7 +3,7 @@ layout:     post
 title:      Konfigurujemy Unit Test w Universal Windows Platform
 date:       2016-05-31 23:49:00
 summary:    Do każdego projektu w Universal Windows Platform możemy dodać test jednostkowy, niezbędny do dewelopingu nowych rzeczy, czy naprawy błędów.Taki test zapewne w wielu przypadkach będzie wymagał dodania konfiguracji, aby nie hardcodować na sztywno parametrów niezbędnych do działania (np. danych do logo...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -25,19 +25,19 @@ Plik z parametrami  *klucz - wartość*  jest następującym w formacie XML :
 
 ```xml
 
-&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
-&lt;RunSettings&gt;
-  &lt;!-- Parameters used by tests at runtime --&gt;
-  &lt;TestRunParameters&gt;
-    &lt;Parameter name=&quot;dpTestLogin&quot; value=&quot;LOGIN&quot; /&gt;
-    &lt;Parameter name=&quot;dpTestPassword&quot; value=&quot;HASŁO&quot; /&gt;
-  &lt;/TestRunParameters&gt;
-&lt;/RunSettings&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Parameters used by tests at runtime -->
+  <TestRunParameters>
+    <Parameter name="dpTestLogin" value="LOGIN" />
+    <Parameter name="dpTestPassword" value="HASŁO" />
+  </TestRunParameters>
+</RunSettings>
 
 ```
 
 
-Łączymy go z testami w naszej solucji za pomocą menu w Visual Studio w  *Test-&gt;Test Settings i Select Test Settings File.*  Umieściłem go w projekcie  *djfoxer.dp.notification.Test*  jako plik  *test.runsettings* , z wyłączeniem z Gita.
+Łączymy go z testami w naszej solucji za pomocą menu w Visual Studio w  *Test->Test Settings i Select Test Settings File.*  Umieściłem go w projekcie  *djfoxer.dp.notification.Test*  jako plik  *test.runsettings* , z wyłączeniem z Gita.
 
 
 
@@ -59,9 +59,7 @@ Teraz w kodzie odwołujemy się do danych w XML za pomocą zmiennej  *Properties
 ```csharp
 
 
- 
-```
-
+ [TestClass]
     public class UnitTest1
     {
         private static TestContext _testContext;
@@ -77,13 +75,13 @@ Teraz w kodzie odwołujemy się do danych w XML za pomocą zmiennej  *Properties
         [TestMethod]
         private voidLogin()
         {
-            Tuple&lt;bool, DateTime?&gt; success = null;
+            Tuple<bool, DateTime?> success = null;
 
-            Task.Run(async () =&gt;
+            Task.Run(async () =>
             {
                 success = await logic.SetSessionCookie(
-                    _testContext.Properties[&quot;dpTestLogin&quot;].ToString(),
-                    _testContext.Properties[&quot;dpTestPassword&quot;].ToString()
+                    _testContext.Properties["dpTestLogin"].ToString(),
+                    _testContext.Properties["dpTestPassword"].ToString()
                     );
             }).GetAwaiter().GetResult();
 
@@ -92,7 +90,9 @@ Teraz w kodzie odwołujemy się do danych w XML za pomocą zmiennej  *Properties
         }
 
     }
-[/code]
+
+```
+
 
 Elegancko i bez zbędnych poufnych danych w kodzie. Kod łatwy do dowolnej parametryzacji, bez zmian w kodzie, z zachowaniem bezpieczeństwa. Oczywiście pamiętajmy, aby pliki XML z danymi dodać do ignorowanych w konfiguracji repozytorium.
 

@@ -3,7 +3,7 @@ layout:     post
 title:      IndieGameStand - Humble Indie Bundle co 96 godzin!
 date:       2012-09-26 18:41:00
 summary:    The Humble Indie Bundle w skrócie - płacimy dowolną kwotę za paczkę gier, a kasa idzie na szczytne cele. Wszystko pięknie, szkoda jednak, że niezbyt często (maksymalnie raz na miesiąc). Podobnie musieli myśle twórcy inicjatywy IndieGameStand, gdzie nowe gry indie, za dowolne pieniądze, pojawiają się...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -30,13 +30,13 @@ The Humble Indie Bundle w skrócie - płacimy dowolną kwotę za paczkę gier, a
 
 
 
-Tak to nie żart. W [IndieGameStand](https://indiegamestand.com/) w danym momencie możemy kupić tylko jedną grę. Jednakże, kolejne mają pojawiać się co 98 godzin. Zatem w każdej chwili będzie jakaś pozycją, w której można kupić grę za dowolną kwotę. W przeciwieństwie do &quot;większego brata&quot;, nie decydujemy sami dla kogo idą pieniądze. Twórcy akcji/developerzy sami przekazują 10% na wybraną wcześniej organizację charytatywną. Gry nie posiadają zabezpieczeń DRM i w każdej chwili, można każdą zakupioną pozycję pobrać z portalu.
+Tak to nie żart. W [IndieGameStand](https://indiegamestand.com/) w danym momencie możemy kupić tylko jedną grę. Jednakże, kolejne mają pojawiać się co 98 godzin. Zatem w każdej chwili będzie jakaś pozycją, w której można kupić grę za dowolną kwotę. W przeciwieństwie do "większego brata", nie decydujemy sami dla kogo idą pieniądze. Twórcy akcji/developerzy sami przekazują 10% na wybraną wcześniej organizację charytatywną. Gry nie posiadają zabezpieczeń DRM i w każdej chwili, można każdą zakupioną pozycję pobrać z portalu.
 
 
 
 
 
-## IndieGameStand - Humble Indie Bundle&#39;s killer?
+## IndieGameStand - Humble Indie Bundle's killer?
 
 
 
@@ -48,13 +48,13 @@ Tak to nie żart. W [IndieGameStand](https://indiegamestand.com/) w danym momenc
 
 
 
-Płacimy oczywiście w standardowy sposób, czli za pomocą: PayPal, Google Checkout lub Amazon Payments. Co ciekawe, jeśli jesteśmy &quot;dusigroszem&quot; (jak to określają twórcy:D) i zapłacimy poniżej 1 dolara, otrzymamy grę, ale już bez kluczy do Steam/Desury (jeśli takowe są w danej pozycji). 
+Płacimy oczywiście w standardowy sposób, czli za pomocą: PayPal, Google Checkout lub Amazon Payments. Co ciekawe, jeśli jesteśmy "dusigroszem" (jak to określają twórcy:D) i zapłacimy poniżej 1 dolara, otrzymamy grę, ale już bez kluczy do Steam/Desury (jeśli takowe są w danej pozycji). 
 
 To nie koniec nowości. Możliwość kupowania pojedynczych produkcji, nie zmusza nas, jak ma to miejsce w The Humble Indie Bundle, do kupowania kilka razy tych samych gier. Interesująca jest również możliwość kupowania gier, których przegapiliśmy. Otóż za określoną kwotę, możemy kupić dwie wcześniejsze gry + jedną grę-niespodziankę. Sprytne. Cóż zatem dostajemy na inaugurację?
 
 
 
-## Pierwsze &quot;kozy&quot; za płoty - Escape Goat
+## Pierwsze "kozy" za płoty - Escape Goat
 
 
 

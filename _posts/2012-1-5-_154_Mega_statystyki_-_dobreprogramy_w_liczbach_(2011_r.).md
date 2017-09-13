@@ -3,7 +3,7 @@ layout:     post
 title:      Mega statystyki - dobreprogramy w liczbach (2011 r.)
 date:       2012-01-05 22:51:00
 summary:    Z okazji końca roku 2011, a także ze względu na moją pasję związaną ze statystką, postanowiłem zebrać dane o wpisach, jakie Redakcja dobrychprogramów zamieszczała na stronie głównej (zarówno newsy jak i felietony). Dodatkowo, ażeby uzupełnić dane o jeszcze ciekawsze informacje, z każdego wpisu wycią...
-categories: inne
+categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -83,9 +83,9 @@ Wykres poniżej przedstawia wpisy z podziałem na datę powstania (miesiąc). Do
 
 
  *Komentarz* 
-Najwięcej wpisów powstało w marcu oraz w sierpniu i wrześniu. Jednakże szczyt ilości komentarzy przypada na marzec. W pozostałych dwóch miesiącach odnotowano tylko chwilową tendencję wzrostową. Możliwe, że początek roku szkolnego i &quot;kampanii wrześniowej&quot; uniemożliwił niektórym dodawanie komentarzy ;) Z drugiej strony w marcu ilość wpisów nie była najwyższa, a mimo tego komentarzy była dużo więcej niż zawsze.
+Najwięcej wpisów powstało w marcu oraz w sierpniu i wrześniu. Jednakże szczyt ilości komentarzy przypada na marzec. W pozostałych dwóch miesiącach odnotowano tylko chwilową tendencję wzrostową. Możliwe, że początek roku szkolnego i "kampanii wrześniowej" uniemożliwił niektórym dodawanie komentarzy ;) Z drugiej strony w marcu ilość wpisów nie była najwyższa, a mimo tego komentarzy była dużo więcej niż zawsze.
 
-Widać także, zarówno w ilości wpisów jak i komentarzy do nich, jak sezon świąteczny w grudniu rozleniwia wszystkich, oraz jak rozpoczęcie roku mobilizuje &quot;do dalszej i systematycznej pracy&quot; ;) Zaś lipiec to tzw. sezon ogórkowy - wpisów jak na lekarstwo.
+Widać także, zarówno w ilości wpisów jak i komentarzy do nich, jak sezon świąteczny w grudniu rozleniwia wszystkich, oraz jak rozpoczęcie roku mobilizuje "do dalszej i systematycznej pracy" ;) Zaś lipiec to tzw. sezon ogórkowy - wpisów jak na lekarstwo.
 
 
 
@@ -123,7 +123,7 @@ Trzeci wykres odnosi się również do wpisów Redakcji (+ komentarze użytkowni
 
 
  *Komentarz* 
-Dane na wykresie prezentują kiedy najczęściej powstają wpisy w ciągu dnia. Godziny popołudniowe są najbardziej  atrakcyjne. Najwięcej w świat wychodzi newsów i ciekawostek. Są one najświeższe (z rana mogą być newsy z dnia poprzedniego, zaś wieczorem i w nocy wpis może zostać niezauważony przez użytkowników - patrz niżej &quot;kiedy najczęściej komentujemy wpisy&quot;).
+Dane na wykresie prezentują kiedy najczęściej powstają wpisy w ciągu dnia. Godziny popołudniowe są najbardziej  atrakcyjne. Najwięcej w świat wychodzi newsów i ciekawostek. Są one najświeższe (z rana mogą być newsy z dnia poprzedniego, zaś wieczorem i w nocy wpis może zostać niezauważony przez użytkowników - patrz niżej "kiedy najczęściej komentujemy wpisy").
 
 
 
@@ -182,7 +182,7 @@ Pierwszy wykres odnośnie komentarzy dodawanych przez użytkowników portalu. Po
 
 
  *Komentarz* 
-Bardzo ciekawy wykres uświadamia nas o tym, iż kumulacja wpisów obejmuje godziny południowe (najwięcej między 13.00 a 16.00). Może to świadczyć o tym, iż osobami dodającymi komentarze są ludzie młodzi (wówczas są już po szkole, na studiach jest &quot;okienko&quot; lub mają seminarium ;P ) Także osoby w pracy mające dostęp do komputera, w tych godzinach powoli przygotowują się do kończenia ciężkiej pracy. 
+Bardzo ciekawy wykres uświadamia nas o tym, iż kumulacja wpisów obejmuje godziny południowe (najwięcej między 13.00 a 16.00). Może to świadczyć o tym, iż osobami dodającymi komentarze są ludzie młodzi (wówczas są już po szkole, na studiach jest "okienko" lub mają seminarium ;P ) Także osoby w pracy mające dostęp do komputera, w tych godzinach powoli przygotowują się do kończenia ciężkiej pracy. 
 
 Jeśli mielibyśmy określać statystycznego użytkownika dobrychprogramów za pomocą tego wykresu, można zauważyć, iż śpi on około 8 godzin (od północy). Zaczyna zaglądać częściej tuż przed południem, aby skupić uwagę na portalu popołudniu. W godzinach wieczornych powoli stopuje dodawanie komentarzy. Warto zauważyć skok pomiędzy godzinami 22 a 24 oraz 24 a 01. To etap kiedy kończymy wizytę na portalu.
 
@@ -302,7 +302,7 @@ Ostatnie zebrane dane dotyczą Redaktorów, piszących wpisy na głównej stroni
 
 Prym wśród redaktorów wiedzie mmaja z 867 wpisami (37%!), tuż za nim Xyrcon z 602 wpisami na stronie głównej (26%), zaś trzecie miejsce przypadło Nicolassowi z okrągła liczba 239 komentarzy (11%). 
 
-Zapraszam do zapoznania się ze szczegółowymi statystykami (&quot;własnych komentarzy ogółem&quot; to liczba wszystkich komentarzy pod wpisami na stronie głównej, zaś Redakcja to wpisy sygnowane przez całą Redakcję). 
+Zapraszam do zapoznania się ze szczegółowymi statystykami ("własnych komentarzy ogółem" to liczba wszystkich komentarzy pod wpisami na stronie głównej, zaś Redakcja to wpisy sygnowane przez całą Redakcję). 
 
 
 

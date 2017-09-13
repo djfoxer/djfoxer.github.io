@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery  - miłość od pierwszego wejrzenia!
 date:       2011-04-11 18:42:00
 summary:    .......##..#######..##.....##.########.########..##....##.......##.##.....##.##.....##.##.......##.....##..##..##........##.##.....##.##.....##.##.......##.....##...####.........##.##.....##.##.....##.######...########.....##....##....##.##..##.##.##.....##.##.......##...##......##....##.....
-categories: programowanie
+categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -23,7 +23,7 @@ Chciałbym podzielić sie z Wami, pięknem jQuery [1] (dalej jq). Kilka miesięc
 
 Czym jest jq? Można powiedzieć, iż jest to biblioteka do Java Script (dalej js), która, pomaga w obsłudze js i drzew DOM. Jednakże robi to w tak finezyjny sposób, iż po pewnym czasie korzystania z niej, dochodzimy  do wniosku, iż życie bez jq było szare i nudne :)
 
-Świetnie oddaje to motto jq: &quot;write less, do more&quot;. Niby można to samo zrobić w czystym js (jasne, że można, jq to js:P), ale ilość i zamotanie kodu w czystym js byłoby niesamowite. Po jakiś większych wygibasach z jq, dochodzę do wniosku, iż pisanie kodu w czystym js bez jq mija sie z celem. Tracimy nie tylko czas, a co ważne w tworzeniu czegos &quot;pro&quot;, kasę! 
+Świetnie oddaje to motto jq: "write less, do more". Niby można to samo zrobić w czystym js (jasne, że można, jq to js:P), ale ilość i zamotanie kodu w czystym js byłoby niesamowite. Po jakiś większych wygibasach z jq, dochodzę do wniosku, iż pisanie kodu w czystym js bez jq mija sie z celem. Tracimy nie tylko czas, a co ważne w tworzeniu czegos "pro", kasę! 
 
 Potęgę jq odkrył juz nawet M$, zamieszczając jq, jako domyślna bibliotekę do MVC. W sumie MVC to po części jq :P I taka o to para MVC + jq staje sie poezja pisania stron www. Wystarczy porównać nieszczęsne, brudne i brzydkie ASP. Ah ok, sorki, najłatwiej to nawymyślać na ASP, przyznaje sie :P. Ale jak tu o tym nie wspomnieć przy MVC :P
 Oczywiście jq działa z każdym frameworkiem, php, jsf, python, co sobie zażyczycie :) Co jest ważne, jest on zgodny z rożnymi silnikami do renderowania www. Wiec nie trzeba robić czasem obejść dla rożnych wersji np. IE. Ale to nie powinno nikogo dziwić. 
@@ -31,82 +31,82 @@ Oczywiście jq działa z każdym frameworkiem, php, jsf, python, co sobie zażyc
 jQuery  - na szybkiego
 
 Nauka jq jest szybka i bezproblemowa. W sieci jest bardzo dużo tutoriali do jq. Od czego należało by zacząć naukę. Na pewno od wstępu do czystego js :) Załóżmy, że już macie to za sobą :P Co jest najważniejsze w jq? Selektory! Czyli składania do jq, która zgarnia elementy html i pozwala operować na nich. Selektory mogą zaczynać się od:
- - &quot;.nazwa&quot; - co oznacza, iż szukamy wszystkich elementów które mają klasę z nazwą class=&quot;nazwa&quot; 
-- &quot;#nazwa&quot; - w tym przypadku szukamy elementu o id=&quot;nazwa&quot;.
-- &quot;nazwa&quot; - wówczas szukamy elementów typu nazwa
+ - ".nazwa" - co oznacza, iż szukamy wszystkich elementów które mają klasę z nazwą class="nazwa" 
+- "#nazwa" - w tym przypadku szukamy elementu o id="nazwa".
+- "nazwa" - wówczas szukamy elementów typu nazwa
 
 html do testów:
 
 
 ```html
-&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;
-  &lt;head&gt;
-    &lt;title&gt;X&lt;/title&gt;
-    &lt;script src=&quot;http://code.jquery.com/jquery-1.5.2.min.js&quot;
-    type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>X</title>
+    <script src="http://code.jquery.com/jquery-1.5.2.min.js"
+    type="text/javascript"></script>
+  </head>
+  <body>
+    <script type="text/javascript">
 	$(document).ready(function () {
-		alert($(&quot;#tabela_1 option:selected
+		alert($("#tabela_1 option:selected[value='czerowny']").size());
+		alert($("select[title^='ok']").size());
+		alert($("#last ~ tr").hide());
+	});</script>
+    <table id="tabela_1">
+		<tr>
+			<td>
+				<select title="ok_1">
+					<option value="czerowny" selected="selected">czerowny</option>
+					<option value="czarny">czarny</option>
+				</select>
+			</td>
+		</tr>
+		<tr id="last">
+			<td>
+				<select  title="ok_2">
+					<option value="czerowny">czerowny</option>
+					<option value="czarny" selected="selected">czarny</option>
+				</select>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<select title="x_3">
+					<option value="czerowny" selected="selected">czerowny</option>
+					<option value="czarny">czarny</option>
+				</select>
+			</td>
+		</tr>
+    </table>
+  </body>
+</html>
 ```
-&quot;).size());
-		alert($(&quot;select[title^=&#39;ok&#39;]&quot;).size());
-		alert($(&quot;#last ~ tr&quot;).hide());
-	});&lt;/script&gt;
-    &lt;table id=&quot;tabela_1&quot;&gt;
-		&lt;tr&gt;
-			&lt;td&gt;
-				&lt;select title=&quot;ok_1&quot;&gt;
-					&lt;option value=&quot;czerowny&quot; selected=&quot;selected&quot;&gt;czerowny&lt;/option&gt;
-					&lt;option value=&quot;czarny&quot;&gt;czarny&lt;/option&gt;
-				&lt;/select&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr id=&quot;last&quot;&gt;
-			&lt;td&gt;
-				&lt;select  title=&quot;ok_2&quot;&gt;
-					&lt;option value=&quot;czerowny&quot;&gt;czerowny&lt;/option&gt;
-					&lt;option value=&quot;czarny&quot; selected=&quot;selected&quot;&gt;czarny&lt;/option&gt;
-				&lt;/select&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td&gt;
-				&lt;select title=&quot;x_3&quot;&gt;
-					&lt;option value=&quot;czerowny&quot; selected=&quot;selected&quot;&gt;czerowny&lt;/option&gt;
-					&lt;option value=&quot;czarny&quot;&gt;czarny&lt;/option&gt;
-				&lt;/select&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-    &lt;/table&gt;
-  &lt;/body&gt;
-&lt;/html&gt;[/code]
+
 
 Co ciekawe selektory mogą być bardzo rozbudowane. 
 I tak, np. jeśli:
--szukamy w tabeli id=&quot;tabela_1&quot; selektora, który ma zaznaczona opcje &quot;czerwony&quot; nasz selektor w jq wygląda następująco (size() zwraca ilość elementów wybranych przez selektora):
+-szukamy w tabeli id="tabela_1" selektora, który ma zaznaczona opcje "czerwony" nasz selektor w jq wygląda następująco (size() zwraca ilość elementów wybranych przez selektora):
 
 ```js
-$(&quot;#tabela_1 option:selected
+$("#tabela_1 option:selected[value='czerwony']").size()
 ```
-&quot;).size()[/code]
+
 - jeśli zaś chcemy pobrać wszystkie selektory z id title rozpoczynającym sie od ok:
 
 ```js
-$(&quot;select
+$("select[title^='ok']").size()
 ```
-&quot;).size()[/code]
+
 -ale tylko co drugi wynik (od indeksu 0):
 
 ```js
-$(&quot;select
+$("select[title^='ok']:even").size()
 ```
-:even&quot;).size()[/code]
-- i jeszcze chcemy ukryć następne elementy tr po elemencie tr o id=&quot;last&quot;:
+
+- i jeszcze chcemy ukryć następne elementy tr po elemencie tr o id="last":
 
 ```js
-$(&quot;#last ~ tr&quot;).hide()
+$("#last ~ tr").hide()
 ```
 
 
@@ -120,8 +120,8 @@ Jeśli już wspomniano o dynamicznym wrzucaniu htmla. Bardzo łatwo możemy podc
 
 
 ```js
-$(&#39;#button&#39;).click(function() {
-  alert(&quot;click!&quot;);
+$('#button').click(function() {
+  alert("click!");
 });
 ```
 
@@ -130,16 +130,16 @@ Gdyby ktoś chciał pobrać dane postem ze np. webservsu:
 
 ```js
 $.ajax({
-        type: &quot;POST&quot;,
-        url: &quot;Service/DataService.asmx/GetData&quot;,
+        type: "POST",
+        url: "Service/DataService.asmx/GetData",
         data: { Id: 1 },
-        contentType: &quot;application/json; charset=utf-8&quot;,
-        dataType: &quot;json&quot;,
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
         success: function (msg) {
             alert(msg.value);
         },
         error: function (msg) {
-		alert(&quot;ups&quot;);
+		alert("ups");
         }
     });
 ```

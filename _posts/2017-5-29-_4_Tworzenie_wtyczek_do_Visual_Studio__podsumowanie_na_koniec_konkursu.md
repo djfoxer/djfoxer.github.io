@@ -3,7 +3,7 @@ layout:     post
 title:      Tworzenie wtyczek do Visual Studio: podsumowanie na koniec konkursu
 date:       2017-05-29 19:36:00
 summary:    Właśnie stuknął 20. wpis w konkursie Daj Się Poznać 2017, zatem przyszedł czas na podsumowanie prac na koniec trwania trzymiesięcznych zmagań...Statystycznie W tym czasie wpisy miały sumarycznie prawie 42 tysiące wyświetleń. Najbardziej obleganym wpisem był ten o hakowaniu Visual Studio, czyli o dob...
-categories: windows porady programowanie
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -62,7 +62,7 @@ Pełne źródła pluginu znajdują się na [GitHubie](https://github.com/djfoxer
 ### Projekt - Bad Word Detector
 
 
-Tuż przed zamknięciem konkursu wpadł mi do głowy pomysł na jeszcze jeden dodatek do IDE. Otóż wiele mówi się ostatnio o wpadkach programistów, którzy zostawili w kodzie wszelkiego rodzaju komentarze ze słowami, które nie do końca powinny znaleźć się w wersji finalnej dla klienta. Nie oszukujmy się, każdy z nas czasem w ramach testów napisze komentarz czy zmienną &quot;dupa&quot; lub &quot;fuck&quot;, ale zgodzimy się, że na produkcji takie rzeczy nie powinny mieć miejsca. W tym momencie do akcji wkracza dodatek Bad Word Detector. Plugin, który w otwartym pliku w edytorze Visual Studio zaznaczy wulgarne słowa.
+Tuż przed zamknięciem konkursu wpadł mi do głowy pomysł na jeszcze jeden dodatek do IDE. Otóż wiele mówi się ostatnio o wpadkach programistów, którzy zostawili w kodzie wszelkiego rodzaju komentarze ze słowami, które nie do końca powinny znaleźć się w wersji finalnej dla klienta. Nie oszukujmy się, każdy z nas czasem w ramach testów napisze komentarz czy zmienną "dupa" lub "fuck", ale zgodzimy się, że na produkcji takie rzeczy nie powinny mieć miejsca. W tym momencie do akcji wkracza dodatek Bad Word Detector. Plugin, który w otwartym pliku w edytorze Visual Studio zaznaczy wulgarne słowa.
 
 Obecnie extension wykrywa słowa w języku angielskim, ale niedługo dodam listę wulgaryzmów w naszej ojczystej mowie, a także możliwość sprawdzenia wszystkich plików w solucji za pomocą jednego kliknięcia.
 

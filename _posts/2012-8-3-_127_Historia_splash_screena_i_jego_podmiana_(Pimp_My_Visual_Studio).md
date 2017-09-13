@@ -2,13 +2,13 @@
 layout:     post
 title:      Historia splash screena i jego podmiana (Pimp My Visual Studio)
 date:       2012-08-03 08:43:00
-summary:    Sezon ogórkowy w pełni. Ostatnio było o spolszczeniu do Visuala, a zatem czas na kolejny odcinek z cyklu &quot;Pimp My Visual Studio&quot;. W tym wpisie poruszymy temat splash screenu w Visual Studio.Karta z kalendarzaVisual Studio 97Każda z wersji pakietu Visual Studio miała własny splash screen. W...
-categories: windows porady programowanie
+summary:    Sezon ogórkowy w pełni. Ostatnio było o spolszczeniu do Visuala, a zatem czas na kolejny odcinek z cyklu "Pimp My Visual Studio". W tym wpisie poruszymy temat splash screenu w Visual Studio.Karta z kalendarzaVisual Studio 97Każda z wersji pakietu Visual Studio miała własny splash screen. W wersji 97...
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
 
-Sezon ogórkowy w pełni. Ostatnio było o spolszczeniu do Visuala, a zatem czas na kolejny odcinek z cyklu &quot;Pimp My Visual Studio&quot;. W tym wpisie poruszymy temat splash screenu w Visual Studio.
+Sezon ogórkowy w pełni. Ostatnio było o spolszczeniu do Visuala, a zatem czas na kolejny odcinek z cyklu "Pimp My Visual Studio". W tym wpisie poruszymy temat splash screenu w Visual Studio.
 
 
 
@@ -55,7 +55,7 @@ Kolejne odsłona IDE od Microsoftu zadebiutowała roku później i przeszła kol
 
 
  *Visual Studio .NET 2002* 
-Największy skok w historii IDE. Platforma została ujednolicona i oparta na nowej platformie .NET Framework. Możliwość pisania pod systemy Linux i MacOS (Mono i inne). IDE rozszerzyło się o możliwość tworzenia aplikacji webowych i na urządzenia przenośne. Do nazwy dołączono przyrostek &quot;.NET&quot;. Nowe IDE to nowe logo i splash screen, które w lekko zmienionej formie trwało, aż do wersji 2008.
+Największy skok w historii IDE. Platforma została ujednolicona i oparta na nowej platformie .NET Framework. Możliwość pisania pod systemy Linux i MacOS (Mono i inne). IDE rozszerzyło się o możliwość tworzenia aplikacji webowych i na urządzenia przenośne. Do nazwy dołączono przyrostek ".NET". Nowe IDE to nowe logo i splash screen, które w lekko zmienionej formie trwało, aż do wersji 2008.
 
 
 
@@ -68,7 +68,7 @@ Największy skok w historii IDE. Platforma została ujednolicona i oparta na now
 Przejście na .NET 1.1 oraz jednolite środowisko do tworzenia aplikacji mobilnych.
 
  *Visual Studio 2005* 
-Nowa wersja wspierała tworzenia aplikacji na .NET 2.0, kompilację pod kod 64bitowy, duże ułatwienia w pisaniu w samym IDE. Usunięty przyrostek .&quot;NET&quot; z nazwy. Nowy splash screen przeszedł lifting i prezentuje się bardziej nowocześniej od swojego poprzednika. Wraz z nową wersją zaprezentowano darmową edycję &quot;Express&quot;.
+Nowa wersja wspierała tworzenia aplikacji na .NET 2.0, kompilację pod kod 64bitowy, duże ułatwienia w pisaniu w samym IDE. Usunięty przyrostek ."NET" z nazwy. Nowy splash screen przeszedł lifting i prezentuje się bardziej nowocześniej od swojego poprzednika. Wraz z nową wersją zaprezentowano darmową edycję "Express".
 
 
 
@@ -99,7 +99,7 @@ Nowa edycja przyniosła wiele zmian jeśli chodzi o interfejs. Postarano się o 
 
 
  *Visual Studio 2012* 
-Kolejna edycja, jeszcze finalnie nie zaprezentowanej wersji, 2012 od strony interfejsu została dostosowana do stylu Metro. Nowe GUI jest jeszcze bardziej &quot;czyste&quot; i przezroczyste w codziennej pracy. Nowością jest pisanie aplikacji Metro, które tworzyć można w wielu językach. Splash screen jest prostszy (chociaż może się to zmienić, patrząc na wersję wcześniejszą 2011), wręcz ascetyczny. Logo przeszło jeszcze większą przemianę niż w edycji 2010. Obecnie dostępna wersja jest kanciasta, jedno kolorowa i jak cały pakiet, związana jest stylistycznie z interfejsem Metro.
+Kolejna edycja, jeszcze finalnie nie zaprezentowanej wersji, 2012 od strony interfejsu została dostosowana do stylu Metro. Nowe GUI jest jeszcze bardziej "czyste" i przezroczyste w codziennej pracy. Nowością jest pisanie aplikacji Metro, które tworzyć można w wielu językach. Splash screen jest prostszy (chociaż może się to zmienić, patrząc na wersję wcześniejszą 2011), wręcz ascetyczny. Logo przeszło jeszcze większą przemianę niż w edycji 2010. Obecnie dostępna wersja jest kanciasta, jedno kolorowa i jak cały pakiet, związana jest stylistycznie z interfejsem Metro.
 
 
 
@@ -146,7 +146,7 @@ Kilka przykładów, dla każdego coś miłego:
 
  *
 
-### Dostępne &quot;odcinki&quot; Pimp My Visual Studio:
+### Dostępne "odcinki" Pimp My Visual Studio:
 
 * 
 

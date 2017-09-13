@@ -3,7 +3,7 @@ layout:     post
 title:      dobreprogramy.pl w liczbach 2012 - 2013
 date:       2013-08-01 14:58:00
 summary:    Na lightning talks na HotZloie 2013, prezentowałem m.in. statystyki dotyczące portalu w przeciągu roku. Kilka osób prosiło mnie o wysłanie prezentacji na @, stąd też pomyślałem, że zamiast uszczęśliwiać tylko garstkę użytkowników, mogę uszczęśliwić znacznie większą ich liczbę ;) Tak na podstawie pre...
-categories: inne
+categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -123,7 +123,7 @@ Najczęściej komentują użytkownicy niezalogowani, którzy nie wpisują nawet 
 
 
 
-Nocny &quot;Marek&quot;, to tytuł przyznawany dla osoby, która posiada najwięcej komentarzy dodanych pomiędzy 23, a 6 z rana. Tu również osoby niezalogowane prowadzą. Jednak można powiedzieć, że w tej kategorii mamy jednego nocnego gowaina, który wygrał o włos z DjLeo. Na dalszych pozycjach, KyRol i tskr. Nocne życie na portalu kwitnie, m.in. dzięki powyższym użytkownikom. Niektórzy w nocy zaglądają do lodówki, inni na portal dobreprogramy.pl :)
+Nocny "Marek", to tytuł przyznawany dla osoby, która posiada najwięcej komentarzy dodanych pomiędzy 23, a 6 z rana. Tu również osoby niezalogowane prowadzą. Jednak można powiedzieć, że w tej kategorii mamy jednego nocnego gowaina, który wygrał o włos z DjLeo. Na dalszych pozycjach, KyRol i tskr. Nocne życie na portalu kwitnie, m.in. dzięki powyższym użytkownikom. Niektórzy w nocy zaglądają do lodówki, inni na portal dobreprogramy.pl :)
 
 
 
@@ -184,7 +184,7 @@ Wykres przedstawiający blogerów, którzy publikują najwięcej wpisów blogowy
 
 
 
-Tytuł nocnego &quot;Marka&quot; w kategorii wpisy, przyznajemy dla Krogulca. Za dnia szefuje redakcji, przy  *przykrywką*  nocy działa jako bloger, edukujący o N9. Drugie miejsce zajął lucas_, który tworzy o KDE (wtedy środowisko się nie zawiesza? :P). Ostatni na podium to DjLeo, znany z dłuuugich wpisów, których stworzenie, jak widać, zajmuję sporo czasu. Dalej jest Banan (ucz się, a nie piszesz po nocach!:P), gowain (w nocy komentuje i pisze własne wpisy), The_Game (gry), wszyscy na czwartek pozycji. Cabis (sprzęt) zamyka ranking nocnych blogerów. 
+Tytuł nocnego "Marka" w kategorii wpisy, przyznajemy dla Krogulca. Za dnia szefuje redakcji, przy  *przykrywką*  nocy działa jako bloger, edukujący o N9. Drugie miejsce zajął lucas_, który tworzy o KDE (wtedy środowisko się nie zawiesza? :P). Ostatni na podium to DjLeo, znany z dłuuugich wpisów, których stworzenie, jak widać, zajmuję sporo czasu. Dalej jest Banan (ucz się, a nie piszesz po nocach!:P), gowain (w nocy komentuje i pisze własne wpisy), The_Game (gry), wszyscy na czwartek pozycji. Cabis (sprzęt) zamyka ranking nocnych blogerów. 
 
 
 

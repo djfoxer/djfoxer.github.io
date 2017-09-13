@@ -3,7 +3,7 @@ layout:     post
 title:      Rockbox - rewelacyjny firmware do przenośnych odtwarzaczy muzyki
 date:       2012-05-17 23:09:00
 summary:    Wgrywanie nieoficjalnych, alternatywnych firmwareów stało się rzeczą normalną i nikogo nie dziwi, że oprogramowanie wbudowane w urządzenie, zastępowane jest softem stworzonym poza firmą, która dostarczyła sprzęt. Routery, telefony komórkowe, odtwarzacze DVD, konsole, aparaty cyfrowe... wszędzie tam ...
-categories: sprzęt oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -33,9 +33,9 @@ Wydaje się, że firmware do przenośnych odtwarzaczy muzyki, nie może oferowa�
 
 
 
-Rockbox jest ciągle rozwijany od 2001 roku. Obecnie, wersja stabilna  może być zainstalowana na 32 najbardziej popularnych przenośnych odtwarzaczach muzyki. Kolejne 31 urządzeń jest w fazie developingu i w najbliższym czasie, można będzie się spodziewać wydania wersji stabilnych. Co ciekawe, trwają również prace nad przeniesieniem Rockboxa, na jeszcze większą ilość sprzętu. Na stronie, Twórcy udostępniają listę urządzeń (obecnie 63!), które są na etapie &quot;rozkładania na czynniki pierwsze&quot; i wstępnej analizy. Wszystkie urządzenia, na etapach, o których wspomniałem, dostępne są na stronie [Rockbox Status on Various Targets](http://www.rockbox.org/wiki/TargetStatus).
+Rockbox jest ciągle rozwijany od 2001 roku. Obecnie, wersja stabilna  może być zainstalowana na 32 najbardziej popularnych przenośnych odtwarzaczach muzyki. Kolejne 31 urządzeń jest w fazie developingu i w najbliższym czasie, można będzie się spodziewać wydania wersji stabilnych. Co ciekawe, trwają również prace nad przeniesieniem Rockboxa, na jeszcze większą ilość sprzętu. Na stronie, Twórcy udostępniają listę urządzeń (obecnie 63!), które są na etapie "rozkładania na czynniki pierwsze" i wstępnej analizy. Wszystkie urządzenia, na etapach, o których wspomniałem, dostępne są na stronie [Rockbox Status on Various Targets](http://www.rockbox.org/wiki/TargetStatus).
 
-Cieszy to, iż każde urządzenie ma oddzielną podstronę w formie &quot;wiki&quot;, gdzie znajdziemy opis instalacji, wszelkie informacje o porcie, zdjęcia z rozkładania odtwarzaczy, porady, listy TODO,  specyfikacje sprzętowe, porównania sprzętowe, dedykowane aplikacje... jest tego bardzo dużo i dla zainteresowanych, będzie to stanowić interesujące źródło wiedzy. 
+Cieszy to, iż każde urządzenie ma oddzielną podstronę w formie "wiki", gdzie znajdziemy opis instalacji, wszelkie informacje o porcie, zdjęcia z rozkładania odtwarzaczy, porady, listy TODO,  specyfikacje sprzętowe, porównania sprzętowe, dedykowane aplikacje... jest tego bardzo dużo i dla zainteresowanych, będzie to stanowić interesujące źródło wiedzy. 
 
 
 
@@ -51,7 +51,7 @@ W kilku akapitach omówię działanie i moduły Rockboxa w wersji 3.11.2  na San
 
 
 
-W większości alternatywnego oprogramowania, wgranie firmwareu wymaga bardziej zaawansowanej znajomości komputera/urządzenia. W przypadku Rockboxa, instalacja oprogramowania jest bardzo prosta i szybka. Sprowadza się ona do podłączenia urządzenia i odpalenia Rockbox Utility. Program sam potrafi wykryć urządzenie, a cała operacja sprowadza się do kliknięcia na &quot;Kompletna instalacja&quot;. W ten sposób zainstalujemy pełną wersję firmwareu. W niektórych przypadkach będzie konieczność podania oryginalnego pliku z firmwarem (nie mogą być one rozpowszechniane, ze względu na licencje), co wiąże się jedynie z kliknięciem na link zaproponowany przez instalator.
+W większości alternatywnego oprogramowania, wgranie firmwareu wymaga bardziej zaawansowanej znajomości komputera/urządzenia. W przypadku Rockboxa, instalacja oprogramowania jest bardzo prosta i szybka. Sprowadza się ona do podłączenia urządzenia i odpalenia Rockbox Utility. Program sam potrafi wykryć urządzenie, a cała operacja sprowadza się do kliknięcia na "Kompletna instalacja". W ten sposób zainstalujemy pełną wersję firmwareu. W niektórych przypadkach będzie konieczność podania oryginalnego pliku z firmwarem (nie mogą być one rozpowszechniane, ze względu na licencje), co wiąże się jedynie z kliknięciem na link zaproponowany przez instalator.
 
 Rockbox instaluje się obok oryginalnego oprogramowania. W każdej chwili można przełączyć się pomiędzy wersjami firmwareu lub usunąć nowy soft.
 
@@ -145,7 +145,7 @@ Możliwości konfiguracji dźwięku są bardzo duże, standardowo otrzymujemy
 
 
 
-Rockbox oferuje ogromną ilość wspieranych formatów plików: MPEG (MP3/MP2/MP1), Ogg Vorbis, MPEG-4 AAC, Musepack, AC3, WMA, Speex, Cook, ATRAC3, WavPack, FLAC, WavPack, Shorten, Apple Lossless, Monkey&#39;s Audio, TTA, Intel WAV, Apple AIFF. Odtwarza także formaty związane z grami, takie jak:  ADX, SID, NSF, SAP, SPC, AY, GBS, HES, KSS, MOD, SGC, VGM, VGZ,  Yamaha SMAF. Robi wrażenie.
+Rockbox oferuje ogromną ilość wspieranych formatów plików: MPEG (MP3/MP2/MP1), Ogg Vorbis, MPEG-4 AAC, Musepack, AC3, WMA, Speex, Cook, ATRAC3, WavPack, FLAC, WavPack, Shorten, Apple Lossless, Monkey's Audio, TTA, Intel WAV, Apple AIFF. Odtwarza także formaty związane z grami, takie jak:  ADX, SID, NSF, SAP, SPC, AY, GBS, HES, KSS, MOD, SGC, VGM, VGZ,  Yamaha SMAF. Robi wrażenie.
 
 Już nie będę oczywiście wspominał o losowym odtwarzaniu, kilku opcjach powtarzania utworów, wielu możliwościach przewijania, ale warto wspomnieć np. 
 
@@ -221,7 +221,7 @@ Wraz z nowym oprogramowaniem na nasz odtwarzacz, otrzymujemy zestaw gier. Jest i
 
 
 
-Kolejny zbiór wtyczek to aplikacje. Znajdziemy tu m.in. edytor tekstu (!), aplikację do strojenia gitary, stoper, kalkulator, alarm, kalendarz.... Pamiętacie nadal, że to &quot;tylko&quot; odtwarzacz mp3? :)
+Kolejny zbiór wtyczek to aplikacje. Znajdziemy tu m.in. edytor tekstu (!), aplikację do strojenia gitary, stoper, kalkulator, alarm, kalendarz.... Pamiętacie nadal, że to "tylko" odtwarzacz mp3? :)
 
 
 
@@ -241,7 +241,7 @@ Kolejny zbiór wtyczek to aplikacje. Znajdziemy tu m.in. edytor tekstu (!), apli
 
 
 
-Kilka dodatków, które pozwolą nam sprawdzić na co stać naszego &quot;malucha&quot; lub pomóc rozładować baterię. Mamy tu: animację ognia, fraktale, obiekty pseudo 3D i masę innych zapychaczy.
+Kilka dodatków, które pozwolą nam sprawdzić na co stać naszego "malucha" lub pomóc rozładować baterię. Mamy tu: animację ognia, fraktale, obiekty pseudo 3D i masę innych zapychaczy.
 
 
 
@@ -276,7 +276,7 @@ Do każdego odtwarzacza, z poziomu Rockbox Utility, istnieje opcja pobrania styl
 
 Oczywiście opcji jest jeszcze więcej, wymienię tylko te bardzie ciekawsze i unikatowe:
 
-  * możliwość instalacji &quot;syntezatora mowy&quot;, dzięki czemu Rockbox, będzie czytał menu wraz z przemieszczaniem się po nim!,
+  * możliwość instalacji "syntezatora mowy", dzięki czemu Rockbox, będzie czytał menu wraz z przemieszczaniem się po nim!,
 
 
   * wyświetlanie aktualnej godziny,
@@ -291,7 +291,7 @@ Oczywiście opcji jest jeszcze więcej, wymienię tylko te bardzie ciekawsze i u
   * odtwarzacz multimediów - obrazów i filmów,
 
 
-  * wpisywanie tekstu alfabetem morse&#39;a! (zamiast klawiatury ekranowej),
+  * wpisywanie tekstu alfabetem morse'a! (zamiast klawiatury ekranowej),
 
 
   * eksplorator plików,
@@ -306,7 +306,7 @@ Oczywiście opcji jest jeszcze więcej, wymienię tylko te bardzie ciekawsze i u
 
 
 
-Zanim wgramy Rockboxa na odtwarzacz, warto go przetestować. Twórcy dali nam emulatory aż 56 urządzeń, na których możemy &quot;na sucho&quot;, sprawdzić jak nowe oprogramowanie będzie radziło sobie z naszym sprzętem ([Rockbox simulator builds](http://rasher.dk/rockbox/simulator/)). Idealne np. przed zakupem, aby sprawdzić które wspierane urządzenie, najbardziej pasuje nam razem z Rockboxem.
+Zanim wgramy Rockboxa na odtwarzacz, warto go przetestować. Twórcy dali nam emulatory aż 56 urządzeń, na których możemy "na sucho", sprawdzić jak nowe oprogramowanie będzie radziło sobie z naszym sprzętem ([Rockbox simulator builds](http://rasher.dk/rockbox/simulator/)). Idealne np. przed zakupem, aby sprawdzić które wspierane urządzenie, najbardziej pasuje nam razem z Rockboxem.
 
 
 
@@ -324,7 +324,7 @@ Zanim wgramy Rockboxa na odtwarzacz, warto go przetestować. Twórcy dali nam em
 
 
 
-Rockbox to alternatywny firmware z najwyższej półki i do tego darmowy. Opcji nie jest dużo, jest ich ogrom! Oprócz funkcji, które dostępne są w innych oprogramowaniach, znajdziemy tu wiele unikalnych opcji, które zachwycą nawet osoby nie będące melomanami (jak choćby syntezator mowy do przechodzenia po menu bez patrzenia na ekran), ale i pozwolą na jeszcze większą swobodę dzięki wsparciu dla niemalże wszystkich istniejących formatów audio (a i nawet dla video!). Warto chociażby odpalić emulator, aby przekonać się o olbrzymiej ilości funkcji, nie oferowanej nigdzie indziej. Będąc przy temacie emulatora, jeśli planujecie zakup przenośnego odtwarzacza muzycznego, polecam zapoznać się z listą wspieranych urządzeń i przetestować, jak działa &quot;na sucho&quot;. A jak już mamy sprzęt na którym pójdzie Rockbox, wówczas wystarczy tylko zainstalować poprzez jedno kliknięcie przycisku. Prościej już nie może być.
+Rockbox to alternatywny firmware z najwyższej półki i do tego darmowy. Opcji nie jest dużo, jest ich ogrom! Oprócz funkcji, które dostępne są w innych oprogramowaniach, znajdziemy tu wiele unikalnych opcji, które zachwycą nawet osoby nie będące melomanami (jak choćby syntezator mowy do przechodzenia po menu bez patrzenia na ekran), ale i pozwolą na jeszcze większą swobodę dzięki wsparciu dla niemalże wszystkich istniejących formatów audio (a i nawet dla video!). Warto chociażby odpalić emulator, aby przekonać się o olbrzymiej ilości funkcji, nie oferowanej nigdzie indziej. Będąc przy temacie emulatora, jeśli planujecie zakup przenośnego odtwarzacza muzycznego, polecam zapoznać się z listą wspieranych urządzeń i przetestować, jak działa "na sucho". A jak już mamy sprzęt na którym pójdzie Rockbox, wówczas wystarczy tylko zainstalować poprzez jedno kliknięcie przycisku. Prościej już nie może być.
 
 Oczywiście Rockbox to nie tylko same plusy, zaleta w postaci mnogości opcji, jest też wadą. Na początku można zagubić się w gąszczu opcji, a interface w głębszych ustawieniach nie zawsze bywa domyślny. Trzeba się przyzwyczaić.
 

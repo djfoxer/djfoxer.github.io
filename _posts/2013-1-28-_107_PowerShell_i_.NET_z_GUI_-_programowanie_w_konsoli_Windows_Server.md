@@ -3,7 +3,7 @@ layout:     post
 title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
 date:       2013-01-28 19:29:00
 summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowan...
-categories: porady programowanie serwery
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
 ---
 
 
@@ -65,15 +65,15 @@ $tmp | Get-Member
 Name        MemberType Definition                                                                            
 ----        ---------- ----------                                                                            
 CompareTo   Method     int CompareTo(System.Object value), int CompareTo(double value), int IComparable.Co...
-Equals      Method     bool Equals(System.Object obj), bool Equals(double obj), bool IEquatable
-```
-.Eq...
+Equals      Method     bool Equals(System.Object obj), bool Equals(double obj), bool IEquatable[double].Eq...
 GetHashCode Method     int GetHashCode()                                                                     
 GetType     Method     type GetType()                                                                        
 GetTypeCode Method     System.TypeCode GetTypeCode(), System.TypeCode IConvertible.GetTypeCode()             
 ToBoolean   Method     bool IConvertible.ToBoolean(System.IFormatProvider provider)                          
 (...)
-[/code]
+
+```
+
 
 Zaskoczenia nie ma. Utworzona zmienna to obiekt klasy Double z .NET.
 
@@ -83,7 +83,7 @@ Zaskoczenia nie ma. Utworzona zmienna to obiekt klasy Double z .NET.
 
 
 
-A teraz mały skrypt, wykorzystujący obiekty klas prosto z .NET. Nasz mały &quot;programik&quot; ma następujące założenia:
+A teraz mały skrypt, wykorzystujący obiekty klas prosto z .NET. Nasz mały "programik" ma następujące założenia:
 
 
   * pobieranie określonej strony www
@@ -119,25 +119,25 @@ do{
     #tworzymy obiekt WebClient z .NET do pobiernia danych z www
     $wc = New-Object System.Net.WebClient
 
-    Write-Host &quot;zaczyna pracę&quot;
+    Write-Host "zaczyna pracę"
 
     #pobranie strony www
-    $data = $wc.DownloadString(&quot;http://www.dobreprogramy.pl/djfoxer&quot;)
+    $data = $wc.DownloadString("http://www.dobreprogramy.pl/djfoxer")
     #zapis pobranych danych do pliku, który w nazwie zawiera aktualną datę
-    $data &gt;&gt; &quot;downloaded $($now.ToString().Replace(&#39;:&#39;,&#39;.&#39;)).html&quot;
+    $data >> "downloaded $($now.ToString().Replace(':','.')).html"
 
     #losowanie czasu uśpienia
     $sleepTime = $rand.Next($sleepTimeMin, $sleepTimeMax)
 
     #uśpienie skryptu (domyślnie parametrem wejściowym Start-Sleep są sekundy)
-    Write-Host &quot;zasypiam na $($sleepTime) minut...&quot;
+    Write-Host "zasypiam na $($sleepTime) minut..."
     Start-Sleep ($sleepTime * 60)
-    Write-Host &quot;budzenie!&quot;
+    Write-Host "budzenie!"
 
 #sprawdzenie, czy wybudzony skrypt nie powinien już zakończyć działanie
 }while(($now - $start).TotalMinutes -lt $howLong)
 
-Write-Host &quot;koniec&quot;
+Write-Host "koniec"
 
 ```
 
@@ -162,9 +162,9 @@ Kod z komentarzami omawiającymi poszczególne elementy skryptu, przedstawia si�
 $form = New-Object System.Windows.Forms.Form
 #okno otrzymuje nazwę, rozmiar oraz pozycję (środek ekranu)
 #podobne właściwości otrzymują pozostałe obiekty wrzucane na okno
-$form.Text = &quot;PowerShell GUI Test&quot;
+$form.Text = "PowerShell GUI Test"
 $form.Size = New-Object System.Drawing.Size(500,520)
-$form.StartPosition = &quot;CenterScreen&quot;
+$form.StartPosition = "CenterScreen"
 
 #dodajemy listę, na której będą wyśwetlać się elementy
 $listBox = New-Object System.Windows.Forms.Listbox
@@ -177,7 +177,7 @@ $close = New-Object System.Windows.Forms.Button
 $close.Location = New-Object System.Drawing.Size(0,450)
 $close.Size = New-Object System.Drawing.Size(100,30)
 $close.add_click({$form.Close()})
-$close.Text = &quot;Zamknij&quot;
+$close.Text = "Zamknij"
 $form.Controls.Add($close)
 
 #dodajemy pole tekstowe, gdzie wpisywać będziemy adres ścieżki
@@ -192,7 +192,7 @@ $dir = New-Object System.Windows.Forms.Button
 $dir.Location = New-Object System.Drawing.Size(120,450)
 $dir.Size = New-Object System.Drawing.Size(100,30)
 $dir.add_click({
-    #po wciśnieciu przycisku &quot;DIR&quot; czyścimy listę
+    #po wciśnieciu przycisku "DIR" czyścimy listę
     $listBox.Items.Clear()
     #listujemy elementy w folderze podanym w polu tekstowym
     $values = dir -Path $textBox.Text
@@ -201,7 +201,7 @@ $dir.add_click({
         $listBox.Items.Add($item.Name)
     }
 })
-$dir.Text = &quot;DIR&quot;
+$dir.Text = "DIR"
 $form.Controls.Add($dir)
 
 

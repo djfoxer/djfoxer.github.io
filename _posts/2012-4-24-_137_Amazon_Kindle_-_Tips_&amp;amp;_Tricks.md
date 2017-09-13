@@ -3,7 +3,7 @@ layout:     post
 title:      Amazon Kindle - Tips &amp;amp; Tricks
 date:       2012-04-24 17:25:00
 summary:    O Amazon Kindle na blogu dobrychprogramów było już kilka wpisów. Jednakże nikt nie pokusił się o dodanie opisu ukrytych funkcjonalności czytnika lub o przedstawienie dodatków jakie można samemu zainstalować. W tym krótkim wpisie postaram się nadrobić te zaległości i liczę na to, iż przydadzą się one...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -54,7 +54,7 @@ Oczywiście nie są to wszystkie skróty, pozostałe skróty można znaleźć [n
 
 
 
-Warto przed jakąkolwiek zabawą z Kindlem, zaktualizować oprogramowanie do najnowszej wersji. Sama instalacje jest bardzo prosta. Najnowszy soft od Amazona dla Kindla znajdziemy pod adresem:  [Kindle Software Updates](http://www.amazon.com/gp/help/customer/display.html?nodeId=200324680). Wystarczy ściągnąć odpowiedni plik dla wersji Kindla i przerzucić go do głównego folderu urządzenia. Następnie odłączamy go od komputera i wymuszamy aktualizację: [Home]-&gt;[Menu]-&gt;[Settings]-&gt;[Menu]-&gt;[Update Your Kindle]. Cały proces przebiega automatycznie. 
+Warto przed jakąkolwiek zabawą z Kindlem, zaktualizować oprogramowanie do najnowszej wersji. Sama instalacje jest bardzo prosta. Najnowszy soft od Amazona dla Kindla znajdziemy pod adresem:  [Kindle Software Updates](http://www.amazon.com/gp/help/customer/display.html?nodeId=200324680). Wystarczy ściągnąć odpowiedni plik dla wersji Kindla i przerzucić go do głównego folderu urządzenia. Następnie odłączamy go od komputera i wymuszamy aktualizację: [Home]->[Menu]->[Settings]->[Menu]->[Update Your Kindle]. Cały proces przebiega automatycznie. 
 
 
 
@@ -76,7 +76,7 @@ Pozostałe opisane dodatki wymagają posiadania odblokowanego urządzenia.
 
 
 
-Zaraz po uruchomieniu świeżej wersji Kindla, możemy trochę się przestraszyć. O ile w module czytnika tekst bez problemów wyświetla polskie znaczni, o tyle sam interfejs w menu, ma z tym problem. Czy to strona domowa, czy przeglądarka www, nie mamy niestety obsługi polskich znaczków. Oczywiście jest na to sposób. Wystarczy zainstalować [Unicode Fonts Hack](http://blogkindle.com/unicode-fonts-hack/) (dalej  *UFH* ). Dzięki temu dodatkowi, w prosty sposób, Kindle zacznie poprawnie pokazywać nasze rodzime &quot;krzaczki&quot;. Warto na początek pobrać zbiór czcionek  *Droid Fallback with Styles SansSerif* . 
+Zaraz po uruchomieniu świeżej wersji Kindla, możemy trochę się przestraszyć. O ile w module czytnika tekst bez problemów wyświetla polskie znaczni, o tyle sam interfejs w menu, ma z tym problem. Czy to strona domowa, czy przeglądarka www, nie mamy niestety obsługi polskich znaczków. Oczywiście jest na to sposób. Wystarczy zainstalować [Unicode Fonts Hack](http://blogkindle.com/unicode-fonts-hack/) (dalej  *UFH* ). Dzięki temu dodatkowi, w prosty sposób, Kindle zacznie poprawnie pokazywać nasze rodzime "krzaczki". Warto na początek pobrać zbiór czcionek  *Droid Fallback with Styles SansSerif* . 
 
 
 
@@ -137,7 +137,7 @@ Wybrane pliki czcionki w 4 krojach (4 pliki) muszą mieć następujące nazwy:
 -  *Serif_Italic.ttf*  - kursywa
 -  *Serif_BoldItalic.ttf*  - kursywa z pogrubieniem
 
-Tak przygotowane pliki wrzucamy (podmieniamy) do folderu na urządzeniu  *\linkfonts\fonts* . Ostatni krok to restart Kindla ([Home]-&gt;[Menu]-&gt;[Settings]-&gt;[Menu]-&gt;[Restart]).
+Tak przygotowane pliki wrzucamy (podmieniamy) do folderu na urządzeniu  *\linkfonts\fonts* . Ostatni krok to restart Kindla ([Home]->[Menu]->[Settings]->[Menu]->[Restart]).
 
 
 
@@ -150,7 +150,7 @@ Ostatnia aplikacja to dodatek, który pozwala na wgranie własnych wygaszaczy ek
 Po zainstalowaniu modułu, system Kindla będzie pobierał wygaszacze z folderu  *\linkss\screensavers*  na urządzeniu. Zdjęcia powinny mieć następujące parametry:
 - rozdzielczość 600x800 (824x1200 w przypadku DX)
 - 256 kolorów w odcieniach szarości
-Po wgraniu zdjęć należy zrestartować urządzenie ([Home]-&gt;[Menu]-&gt;[Settings]-&gt;[Menu]-&gt;[Restart]).
+Po wgraniu zdjęć należy zrestartować urządzenie ([Home]->[Menu]->[Settings]->[Menu]->[Restart]).
 
 W sieci jest bardzo dużo stron z wygaszaczami przygotowanymi pod Kindla. Przygotowałem kilka (dokładnie 9) grafik, które są modyfikacjami tapet z dobrychprogramów (Pirat, HotZlot itp.). Do pobrania z tego adresu: [www.djfoxer.pl/kindle_s_dp.zip](http://www.djfoxer.pl/kindle_s_dp.zip). Mam nadzieje, że przydadzą się :)
 
@@ -170,7 +170,7 @@ W sieci jest bardzo dużo stron z wygaszaczami przygotowanymi pod Kindla. Przygo
 
 
 
-Na &quot;żywo&quot; wyglądają jeszcze piękniej :)
+Na "żywo" wyglądają jeszcze piękniej :)
 
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Duke Nukem Forever - wydany!
 date:       2011-06-14 00:46:00
 summary:    10. czerwca zakończyła się 14 letnia męczarnia/produkcja gry Duke Nukem Forever! :) Wreszcie nasze spragnione palce, z odciśniętymi klawiszami WSAD, mogą zanurzyć się w świat Dukea... Tak chyba by było,  gdyby gra wyszła z 8-10 lat temu. Powiem szczerze, że jakoś nie zelektryzowała mnie wiadomość o ...
-categories: windows gry hobby
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
 ---
 
 
@@ -22,12 +22,12 @@ Tak chyba by było,  gdyby gra wyszła z 8-10 lat temu. Powiem szczerze, że jak
 
  *One man, one world, one million babes to save!!* 
 
-Pierwsze dwie części (&#39;91 i &#39;93 r.) były typowymi platformówkami. Były miłe i bardzo grywalne jak na tamte czasy. Bardzo dobre i porządne produkcje. Jednakże dopiero trzecia część Duke Nukem 3D, zapoczątkowała Dukomanie trwającą do dziś. 
+Pierwsze dwie części ('91 i '93 r.) były typowymi platformówkami. Były miłe i bardzo grywalne jak na tamte czasy. Bardzo dobre i porządne produkcje. Jednakże dopiero trzecia część Duke Nukem 3D, zapoczątkowała Dukomanie trwającą do dziś. 
 
 Gra wydana w 1996 r. była strzałem w dziesiątkę! Świetna jak na tamte czasy grafika (mimo modeli 2D udających 3D) i naprawdę świeży humor, tworzyły grę godną zagrania i wciągnięcia się w nią na dłuuugie godziny. Jeśli dodać do tego szczyptę erotyzmu i niespotykaną wówczas interakcję z otoczeniem, wyłania się nam gra, która zawładnęła światem na długie lata.
 
 
- *Let&#39;s rock! * 
+ *Let's rock! * 
 
 Jest rok 1997, twórcy 3D Realms, potwierdzają, iż prace nad kolejną częścią są już w toku. Ma być jeszcze lepiej i jeszcze więcej Dukea. Gracze zacierają już ręce i w przerwach między sesjami DN3D, szukają kolejnych newsów odnośnie nowej odsłony Księcia.
 
@@ -38,17 +38,17 @@ Jest rok 1997, twórcy 3D Realms, potwierdzają, iż prace nad kolejną części
  
  *Świat Gier Komputerowych, Zapowiedź Duke Nukem Forever (kliknij by powiększyć)* 
 
-Rok po rozpoczęciu prac, już są pierwsze screeny i &quot;konkretne&quot; zapowiedzi nowego środowiska. 
+Rok po rozpoczęciu prac, już są pierwsze screeny i "konkretne" zapowiedzi nowego środowiska. 
 W załączonym zdjęciu można przeczytać kilka newsów na temat DNF, jakie wówczas można było znaleźć. Artykuł jest wycinkiem ze Świata Gier Komputerowych nr 9/1998. Tematem przewodnim były gry 3D. Oczywiście nie mogło zabraknąć wzmianki o naszym DNF. 
-Czytamy zatem, iż:  *&quot;Niestety, nie pojawi się on przed gwiazdką (gwiazdką 1998 - przyp. djfoxer), jak to było wcześniej zapowiedziane, a to ze względu na zauroczenie twórców gry możliwościami Unreala. Wyrzucili oni engine Quake&#39;a 2 do kosza, a wraz z nim 4 miesiące pracy (Duke ma już za sobą przesiadkę z Quake &quot;jedynki&quot;) i prawdopodobnie pół miliona dolarów zapłaconych Id Software(..)&quot;* . Nie próżnowali pewnie przez te cztery miesiące. 
-Najciekawsze zdanie jest w środku:  *&quot;(..)opóźnienie związane z przesiadką nie powinno zatem wykroczyć poza pierwszy kwartał przyszłego roku* &quot; -czyli pierwszy kwartał 1999 roku. Jak było, wszyscy wiemy :) Już nie będę przytaczał pozostałych fragmentów zapowiedzi, żeby nie zepsuć Wam czytania. 
+Czytamy zatem, iż:  *"Niestety, nie pojawi się on przed gwiazdką (gwiazdką 1998 - przyp. djfoxer), jak to było wcześniej zapowiedziane, a to ze względu na zauroczenie twórców gry możliwościami Unreala. Wyrzucili oni engine Quake'a 2 do kosza, a wraz z nim 4 miesiące pracy (Duke ma już za sobą przesiadkę z Quake "jedynki") i prawdopodobnie pół miliona dolarów zapłaconych Id Software(..)"* . Nie próżnowali pewnie przez te cztery miesiące. 
+Najciekawsze zdanie jest w środku:  *"(..)opóźnienie związane z przesiadką nie powinno zatem wykroczyć poza pierwszy kwartał przyszłego roku* " -czyli pierwszy kwartał 1999 roku. Jak było, wszyscy wiemy :) Już nie będę przytaczał pozostałych fragmentów zapowiedzi, żeby nie zepsuć Wam czytania. 
 
 
  *So... who wants to dance?* 
 
 DNF zaliczył całkiem sporo zmian silników, oto w skrócie czym twórcy się bawili:
 
-1997 - kupno licencji na Quake2, ze względu na brak kodów źródłowych, &quot;bawiono&quot; się silnikiem jedynki, wówczas to powstały pierwsze &quot;zajawki&quot; DNF
+1997 - kupno licencji na Quake2, ze względu na brak kodów źródłowych, "bawiono" się silnikiem jedynki, wówczas to powstały pierwsze "zajawki" DNF
 
 1997 (grudzień) - jest silnik Quake2, prace ruszają pełną parą!
 

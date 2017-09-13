@@ -3,7 +3,7 @@ layout:     post
 title:      Analizujemy kod portalu dobreprogramy.pl — czyli jak działa system powiadomień
 date:       2016-03-09 17:30:00
 summary:    Ostatnim wpisem rozpoczął serię, która będzie opisywać zmagania z tworzeniem aplikacji do przechwytywania powiadomień z portalu dobreprogramy.pl w Windows 10 (+Mobile). Przyszedł zatem czas na coś konkretnego. Dziś przedstawię analizę, w jaki sposób na stronie zostało zrobione pobieranie powiadomień...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -73,7 +73,7 @@ Po chwili zobaczymy, że co ok. 12 sekund wysyłany jest request.
 
 ```html
 
-http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&amp;_=znacznik_czasu
+http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&_=znacznik_czasu
 
 ```
 
@@ -83,8 +83,8 @@ Gdzie znacznik czasu jest inkrementowaną datą wejścia na stronę w postaci mi
 
 ```js
 
-&gt; new Date(1457379954093)
-&lt; Mon Mar 07 2016 20:45:54 GMT+0100 (Środkowoeuropejski czas stand.)
+> new Date(1457379954093)
+< Mon Mar 07 2016 20:45:54 GMT+0100 (Środkowoeuropejski czas stand.)
 
 ```
 

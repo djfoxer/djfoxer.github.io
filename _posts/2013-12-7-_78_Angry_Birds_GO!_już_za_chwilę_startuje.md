@@ -3,7 +3,7 @@ layout:     post
 title:      Angry Birds GO! już za chwilę startuje
 date:       2013-12-07 18:09:00
 summary:    Angry Birds GO! zapowiadane było już kilka razy. Na portalu pisał o tym Tomish, wspominając przy okazji o mikropłatnościach, jakie dostępne będą w tym tytule od Rovio. Start wściekłych ptaków na kółkach planowany jest na 11. grudnia. Pomimo, że nadal nie ma oficjalnej informacji o tej premierze, a c...
-categories: porady urządzenia mobilne gry
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 

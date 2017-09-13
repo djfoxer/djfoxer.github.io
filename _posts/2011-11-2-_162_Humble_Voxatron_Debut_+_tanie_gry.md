@@ -3,7 +3,7 @@ layout:     post
 title:      Humble Voxatron Debut + tanie gry
 date:       2011-11-02 23:35:00
 summary:    Ponownie The Humble Indie Bundle atakuje nas świetną promocją.W skrócie czym jest Humble Indie Bundle:- kupujesz gry za dowolne pieniądze- gry są multiplatformowe- brak zabezpieczeń- pieniądze idą m.in. na cele charytatywnePod http://www.humblebundle.com/ znajdziecie więcej szczegółów. W nowej odsło...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -92,7 +92,7 @@ Gorąco polecam Humble Voxatron Debut. Tym razem warto koniecznie zapoznać się
 
 A jeśli...
 
-Chcesz więcej gier za &quot;symboliczną kwotę&quot;? 
+Chcesz więcej gier za "symboliczną kwotę"? 
 
 Od 3 listopada, w Biedronce ([http://biedronka.pl/gry/](http://biedronka.pl/gry/)) będzie dostępnych 12 gier, każda w cenie 9,99zł. Warto zapoznać się z ofertą, gdyż jest kilka pozycji, które każdy szanujący się gracz powinien mieć na półce. Oto krótki spis:
 
@@ -113,7 +113,7 @@ Rewelacyjna gra FPP na podstawie filmu. Grywalność na najwyższym poziomie. To
 
 Blood Bowl 
 Ocena na metacritic: 72
-Mięsista gra &quot;sportowa&quot;, coś na wzór footballu amerykańskiego w świece fantasy. 
+Mięsista gra "sportowa", coś na wzór footballu amerykańskiego w świece fantasy. 
 
 Warhammer 40,000: Dawn of War II 
 Ocena na metacritic: 85
@@ -173,8 +173,8 @@ Zręcznościówka dla dzieciaków.
 
 Do paczki dołączono kolejne gry:
 
-1. Gish - wcześniejsze dzieło twórców The Binding of Isaac, kierujemy postać przypominającą... &quot;gluta&quot;:P Gra wygrała kilka nagród w roku 2005.
-2. Jasper&#39;s Journeys,  Zen Puzzle Garden i Chocolate Castle - trzy wcześniejsze gry  ze studia Lexaloffle, odpowiedzialnego za stworzenie Voxatronu.
+1. Gish - wcześniejsze dzieło twórców The Binding of Isaac, kierujemy postać przypominającą... "gluta":P Gra wygrała kilka nagród w roku 2005.
+2. Jasper's Journeys,  Zen Puzzle Garden i Chocolate Castle - trzy wcześniejsze gry  ze studia Lexaloffle, odpowiedzialnego za stworzenie Voxatronu.
 
 
 

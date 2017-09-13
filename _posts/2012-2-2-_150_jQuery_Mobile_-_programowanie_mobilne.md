@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery Mobile - programowanie mobilne
 date:       2012-02-02 23:31:00
 summary:    Jesteśmy świadkami przeniesienia zainteresowania użytkowników, z urządzeń stacjonarnych, na urządzenia mobilne. Coraz bardziej stają się popularne smartfony, tablety. Obecnie komputer stacjonarny staje się reliktem, czymś wygasłym. Technologie mobilne zaś, zyskują rzesze zwolenników i to one napędza...
-categories: programowanie urządzenia mobilne
+categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -19,7 +19,7 @@ Dzięki [jQuery Mobile](http://jquerymobile.com/), możemy zacząć przygodę z 
 
 
 
-Może warto napisać czym nie jest :) Nie jest to mobilna wersja jQuery. Jest to framework, który rozszerza oryginalnego jQuery o dodatki, które są pomocne, a czasem niezbędne, do tworzenia aplikacji webowych z poziomu urządzeń mobilnych. Zatem z jQuery Mobile będziemy tworzyć strony w HTML z tą sama biblioteką jQuery co w zwykłych, &quot;dużych&quot; stronach. 
+Może warto napisać czym nie jest :) Nie jest to mobilna wersja jQuery. Jest to framework, który rozszerza oryginalnego jQuery o dodatki, które są pomocne, a czasem niezbędne, do tworzenia aplikacji webowych z poziomu urządzeń mobilnych. Zatem z jQuery Mobile będziemy tworzyć strony w HTML z tą sama biblioteką jQuery co w zwykłych, "dużych" stronach. 
 
 
 
@@ -31,7 +31,7 @@ Twórcy oddali do dyspozycji framework, który stara się być niezależny od pr
 
 
 
-Biblioteka opiera się na HTML5 i CSS3. Otrzymujemy gotowy zestaw interfejsu, który przystosowany jest do urządzeń mobilnych, do obsługi stron palcem. Całość przypomina interface z iOSa i w działaniu sprawdza się rewelacyjnie. Wszystko jest na tyle duże, aby móc bezproblemowo trafić palcem. Tworząc stronę web pod ekrany dotykowe, wybór tego frameworku jest wręcz oczywisty. Kontrolki jakie otrzymujemy i cały UI jest bardzo bogaty. Ciekawie prezentują się również wszelkie efekty przejścia pomiędzy &quot;stronami&quot;. Mamy wrażenie, korzystania z natywnej aplikacji mobilnej.
+Biblioteka opiera się na HTML5 i CSS3. Otrzymujemy gotowy zestaw interfejsu, który przystosowany jest do urządzeń mobilnych, do obsługi stron palcem. Całość przypomina interface z iOSa i w działaniu sprawdza się rewelacyjnie. Wszystko jest na tyle duże, aby móc bezproblemowo trafić palcem. Tworząc stronę web pod ekrany dotykowe, wybór tego frameworku jest wręcz oczywisty. Kontrolki jakie otrzymujemy i cały UI jest bardzo bogaty. Ciekawie prezentują się również wszelkie efekty przejścia pomiędzy "stronami". Mamy wrażenie, korzystania z natywnej aplikacji mobilnej.
 
 
 
@@ -57,57 +57,57 @@ Z pełnymi możliwościami można zapoznać się stronie z [demami i dokumentacj
 
 
 Tworzenie stron jest dość proste, a efekty zaskakująco dobre.
-Całość opiera się na atrybutach data z HTML5. Dzięki nim steruje się tym, jak ma zachowywać się i wyglądać dany element. &quot;Resztę&quot; robi za nas jQuery Mobile.
+Całość opiera się na atrybutach data z HTML5. Dzięki nim steruje się tym, jak ma zachowywać się i wyglądać dany element. "Resztę" robi za nas jQuery Mobile.
 
 Przykładowy kod strony:
 
 
 ```html
 
-&lt;!DOCTYPE html&gt; 
-&lt;html&gt; 
-	&lt;head&gt;
-		&lt;meta charset=&quot;utf-8&quot;&gt;
-		&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt; 
-		&lt;title&gt;TEST&lt;/title&gt; 
-		&lt;link rel=&quot;stylesheet&quot; href=&quot;http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css&quot; /&gt;
-		&lt;script src=&quot;http://code.jquery.com/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-		&lt;script src=&quot;http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js&quot;&gt;&lt;/script&gt;
-		&lt;script&gt;
+<!DOCTYPE html> 
+<html> 
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1"> 
+		<title>TEST</title> 
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+		<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+		<script>
 			$(document).ready(function() {
-			  $(&quot;#swipeMe&quot;).bind(&quot;swipe&quot;,function(){
-				alert(&quot;swipe!&quot;);
+			  $("#swipeMe").bind("swipe",function(){
+				alert("swipe!");
 			  });
 			});
-		&lt;/script&gt;
-	&lt;/head&gt; 
-&lt;body&gt; 
-	&lt;div data-role=&quot;page&quot; id=&quot;one&quot; data-theme=&quot;c&quot;&gt;	
-		&lt;div data-role=&quot;header&quot;&gt;
-			&lt;a href=&quot;#&quot; data-icon=&quot;arrow-l&quot;&gt;Powrót&lt;/a&gt;
-			&lt;h1&gt;Witaj&lt;/h1&gt;
-		&lt;/div&gt;
-		&lt;div data-role=&quot;content&quot; &gt;	
-			&lt;div id=&quot;swipeMe&quot;&gt;
-				&lt;span&gt;Witaj w JQuery Mobile!&lt;/span&gt;
-			&lt;/div&gt;
-			&lt;div&gt;
-				&lt;fieldset data-role=&quot;controlgroup&quot;&gt;
-					&lt;legend&gt;Wybierz :&lt;/legend&gt;
-					&lt;input type=&quot;radio&quot; name=&quot;radio-choice-1&quot; id=&quot;radio-choice-1&quot; value=&quot;choice-1&quot; checked=&quot;checked&quot; /&gt;
-					&lt;label for=&quot;radio-choice-1&quot;&gt;Dobre&lt;/label&gt;
-					&lt;input type=&quot;radio&quot; name=&quot;radio-choice-1&quot; id=&quot;radio-choice-2&quot; value=&quot;choice-2&quot;  /&gt;
-					&lt;label for=&quot;radio-choice-2&quot;&gt;Programy&lt;/label&gt;
-				&lt;/fieldset&gt;
-			&lt;/div&gt;
-			&lt;a href=&quot;#&quot; data-role=&quot;button&quot; data-inline=&quot;true&quot;&gt;Przejdź dalej&lt;/a&gt;
-		&lt;/div&gt;	
-		&lt;div data-role=&quot;footer&quot;&gt;
-			&lt;h4&gt;Stopka&lt;/h4&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+		</script>
+	</head> 
+<body> 
+	<div data-role="page" id="one" data-theme="c">	
+		<div data-role="header">
+			<a href="#" data-icon="arrow-l">Powrót</a>
+			<h1>Witaj</h1>
+		</div>
+		<div data-role="content" >	
+			<div id="swipeMe">
+				<span>Witaj w JQuery Mobile!</span>
+			</div>
+			<div>
+				<fieldset data-role="controlgroup">
+					<legend>Wybierz :</legend>
+					<input type="radio" name="radio-choice-1" id="radio-choice-1" value="choice-1" checked="checked" />
+					<label for="radio-choice-1">Dobre</label>
+					<input type="radio" name="radio-choice-1" id="radio-choice-2" value="choice-2"  />
+					<label for="radio-choice-2">Programy</label>
+				</fieldset>
+			</div>
+			<a href="#" data-role="button" data-inline="true">Przejdź dalej</a>
+		</div>	
+		<div data-role="footer">
+			<h4>Stopka</h4>
+		</div>
+	</div>
+</body>
+</html>
 
 ```
 
@@ -120,9 +120,9 @@ A taki będzie to wyglądać w oknie przeglądarki:
 
 
 
-Strona składa się z: nagłówka ( *header* ), zawartości ( *content* ) i stopki ( *footer* ). To zaś jest stroną ( *page* ). Na jednej stronie HTML może być kilka &quot;stron&quot; ( *page* ). Dzięki czemu przejścia pomiędzy nimi mogą być płynne, z animacją &quot;przejścia&quot;, niczym w natywnej aplikacji.
+Strona składa się z: nagłówka ( *header* ), zawartości ( *content* ) i stopki ( *footer* ). To zaś jest stroną ( *page* ). Na jednej stronie HTML może być kilka "stron" ( *page* ). Dzięki czemu przejścia pomiędzy nimi mogą być płynne, z animacją "przejścia", niczym w natywnej aplikacji.
 
-Dodano event swipe do diva w standardowej funkcji  *$(document).ready()*  znanej z jQuery. jQuery Mobile, ze względu na to, iż w obrębie jednego pliku HTML, może być kilka &quot;stron&quot;, istnieje metoda  *pageInit()* , która wykonuje się dla każdej &quot;wirtualnej&quot; strony.
+Dodano event swipe do diva w standardowej funkcji  *$(document).ready()*  znanej z jQuery. jQuery Mobile, ze względu na to, iż w obrębie jednego pliku HTML, może być kilka "stron", istnieje metoda  *pageInit()* , która wykonuje się dla każdej "wirtualnej" strony.
 
 
 
@@ -134,8 +134,8 @@ Biblioteka jest bardzo rozbudowana i oferuje wiele możliwości. Mimo starań o 
 
 Nie ma co się spierać o UI, gdyż jest zarówno i bardzo ładny jak i funkcjonalny. Niestety nie wszystko działa jednak na urządzeniach mobilnych. Na moim Windows Phone 7.5 slidera nie można przeciągnąć. Zaś na Chromie desktopowy z Windows 7, animacje przejścia pomiędzy oknami nie były płynne. 
 
-Sam framework bywa kapryśny. Czasem eventy dublują się i występuje tzw. &quot;bubbling&quot;, czyli wyłapywanie jednego eventu w kilku handlerach. Nie pomaga ani  *return false* , czy  *event.stopPropagation();* . Występuje to różnie i dla bindowania poprzez:  *bind* ,  *live* , czy  *on* .
+Sam framework bywa kapryśny. Czasem eventy dublują się i występuje tzw. "bubbling", czyli wyłapywanie jednego eventu w kilku handlerach. Nie pomaga ani  *return false* , czy  *event.stopPropagation();* . Występuje to różnie i dla bindowania poprzez:  *bind* ,  *live* , czy  *on* .
 
-Część osób narzeka również na założenie, gdzie na jednej stronie HTML występuje kilka podstron &quot;natywnych&quot;. Przechodzi się pomiędzy nimi, podobnie jak w iOS, za pomocą przesuwania. Pytanie jest, czy interface webowej aplikacji musi być podobny do natywnych aplikacji, czy nie jest to &quot;przerost formy nad treścią&quot;? Oczywiście nie jesteśmy zmuszeni do stosowania tego.
+Część osób narzeka również na założenie, gdzie na jednej stronie HTML występuje kilka podstron "natywnych". Przechodzi się pomiędzy nimi, podobnie jak w iOS, za pomocą przesuwania. Pytanie jest, czy interface webowej aplikacji musi być podobny do natywnych aplikacji, czy nie jest to "przerost formy nad treścią"? Oczywiście nie jesteśmy zmuszeni do stosowania tego.
 
 jQuery Mobile to świetny, młody projekt. Pisanie aplikacji mobilnych web, staje się prostsze, a efekty mogą zachwycić.  Rewelacyjne UI, wiele dodatkowych funkcjonalności to sprawia, iż nie można przejść obok jQuery Mobile obojętnie. Mimo kilku kontrowersji, jest to framework warty polecenia, albo chociaż przetestowania.

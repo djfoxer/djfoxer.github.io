@@ -3,7 +3,7 @@ layout:     post
 title:      Jak obejść ograniczenia Sklepu Windows Phone?
 date:       2013-08-19 16:14:00
 summary:    Każdy z producentów ma własne unikalne aplikacje w sklepie Windows Phone, co więcej, ograniczone często do konkretnych modeli urządzeń (np. Nokia Pro Cam ograniczona do modeli 92x i 1020). Zatem teoretycznie nie zainstalujemy aplikacji od Noki na HTC i na odwrót, także dedykowanej aplikacji do zdjęć...
-categories: oprogramowanie porady urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -49,7 +49,7 @@ Adres IP ustawimy taki, jaki jest na komputerze z Fiddlerem, zaś nr portu wpisu
 
 
 
-  * Czas na uruchomienie Fiddlera. W menu opcji  *Tools-&gt;Fiddler Options...*  w zakładce  *Connections* , zaznaczyć należy  *Allow remote computers to conect* .
+  * Czas na uruchomienie Fiddlera. W menu opcji  *Tools->Fiddler Options...*  w zakładce  *Connections* , zaznaczyć należy  *Allow remote computers to conect* .
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_608x405_-_-_45753x20130818142530_0.png)
@@ -66,11 +66,11 @@ Adres IP ustawimy taki, jaki jest na komputerze z Fiddlerem, zaś nr portu wpisu
 
 
 
-Już na tym etapie wszelki ruch sieciowy wykonywany z poziomu telefonu, powinien być wychwytywany przez Fiddlera (jeśli tak nie jest, sprawdź czy opcja  *File-&gt;Capture Traffic*  jest zaznaczona). Warto teraz wyczyścić okno Fiddlera (ikona krzyżyka i wybieramy  *Remove all* ). 
+Już na tym etapie wszelki ruch sieciowy wykonywany z poziomu telefonu, powinien być wychwytywany przez Fiddlera (jeśli tak nie jest, sprawdź czy opcja  *File->Capture Traffic*  jest zaznaczona). Warto teraz wyczyścić okno Fiddlera (ikona krzyżyka i wybieramy  *Remove all* ). 
 
 Wejdźmy na urządzeniu z Windows Phone do Sklepu i wybierzmy jakąś aplikację do wyświetlenia. W oknie Fiddlera pojawi się m.in. log z hostem  *marketplaceedgeservice.windowsphone.com* . Jest to link, który został wysłany ze smartofnu do Sklepu. Zobaczmy jak wygląda taki przykładowy adres:
 
-http://marketplaceedgeservice.windowsphone.com/v8/catalog/apps/9c3e8cad-6702-4842-8f61-b8b33cc9caf1?os=8.0.10211.0&amp;cc=PL&amp;oc=&amp;lang=pl-PL&amp;hw=50700000&amp;dm=RM-825_eu_poland_295&amp;oemId=NOKIA&amp;moId=&amp;cf=00-0
+http://marketplaceedgeservice.windowsphone.com/v8/catalog/apps/9c3e8cad-6702-4842-8f61-b8b33cc9caf1?os=8.0.10211.0&cc=PL&oc=&lang=pl-PL&hw=50700000&dm=RM-825_eu_poland_295&oemId=NOKIA&moId=&cf=00-0
 
 Szybko zauważymy:
 
@@ -120,9 +120,9 @@ static function OnBeforeRequest(oSession: Session) {
 
 
 ```c#
-if(oSession.uriContains(&quot;_ORG&quot;))
+if(oSession.uriContains("_ORG"))
 {
-	oSession.url = oSession.url.Replace(&quot;_ORG&quot;&quot;,&quot;_ZMIANA&quot;);
+	oSession.url = oSession.url.Replace("_ORG"","_ZMIANA");
 }
 ```
 
@@ -221,7 +221,7 @@ Na pewno wszyscy kojarzą aplikację [Nokia Pro Cam](http://www.windowsphone.com
   * Wykonać wszystkie kroki opisane w punkcie  *Przygotowania do pracy* 
 
 
-  * Zapisujemy nazwę firmwareu urządzenia. Można to zrobić poprzez analizę linka wysyłanego do Sklepu lub prościej, w opcjach:  *Ustawienia-&gt;info+dodatki* , klikamy na  *więcej*  i spisujemy nazwę z pola  *Manufacturer Name* .
+  * Zapisujemy nazwę firmwareu urządzenia. Można to zrobić poprzez analizę linka wysyłanego do Sklepu lub prościej, w opcjach:  *Ustawienia->info+dodatki* , klikamy na  *więcej*  i spisujemy nazwę z pola  *Manufacturer Name* .
 
 
   * W kodzie z punktu  *Jak podmienić wartości?*  ustawiamy:

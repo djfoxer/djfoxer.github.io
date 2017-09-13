@@ -3,7 +3,7 @@ layout:     post
 title:      Nie tylko Wiedźmin. Historia polskich gier komputerowych — książka, której nie wypada nie kupić [recenzja]
 date:       2015-07-27 21:22:00
 summary:    Wspomnień czar. Czyli dawno, dawno temu...Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zest...
-categories: gry hobby inne
+categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -23,16 +23,16 @@ categories: gry hobby inne
 
 
 
-Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zestaw dyskietek z ogromną ilością oprogramowania. Każdy nośnik był ręcznie podpisany i wskazywał jawnie na nielegalne źródło pochodzenia, aczkolwiek przed rokiem 1994, czyli przed wejściem ustawy  *&quot;antypirackiej&quot;* , nikt nawet się tym nie przejmował.
+Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zestaw dyskietek z ogromną ilością oprogramowania. Każdy nośnik był ręcznie podpisany i wskazywał jawnie na nielegalne źródło pochodzenia, aczkolwiek przed rokiem 1994, czyli przed wejściem ustawy  *"antypirackiej"* , nikt nawet się tym nie przejmował.
 
 Gry, do pewnego momentu, zawsze kojarzyły się z językiem angielskim, który dla młodego człowieka na początku lat 90tych był często dużą barierą nie do pokonania. Często zatem siadałem ze słownikiem w dłoni i mozolnie tłumaczyłem newralgiczne elementy gry, bez których dalsze przejście gier było niemożliwe. Oczywiście zdarzały się wyjątki. Słynny  *Flashback*  otrzymałem w wersji francuskiej, a mimo to przeszedłem kilka poziomów. Wiele było również gier w języku niemieckim, ale w większości przypadków produkcje te nie wymagały znajomości języka zaborcy ;)
 
 [youtube=https://www.youtube.com/watch?v=IRg0xMF4SZ0]
 
-Jedna z pierwszych polskich gier, jaka zawitała na moją &quot; *Przyjaciółkę&quot;* , była iście epicka. Mowa oczywiście o  *Franko* , który podbił serca graczy w całej Polsce. Pomimo, iż gra nawet wówczas była mocno zacofana i prymitywna pod każdym względem, stała się hitem nad Wisłą. Pamiętam, że ze znajomymi przechodziliśmy grę kilka razy, a teksty jak &quot;Spadaj pierdoło&quot; przeszły do historii gier komputerowych. 
+Jedna z pierwszych polskich gier, jaka zawitała na moją " *Przyjaciółkę"* , była iście epicka. Mowa oczywiście o  *Franko* , który podbił serca graczy w całej Polsce. Pomimo, iż gra nawet wówczas była mocno zacofana i prymitywna pod każdym względem, stała się hitem nad Wisłą. Pamiętam, że ze znajomymi przechodziliśmy grę kilka razy, a teksty jak "Spadaj pierdoło" przeszły do historii gier komputerowych. 
 
 
-Warto dodać, iż na portalu crowdfundingowym [wspieram.to](https://wspieram.to/599-franko-2.html) zebrano niemalże 40 tyś. zł. na stworzenie  *Franko 2* . Tutaj niestety dobre wiadomości się kończą. Ludzie odpowiedzialni za kontynuację mają niestety problem na każdym etapie tworzenia gry. Główny programista &quot;uciekł&quot;, zostawiając masę kodu, którego chyba pozostali nie są w stanie uporządkować i &quot;ogarnąć&quot;. Kontakt z osobami wspierającymi kampanię również leży i co kilka miesięcy na Facebooku rzucane są szczątkowe informacje, które nie wróżą dobrze produkcji. Obym się mylił. Wróćmy jednak do polskich gier.
+Warto dodać, iż na portalu crowdfundingowym [wspieram.to](https://wspieram.to/599-franko-2.html) zebrano niemalże 40 tyś. zł. na stworzenie  *Franko 2* . Tutaj niestety dobre wiadomości się kończą. Ludzie odpowiedzialni za kontynuację mają niestety problem na każdym etapie tworzenia gry. Główny programista "uciekł", zostawiając masę kodu, którego chyba pozostali nie są w stanie uporządkować i "ogarnąć". Kontakt z osobami wspierającymi kampanię również leży i co kilka miesięcy na Facebooku rzucane są szczątkowe informacje, które nie wróżą dobrze produkcji. Obym się mylił. Wróćmy jednak do polskich gier.
 
 Po  *Franku*  przyszła kolej na inne polskie gry, które jakościowo przedstawiały się nadzwyczaj dobrze.  *Kajko i Kokosz*  do dziś prezentuje się całkiem przyzwoicie, nawet jeśli w kwestii grywalności można tej produkcji wiele zarzucić (już na początku pierwszej planszy można zakończyć grę, poprzez niewłaściwe użycie przedmiotu). 
 
@@ -67,7 +67,7 @@ Autorem książki jest Marcin Kosman, który przygodę z grami na poważnie zacz
 
 
 
-### &quot;Fabuła&quot;
+### "Fabuła"
 
 
 
@@ -85,7 +85,7 @@ Autorem książki jest Marcin Kosman, który przygodę z grami na poważnie zacz
 
 Tytuł podzielony został na kilka części. W dużym (bardzo, bardzo, bardzo dużym) skrócie przedstawię zarys każdego z działów.
 
-Pierwsza część obejmuje lata od &quot;zarania dziejów&quot; polskich gier, aż do roku 1991. To tutaj opisane są początki polskiej branży rozrywkowej, która pierwsze kroki stawiała na Atari, Commodore czy ZX Spectrum. Miejscem nie były garaże, jak w historiach zza oceanu, a raczej pokoje w przeciętnych blokowiskach, których pełno było w tamtych latach. To wówczas do życia powołano takie firmy jak IPS Computer Group, Mirage, czy słynne LK Avalon, które mimo niesprzyjających warunków na rynku (piractwo), próbowały sprzedać zachodnie i rodzime produkcje.
+Pierwsza część obejmuje lata od "zarania dziejów" polskich gier, aż do roku 1991. To tutaj opisane są początki polskiej branży rozrywkowej, która pierwsze kroki stawiała na Atari, Commodore czy ZX Spectrum. Miejscem nie były garaże, jak w historiach zza oceanu, a raczej pokoje w przeciętnych blokowiskach, których pełno było w tamtych latach. To wówczas do życia powołano takie firmy jak IPS Computer Group, Mirage, czy słynne LK Avalon, które mimo niesprzyjających warunków na rynku (piractwo), próbowały sprzedać zachodnie i rodzime produkcje.
 
 
 
@@ -93,7 +93,7 @@ Pierwsza część obejmuje lata od &quot;zarania dziejów&quot; polskich gier, a
 
 
 
-Ta część dość mocno związana jest z książką  *&quot;Bajty Polskie&quot;*  Bartłomieja Kluski i Mariusza Rozawdowskiego. Przyznaje, że chwilowo miałem obawy, czy przypadkiem nie będzie to kopia wymienionej pozycji. Faktycznie jest sporo nawiązań do książki Kluski (co nie może dziwić), ale Kosman rozwinął ten okres o wiele ciekawych anegdotek o ówczesnym rynku gier. Warto jednakże również sięgnąć na początek i po tą książkę, gdyż trochę szczegółowiej opisuje ona tamte, jakże zamierzchłe czasy. Szczególnie, że część z was może już ją mieć, gdyż pełna wersja została dodana jako ebook do DVD z CD-Action 02/2015.
+Ta część dość mocno związana jest z książką  *"Bajty Polskie"*  Bartłomieja Kluski i Mariusza Rozawdowskiego. Przyznaje, że chwilowo miałem obawy, czy przypadkiem nie będzie to kopia wymienionej pozycji. Faktycznie jest sporo nawiązań do książki Kluski (co nie może dziwić), ale Kosman rozwinął ten okres o wiele ciekawych anegdotek o ówczesnym rynku gier. Warto jednakże również sięgnąć na początek i po tą książkę, gdyż trochę szczegółowiej opisuje ona tamte, jakże zamierzchłe czasy. Szczególnie, że część z was może już ją mieć, gdyż pełna wersja została dodana jako ebook do DVD z CD-Action 02/2015.
 
 
 
@@ -138,7 +138,7 @@ Ostatnim rozdział obejmuje rok 2006 do 2014. Są to już lata jak najbardziej n
 
 
 
-### &quot;Grywalność&quot;
+### "Grywalność"
 
 
 
@@ -146,19 +146,19 @@ Książkę czyta się niezmiernie miło i przyjemnie. Nie ma tu wyszukanego jęz
 
 Jak już podkreśliłem, siłą tej książki są historie i anegdotki, których próżno szukać w sieci czy w innych produkcjach. Zebranie tak olbrzymiej ilości wiedzy wymagało wielu godzin spędzonych na korespondencjach i rozmowach z ludźmi. Wiele z tych osób obecnie jest potężnymi graczami na rynku rozrywki, ale też w wielu z nich nie ma już nic wspólnego z branżą gier wideo, co zapewne jeszcze bardziej utrudniało dotarcie do nich. 
 
-Niemalże z każdym rozdziałem związana jest jakaś historia &quot;zza kulis&quot;, która sprawia iż książkę czyta się szybko i często niemalże jak dobrą opowieść sensacyjną. Śmiało można powiedzieć, że jest to najbardziej obszerne i kompletne dzieło, które stawia sobie za cel zebranie niemalże całej polskiej branży gier wideo.
+Niemalże z każdym rozdziałem związana jest jakaś historia "zza kulis", która sprawia iż książkę czyta się szybko i często niemalże jak dobrą opowieść sensacyjną. Śmiało można powiedzieć, że jest to najbardziej obszerne i kompletne dzieło, które stawia sobie za cel zebranie niemalże całej polskiej branży gier wideo.
 
-To tutaj przeczytamy o tym jak kopie kopii Famicoma, zabiły Pegazusa, jak sprzedane Amerykanom polskie samoloty wojskowe uratowały rodzimego dystrybutora, czy dowiemy się o &quot;zmowie&quot; czasopism growych.
-
-
+To tutaj przeczytamy o tym jak kopie kopii Famicoma, zabiły Pegazusa, jak sprzedane Amerykanom polskie samoloty wojskowe uratowały rodzimego dystrybutora, czy dowiemy się o "zmowie" czasopism growych.
 
 
 
-### &quot;Ocena końcowa&quot;
+
+
+### "Ocena końcowa"
 
 
 
-Książki Marcina Kosman grzech nie mieć w swojej kolekcji. Ilość wiedzy jaką dostarczy nam ten ponad 400 stronicowy tytuł jest nie do opisania. Gorąco zachęcam do zakupu, szczególnie, że cena  nie jest wygórowana. Wersję &quot;analogową&quot; kupimy już za 29.99 zł, zaś ebook to wydatek 21.99 zł. 
+Książki Marcina Kosman grzech nie mieć w swojej kolekcji. Ilość wiedzy jaką dostarczy nam ten ponad 400 stronicowy tytuł jest nie do opisania. Gorąco zachęcam do zakupu, szczególnie, że cena  nie jest wygórowana. Wersję "analogową" kupimy już za 29.99 zł, zaś ebook to wydatek 21.99 zł. 
 
 
 

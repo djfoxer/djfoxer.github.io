@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7 - ciekawe aplikacje: Cool Remote i Send To WP7
 date:       2011-08-25 18:49:00
 summary:    W tym małym wpisie chciałbym przedstawić dwie bardzo ciekawe i darmowe aplikacje. Programy w znaczący sposób ułatwią komunikację pomiędzy naszym Windows Phone 7, a np. desktopem.Cool RemoteCool Remote (http://coolremote.wordpress.com) jest aplikacją, dzięki której będziemy mogli połączyć się zdalnie...
-categories: oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -14,9 +14,9 @@ W tym małym wpisie chciałbym przedstawić dwie bardzo ciekawe i darmowe aplika
 
 Cool Remote ([http://coolremote.wordpress.com](http://coolremote.wordpress.com)) jest aplikacją, dzięki której będziemy mogli połączyć się zdalnie, z naszym komputerem w sieci lokalnej. 
 
-W przeciwieństwie do innych darmowych aplikacji, które ograniczają się jedynie do sterownia klawiaturą/odtwarzaczem audio, Cool Remote jest programem, który jest namiastką &quot;Pulpitu zdalnego&quot; znanego z systemów Windows. 
+W przeciwieństwie do innych darmowych aplikacji, które ograniczają się jedynie do sterownia klawiaturą/odtwarzaczem audio, Cool Remote jest programem, który jest namiastką "Pulpitu zdalnego" znanego z systemów Windows. 
 
-Wystarczy na komputerze zainstalować aplikację &quot;serwerową&quot; Cool Remote Server, która umożliwi połączenie się z danym komputerem poprzez sieć. Ustawiamy jeszcze hasło dostępu i nasz pulpit już jest gotowy do udostępniania pulpitu.
+Wystarczy na komputerze zainstalować aplikację "serwerową" Cool Remote Server, która umożliwi połączenie się z danym komputerem poprzez sieć. Ustawiamy jeszcze hasło dostępu i nasz pulpit już jest gotowy do udostępniania pulpitu.
 
 
 
@@ -34,7 +34,7 @@ Program umożliwia podgląd pulpitu (z zoomem), sterowanie klawiaturą oraz mysz
 
 
 
-Gdy ta dość znacząca ułomność zostanie naprawiona, będziemy mieli możliwość w 100% sterownia zdanie komputerem. Taki malutki &quot;pulpit zdalny&quot;. Warto czekać na dalszy rozwój tej aplikacji, gdyż jest to nieliczny w pełni darmowy program do łączenia się zdalnie poprzez Windows Phone 7. Program został udostępniony 13 sierpnia! A zatem jest to nowy, świeży soft, w międzyczasie, 18 sierpnia była już mała aktualizacja. Twórcy pieczołowicie pracują nad udoskonalaniem swojego działa. Warto trzymać kciuki.
+Gdy ta dość znacząca ułomność zostanie naprawiona, będziemy mieli możliwość w 100% sterownia zdanie komputerem. Taki malutki "pulpit zdalny". Warto czekać na dalszy rozwój tej aplikacji, gdyż jest to nieliczny w pełni darmowy program do łączenia się zdalnie poprzez Windows Phone 7. Program został udostępniony 13 sierpnia! A zatem jest to nowy, świeży soft, w międzyczasie, 18 sierpnia była już mała aktualizacja. Twórcy pieczołowicie pracują nad udoskonalaniem swojego działa. Warto trzymać kciuki.
 
 Jednakże już teraz aplikacja jest bardzo przydatna. Możemy zobaczyć szybko co się dzieje na naszym komputerze lub nie podchodząc do biurka sterować PCtem. Opcje dostępne z poziomu Windows Phone 7 pozwalają na ustawienie jakości przesyłanego obrazu oraz wielkości bufora.
 
@@ -51,7 +51,7 @@ Ostatnią aplikacją jest Send To WP7 ([http://www.daveamenta.com/products/chrom
 
 
 
-Od tego momentu będziemy mogli przesyłać dane do WP7. Zaznaczmy tekst i klikamy prawym klawisze myszy wybierając: &quot;Send to Windows Phone&quot;.  Tekst możemy natychmiast użyć w: wiadomości sms, email, jako adres na mapie, fraza do wyszukania w bingu lub w Marketplace. A także jako numer, na który możemy zadzwonić lub wysłać wiadomość. 
+Od tego momentu będziemy mogli przesyłać dane do WP7. Zaznaczmy tekst i klikamy prawym klawisze myszy wybierając: "Send to Windows Phone".  Tekst możemy natychmiast użyć w: wiadomości sms, email, jako adres na mapie, fraza do wyszukania w bingu lub w Marketplace. A także jako numer, na który możemy zadzwonić lub wysłać wiadomość. 
 
 W taki prosty sposób możemy wysłać np. hasła lub długie smsy z komputera.
 

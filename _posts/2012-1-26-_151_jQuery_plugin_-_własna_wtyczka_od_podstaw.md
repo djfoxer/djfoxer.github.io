@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery plugin - własna wtyczka od podstaw
 date:       2012-01-26 20:49:00
 summary:    W tym krótkim wpisie, przedstawię jak szybko można napisać własny plugin do jQuery. Z racji tego, iż jest to obecnie jeden z najbardziej popularnych frameworków JavaScriptowych, znajomość tworzenia rozszerzeń jest bardzo przydatna.Nasz pluginW celu uniknięcia tworzenia sztuki dla sztuki, stworzona w...
-categories: internet porady programowanie
+categories: <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -56,7 +56,7 @@ Na tym etapie nazywamy nasz plugin. W tym przypadku będzie to changeColor. Już
 
 
 ```js
-$(&quot;div&quot;).changeColor();
+$("div").changeColor();
 ```
 
 
@@ -72,7 +72,7 @@ Pluginy jQuery opierają się na zasadzie, iż każda wtyczka zwraca przetworzon
 
 ```js
 
-$(&quot;div&quot;).attr(&quot;data-type&quot;,&quot;slider&quot;).addClass(&quot;slider&quot;);
+$("div").attr("data-type","slider").addClass("slider");
 
 ```
 
@@ -111,8 +111,8 @@ Nasz plugin powinien przyjmować parametry wejściowe, zatem należy zapewnić t
 	
 		//parametry wejściowe
 		var settings = $.extend( {
-		  colorFirst : &#39;Red&#39;,
-		  colorSecond : &#39;Green&#39;
+		  colorFirst : 'Red',
+		  colorSecond : 'Green'
 		}, options);
 		
 		return this.each(function() {
@@ -129,11 +129,11 @@ Możliwe wywołania:
 
 ```js
 
-$(&quot;div&quot;).changeColor({ colorFirst : &#39;Blue&#39;, colorSecond : &#39;Black&#39; });
+$("div").changeColor({ colorFirst : 'Blue', colorSecond : 'Black' });
 //parametry domyślne
-$(&quot;div&quot;).changeColor();
+$("div").changeColor();
 //ustawienie tylko jednego parametru
-$(&quot;div&quot;).changeColor({ colorSecond : &#39;Yellow&#39; });
+$("div").changeColor({ colorSecond : 'Yellow' });
 
 ```
 
@@ -173,36 +173,36 @@ Poniższy schemat jest zalecany, w przypadku pluginów posiadających publiczne 
 		
 		return this.each(function() {
 			//ciało naszego pluginu
-			if(methods
-```
-){	
+			if(methods[options]){	
 				//wywołana metoda publiczna
 				return methods[options].apply( this, arguments );
 			}
-			else if (typeof options === &#39;object&#39; || ! options ){
+			else if (typeof options === 'object' || ! options ){
 				//wywołany konstruktor
 				var settings = $.extend( {
-				  colorFirst : &#39;Red&#39;,
-				  colorSecond: &#39;Green&#39;
+				  colorFirst : 'Red',
+				  colorSecond: 'Green'
 				}, options);
 				//inicjalizacja pluginu
 				return;
 			}
 			else{
 				//bład
-				$.error(&#39;changeColor: no method: &#39;+ options);
+				$.error('changeColor: no method: '+ options);
 			} 
 		});	
 	}
 })(jQuery);					
-	[/code]	
+	
+```
+	
 
 Powyżej stworzono obiekt  *methods* , zawierający metody publiczne.  *SwapColors*  jest publiczną metodą wystawioną na zewnątrz. Taki zabieg powoduje, iż do metody odwołujemy się podobnie jak ma to miejsce w pluginie jQuery UI:
 
 
 ```js
 
-$(&quot;div&quot;).changeColor(&#39;swapColors&#39;);
+$("div").changeColor('swapColors');
 
 ```
 
@@ -215,7 +215,7 @@ Dodatkowo prywatna metoda  *onClick*  będzie użyta jedynie wewnątrz wtyczki.
 
 
 
-Pisząc plugin do jQuery, warto zadbać o to by można było nasz plugin &quot;odinstalować&quot;. Należy zatem dodać metodę która będzie sprzątała po naszej wtyczce. W takim destruktorze warto zadbać o to, by znalazło się w nim usunięcie np. eventów, które podczepiliśmy podczas inicjalizacji lub innych danych wrzuconych do htmla. Do powyższego kodu dołączono metodę  *destroy* , wywołuje się ją podobnie jak inne publiczne metody.
+Pisząc plugin do jQuery, warto zadbać o to by można było nasz plugin "odinstalować". Należy zatem dodać metodę która będzie sprzątała po naszej wtyczce. W takim destruktorze warto zadbać o to, by znalazło się w nim usunięcie np. eventów, które podczepiliśmy podczas inicjalizacji lub innych danych wrzuconych do htmla. Do powyższego kodu dołączono metodę  *destroy* , wywołuje się ją podobnie jak inne publiczne metody.
 
 
 
@@ -231,13 +231,13 @@ Na początek dodamy inicjalizację wtyczki:
 
 //inicjalizacja pluginu
 $this = $(this);
-data = $this.data(&quot;changeColor&quot;);
+data = $this.data("changeColor");
 if(!data)
 {
-	data = $this.data(&quot;changeColor&quot;, settings);
-	$this.bind(&quot;click&quot;, onClick);
+	data = $this.data("changeColor", settings);
+	$this.bind("click", onClick);
 }
-$this.css(&quot;background-color&quot;, settings.colorFirst);
+$this.css("background-color", settings.colorFirst);
 data.first = true;
 
 ```
@@ -252,9 +252,9 @@ Przyszła kolej na dodanie ciała dla funkcji  *onClick* , która podmienia tło
 
 //ciało metody prywatnej
 $this = $(this);
-data = $this.data(&quot;changeColor&quot;);
+data = $this.data("changeColor");
 data.first = !data.first;
-$this.css(&quot;background-color&quot;, 
+$this.css("background-color", 
 	data.first ? data.colorSecond : data.colorFirst);
 return true;
 
@@ -268,7 +268,7 @@ Dodajmy jeszcze kod dla publicznej metody  *SwapColors* , która zamienia kolejn
 
 //wystawiona metoda
 $this = $(this);
-data = $this.data(&quot;changeColor&quot;);
+data = $this.data("changeColor");
 tmp = data.colorSecond;
 data.colorSecond = data.colorFirst;
 data.colorFirst = tmp;
@@ -283,9 +283,9 @@ Ostatni krok to uzupełnienie metody dla destruktora:
 
 //destruktor
 $this = $(this);
-$this.unbind(&quot;click&quot;);
-$this.css(&quot;background-color&quot;,&quot;&quot;);
-$this.removeData(&quot;changeColor&quot;);
+$this.unbind("click");
+$this.css("background-color","");
+$this.removeData("changeColor");
 
 ```
 
@@ -308,9 +308,9 @@ Gdy zechcemy usunąć plugin z elementu wywołujemy metodę  *destroy* . Pozbywa
 		function onClick(event) {
 			//ciało metody prywatnej
 			$this = $(this);
-			data = $this.data(&quot;changeColor&quot;);
+			data = $this.data("changeColor");
 			data.first = !data.first;
-			$this.css(&quot;background-color&quot;, 
+			$this.css("background-color", 
 				data.first ? data.colorSecond : data.colorFirst);
 			return true;
 		}
@@ -320,7 +320,7 @@ Gdy zechcemy usunąć plugin z elementu wywołujemy metodę  *destroy* . Pozbywa
 			swapColors: function() {
 				//wystawiona metoda
 				$this = $(this);
-				data = $this.data(&quot;changeColor&quot;);
+				data = $this.data("changeColor");
 				tmp = data.colorSecond;
 				data.colorSecond = data.colorFirst;
 				data.colorFirst = tmp;
@@ -328,46 +328,46 @@ Gdy zechcemy usunąć plugin z elementu wywołujemy metodę  *destroy* . Pozbywa
 			destroy: function() {
 				//destruktor
 				$this = $(this);
-				$this.unbind(&quot;click&quot;);
-				$this.css(&quot;background-color&quot;,&quot;&quot;);
-				$this.removeData(&quot;changeColor&quot;);	
+				$this.unbind("click");
+				$this.css("background-color","");
+				$this.removeData("changeColor");	
 			}
 		};
 		
 		return this.each(function() {
 			//ciało naszego pluginu
-			if(methods
-```
-){	
+			if(methods[options]){	
 				//wywołana metoda publiczna
 				return methods[options].apply( this, arguments );
 			}
-			else if (typeof options === &#39;object&#39; || ! options ){
+			else if (typeof options === 'object' || ! options ){
 				//wywołany konstruktor
 				var settings = $.extend( {
-				  colorFirst : &#39;Red&#39;,
-				  colorSecond: &#39;Green&#39;
+				  colorFirst : 'Red',
+				  colorSecond: 'Green'
 				}, options);
 				//inicjalizacja pluginu
 				$this = $(this);
-				data = $this.data(&quot;changeColor&quot;);
+				data = $this.data("changeColor");
 				if(!data)
 				{
-					data = $this.data(&quot;changeColor&quot;, settings);
-					$this.bind(&quot;click&quot;, onClick);
+					data = $this.data("changeColor", settings);
+					$this.bind("click", onClick);
 				}
-				$this.css(&quot;background-color&quot;, settings.colorFirst);
+				$this.css("background-color", settings.colorFirst);
 				data.first = true;
 				return;
 			}
 			else{
 				//bład
-				$.error(&#39;changeColor: no method: &#39;+ options);
+				$.error('changeColor: no method: '+ options);
 			} 
 		});	
 	}
 })(jQuery); 
 
-[/code]
+
+```
+
 
 Jak widać tworzenie pluginów do jQuery nie jest trudne. A zatem, do dzieła! :) 

@@ -3,7 +3,7 @@ layout:     post
 title:      Licznik Blogowy - wtyczka do Chrome/Opery/Firefoxa dla każdego Blogera portalu [aktualizacja 08.04.14 (nowe funkcjonalności)] 0.6
 date:       2014-01-28 15:30:00
 summary:    Wielu z nas zapewne spogląda często na swoją listę Popularne wpisy, która pokazuje najczęściej komentowane publikacje na naszym prywatnym blogu. Cóż, można śmiało powiedzieć, że równie ważnym czynnikiem popularności wpisu jest również ilość wyświetleń. Niestety, aby zobaczyć licznik wyświetleń musim...
-categories: oprogramowanie porady inne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -100,7 +100,7 @@ przeglądarkę. Zatem jeśli wyjdzie nowsza wersja to przeglądarka pobierze ją
 ### Użytkowanie
 
 
-Wtyczka Licznik Blogowy działa jedynie w przypadku, gdy jesteśmy zalogowani. Dopiero wówczas rozszerzenie będzie miało dostęp do podstron edycji publikacji. Jeśli jako zalogowani użytkownicy wejdziemy na główną stronę swojego bloga (w moim przypadku to [http://www.dobreprogramy.pl/djfoxer](http://www.dobreprogramy.pl/djfoxer)), wówczas po prawej stronie nad avatarem, a pod polem do wyszukania, znajdziecie nowy przycisk:  *&quot;rozpocznij analizę wpisów na blogu&quot;*  (kolory są zależne od wybranej skórki bloga):
+Wtyczka Licznik Blogowy działa jedynie w przypadku, gdy jesteśmy zalogowani. Dopiero wówczas rozszerzenie będzie miało dostęp do podstron edycji publikacji. Jeśli jako zalogowani użytkownicy wejdziemy na główną stronę swojego bloga (w moim przypadku to [http://www.dobreprogramy.pl/djfoxer](http://www.dobreprogramy.pl/djfoxer)), wówczas po prawej stronie nad avatarem, a pod polem do wyszukania, znajdziecie nowy przycisk:  *"rozpocznij analizę wpisów na blogu"*  (kolory są zależne od wybranej skórki bloga):
 
 
 
@@ -142,7 +142,7 @@ Wpisy posortowane są wg ilość wyświetleń (malejąco). Od wersji 0.4 można 
 
 
 
-Prezentowanych jest tylko TOP 10 wpisów, ale nic nie stoi na przeszkodzie, aby wyświetlić całą listę. W tym celu klikamy na przycisk  *&quot;pokaż wszystkie&quot;* , znajdujący się na dole listy:
+Prezentowanych jest tylko TOP 10 wpisów, ale nic nie stoi na przeszkodzie, aby wyświetlić całą listę. W tym celu klikamy na przycisk  *"pokaż wszystkie"* , znajdujący się na dole listy:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127231820_0.png)
@@ -165,7 +165,7 @@ wówczas taka publikacja będzie miała czerwone podświetlenie:
 
 
 
-W każdym przypadku kliknięcie na nazwę wpisu przeniesie nas bezpośrednio do wpisu na blogu. Jeśli klikniemy na  *&quot;XXX wyświetleń&quot;*  zostaniemy przekierowani do edycji danej publikacji.
+W każdym przypadku kliknięcie na nazwę wpisu przeniesie nas bezpośrednio do wpisu na blogu. Jeśli klikniemy na  *"XXX wyświetleń"*  zostaniemy przekierowani do edycji danej publikacji.
 
 
 

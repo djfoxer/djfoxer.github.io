@@ -3,7 +3,7 @@ layout:     post
 title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
 date:       2013-01-30 15:41:00
 summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Ni...
-categories: oprogramowanie porady serwery
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
 ---
 
 
@@ -13,7 +13,7 @@ Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chw
 
 
 Mam kontakt z oprogramowaniem, które również nie można przenieść na nowe wersje frameworku ze względu na kilka mniejszych i większych zależności, które wymieniłem. Nie ma już to większego znaczenia. W czym jednak jest problem? Otóż pewien projekt w czystym ASP.NET 3.5 (w sumie to 2.0) korzysta z biblioteki [UrlRewritingNet.UrlRewrite](http://www.urlrewriting.net) (nie jest ważne dlaczego ktoś to użył i nie ma możliwości zmiany, zapewne wielu z Was ma również styczność z tego typu projektami). Jest to projekt, który pozwala na starszych wersjach ASP.NET korzystać z tzw. przyjaznych linków np. zamiast
- *adres/Details.aspx?id=123&amp;param=abc*  
+ *adres/Details.aspx?id=123&param=abc*  
 można użyć: 
 adres/Produkt/123/abc. 
 Często używany przez SEO itp. Niestety, nie można go już w realnym czasie przepisać na MVC, czy coś podobnego. Użycie [UrlRewritingNet.UrlRewrite](http://www.urlrewriting.net) sprawiło, że wystawiając go na serwerze z nowym IIS, trzeba się pomęczyć, aby wszystko działało jak należy. 
@@ -67,7 +67,7 @@ Przestawię mały poradnik jak zmusić  [UrlRewritingNet.UrlRewrite](http://www.
   * nazwa: Wildcard
 
 
-  * otwieramy  *ograniczenie żądań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa &quot; *Wywołaj obsługę tylko, jeśli....* &quot;
+  * otwieramy  *ograniczenie żądań*  i na zakładce  *Mapowanie*  odznaczamy checkboxa " *Wywołaj obsługę tylko, jeśli....* "
 
 
   * zatwierdzamy podwójnie, na pytanie o ISAPI odpowiadamy twierdząco

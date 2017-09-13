@@ -2,8 +2,8 @@
 layout:     post
 title:      DP PostTagger - wtyczka do Chrome tagująca wpisy na blogu dobrychprogramów
 date:       2012-08-13 18:13:00
-summary:    Oto jest, długo oczekiwana (czyż, nie?) wtyczka do Chrome, która taguje wpisy, oczekujące do wejścia na stronę główną.Czym jest DP PostTagger i jak działa?DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer &#169; 2012 :P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdz...
-categories: oprogramowanie internet porady
+summary:    Oto jest, długo oczekiwana (czyż, nie?) wtyczka do Chrome, która taguje wpisy, oczekujące do wejścia na stronę główną.Czym jest DP PostTagger i jak działa?DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer © 2012 :P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdza ona...
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
@@ -23,13 +23,13 @@ Oto jest, długo oczekiwana (czyż, nie?) wtyczka do Chrome, która taguje wpisy
 
 
 
-DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer &#169; 2012 :P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdza ona każdy wpis, ale tylko te, które są w dziale oczekujących na wejście na stronę główną (zakładka &quot;pozostałe&quot;). 
+DP PostTagger to wtyczka do Chroma (mego autorstwa - djfoxer © 2012 :P ), która otagowuje (oznakowuje) wpisy na blogu. Jednakże, nie sprawdza ona każdy wpis, ale tylko te, które są w dziale oczekujących na wejście na stronę główną (zakładka "pozostałe"). 
 
-W tym dziale pojawiają się wpisy, które jeszcze nie zdążyły być przeanalizowane przez Redakcję lub te, które nie nadawały się na główną. Nazwać to można &quot;wylęgarnią&quot;, czy &quot;wykopaliskiem&quot;. Zatem są tam przyszłe teksty, które znajdziemy w wyróżnionych i takie, które nic nie wnoszą, a jedynie marnują czas Czytelników.
+W tym dziale pojawiają się wpisy, które jeszcze nie zdążyły być przeanalizowane przez Redakcję lub te, które nie nadawały się na główną. Nazwać to można "wylęgarnią", czy "wykopaliskiem". Zatem są tam przyszłe teksty, które znajdziemy w wyróżnionych i takie, które nic nie wnoszą, a jedynie marnują czas Czytelników.
 
-Otóż dla Was, czyli dla Czytelników bloga dobrychprogramów, powstała wtyczka DP PostTagger! Jej głównym zadaniem jest otagowanie wpisów w zakładce &quot;pozostałe&quot;, które mogę być potencjalnym traceniem czasu. Do oznakowania wpisów posłużyłem się kilkoma parametrami, które są w pełni konfigurowane z poziomu opcji wtyczki.
+Otóż dla Was, czyli dla Czytelników bloga dobrychprogramów, powstała wtyczka DP PostTagger! Jej głównym zadaniem jest otagowanie wpisów w zakładce "pozostałe", które mogę być potencjalnym traceniem czasu. Do oznakowania wpisów posłużyłem się kilkoma parametrami, które są w pełni konfigurowane z poziomu opcji wtyczki.
 
-Wtyczka dla każdego wpisu w zakładce &quot;pozostałe&quot; dodaje tagi, które omówione zostaną w następnym punkcie.  Wystrczy kliknąć na link &quot;pozostałe&quot;, by DP PostTagger rozpoczął działanie. Każdy wpis jest analizowany oddzielnie i asynchronicznie.  Analiza trwa w tle, nie zakłócając normalnej pracy. Jeśli jakiś warunek jest spełniony dla danego wpisu, otrzymuje on oznakowanie.
+Wtyczka dla każdego wpisu w zakładce "pozostałe" dodaje tagi, które omówione zostaną w następnym punkcie.  Wystrczy kliknąć na link "pozostałe", by DP PostTagger rozpoczął działanie. Każdy wpis jest analizowany oddzielnie i asynchronicznie.  Analiza trwa w tle, nie zakłócając normalnej pracy. Jeśli jakiś warunek jest spełniony dla danego wpisu, otrzymuje on oznakowanie.
 
 Wtyczka DP PostTagger posiada moduł auto-aktualizacyjny!
 
@@ -91,14 +91,14 @@ Kolejne oznaczenie to ilość komentarzy dodanych na portalu przez autora wpisu.
 ### Liczba znaków we wpisie
 
 
-W opcjach można ustawić minimalną liczbę akceptowalnych znaków, jakie powinien zawierać wpis. Jeśli ilość znaków nie przekracza ustalonej liczby (domyślnie 1200), wówczas pojawi się pomarańczowy znacznik &quot;Uwaga na wpis!&quot;.
+W opcjach można ustawić minimalną liczbę akceptowalnych znaków, jakie powinien zawierać wpis. Jeśli ilość znaków nie przekracza ustalonej liczby (domyślnie 1200), wówczas pojawi się pomarańczowy znacznik "Uwaga na wpis!".
 
 
 
-### &quot;Zakazane&quot; słowa w tytule wpisów
+### "Zakazane" słowa w tytule wpisów
 
 
-Ostatnią opcją jest możliwość dodania słów w tytule wpisu, które będą uznawane za &quot;niebezpieczne&quot;. Mogą być to również części słów. Domyślnie są to słowa &quot;wita&quot; (ze względu n to, iż takie słowo klucz, będzie pasowało do słów: witam, witajcie) i &quot;cześć&quot;. Można rozszerzyć słownik o inne słowa poprzez opcje wtyczki. Jeśli słowo klucz zostanie wyłapane w tytule, wpis zostaje otagowany pomarańczowym znacznikiem &quot;Uwaga na wpis!&quot;. 
+Ostatnią opcją jest możliwość dodania słów w tytule wpisu, które będą uznawane za "niebezpieczne". Mogą być to również części słów. Domyślnie są to słowa "wita" (ze względu n to, iż takie słowo klucz, będzie pasowało do słów: witam, witajcie) i "cześć". Można rozszerzyć słownik o inne słowa poprzez opcje wtyczki. Jeśli słowo klucz zostanie wyłapane w tytule, wpis zostaje otagowany pomarańczowym znacznikiem "Uwaga na wpis!". 
 
 
 
@@ -116,7 +116,7 @@ Wszystkie wymienione powyżej metody tagowania można łatwo dostosować do swoi
 
 
 
-Po zmianach należy zapisać nowe ustawienia poprzez wciśnięcie przycisku &quot;Zapisz opcje&quot;.
+Po zmianach należy zapisać nowe ustawienia poprzez wciśnięcie przycisku "Zapisz opcje".
 
 
 
@@ -128,7 +128,7 @@ Z racji tego, iż nie posiadam (jeszcze? :P ) konta w Chrome Web Store, nie moż
 
 
 
-  * otwieramy okno z rozszerzeniami: &quot;kluczyk&quot; -&gt; &quot;Narzędzia&quot; -&gt; &quot;Rozszerzenia&quot;  lub wpisujemy w nowym oknie: chrome://chrome/extensions/
+  * otwieramy okno z rozszerzeniami: "kluczyk" -> "Narzędzia" -> "Rozszerzenia"  lub wpisujemy w nowym oknie: chrome://chrome/extensions/
 
 
   * wchodzimy na stronę z wtyczką [http://www.djfoxer.pl/DPPostTagger/DPPostTagger.crx](http://www.djfoxer.pl/DPPostTagger/DPPostTagger.crx)
@@ -142,7 +142,7 @@ Z racji tego, iż nie posiadam (jeszcze? :P ) konta w Chrome Web Store, nie moż
 
 
 
-  * pomimo tego, wtyczka zapisała się na dysku, odnajdujemy ją (np. poprzez &quot;Pokaż w folderze&quot;)
+  * pomimo tego, wtyczka zapisała się na dysku, odnajdujemy ją (np. poprzez "Pokaż w folderze")
 
 
 
@@ -150,7 +150,7 @@ Z racji tego, iż nie posiadam (jeszcze? :P ) konta w Chrome Web Store, nie moż
 
 
 
-  * wystarczy teraz przeciągnąć plik DPPostTagger do otwartego okna &quot;Rozszerzenia&quot; w Chrome, aby ją zainstalować
+  * wystarczy teraz przeciągnąć plik DPPostTagger do otwartego okna "Rozszerzenia" w Chrome, aby ją zainstalować
 
 
 
@@ -164,7 +164,7 @@ Z racji tego, iż nie posiadam (jeszcze? :P ) konta w Chrome Web Store, nie moż
 
 
 
-Od tej pory wtyczka będzie aktywna na stronie [http://www.dobreprogramy.pl/Blog.html](http://www.dobreprogramy.pl/Blog.html), po przejściu na zakładkę &quot;pozostałe&quot;.
+Od tej pory wtyczka będzie aktywna na stronie [http://www.dobreprogramy.pl/Blog.html](http://www.dobreprogramy.pl/Blog.html), po przejściu na zakładkę "pozostałe".
 
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Licznik Blogowy zmienia się dla Ciebie (Chrome/Opera/Firefox) [Aktualizacja]
 date:       2017-07-10 18:49:00
 summary:    Licznik Blogowy to wtyczka do najpopularniejszych przeglądarek, którą warto mieć. Nie ma znaczenia czy prowadzisz blog na portalu, czy tylko czytasz co ciekawsze artykuły. Dodatek potrafi zebrać statystyki z każdego bloga i przedstawić je w postaci szczegółowej listy i atrakcyjnych wykresów. Po szcz...
-categories: oprogramowanie internet programowanie
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 

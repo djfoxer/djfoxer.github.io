@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Indie Bundle 6
 date:       2012-09-24 23:59:00
 summary:    Po przerwie powraca ponownie paczka The Humble Indie Bundle. Pakiet oznaczony jest numerkiem 6, nie posiada żadnego podtytułu, a zatem mamy do czynienia z kolejną pełnoprawną wersją The Humble Indie Bundle.O The Humble Indie Bundle słyszał zapewne każdy, w wielkim skrócie - kupujemy gry za dowolną k...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -28,7 +28,7 @@ O[ The Humble Indie Bundle](http://www.humblebundle.com/) słyszał zapewne każ
 ### Metacritic: 83/100
 
 
-Wciągający hack&amp;slash, stworzony przez osoby, pracujące wcześniej nad serią Diablo. Gra nastawiona jest na walkę z potworami, eksplorację terenu i zbieranie wszystkiego co znajdziemy na swojej drodze. Styl graficzny może przypominać Diablo III, zaś sama rozgrywka klasyczne gry z tego gatunku. Bardzo dobry slasher na długie zimowe wieczory. Niedawno wyszła kontynuacja, opatrzona numerkiem dwa. 
+Wciągający hack&slash, stworzony przez osoby, pracujące wcześniej nad serią Diablo. Gra nastawiona jest na walkę z potworami, eksplorację terenu i zbieranie wszystkiego co znajdziemy na swojej drodze. Styl graficzny może przypominać Diablo III, zaś sama rozgrywka klasyczne gry z tego gatunku. Bardzo dobry slasher na długie zimowe wieczory. Niedawno wyszła kontynuacja, opatrzona numerkiem dwa. 
 
 
 [youtube=http://www.youtube.com/watch?v=4HL8fw6xjjk]

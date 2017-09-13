@@ -3,7 +3,7 @@ layout:     post
 title:      Prawo, a zakupy w Sieci
 date:       2011-08-10 15:37:00
 summary:    Obecnie, kupujemy poprzez Sieć, coraz więcej. Dzięki Ustawie o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny, jesteśmy bardziej chronieni w czasie zakupów sieci. Warto znać swoje prawa. W skrócie przedstawię wybrane zagadnienia. O czym...
-categories: porady inne
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -18,9 +18,9 @@ Jeśli kupimy towar na aukcji od osoby prywatnej, niestety nie będziemy mogli s
 
 Dodatkowo jeśli kupimy przedmiot na aukcji, a formą aukcji będzie licytacja, również w tym przypadku ustawa nie będzie użyteczna. 
 
-Gdy formą aukcji jest opcja &quot;Kup teraz&quot;, przysługują nam prawa zawarte w ustawie.
+Gdy formą aukcji jest opcja "Kup teraz", przysługują nam prawa zawarte w ustawie.
 
-W przypadku, gdy aukcja ma zarówno opcje &quot;Kup teraz&quot;, jak i licytację, ustawa będzie obowiązywać kupującego, w zależności jaką formę aukcji wybierze.
+W przypadku, gdy aukcja ma zarówno opcje "Kup teraz", jak i licytację, ustawa będzie obowiązywać kupującego, w zależności jaką formę aukcji wybierze.
 
 
  *Zwrot towaru, bez podania przyczyny* 
@@ -47,7 +47,7 @@ Art. 10.
 
  *Kiedy można zwrócić rozpakowany/użyty towar?* 
 
-W poprzednim paragrafie, odnośnie zwrotu bez podania przyczyny, mowa była o przedmiocie nierozpakowanym. Jednakże są wyjątki. Towar możemy zwrócić, gdy nie przekroczyliśmy tzw. &quot;zmian w granicach zwykłego zarządu&quot;. 
+W poprzednim paragrafie, odnośnie zwrotu bez podania przyczyny, mowa była o przedmiocie nierozpakowanym. Jednakże są wyjątki. Towar możemy zwrócić, gdy nie przekroczyliśmy tzw. "zmian w granicach zwykłego zarządu". 
 
 Oznacza, iż mamy prawo rozpakować i użyć kupionego przedmiotu, aby sprawdzić czy działa on tak jak tego chcieliśmy.
 
@@ -113,13 +113,13 @@ Art. 12.
 3. W wypadku gdy przedsiębiorca nie może wykonać zobowiązania z powodu choćby przejściowej niemożności spełnienia świadczenia o właściwościach zamówionych przez konsumenta, przedsiębiorca może, jeżeli zawarto takie zastrzeżenie w umowie, zwolnić się z zobowiązania przez spełnienie świadczenia zastępczego, odpowiadającego tej samej jakości i przeznaczeniu oraz za tę samą cenę lub wynagrodzenie, informując zarazem konsumenta na piśmie o jego prawie nieprzyjęcia tego świadczenia i odstąpienia od umowy, ze zwrotem rzeczy na koszt przedsiębiorcy.
 4. W wypadku, o którym mowa w ust. 3, konsument ma prawo odstąpić od umowy w sposób i na zasadach określonych w art. 7. Zwrot rzeczy następuje w takim wypadku na koszt przedsiębiorcy.[/code]
 
- *&quot;Z ostatniej chwili...&quot;: rezygnując z towaru, to sklep musi zwrócić opłatę za dostarczenie przesyłki!* 
+ *"Z ostatniej chwili...": rezygnując z towaru, to sklep musi zwrócić opłatę za dostarczenie przesyłki!* 
 
 Urząd Ochrony Konkurencji i Konsumentów wydał niedawno decyzje o tym, iż w przypadku zwrotu towaru, sprzedający musi pokryć także koszty związane z dostarczeniem przesyłki do niego, przez kupującego!
 
 Sklepy, które nie będą chciały tego zrobić, można będzie podać do sądu. Wówczas jest pewne, iż przegrają proces. Oprócz kwoty za przesyłkę, będą musiały również zwrócić pieniądze za koszty postępowania. 
 
-Jak będzie to wyglądać kiedy zechcemy oddać lodówkę, czy telewizor? Czy nie będzie to prowadzić do nadużyć? Kupujący będą mogli &quot;dla żartu&quot; kupić duży objętościowo towar, a zaraz potem zgłosić chęć oddania go, nie tracąc nic na tym.
+Jak będzie to wyglądać kiedy zechcemy oddać lodówkę, czy telewizor? Czy nie będzie to prowadzić do nadużyć? Kupujący będą mogli "dla żartu" kupić duży objętościowo towar, a zaraz potem zgłosić chęć oddania go, nie tracąc nic na tym.
 
  *Podsumowanie* 
 

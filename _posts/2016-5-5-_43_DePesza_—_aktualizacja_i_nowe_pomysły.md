@@ -3,7 +3,7 @@ layout:     post
 title:      DePesza — aktualizacja i nowe pomysły
 date:       2016-05-05 17:18:00
 summary:    Od wydania pierwszej wersji DePeszy minęło już kilka dni. Obecnie średnia ocena na Windows 10 i Mobile wynosi 4.1. Myślę, że to nie tak źle, jak na początek prac nad apką, która jest nadal early accessem. Dziękuję za wszelakie uwagi i zgłoszone błędy. Postanowiłem szybko wydać pierwszą aktualizację,...
-categories: windows programowanie urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

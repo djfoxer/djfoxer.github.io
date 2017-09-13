@@ -3,7 +3,7 @@ layout:     post
 title:      Promocje w Marketplace na wiosnę!
 date:       2012-04-12 18:19:00
 summary:    Wystartowała kolejna weekendowa promocja w Marketplace! Tym razem nie jest to jedna pozycja, ale aż siedem! Są to znane i popularne tytuły na Windows Phone z Xbox LIVE. Ceny zostały obniżone do 3,49 zł. Idealny moment by kupić pozycje za tak atrakcyjną cenę! Promocja obowiązuje do końca weekendu!Ang...
-categories: porady urządzenia mobilne gry
+categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -131,7 +131,7 @@ Klon Arkanoida. Cóż więcej można dodać, całkiem ładna grafika (chociaż c
 
 
 
-## Max &amp; the Magic Marker
+## Max & the Magic Marker
 
 
  *Średnia ocen na Marketplace PL: 4.0* 

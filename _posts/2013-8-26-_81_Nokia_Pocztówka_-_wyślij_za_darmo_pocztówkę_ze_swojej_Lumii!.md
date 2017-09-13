@@ -3,7 +3,7 @@ layout:     post
 title:      Nokia Pocztówka - wyślij za darmo pocztówkę ze swojej Lumii!
 date:       2013-08-26 17:05:00
 summary:    Zapewne słyszeliście o aplikacjach, które pozwalają na wysłanie ze smartfona własnej wizytówki. Całość sprowadza się często do wybrania zdjęcia i zapłacenia z wydruk oraz przesyłkę. Polski oddział Nokii postanowił pójść o krok dalej i ponownie użytkownicy Lumi z Windows Phone mogą mieć powody do zad...
-categories: oprogramowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

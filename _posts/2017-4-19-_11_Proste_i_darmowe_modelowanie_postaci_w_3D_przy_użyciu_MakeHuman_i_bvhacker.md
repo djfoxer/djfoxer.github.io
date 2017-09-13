@@ -3,7 +3,7 @@ layout:     post
 title:      Proste i darmowe modelowanie postaci w 3D przy użyciu MakeHuman i bvhacker
 date:       2017-04-19 20:58:00
 summary:    Modelowanie w 3D wydaje się nietrywialnym zagadnieniem. Na przeszkodzie staje nie tylko brak umiejętności i doświadczenia, ale także elementy bardziej materialne. Często ograniczeniem bywa sprzęt, który nie uciągnie aplikacji do grafiki 3D, ale również oprogramowanie, które potrafi słono kosztować.W...
-categories: windows oprogramowanie porady
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
@@ -59,7 +59,7 @@ W kolejnych krokach możemy uszczegółowić cechy związane z płcią, najdrobn
 
 
 
-Możemy także ubrać naszą postać i wybrać pozycję. Dodatkowo jest opcja umiejscowienia &quot;szkieletu&quot; w naszym modelu. W ten sposób można edytować postawę w innych aplikacjach. Na koniec nadamy odpowiednie tło, umiejscowimy światła i wyrenderujemy gotowy model.
+Możemy także ubrać naszą postać i wybrać pozycję. Dodatkowo jest opcja umiejscowienia "szkieletu" w naszym modelu. W ten sposób można edytować postawę w innych aplikacjach. Na koniec nadamy odpowiednie tło, umiejscowimy światła i wyrenderujemy gotowy model.
 
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Uniwersalna wersja Windows DevCenter, czyli śledzimy naszą aplikację w markecie
 date:       2016-05-31 23:13:00
 summary:    Microsoft w ostatnich miesiącach mocno pracował nad stworzeniem nowej platformy dla deweloperów do zarządzania aplikacjami. Już w tamtym roku obiecał nam, iż użytkownicy Windows 10 i Windows 10 Mobile otrzymają dedykowany program (Universal Windows Platform) do śledzenie jak nasze dziecko radzi sobi...
-categories: oprogramowanie programowanie urządzenia mobilne
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 

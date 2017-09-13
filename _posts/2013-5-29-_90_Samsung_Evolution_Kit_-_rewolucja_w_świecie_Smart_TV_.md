@@ -3,7 +3,7 @@ layout:     post
 title:      Samsung Evolution Kit - rewolucja w świecie Smart TV?
 date:       2013-05-29 15:52:00
 summary:    Wszyscy Ci, którzy mają nowe modele telewizorów od Samsunga, zapewne zwrócili uwagę na tylną obudowę, gdzie kryje się wejście dla tajemniczego Evolution Kit. Wszędzie można było przeczytać, że będzie to wejście na rozszerzenia dla naszego TV. Oczywiście, nie każdy wierzyli w takie bajki. Zawsze korz...
-categories: sprzęt inne
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
@@ -107,7 +107,7 @@ Evolution Kit dostępne jest dla modeli Sasmunga z roku 2012, czyli:
 
 
 
-Obecnie rozszerzenie zadebiutowało niedawno w Korei. Plany odnośnie Europy mówią o połowie roku, aczkolwiek nie ma oficjalnej informacji odnośnie konkretnej daty. Najciekawsza jest cena. Otóż ustalono ją na 300 dolarów, a żeby było śmieszniej, w Europie również ma kosztować 300, ale euro. Załóżmy wersję pośrednią, czyli 1 000 zł za Evolution Kit w Polsce. Myślę, że cena nie jest, aż tak atrakcyjna. Szczególnie, że za te pieniądze można już kupić 32&quot; telewizor Samsunga z FullHD (oczywiście uboższy w opcje). Mówi się o upustach 50% dla posiadaczy ES8000 i ES7000 po zarejestrowaniu na stronie Samsunga, aczkolwiek nigdzie nie widziałem jeszcze tej promocji (może czekają na debiut w Europie i USA?).
+Obecnie rozszerzenie zadebiutowało niedawno w Korei. Plany odnośnie Europy mówią o połowie roku, aczkolwiek nie ma oficjalnej informacji odnośnie konkretnej daty. Najciekawsza jest cena. Otóż ustalono ją na 300 dolarów, a żeby było śmieszniej, w Europie również ma kosztować 300, ale euro. Załóżmy wersję pośrednią, czyli 1 000 zł za Evolution Kit w Polsce. Myślę, że cena nie jest, aż tak atrakcyjna. Szczególnie, że za te pieniądze można już kupić 32" telewizor Samsunga z FullHD (oczywiście uboższy w opcje). Mówi się o upustach 50% dla posiadaczy ES8000 i ES7000 po zarejestrowaniu na stronie Samsunga, aczkolwiek nigdzie nie widziałem jeszcze tej promocji (może czekają na debiut w Europie i USA?).
 
 
 

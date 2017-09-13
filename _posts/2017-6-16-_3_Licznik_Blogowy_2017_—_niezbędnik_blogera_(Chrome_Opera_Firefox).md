@@ -3,7 +3,7 @@ layout:     post
 title:      Licznik Blogowy 2017 — niezbędnik blogera (Chrome/Opera/Firefox)
 date:       2017-06-16 18:40:00
 summary:    Nadeszła ta chwila. Po wielu latach oficjalnie światło dziennie ujrzała finalna wersja Licznika Blogowego. Dodatku do przeglądarki www, który pozwala na zbieranie danych o każdym blogu na portalu (nawet bez logowania!) i przedstawieniu statystyk w formie tekstowej i graficznej.HistoriaHistoria Liczn...
-categories: oprogramowanie internet programowanie
+categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
 ---
 
 
@@ -106,7 +106,7 @@ Dodatkowo, klikając na przycisk  *pokaż wykresy*  uruchomimy opcję do generow
   * liczba komentarzy - dzień tygodnia
 
 
-  * top 10 komentujących wg Like&#39;ów
+  * top 10 komentujących wg Like'ów
 
 
   * top 10 komentujących wg liczby komentarzy
@@ -215,7 +215,7 @@ Wtyczki umieszczone są obecnie w oficjalnych marketach przeglądarek. Tu równi
 
 Zupełnie inaczej jest w przypadku Firefoxa. Tutaj nie ma opłat, ale certyfikacja przypomina to, z czym spotykamy się przy publikacji aplikacji do marketu mobilnego Google Play. Recenzent nie przepuści do sklepu byle jakiej wtyczki. Analizowany jest kod dodatku i wymagane jest podanie kodu źródłowego wtyczki. Również zbyt lakoniczny opis nie był akceptowalny. Co ciekawe, to właśnie wtyczki do Firefoxa mają najwięcej opcji jeśli chodzi o możliwości prezentacji dodatku dla użytkowa końcowego. W Chrome jest prosto, wręcz prostacko w porównaniu do mnogości opcji publikacji w sklepie Mozilli. Jednakże analiza trwała trochę długo i to przyczyniło się również do opóźnienia w publikacji wpisu, aczkolwiek plus za to, że kod źródłowy jest szczegółowo analizowany.
 
-Opera również ma swój proces weryfikacji. Tutaj proces certyfikacji nie obył się bez modyfikacji kodu i przystosowaniu plików do wymogów, ale całość była szybka, dzięki bardzo dobremu kontaktowi z osobą &quot;opiekującą&quot; się moją wtyczką. Widać było, że kod był analizowany i sprawdzany pod kątem działania i tego jak został napisany. Dobrze wiedzieć, ze wtyczki do Opery są wnikliwie analizowane przed dodaniem ich do ogólnodostępnej bazy dodatków, podobnie jak ma to miejsce w przypadku Firefoxa. Chociaż może w przypadku Chrome nie jest źle, a jest to bardziej automatyczne, ze względu na większą liczbę zgłoszeń.
+Opera również ma swój proces weryfikacji. Tutaj proces certyfikacji nie obył się bez modyfikacji kodu i przystosowaniu plików do wymogów, ale całość była szybka, dzięki bardzo dobremu kontaktowi z osobą "opiekującą" się moją wtyczką. Widać było, że kod był analizowany i sprawdzany pod kątem działania i tego jak został napisany. Dobrze wiedzieć, ze wtyczki do Opery są wnikliwie analizowane przed dodaniem ich do ogólnodostępnej bazy dodatków, podobnie jak ma to miejsce w przypadku Firefoxa. Chociaż może w przypadku Chrome nie jest źle, a jest to bardziej automatyczne, ze względu na większą liczbę zgłoszeń.
 
 Bez przygotowania wcześniejszego, certyfikacja wtyczki możne potrwać nawet kilka dni, jeśli nie zapoznamy się ze szczegółowymi wymaganiami co do weryfikacji po stronie Opery i Firefoxa.
 

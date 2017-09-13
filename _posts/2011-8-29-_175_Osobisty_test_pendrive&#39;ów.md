@@ -2,17 +2,17 @@
 layout:     post
 title:      Osobisty test pendrive&#39;ów
 date:       2011-08-29 21:47:00
-summary:    Ile pendrive&#39;ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę....
-categories: sprzęt porady inne
+summary:    Ile pendrive'ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szy...
+categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
 
-Ile pendrive&#39;ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szybkie, które potrafią w ciągu kilku sekund przerzucić GB danych oraz te wolniejsze, które podczas kopiowania pozwalają nam zaparzyć kawę.
+Ile pendrive'ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szybkie, które potrafią w ciągu kilku sekund przerzucić GB danych oraz te wolniejsze, które podczas kopiowania pozwalają nam zaparzyć kawę.
 
-Z racji tego, iż moja domowa kolekcja powiększyła się ostatnio o kilka nowych, dzięki dobrymporgramom, postanowiłem zrobił mały, &quot;osobisty&quot; test pendrive&#39;ów.
+Z racji tego, iż moja domowa kolekcja powiększyła się ostatnio o kilka nowych, dzięki dobrymporgramom, postanowiłem zrobił mały, "osobisty" test pendrive'ów.
 
-Wszystkie pendrive&#39;y były testowane za pomocą aplikacji CrystalDiskMark 3.0.1 ([http://crystalmark.info/software/CrystalDiskMark/index-e.html](http://crystalmark.info/software/CrystalDiskMark/index-e.html)). Przeprowadzono wszystkie dostępne testy w aplikacji (Seq: sekwencyjny odczyt/zapis, rozmiar bloku = 1024KB; 512K: losowy odczyt/zapis, rozmiar bloku = 512KB; 4K: losowy odczyt/zapis, rozmiar bloku = 4KB; 4K QD32 : losowy odczyt/zapis, rozmiar bloku = 4KB, głębokość = 32, test do sprawdzenia NCQ i AHCI, oczywiście nieprzydatny zbytnio w naszym przypadku). Test był wykonany na danych o rozmiarze 100MB, każdy test był przeprowadzany pięciokrotnie. Jako główne kryterium brałem pod uwagę pierwszy test (Seq), który wydawał się najbardziej obiektywny.
+Wszystkie pendrive'y były testowane za pomocą aplikacji CrystalDiskMark 3.0.1 ([http://crystalmark.info/software/CrystalDiskMark/index-e.html](http://crystalmark.info/software/CrystalDiskMark/index-e.html)). Przeprowadzono wszystkie dostępne testy w aplikacji (Seq: sekwencyjny odczyt/zapis, rozmiar bloku = 1024KB; 512K: losowy odczyt/zapis, rozmiar bloku = 512KB; 4K: losowy odczyt/zapis, rozmiar bloku = 4KB; 4K QD32 : losowy odczyt/zapis, rozmiar bloku = 4KB, głębokość = 32, test do sprawdzenia NCQ i AHCI, oczywiście nieprzydatny zbytnio w naszym przypadku). Test był wykonany na danych o rozmiarze 100MB, każdy test był przeprowadzany pięciokrotnie. Jako główne kryterium brałem pod uwagę pierwszy test (Seq), który wydawał się najbardziej obiektywny.
 
 Poniżej zamieszczam wyniki testów oraz, krótkie omówienie każdego z nich. Zapraszam do lektury.
 
@@ -28,7 +28,7 @@ Poniżej zamieszczam wyniki testów oraz, krótkie omówienie każdego z nich. Z
 
  *Kingston DataTraveler 410 (16GB)* 
 
-Zwycięzca testu :) Pendrive&#39;a Kingstona otrzymałem z dobrychprogramów, za zasługi za miesiąc lipiec:P Pendrive wygląda świetnie. Miła w dotyku metalowa obudowa, w kształcie litery U, skrywa w sobie 16GB pamięć masową. Bardzo solidna i praktyczna. Dodatkowo posiada aplikację Secure Traveler do zabezpieczania danych.
+Zwycięzca testu :) Pendrive'a Kingstona otrzymałem z dobrychprogramów, za zasługi za miesiąc lipiec:P Pendrive wygląda świetnie. Miła w dotyku metalowa obudowa, w kształcie litery U, skrywa w sobie 16GB pamięć masową. Bardzo solidna i praktyczna. Dodatkowo posiada aplikację Secure Traveler do zabezpieczania danych.
 
 Dane producenta:
 Odczyt: 20 MB/s
@@ -38,14 +38,14 @@ Wyniki testów CrystalDiskMark (Seq):
 Odczyt: 34,53 MB/s
 Zapis: 9,54 MB/s
 
-Zmierzona szybkość odczytu jest wyraźnie, wyższa niż deklarowana przez producenta. Podczas pracy odczuwa się &quot;kop&quot;, jaki ma ten pendrive. Wyniki zapisu, nieznacznie wyższe niż wynikałoby to z danych technicznych, jednakże nie szokują.
+Zmierzona szybkość odczytu jest wyraźnie, wyższa niż deklarowana przez producenta. Podczas pracy odczuwa się "kop", jaki ma ten pendrive. Wyniki zapisu, nieznacznie wyższe niż wynikałoby to z danych technicznych, jednakże nie szokują.
 
-Pendrive bardzo miło mnie zaskoczył. Po otrzymaniu go, gdy zobaczyłem na pudełku &quot;20 MB/s [R]&quot;, uznałem, iż nie jest on zbyt szybki. Wiadomo, że producenci często zawyżają wyniki. W tym przypadku producent trochę wręcz zaniżył specyfikację. Godny polecenia, pomimo nie oszałamiającego zapisu.
+Pendrive bardzo miło mnie zaskoczył. Po otrzymaniu go, gdy zobaczyłem na pudełku "20 MB/s [R]", uznałem, iż nie jest on zbyt szybki. Wiadomo, że producenci często zawyżają wyniki. W tym przypadku producent trochę wręcz zaniżył specyfikację. Godny polecenia, pomimo nie oszałamiającego zapisu.
 
 
  *GeIL DAViD100 Pen Drives-198X (1GB)* 
 
-Czarny koń testu ;) Mój pierwszy pendrive, ponad 5 letni, 1GB. Praktyczna, aluminiowa obudowa z chowaną końcówką. Dostarczony był razem ze skórzaną, elegancką smyczą. Od zawsze &quot;najszybszy w rodzinie&quot; ;)
+Czarny koń testu ;) Mój pierwszy pendrive, ponad 5 letni, 1GB. Praktyczna, aluminiowa obudowa z chowaną końcówką. Dostarczony był razem ze skórzaną, elegancką smyczą. Od zawsze "najszybszy w rodzinie" ;)
 
 Dane producenta:
 Odczyt: 30 MB/s
@@ -73,7 +73,7 @@ Oczywiście nigdzie nie znalazłem danych producenta ;) Wynik testu jednak mocno
 
  *Kingston DataTraveler I (1GB)* 
 
-Klasyka wśród pendrive&#39;ów firmy Kingstone. Mały, zgrabny i jak na tamte czasy całkiem szybki. Bez zbędnych bajerów. Martwi jedynie końcówka, która ma tendencje do &quot;uciekania&quot; (łatwo sama się zsuwała, po dłuższym czasie użytkowania). Bardzo łatwo ją zgubić lub niechcący połamać, gdyż wykonana jest z dość słabego plastyku. Podczas testów omawiana pamięć wypadła całkiem nieźle.
+Klasyka wśród pendrive'ów firmy Kingstone. Mały, zgrabny i jak na tamte czasy całkiem szybki. Bez zbędnych bajerów. Martwi jedynie końcówka, która ma tendencje do "uciekania" (łatwo sama się zsuwała, po dłuższym czasie użytkowania). Bardzo łatwo ją zgubić lub niechcący połamać, gdyż wykonana jest z dość słabego plastyku. Podczas testów omawiana pamięć wypadła całkiem nieźle.
 
 Dane producenta:
 Odczyt: 6 MB/s
@@ -87,7 +87,7 @@ Szaleństw nie ma. Odczyt na poziomie 17,87 MB/s nie jest wynikiem oszołamiają
 
  *Tracer Cow (4GB)* 
 
-Pendrive, który kształtem przypomina... krowę ;) Bardzo miły dla oka. Zrobiony w całości z gumy o wysokiej jakości. Można nim rzucać, odbijać, a i tak nic się nie stanie. Zdejmowana końcówka siedzi mocno na swoim miejscu. Seria pendrive&#39;ów Tracer Zoo charakteryzuje się bardzo ciekawymi kształtami przypominającymi zwierzęta.
+Pendrive, który kształtem przypomina... krowę ;) Bardzo miły dla oka. Zrobiony w całości z gumy o wysokiej jakości. Można nim rzucać, odbijać, a i tak nic się nie stanie. Zdejmowana końcówka siedzi mocno na swoim miejscu. Seria pendrive'ów Tracer Zoo charakteryzuje się bardzo ciekawymi kształtami przypominającymi zwierzęta.
 
 Dane producenta:
 Odczyt: 12 MB/s
@@ -114,13 +114,13 @@ Zapis: 5,47MB/s
 Wyniki testów rozczarowują. Po specyfikacji znalezionej w internecie (na pudełku nic nie ma), można sądzić, iż pendrive należy do czołówki. Niestety nie. Najsłabsze osiągi, spowodowały, iż wylądował na końcu zestawienia. Szkoda, bo zapowiadało się bardzo emocjonująco. Średnie osiągi, ładne wykonanie, nic poza tym.
 
 Edit 1
-Po przeszukaniu kilku forów oraz opinii w sklepach / porównywarkach mogę stwierdzić, iż na HotZlot 2011, w jakieś części, a może tylko dla mnie, trafiła się trefna partia pendrive&#39;ów OCZ Rally2 z zaniżoną wydajnością odczytu/zapisu. Czy ktoś kto był na Hot Zlocie 2011, ma również podobne wyniki w wydajności OCZ Rally2? 
+Po przeszukaniu kilku forów oraz opinii w sklepach / porównywarkach mogę stwierdzić, iż na HotZlot 2011, w jakieś części, a może tylko dla mnie, trafiła się trefna partia pendrive'ów OCZ Rally2 z zaniżoną wydajnością odczytu/zapisu. Czy ktoś kto był na Hot Zlocie 2011, ma również podobne wyniki w wydajności OCZ Rally2? 
 
 Edit 2
-Teza o wadliwej partii pendrive&#39;ów została potwierdzona w testach wykonanych przez Wolfgara. [Więcej w tym komentarzu pod wpisem.](http://www.dobreprogramy.pl/djfoxer/Osobisty-test-pendriveow,27436.html#komentarz_847685)
+Teza o wadliwej partii pendrive'ów została potwierdzona w testach wykonanych przez Wolfgara. [Więcej w tym komentarzu pod wpisem.](http://www.dobreprogramy.pl/djfoxer/Osobisty-test-pendriveow,27436.html#komentarz_847685)
 
 Edit 3
-Kontynuacja wątku z pendrive&#39;m OCZ Rally2 [http://www.dobreprogramy.pl/djfoxer/Pendrive-OCZ-Rally-promocja-idealna,27567.html](http://www.dobreprogramy.pl/djfoxer/Pendrive-OCZ-Rally-promocja-idealna,27567.html)
+Kontynuacja wątku z pendrive'm OCZ Rally2 [http://www.dobreprogramy.pl/djfoxer/Pendrive-OCZ-Rally-promocja-idealna,27567.html](http://www.dobreprogramy.pl/djfoxer/Pendrive-OCZ-Rally-promocja-idealna,27567.html)
 
  *Podsumowanie* 
 
@@ -130,10 +130,10 @@ Kontynuacja wątku z pendrive&#39;m OCZ Rally2 [http://www.dobreprogramy.pl/djfo
 
 
 
-Chciałbym zaznaczyć, iż jest to test pendrive&#39;ów, które znalazły się w mojej domowej &quot;kolekcji&quot;. Mały test pokazał, z czym możemy się spotkać w życiu codzienny, a także czego unikać, a na co zwrócić uwagę.
+Chciałbym zaznaczyć, iż jest to test pendrive'ów, które znalazły się w mojej domowej "kolekcji". Mały test pokazał, z czym możemy się spotkać w życiu codzienny, a także czego unikać, a na co zwrócić uwagę.
 
-&quot;Wielcy&quot; nieobecni.
-W testach nie wzięły udziału dwa pendrive&#39;y. Pierwszym z nich jest pamięcią masową 1GB, którą dostałem na jakieś promocji od Kaspersky&#39;ego. Niestety, został on pewnego razu uprany razem ze spodniami i obecnie nie jest w stanie zapisać powyżej 300MB danych:) Testu odczytu/zapisu 100MB danych nie przeszedł (zawieszał komputer). Drugim pendrivem, który nie dotarł do testów był firmy no-name :) Niemarkowe urządzenie rozłożyło się na czynniki pierwsze i nie można było już go przywrócić do stanu z przed &quot;awarii&quot;.
+"Wielcy" nieobecni.
+W testach nie wzięły udziału dwa pendrive'y. Pierwszym z nich jest pamięcią masową 1GB, którą dostałem na jakieś promocji od Kaspersky'ego. Niestety, został on pewnego razu uprany razem ze spodniami i obecnie nie jest w stanie zapisać powyżej 300MB danych:) Testu odczytu/zapisu 100MB danych nie przeszedł (zawieszał komputer). Drugim pendrivem, który nie dotarł do testów był firmy no-name :) Niemarkowe urządzenie rozłożyło się na czynniki pierwsze i nie można było już go przywrócić do stanu z przed "awarii".
 
 
  *Pozdrawiam* 

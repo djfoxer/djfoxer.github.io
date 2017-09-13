@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 8 - aktualizacja Portico wreszcie w Polsce!
 date:       2013-02-21 00:08:00
 summary:    Osoby zainteresowane systemem Windows Phone, a w szczególności posiadające nowy Windows Phone 8, słowo portico jest im znane. Jest to pierwsza duża aktualizacja, która została wydana dla Windows Phone 8 w trybie OTA (over-the-air). Aktualizacja jest dostępna od końca grudnia 2012. Niestety nie dla w...
-categories: urządzenia mobilne
+categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -20,7 +20,7 @@ Najważniejsze jednak, iż właśnie dziś (20.02.2012) Nokia wypuściła dla ni
 
 
 
-Jeśli system sam nie wykryje aktualizacji, należy przejść do okna  *Ustawienia -&gt;system-&gt;aktualizacje*  i kliknąć  *sprawdź aktualizacje* . Jeśli mamy odpowiednią wersję systemu, powinien pojawić się monit o dostępności aktualizacji z pytaniem, czy system ma ją pobrać. Mała uwaga. Pobieranie aktualizacji może trochę potrwać (w moim przypadku było to prawie 30 minut). Zatem jeśli macie baterię na wyczerpaniu, lepiej ją podładować.
+Jeśli system sam nie wykryje aktualizacji, należy przejść do okna  *Ustawienia ->system->aktualizacje*  i kliknąć  *sprawdź aktualizacje* . Jeśli mamy odpowiednią wersję systemu, powinien pojawić się monit o dostępności aktualizacji z pytaniem, czy system ma ją pobrać. Mała uwaga. Pobieranie aktualizacji może trochę potrwać (w moim przypadku było to prawie 30 minut). Zatem jeśli macie baterię na wyczerpaniu, lepiej ją podładować.
 
 
 
@@ -98,7 +98,7 @@ Najważniejsze zmiany:
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_102_/g_-_288x192_-_-_39388x20130220233129_0.jpg)
 
 
-do skonfigurowania w oknie  *ustawienia-&gt;telefon*  pod przyciskiem  *edytuj podpowiedzi* 
+do skonfigurowania w oknie  *ustawienia->telefon*  pod przyciskiem  *edytuj podpowiedzi* 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_102_/g_-_288x192_-_-_39388x20130220233147_0.jpg)

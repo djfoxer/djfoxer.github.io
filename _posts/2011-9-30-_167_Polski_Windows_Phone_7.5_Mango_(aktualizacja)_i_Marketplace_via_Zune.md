@@ -3,7 +3,7 @@ layout:     post
 title:      Polski Windows Phone 7.5 Mango (aktualizacja) i Marketplace via Zune
 date:       2011-09-30 07:55:00
 summary:    Po wielu bojach zainstalowałem już na swoim LG E900 Windows Phone 7.5 Mango, nie czekając na patcha ze strony Microsoftu/LG. Jeśli kogoś to interesuje zapraszam do wątku:http://answers.microsoft.com/en-us/winphone/forum/wp7-sync/lg-e900-upd... W tym malutkim wpisie pragnę przedstawić:1. Jak zaktuali...
-categories: windows sprzęt urządzenia mobilne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
 ---
 
 
@@ -32,7 +32,7 @@ W tym malutkim wpisie pragnę przedstawić:
 
 Mimo, że nic zbytnio nie można tu zepsuć. Robicie to na własną odpowiedzialność. 
 
-Aby wykonać ten krok, niezbędne będzie małe &quot;grzebanie&quot; w rejestrze. Naszym celem będzie utworzenie w korzeniu HKEY_LOCAL_MACHINE podgałęzi: MUI\Available. W tej podgałęzi należy utworzyć klucz: 0415, o wartości Polish. 
+Aby wykonać ten krok, niezbędne będzie małe "grzebanie" w rejestrze. Naszym celem będzie utworzenie w korzeniu HKEY_LOCAL_MACHINE podgałęzi: MUI\Available. W tej podgałęzi należy utworzyć klucz: 0415, o wartości Polish. 
 
 W ten prostu sposób, gdy zainstalujemy Windows Phone 7.5 Mango, nasz smartfon będzie posiadał pełną, polską wersję językową!
 
@@ -44,7 +44,7 @@ Posiadacze telefonów od LG, dostali świetną aplikację MFG do zarządzania te
 Oto co musimy zrobić by osiągnąć założony cel:
 - dzwonimy na numer ##634# (w taki oto sposób aktywujemy aplikacje MFG, później będzie ona już dostępna z listy aplikacji)
 - jako hasło wpisujemy: 277634#*#
-- przechodzimy do edycji rejestru wybierając: 7 (Engineer Menu) -&gt;  6 (Other Setting) -&gt; Edit registry
+- przechodzimy do edycji rejestru wybierając: 7 (Engineer Menu) ->  6 (Other Setting) -> Edit registry
 - będąc w menu rejestru ustawiamy:
 1.
 Select ROOT_PATH - HKEY_LOCAL_MACHINE
@@ -61,7 +61,7 @@ Przyciskamy Set i już. Można jeszcze przyciskiem Query sprawdzić czy zapis si
 
  *Zmiana w pozostałych modelach* 
 
-Niestety w pozostałych model, aby zmienić wartość rejestru należy zainstalować  Registry Editor for Windows Phone 7 ([http://forum.touchxperience.com/viewtopic.php?f=20&amp;t=593](http://forum.touchxperience.com/viewtopic.php?f=20&amp;t=593)). Piszę niestety, gdyż aby to zrobić trzeba odblokować telefon. Jak to zrobić? Na pewno znajdziecie. Nie o tym jest ten wpis.
+Niestety w pozostałych model, aby zmienić wartość rejestru należy zainstalować  Registry Editor for Windows Phone 7 ([http://forum.touchxperience.com/viewtopic.php?f=20&t=593](http://forum.touchxperience.com/viewtopic.php?f=20&t=593)). Piszę niestety, gdyż aby to zrobić trzeba odblokować telefon. Jak to zrobić? Na pewno znajdziecie. Nie o tym jest ten wpis.
 
 
 
@@ -73,17 +73,17 @@ Niestety w pozostałych model, aby zmienić wartość rejestru należy zainstalo
 
 Aby móc wejść poprzez Zune do Marketplace i móc robić zakupy (inaczej pojawi się alert, iż opcje regionalne na komputerze nie zgadzają się z opcjami na koncie Live), musimy przeprowadzić kilka kroków, które pozwolą nam cieszyć się w pełni z naszego polskiego Marketplace:
 
-1. W systemie nasza lokalizacja (zmieniamy w Panelu Sterowania) musi być ustawiona na: &quot;Polska&quot;  (jeśli mamy polski system nie musimy najprawdopodobniej tego robić)
+1. W systemie nasza lokalizacja (zmieniamy w Panelu Sterowania) musi być ustawiona na: "Polska"  (jeśli mamy polski system nie musimy najprawdopodobniej tego robić)
 
-2. Logujemy się na nasze konto Windows Live [https://signup.live.com/](https://signup.live.com/). Tam musimy ustawić nasz region na &quot;Polska&quot;:
+2. Logujemy się na nasze konto Windows Live [https://signup.live.com/](https://signup.live.com/). Tam musimy ustawić nasz region na "Polska":
 - przechodzimy do opcji konta: [https://account.live.com/summarypage.aspx](https://account.live.com/summarypage.aspx)
-- przy polu &quot;Country/region&quot; wybieramy &quot;Change&quot;
-- z rozwijanej list &quot;Country/region&quot; wybieramy &quot;Poland&quot;
-- zapisujemy klikając na &quot;Save&quot;
+- przy polu "Country/region" wybieramy "Change"
+- z rozwijanej list "Country/region" wybieramy "Poland"
+- zapisujemy klikając na "Save"
 
 3. Ostatni krok, o którym nie wiedzą wszyscy. Tworząc konto na Windows Live, mamy również zakładane konto na XBOX Live. Tu musimy migrować nasze konto do Polskiego XBOX Live.
 - wchodzimy na link do migracji: [https://live.xbox.com/pl-PL/BillingMigration/SelectRegion](https://live.xbox.com/pl-PL/BillingMigration/SelectRegion)
-- kreator sprowadza się do wybrania regionu &quot;Polska&quot; i potwierdzenia tego w kilku krokach
+- kreator sprowadza się do wybrania regionu "Polska" i potwierdzenia tego w kilku krokach
 
  *Witam w polskim Windows Phone 7.5 Mango i Marketplace!* 
 

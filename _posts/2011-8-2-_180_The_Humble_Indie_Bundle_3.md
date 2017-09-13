@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Indie Bundle 3
 date:       2011-08-02 23:25:00
 summary:    The Humble (Indie) Bundle ? W dużym skrócie czym jest The Humble (Indie) Bundle:- kupujesz paczkę gier za tyle ile chcesz! (dowolna kwota większa od $0 )- gry nie mają żadnych zabezpieczeń- brak limitów pobrań- pieniądze idą na cele charytatywne lub do developerów (sam ustalasz jaka część kwoty pójd...
-categories: windows linux gry
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
 ---
 
 
@@ -26,7 +26,7 @@ W dużym skrócie czym jest The Humble (Indie) Bundle:
 [http://en.wikipedia.org/wiki/Humble_Indie_Bundle](http://en.wikipedia.org/wiki/Humble_Indie_Bundle)
 
 
-Najczęściej są to gry Indie, tworzone przez jedną osobę lub mały zespół. Odróżniają się innowacyjną/zaskakującą/rewolcyjną rozgrywką. Zapewniają często więcej radości niż &quot;pudełkowe&quot; gry.
+Najczęściej są to gry Indie, tworzone przez jedną osobę lub mały zespół. Odróżniają się innowacyjną/zaskakującą/rewolcyjną rozgrywką. Zapewniają często więcej radości niż "pudełkowe" gry.
 
 W przeszłości była również paczka gier od większego developera (patrz dalej Humble Frozenbyte Bundle).
 
@@ -199,7 +199,7 @@ Koniec :)
 
 
 
-Gorąco zachęcam do wzięcia udziału w akcji! Za dowolną kwotę możemy zyskać bardzo oryginalne i unikatowe gry, a dodatkowo możemy jeszcze zasilić organizacje pozarządowe (EFF i Child&#39;s Play)!
+Gorąco zachęcam do wzięcia udziału w akcji! Za dowolną kwotę możemy zyskać bardzo oryginalne i unikatowe gry, a dodatkowo możemy jeszcze zasilić organizacje pozarządowe (EFF i Child's Play)!
 
 Ja już kupiłem swoją paczkę The Humble Indie Bundle 3, a Ty? ;)
 

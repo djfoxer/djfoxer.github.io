@@ -3,7 +3,7 @@ layout:     post
 title:      Software Informer - panaceum na wszelkie bolączki
 date:       2010-11-12 15:50:00
 summary:    Update allKażdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki :P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawd...
-categories: windows oprogramowanie porady
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
 ---
 
 
@@ -12,7 +12,7 @@ Update all
 
 Każdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki :P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawdzanie czy producent nie wydał nowszej wersji, eliminującej znalezione błędy, backdoory (lub dodające nowe błędy :P) jest uciążliwe i czasochłonne. 
 
-Wielu z nas jest również &quot;domowym serwisem komputerowym&quot;:P i często siadamy do komputera (np. babci), który Microsoft Update nigdy nie widział na oczy, a Firefox jest w najnowsze, jakże stabilnej, wersji 1.6 :P
+Wielu z nas jest również "domowym serwisem komputerowym":P i często siadamy do komputera (np. babci), który Microsoft Update nigdy nie widział na oczy, a Firefox jest w najnowsze, jakże stabilnej, wersji 1.6 :P
 
 
 
@@ -72,7 +72,7 @@ Program nie jest, aplikacją w stylu one-button-updater-all. Czyli nie aktualizu
 
 
 
-Program jest rewelacyjny, jednak posiada kilka malutkich wad. Na obrazku nr 1 podświetliłem program AIMP. Software Informer wykrył nowszą wersję. Ale zaraz, coś się nie zgadza. No tak. Wersja zainstalowana: 2.6.1.583, a najnowsza dostępna to... 2.61.583. Program pogubił kropki w wersjonowaniu, podobna sytuacji jest u mnie w Tweak UI (2.1 -&gt; 2.10). 
+Program jest rewelacyjny, jednak posiada kilka malutkich wad. Na obrazku nr 1 podświetliłem program AIMP. Software Informer wykrył nowszą wersję. Ale zaraz, coś się nie zgadza. No tak. Wersja zainstalowana: 2.6.1.583, a najnowsza dostępna to... 2.61.583. Program pogubił kropki w wersjonowaniu, podobna sytuacji jest u mnie w Tweak UI (2.1 -> 2.10). 
 Ostatnim mankamentem jest pokazywanie updatów, dla aplikacji niedostępnych dla danego systemu. Przykładem może być tu Windows Media Player, który jest u mnie w wersji 11. Program uparcie pokazuje, że jest nowsza wersja 12. Co jest prawdą, lecz z racji posiadania XPka, nie mogę nic z tym więcej zrobić.
 
 
@@ -101,5 +101,5 @@ Software Informer 1.0 b 576
 Dziękuję i pozdrawiam.  
 
 Edit:
-Wejście w opcje (Options-&gt;Settings zakładka General), pozwala na wybranie opcji, czy (nie)mają również pojawiać się aktualizacje w wersji beta ([ ] Don&#39;t notify me about beta versions)
+Wejście w opcje (Options->Settings zakładka General), pozwala na wybranie opcji, czy (nie)mają również pojawiać się aktualizacje w wersji beta ([ ] Don't notify me about beta versions)
 

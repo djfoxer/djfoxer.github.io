@@ -3,14 +3,14 @@ layout:     post
 title:      Visual Studio Achievements
 date:       2012-01-19 23:05:00
 summary:    Każdy kto gra w gry, spotkał się z terminem achievement, czyli osiągnięcie. Za każdą, rzecz jaką zrobimy w grze, czy to znalezienie sekretu, czy zwykłe przejście mapy, odblokowujemy określone osiągnięcie. Jest  to obecnie na konsolach, czy na Steamie. Możemy pochwalić się osiągnięciami wśród znajomy...
-categories: windows programowanie inne
+categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
 ---
 
 
 
 Każdy kto gra w gry, spotkał się z terminem achievement, czyli osiągnięcie. Za każdą, rzecz jaką zrobimy w grze, czy to znalezienie sekretu, czy zwykłe przejście mapy, odblokowujemy określone osiągnięcie. Jest  to obecnie na konsolach, czy na Steamie. Możemy pochwalić się osiągnięciami wśród znajomych w systemie w jakim gramy, czy na Facebooku. Prosty sposób na wydłużenie gry i zwiększenie więzi pomiędzy graczem, a grą.
 
-Visual Studio Achievements. Co ma do tego Visual Studio? Ktoś wpadł na genialny pomysł. Połączył założenia achievementów ze świata gier z kodowaniem w Visual Studio! :) Wszystko zaczęło się na [www.reddit.com](http://www.reddit.com/r/programming/comments/f8phd/what_if_visual_studio_had_achievements/), gdzie ktoś z nudów/dla żartów dodał wątek &quot;A co gdyby, Visual Studio miało osiągnięcia?&quot;. Okazało się, że pomysł chwycił na tyle, iż powstał... plugin (darmowy) do Visual Studio! Każdy z Was może go ściągnąć i zainstalować w Visualu. Od tej chwili będzie zbierał osiągnięcia, niczym w grach wideo :) 
+Visual Studio Achievements. Co ma do tego Visual Studio? Ktoś wpadł na genialny pomysł. Połączył założenia achievementów ze świata gier z kodowaniem w Visual Studio! :) Wszystko zaczęło się na [www.reddit.com](http://www.reddit.com/r/programming/comments/f8phd/what_if_visual_studio_had_achievements/), gdzie ktoś z nudów/dla żartów dodał wątek "A co gdyby, Visual Studio miało osiągnięcia?". Okazało się, że pomysł chwycił na tyle, iż powstał... plugin (darmowy) do Visual Studio! Każdy z Was może go ściągnąć i zainstalować w Visualu. Od tej chwili będzie zbierał osiągnięcia, niczym w grach wideo :) 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-19-_152_/g_-_608x405_-_-_29879x20120119225436_0.png)
@@ -44,7 +44,7 @@ Plugin jest  *darmowy*  i przeznaczony jest dla Visual Studio 2010 Professional,
 
 Po zainstalowaniu, plugin we własnym wątku analizuje kod programisty podczas kompilacji. Dodatkowo zbierane są zdarzenia i akcje (np. wykorzystanie narzędzi dostarczonych z Visual Studio, debugowanie itp.). Gdy odblokujemy osiągnięcie, pojawi się komunikat, niczym ze Steama, z informacją o achievemencie :) Osiągnięcia, które wymagają kilku konkretnych powtórzeń czynności, są sumowane co jedną minutę.
 
-Z poziomu Visual Studio (Tools-&gt;Achievements) można podejrzeć aktualne osiągnięcia. Wymagane jest zalogowanie się poprzez LiveId. Do odblokowania są 32  osiągnięcia, a liczba ta ma być zwiększana.
+Z poziomu Visual Studio (Tools->Achievements) można podejrzeć aktualne osiągnięcia. Wymagane jest zalogowanie się poprzez LiveId. Do odblokowania są 32  osiągnięcia, a liczba ta ma być zwiększana.
 
 
 
