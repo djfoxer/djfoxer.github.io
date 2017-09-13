@@ -1,21 +1,22 @@
-﻿---layout:     post
-title:      jv16 PowerTools 2010 - za darmo* + Polowanie na licencje (R.I.P.?)
-date:       2010-12-05 23:17:00
-summary:    Polowanie na licencje (R.I.P.?)Hej, oczywiście nic nie ma całkowicie za darmo, no może nie dla wszystkich;) Chyba po pierwszym rysunku możecie się domyślać w czym rzecz. Rys. 1. R.I.P. Polowanie na licencjeW 2007 roku, ktoś z dobreprogramy.pl wpadł na genialny pomysł. Co pewien czas będą rozdawać za...
-categories: windows oprogramowanie porady
----
+﻿---
+layout:     post
+title:      jv16 PowerTools 2010 - za darmo* + Polowanie na licencje (R.I.P.?)
+date:       2010-12-05 23:17:00
+summary:    Polowanie na licencje (R.I.P.?)Hej, oczywiście nic nie ma całkowicie za darmo, no może nie dla wszystkich;) Chyba po pierwszym rysunku możecie się domyślać w czym rzecz. Rys. 1. R.I.P. Polowanie na licencjeW 2007 roku, ktoś z dobreprogramy.pl wpadł na genialny pomysł. Co pewien czas będą rozdawać za...
+categories: windows oprogramowanie porady
+---
 
 
-
+
 Polowanie na licencje (R.I.P.?)
 
 Hej, oczywiście nic nie ma całkowicie za darmo, no może nie dla wszystkich;) Chyba po pierwszym rysunku możecie się domyślać w czym rzecz. 
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_3.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_3.png)
 
-
+
  *Rys. 1. R.I.P. Polowanie na licencje* 
 
 W 2007 roku, ktoś z dobreprogramy.pl wpadł na genialny pomysł. Co pewien czas będą rozdawać za free, licencje na płatne programy. 
@@ -26,9 +27,9 @@ Szkoda, iż konkurs nie jest już prowadzony. Ostatnio był reaktywowany po dwu 
 
 
 
-## Od RegSupreme Pro...
+## Od RegSupreme Pro...
 
-
+
 
 W jednym z polowań w 2007 r. 500 osób wygrało licencję na program RegSupreme Pro 1.7.0.416. Również i ja. Świetny program do optymalizacji rejestru. I upolowany za darmo, to dodatkowy plus:) 
 
@@ -36,11 +37,11 @@ Mam tutaj dobrą wiadomość dla tych 500 osób które, również upolowały lic
 Możecie z tą licencją mieć najnowszy jv16 PowerTools 2010 za darmo!!
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_1.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_1.png)
+
+
  *Rys. 2. RegSupreme Pro z okienkiem aktualizacji* 
 
 Mam nadzieję, iż nie wyrzuciliście tych licencji! :)
@@ -51,19 +52,19 @@ Na załączonej grafice nr 2. widać dokładnie te okienko.
 
 
 
-## ... Po jv16 PowerTools 2010 
+## ... Po jv16 PowerTools 2010 
 
-
+
 
 Dzięki wygraniu 3 lata temu licencji na RegSupreme Pro, możecie zaktualizować swój program do jv16 PowerTools 2010.
 Wystarczy zainstalować jv16 PowerTools 2010 link: [2]. I następnie z menu &quot;Pomoc&quot; wybrać &quot;Licencja programu&quot; i wskazać na licencję z Polowania. 
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_2.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-12-5-_190_/g_-_608x405_-_-_21851x20101205222731_2.png)
+
+
  *Rys. 3. jv16 PowerTools 2010 na licencji z Polowania * 
 
 
@@ -83,9 +84,9 @@ Dziękuję i pozdrawiam.
 
 
 
-## Powiązane
+## Powiązane
 
-
+
 
 [1] [http://polowanie.dobreprogramy.pl/](http://polowanie.dobreprogramy.pl/) 
 [2] [jv16 PowerTools 2010 2.0.0.986 - dobreprogramy.pl](http://www.dobreprogramy.pl/jv16-PowerTools,Program,Windows,13143.html) 
@@ -94,4 +95,4 @@ Dziękuję i pozdrawiam.
 
 
 
-* - w życiu nic nie ma za darmo ;))
+* - w życiu nic nie ma za darmo ;)

@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      Osobisty test pendrive&#39;ów
-date:       2011-08-29 21:47:00
-summary:    Ile pendrive&#39;ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę....
-categories: sprzęt porady inne
----
+﻿---
+layout:     post
+title:      Osobisty test pendrive&#39;ów
+date:       2011-08-29 21:47:00
+summary:    Ile pendrive&#39;ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę....
+categories: sprzęt porady inne
+---
 
 
-
+
 Ile pendrive&#39;ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szybkie, które potrafią w ciągu kilku sekund przerzucić GB danych oraz te wolniejsze, które podczas kopiowania pozwalają nam zaparzyć kawę.
 
 Z racji tego, iż moja domowa kolekcja powiększyła się ostatnio o kilka nowych, dzięki dobrymporgramom, postanowiłem zrobił mały, &quot;osobisty&quot; test pendrive&#39;ów.
@@ -17,13 +18,13 @@ Poniżej zamieszczam wyniki testów oraz, krótkie omówienie każdego z nich. Z
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_1.jpg)
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_2.jpg
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_2.jpg)
+
+
 
  *Kingston DataTraveler 410 (16GB)* 
 
@@ -123,11 +124,11 @@ Kontynuacja wątku z pendrive&#39;m OCZ Rally2 [http://www.dobreprogramy.pl/djfo
 
  *Podsumowanie* 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110827230200_3.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110827230200_3.png)
+
+
 
 Chciałbym zaznaczyć, iż jest to test pendrive&#39;ów, które znalazły się w mojej domowej &quot;kolekcji&quot;. Mały test pokazał, z czym możemy się spotkać w życiu codzienny, a także czego unikać, a na co zwrócić uwagę.
 
@@ -136,4 +137,3 @@ W testach nie wzięły udziału dwa pendrive&#39;y. Pierwszym z nich jest pamię
 
 
  *Pozdrawiam* 
-)

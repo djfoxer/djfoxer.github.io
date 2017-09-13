@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      Nie daj się nabić w butelkę! - zakupy grupowe
-date:       2011-08-18 12:20:00
-summary:    Po ciekawym wpisie Ave5 odnośnie zakupów grupowych od środka, postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i du...
-categories: porady inne
----
+﻿---
+layout:     post
+title:      Nie daj się nabić w butelkę! - zakupy grupowe
+date:       2011-08-18 12:20:00
+summary:    Po ciekawym wpisie Ave5 odnośnie zakupów grupowych od środka, postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i du...
+categories: porady inne
+---
 
 
-
+
 Po ciekawym wpisie Ave5 odnośnie [zakupów grupowych od środka](http://www.dobreprogramy.pl/Ave5/Zakupy-grupowe-od-srodka,27137.html), postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  
 
 Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i duży. W Polsce mamy już (jak podaje Chip) ponad 40 serwisów. Ile z nich się utrzyma? Nie wiadomo, ale już na części widać pewien zastój. Jak grzyby po deszczu powstają też tzw. agregatory zakupów grupowych, które na jednej stronie gromadzą kilka(naście) ofert z różnych serwisów z zakupami grupowymi. Swego czasu pokusiłem się nawet o zrobienie czegoś podobnego ([zagrupowani.pl](http://zagrupowani.pl/)), tylko że dla znajomych z pracy/osiedla/pociągu i ich znajomi itd. :P 
@@ -16,16 +17,16 @@ Wszystko wygląda z pozoru pięknie, ale część ofert niestety jest delikatnie
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120031_2.jpeg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120031_2.jpeg)
 
-
+
  *źródło: wp.pl*  
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120313_1.gif
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120313_1.gif)
+
+ 
 
 
 
@@ -34,9 +35,9 @@ Oto kilka typów ofert z jakimi możemy się spotkać oraz kilka zdań na co war
 
 
 
-##  *1. Wycieczki* 
+##  *1. Wycieczki* 
 
-
+
 
 
 Wybierając ofertę turystyczną na zakupach grupowych, warto w tym przypadku najmocniej zwrócić uwagę na szczegóły zawarte w opisie. Kupując wycieczkę możemy natknąć się na oferty, które będą miały kilka &quot;wad&quot;. Dodatkowo zauważmy, że  w przeciwieństwie do biur turystycznych, tutaj musimy zapłacić całą kwotę.  Na co zwrócić uwagę:
@@ -49,9 +50,9 @@ Wybierając ofertę turystyczną na zakupach grupowych, warto w tym przypadku na
 
 
 
-##  *2. Usługi komputerowe* 
+##  *2. Usługi komputerowe* 
 
-
+
 
 
 
@@ -64,9 +65,9 @@ Usługi komputerowe często występują w postaci usług &quot;diagnostyki&quot;
 
 
 
-##  *3. Sprzęt komputerowy* 
+##  *3. Sprzęt komputerowy* 
 
-
+
 
 
 
@@ -79,9 +80,9 @@ Wiele ofert na zakupach grupowych oferuje sprzedaż sprzętu, po cenie często n
 
 
 
-##  *4. Usługi gastronomiczne* 
+##  *4. Usługi gastronomiczne* 
 
-
+
 
 
 
@@ -92,9 +93,9 @@ Z racji tego, iż najczęściej kupuję jedzenie polecam sprawdzić:
 
 
 
-##  *5. Oferty sklepów internetowych* 
+##  *5. Oferty sklepów internetowych* 
 
-
+
 
 
 
@@ -105,9 +106,9 @@ Na koniec zostawiłem wisienkę na torcie ;) Z racji tego, iż sklepy internetow
 
 
 
-##  *Podsumowanie* 
+##  *Podsumowanie* 
 
-
+
 
 
 Zakupy grupowe to świetna okazja do zakupienia czegoś po bardzo okazyjnej cenie. Należy jednak pamiętać, że tak jak wszędzie zdarzają się oferty, na których możemy stracić. Ogólnie pamiętajmy o:
@@ -130,4 +131,3 @@ Mam nadzieje, iż ten poradnik pomoże w rozsądnym wybraniu oferty i w ustrzeż
 [http://kuponozaur.wordpress.com/](http://kuponozaur.wordpress.com/) - ocena wybranych zakupów grupowych
 
 
-)

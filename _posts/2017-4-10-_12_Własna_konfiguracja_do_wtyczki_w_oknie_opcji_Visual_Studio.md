@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
-date:       2017-04-10 18:52:00
-summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do V...
-categories: windows oprogramowanie programowanie
----
+﻿---
+layout:     post
+title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
+date:       2017-04-10 18:52:00
+summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do V...
+categories: windows oprogramowanie programowanie
+---
 
 
-
+
 Jakiś czas temu przedstawiłem sposób na [umieszczenie Timera Pomodoro na pasku statusu w Visual Studio](https://www.dobreprogramy.pl/djfoxer/Wlasny-dodatek-Timer-Pomodoro-na-pasku-statusu-Visual-Studio,80247.html). W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.
 
 
@@ -14,28 +15,28 @@ Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410185129_0.png
-
-
-)
-
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG
-
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410185129_0.png)
 
 
 
-## Autostart wtyczek w Visual Studio
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG)
+
+
+
+
+
+## Autostart wtyczek w Visual Studio
+
+
 Nasza wtyczka składa się z paczek ( *Packaga* ). W celu automatycznego uruchomienia dodatku przy starcie IDE musimy dodać atrybut do naszej klasy dziedziczącej po  *Package* .
 
 
-```csharp
-
+```csharp
 
-```
-
+
+```
+
 public sealed class CommandShowTomatoStatusBarPackage : Package
 [/code]
 
@@ -43,20 +44,20 @@ Atrybut  *ProvideAutoLoad*  oznacza uruchomienie paczkę przy starce, zaś param
 
 
 
-  * ShellInitialized_string
-
+  * ShellInitialized_string
 
-  * NoSolution_string
-
 
-  * EmptySolution_string
-
+  * NoSolution_string
 
-  * SolutionBuilding_string
-
 
-  * ...
-
+  * EmptySolution_string
+
+
+  * SolutionBuilding_string
+
+
+  * ...
+
 
 
 W moim przypadku będzie to  *ShellInitialized_string* , czyli załadownie solucji, kiedy UI VS zostanie w pełni załadowane.
@@ -64,28 +65,28 @@ W moim przypadku będzie to  *ShellInitialized_string* , czyli załadownie soluc
  
 
 
-## Okienko opcji w Visual Studio
+## Okienko opcji w Visual Studio
 
-
+
 Własne okienko w oknie konfiguracyjnym można umieścić bardzo prosto. Dodajemy do solucji nowy element  *Visual Studio Package* . Następnie tworzymy nową klasę, która dziedziczyć będzie po  *DialogPage* :
 
 
-```csharp
-
+```csharp
+
 public class OptionPage : DialogPage
 
-```
-
+```
+
 
 W kolejnym kroku dodamy zmienną typu bool, która zostanie przez IDE potraktowana jako opcja w menu i wyrenderowana w postaci grida z wyborem wartości True/False. W tym przypadku będzie ona określać, czy Timer Pomodoro ma załadować się przy starcie Visual Studio lub nie:
 
 
-```csharp
-
+```csharp
 
 
-```
-
+
+```
+
 [DisplayName(Consts.OptionsCategoryBasicStatusBarAutostartText)]
 [Description(Consts.OptionsCategoryBasicStatusBarAutostartInfoText)]
 public bool AutostartPomodoroStatusBar {get; set;}[/code]
@@ -95,35 +96,35 @@ public bool AutostartPomodoroStatusBar {get; set;}[/code]
 Teraz łączymy stworzony przed chwilą Visual Studio Package z okienkiem konfiguracji. Robimy to za pomocą dodania atrybutu do klasy dziedziczącej z  *Package* :
 
 
-```csharp
-
+```csharp
 
-```
-
+
+```
+
 [/code]
 
 Stworzona klasa  *OptionPage*  (dziedzicząca po  *DialogPage* ) będzie podczepiona pod drzewko opcji w konfiguracji IDE ( *Consts.PluginName*  to korzeń, a jest nazwą liścia  *Consts.OptionsCategoryBasicName* ). Efekt mamy następujący:
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG)
 
 
 
-## Odczyt danych z okienka opcji
 
-
+
+## Odczyt danych z okienka opcji
+
+
 Jak odczytywać aktualne dane z okienka konfiguracji IDE? Robimy to w następujący sposób:
 
 
-```csharp
-((OptionPage)GetDialogPage(typeof(OptionPage))).AutostartPomodoroStatusBar;
+```csharp
+((OptionPage)GetDialogPage(typeof(OptionPage))).AutostartPomodoroStatusBar;
 
-```
-
+```
+
 
  *GetDialogPage*  jest metodą w klasie dziedziczącej po  *Package* . W ten sposób z okienka, które powstała poprzez stworzenie klasy  *OptionPage* , odczytujemy zmienną  *AutostartPomodoroStatusBar* .
 
@@ -131,13 +132,12 @@ Jak odczytywać aktualne dane z okienka konfiguracji IDE? Robimy to w następuj�
 W tak dość nieskomplikowany sposób otrzymaliśmy proste okienko konfiguracyjne w IDE.
 
 <blockquote>
-<p>Źródła dostępne są na GitHubie (branch master i POC):
+<p>Źródła dostępne są na GitHubie (branch master i POC):
 
 [https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)</p>
-</blockquote>
-)
+</blockquote>
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184234_0.png
 
-
-)
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184234_0.png)
+
+

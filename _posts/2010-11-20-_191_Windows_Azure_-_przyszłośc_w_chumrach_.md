@@ -1,21 +1,22 @@
-﻿---layout:     post
-title:      Windows Azure - przyszłośc w chumrach?
-date:       2010-11-20 18:43:00
-summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platform...
-categories: sprzęt programowanie serwery
----
+﻿---
+layout:     post
+title:      Windows Azure - przyszłośc w chumrach?
+date:       2010-11-20 18:43:00
+summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platform...
+categories: sprzęt programowanie serwery
+---
 
 
-
+
 Rewolucja czy ewolucja?
 
 Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft.
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120155952_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120155952_1.jpg)
 
- 
+ 
  *Rys 1. Diagram platformy Azure * 
 
 Ogólnie patrząc, Azure oferuje nam: zestaw usług dostępnych w chmurze, infrastrukturę do hostowania aplikacji i narzędzia do zarządzanie nim. 
@@ -26,9 +27,9 @@ Mówią nam, że pomysł nie jest nowy. Przykładem niech będzie prąd. Płacim
 
 
 
-## Szczegóły Microsoft Azure
+## Szczegóły Microsoft Azure
 
-
+
 
 
 System Azura składa się z kilku składników:
@@ -80,11 +81,11 @@ CPU: 8 x 1,6 GHz
 Pamięć: 14 GB 	
 Storage: 2040 GB 	
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120163825_2.jpg
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120163825_2.jpg)
+
+ 
  *Rys 2. Jedno z setek, rozsianych po świecie, Data Center Azura (na zdjęciu w San Antonio) * 
 
 
@@ -92,9 +93,9 @@ Storage: 2040 GB
 
 
 
-## Cena
+## Cena
 
-
+
 
 
 Za te przywileje Microsoft, każe sobie płacić. I to nie mało. W Linku [2] można obejrzeć za co musimy i ile zapłacić (chmura na serwerach Microsoftu, nie własnych).
@@ -119,18 +120,18 @@ Przeglądając te dane dojdziemy do wniosku, iż nie są to ceny atrakcyjne. Us�
 
 
 
-## Jak rozpocząć przygodę z Azure?
+## Jak rozpocząć przygodę z Azure?
 
-
+
 
 Aby móc rozpocząć pracę z Azure należy zarejestrować się na Microsoft Online Services [5] (Rysunek 3.). Niezbędne jest posiadanie Windows Live Id! Na stronie [5] aktywujemy podstawowy pakiet Azure. Rejestracja jest długa i mało intuicyjna. Musimy posiadać kartę kredytową już na etapie rejestracji! 
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120175757_3.png
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120175757_3.png)
+
+ 
  *(Kliknij aby powiększyć)
 Rys 3. Konto na Microsoft Online Services [4] 
 Rys 4. Założony podstawowy Storage w Windows Azure
@@ -143,9 +144,9 @@ Od strony programisty przygotowano Toolkit Azura dla Visual Studio 2010. Wymagan
 
 
 
-## Dlaczego Azure?
+## Dlaczego Azure?
 
-
+
 
 Azure, a w sumie i ogólna postać chmury, daje nam niewątpliwie wiele zalet:
 - koszty infrastruktury są niezmienne
@@ -172,9 +173,9 @@ Sama technologia Azure jest bardzo ciekawa i ma wiele zalet, jednak już przy pi
 
 
 
-## Słowem podsumowania
+## Słowem podsumowania
 
-
+
 
 
 Microsoft Azure i ogólnie sama idea chmury są zapewne przyszłością. Azure ma wiele zalet, jednakże obawiam się czy w natłoku innych, już dostępnych dłużej, środowisk, nie zostanie ona zmarginalizowana. Mam nadzieje, że to nie nastąpi. A Microsoft rzuci na rynek bardziej &quot;ludzkie&quot; ceny dla Azure. Liczę na to :) 
@@ -190,4 +191,3 @@ Linki:
 [3][Film przedstawiający koncepcję Data Center](http://www.youtube.com/watch?v=PPnoKb9fTkA)
 [4][Akademia Azura](http://www.microsoft.com/poland/aa/default.aspx)
 [5][Microsoft Online Services - centrum, gdzie zakupujemy i zarządzamy usługami m.in. Azure](https://mocp.microsoftonline.com/site/default.aspx?uiculture=pl)
-)

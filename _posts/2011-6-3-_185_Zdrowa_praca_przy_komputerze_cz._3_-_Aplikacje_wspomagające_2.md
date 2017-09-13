@@ -1,21 +1,22 @@
-﻿---layout:     post
-title:      Zdrowa praca przy komputerze cz. 3 - Aplikacje wspomagające 2
-date:       2011-06-03 00:07:00
-summary:    W tym jakże krótkim wpisie pragnę kontynuować wątek odnośnie zdrowej pracy przy komputerze. Pierwszy wpis był odnośnie aplikacji, i dziś również chciałbym ten temat w pewien sposób kontynuować. EyeDefenderBohaterem dzisiejszego wpisu jest program EyeDefender. Jest to malutka aplikacja (zaledwie 185K...
-categories: windows oprogramowanie porady
----
+﻿---
+layout:     post
+title:      Zdrowa praca przy komputerze cz. 3 - Aplikacje wspomagające 2
+date:       2011-06-03 00:07:00
+summary:    W tym jakże krótkim wpisie pragnę kontynuować wątek odnośnie zdrowej pracy przy komputerze. Pierwszy wpis był odnośnie aplikacji, i dziś również chciałbym ten temat w pewien sposób kontynuować. EyeDefenderBohaterem dzisiejszego wpisu jest program EyeDefender. Jest to malutka aplikacja (zaledwie 185K...
+categories: windows oprogramowanie porady
+---
 
 
-
+
 W tym jakże krótkim wpisie pragnę kontynuować wątek odnośnie zdrowej pracy przy komputerze. Pierwszy wpis był odnośnie aplikacji, i dziś również chciałbym ten temat w pewien sposób kontynuować. 
 
 
 
 
 
-## EyeDefender
+## EyeDefender
 
-
+
 
 Bohaterem dzisiejszego wpisu jest program EyeDefender. Jest to malutka aplikacja (zaledwie 185KB), której zadaniem jest przypominanie o zrobieniu przerwy (podobnie jak w programie Workrave z części 1. serii) oraz dzięki seriom ćwiczeń możemy odprężyć oczy.
 
@@ -25,25 +26,25 @@ W trayu pojawia się ikonka oka, kolor jaki przyjmuje informuje nas o stanie nas
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_3.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_3.png)
 
-
+
 
 W opcjach dostępnych z menu, otrzymujemy także, możliwość zmiany długość przerwy/odpoczynku oraz ustawienie hasła na aplikację i auto-start.
 To co najciekawsze, to możliwość zmiany typu wyświetlanych ćwiczeń/obrazów w trakcie przerwy. Możemy w trakcie przerwy wyświetlać: obrazki ze wskazanego folderu, domyślny wygaszacz, popup z informacją o przerwie koło traya oraz zestaw ćwiczeń (o czym dalej).
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_1.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_1.png)
 
 
 
 
-## Ćwiczenia
 
-
+
+## Ćwiczenia
+
+
 
 Aplikacja ma zbiór bardzo ciekawych i odprężających wzrok ćwiczeń:
 
@@ -52,11 +53,11 @@ Aplikacja ma zbiór bardzo ciekawych i odprężających wzrok ćwiczeń:
 - przemieszczający się prostokąt
 - przemieszczające się kółko
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_2.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-3-_185_/g_-_608x405_-_-_25352x20110602231634_2.png)
+
+
 
 Dzięki owym ćwiczeniom możemy zrelaksować wzrok, poćwiczyć akomodację, ruch gałek ocznych połączonych z mruganiem i w jakiś sposób przeciwdziałać tzw. zespołowi suchego oka (brak wydzielania odpowiedniej ilość łez - brak nawilżenia oka; co powoduje dyskomfort widzenia, pieczenie, swędzenie, poczucie ciała obcego w oku, skutkować to może w dalszych etapach infekcjami bakteryjnymi). 
 
@@ -71,16 +72,16 @@ A może już czas wyłączyć komputer i się przejść, wyjść na rower itp. i
 
 
 
-## Życzę miłej i zdrowej pracy!
-
-
+## Życzę miłej i zdrowej pracy!
 
 
 
 
-## Powiązane
 
-
+
+## Powiązane
+
+
 
 
 
@@ -91,4 +92,3 @@ A może już czas wyłączyć komputer i się przejść, wyjść na rower itp. i
 
 
 
-)

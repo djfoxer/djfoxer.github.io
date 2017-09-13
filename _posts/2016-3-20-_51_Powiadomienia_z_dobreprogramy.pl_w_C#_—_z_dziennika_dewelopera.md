@@ -1,32 +1,33 @@
-﻿---layout:     post
-title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
-date:       2016-03-20 10:56:00
-summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przy...
-categories: windows programowanie urządzenia mobilne
----
+﻿---
+layout:     post
+title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
+date:       2016-03-20 10:56:00
+summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przy...
+categories: windows programowanie urządzenia mobilne
+---
 
 
-
+
 Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We [wcześniejszym poście](http://www.dobreprogramy.pl/djfoxer/Logujemy-sie-do-dobreprogramy.pl-z-poziomu-kodu-C-wprowadzenie-do-projektu,71411.html) przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przygotowaniu  *serca*  naszej aplikacji - zarządzanie powiadomieniami. Zatem do dzieła!
 
 
 
 
-## Pobieramy powiadomienia z portalu w formacie JSON
+## Pobieramy powiadomienia z portalu w formacie JSON
 
-
+
 
 Analiza sposobu działania powiadomień na portalu została przedstawiona w poście: [Analizujemy kod portalu dobreprogramy.pl — czyli jak działa system powiadomień](http://www.dobreprogramy.pl/djfoxer/Analizujemy-kod-portalu-dobreprogramy.pl-czyli-jak-dziala-system-powiadomien,71145.html). Dziś przejdziemy już jednak do kodowania.
 
 Zacznijmy zatem od pobrania JSONa z listą powiadomień dla zalogowanego użytkownika. Zakładamy oczywiście, że posiadamy już ciasteczko (w kodzie jest to zmienna  *cookie* ), które identyfikuje zalogowanego użytkownika. Opis w jaki sposób jest to zrobione znajduje się w ostatnim wpisie ([Logujemy się do dobreprogramy.pl z poziomu kodu C#](http://www.dobreprogramy.pl/djfoxer/Logujemy-sie-do-dobreprogramy.pl-z-poziomu-kodu-C-wprowadzenie-do-projektu,71411.html)).
 
 
-```csharp
-
+```csharp
+
             request = WebRequest.Create(Const.NotifyUrlWithTimeStamp);
             request.Headers
-```
- = cookie;
+```
+ = cookie;
 
             response = await request.GetResponseAsync();
 
@@ -40,10 +41,10 @@ Zacznijmy zatem od pobrania JSONa z listą powiadomień dla zalogowanego użytko
 Podobnie jak przy logowaniu, tworzymy zapytanie do serwera poprzez użycie metody z klasy abstrakcyjnej WebRequest. Naszym adresem docelowym jest:
 
 
-```html
-http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&amp;_=znacznik_czasu
-```
-
+```html
+http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx?ping=ping&amp;_=znacznik_czasu
+```
+
 
 Oczywiście zmienna  *znacznik_czasu*  będzie generowana przez nasz kod przy każdym zapytaniu. Jest to nic innego jak aktualna data JavaScript jako int (ilość milisekund od 1 stycznia 1970 roku).
 
@@ -51,45 +52,45 @@ Ważnym elementem jest tutaj uzupełnienie nagłówka o ciasteczko, jakie pozysk
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318181817_0.png
-
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318181817_0.png)
 
 
 
-## Praca z JSONem - Json.NET na ratunek!
 
-
+
+## Praca z JSONem - Json.NET na ratunek!
+
+
 
 Zostaje nam zatem  przerobienie JSONa na coś bardziej  *zjadliwego* . Celem jest stworzenie obiektów nowej klasy, które będą reprezentować powiadomienia z portalu. Chcąc ułatwić pracę z JSONem, nie trzeba tworzyć klas pośrednich lub ręcznie parsować stringa. Posłużymy się tutaj deserializatorem z frameworku [Json.NET](http://www.newtonsoft.com/json). W tym celu do projektu dodajemy przez NuGeta pakiet  *Newtonsoft.Json* . Nasz kod uzupełniamy o linijkę:
 
 
-```csharp
-
+```csharp
+
             var respList = (JObject)JsonConvert.DeserializeObject(pageSource);
 
-```
-
+```
+
 
 Pozwoli to nam na operowanie na danych w znacznie wygodniejszy sposób:
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318183229_0.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318183229_0.png)
 
 
 
-## Jak wygląda powiadomienie?
 
-
+
+## Jak wygląda powiadomienie?
+
+
 
 W celu przechowywania powiadomień w aplikacji (bazka SQLite, a może coś bardziej trywialnego, jak plik XML ładowany, tylko częściowo, na wejście do aplikacji - to jeszcze kwestia otwarta). W tym celu stworzyłem klasę, która będzie przetrzymywała dane:
 
 
-```csharp
-
+```csharp
+
 
     public class Notification
     {
@@ -115,16 +116,16 @@ W celu przechowywania powiadomień w aplikacji (bazka SQLite, a może coś bardz
     }
 
 
-```
-
+```
+
 
 Pola są odwzorowaniem danych z JSONa, dodatkowo uzupełnione o bardziej  *strawne*  formaty odnośnie statusu powiadomienia (enum NotificationStatus), typu powiadomienia (enum NotificationType), a także daty przekonwertowanej na format DateTime.
 
 Statusy powiadomień mamy dwa (w tym jeden własny, gdyby coś nowego się pojawiło:   *Unknown* ). Typów notyfikacji jest znacznie więcej. Całość przedstawia się następująco:
 
 
-```csharp
-
+```csharp
+
 
         public enum NotificationType
         {
@@ -150,14 +151,14 @@ Statusy powiadomień mamy dwa (w tym jeden własny, gdyby coś nowego się pojaw
         }
 
 
-```
-
+```
+
 
 Typy powiadomień w JSONie są w formie tekstu, więc parsujemy je wg następującego schematu:
 
 
-```csharp
-
+```csharp
+
 
         public static NotificationType ParseToNotificationType(string typeString)
         {
@@ -197,20 +198,20 @@ Typy powiadomień w JSONie są w formie tekstu, więc parsujemy je wg następuj�
         }
 
 
-```
-
+```
 
 
 
 
-## JSON =&gt; Notification
 
-
+## JSON =&gt; Notification
+
+
 Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzięki Json.NET:
 
 
-```csharp
-
+```csharp
+
 
             if (respList.HasValues)
             {
@@ -222,8 +223,8 @@ Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzię
                     Notification n = JsonConvert.DeserializeObject&lt;Notification&gt;(ele.Value.ToString());
 
                     n.AddedDate = new DateTime(1970, 1, 1).AddMilliseconds((long)(((JValue)ele.Value
-```
-).Value));
+```
+).Value));
                     n.TypeValue = Enum.ParseToNotificationType(((JValue)ele.Value[&quot;Type&quot;]).Value.ToString());
                     n.PublicationId = ele.Name.Split(&#39;:&#39;)[0];
                     n.Id = ele.Name.Split(&#39;:&#39;)[1];
@@ -236,40 +237,40 @@ Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzię
 Głównym rdzeniem jest tutaj:
 
 
-```csharp
-Notification n = JsonConvert.DeserializeObject&lt;Notification&gt;(ele.Value.ToString());
+```csharp
+Notification n = JsonConvert.DeserializeObject&lt;Notification&gt;(ele.Value.ToString());
 
-```
-
+```
+
 
 Nie chciałem się już bawić w jakieś convertery, więc ręcznie zamieniłem pola, które nie mogą być automatycznie zmapowane: AddedDate (rzutowanie daty z JS na DateTime), TypeValue (rzutowanie na enuma) oraz Id i PublicationId (trzeba rozdzielić oryginalne pole Name).
 
 W taki oto sposób otrzymujemy piękną listę powiadomień w C#:
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318184134_0.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318184134_0.png)
+
+
 
 Na takiej liście można już spokojnie pracować 
 
 
 
-## Powiadomienie - odczytywanie/usuwanie
+## Powiadomienie - odczytywanie/usuwanie
 
- 
+ 
 
 Zostało jeszcze dodanie metody, które oznaczy powiadomienie jako odczytane i usunięte. Wystarczy tutaj dodać mały kawałek kodu:
 
 
-```csharp
-
+```csharp
+
 
             var request = WebRequest.Create(Const.NotifyUrlRaw);
             request.Headers
-```
- = cookie;
+```
+ = cookie;
             request.ContentType = &quot;application/x-www-form-urlencoded; charset=UTF-8&quot;;
             request.Method = &quot;POST&quot;;
 
@@ -285,10 +286,10 @@ Zostało jeszcze dodanie metody, które oznaczy powiadomienie jako odczytane i u
 Wysyłamy zapytanie pod adres: (pamiętając o ciasteczku)
 
 
-```html
-http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx
-```
-
+```html
+http://www.dobreprogramy.pl/Providers/NotifyHelper.ashx
+```
+
 
 . Tym razem jednak dodajemy prostego forma, który zawiera  *id*  powiadomienia i typ akcji ( *method = markAsRead/deleteNotify* ) do wykonania na powiadomieniu (odczytanie/usunięcie). Oczywiście request uzupełniony jest o typ zawartości i metodę wysyłania zapytania.
 
@@ -297,21 +298,20 @@ W ten sposób  stworzyliśmy pełnoprawny mechanizm do zarządzania powiadomieni
 
 
 
-## Kolejne kroki?
+## Kolejne kroki?
 
-
+
 Główny mechanizm do logowania i zarządzania powiadomieniami już mamy. Myślę, że w następnym tygodniu uda mi się  *złożyć*  coś, co nie będzie wyglądać dobrze :P , ale będzie działać w tle i pokazywać powiadomienia w Windows 10. Zobaczymy, czy uda się ten plan osiągnąć przed Wielkanocą i/lub maratonem  w Dębnie ;) 
 
 Zapraszam do kolejnych odcinków z serii :)
 
 <blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
+<p>Aktualne źródła można znaleźć na GitHub pod adresem:
 [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
+</blockquote>
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160319134909_0.png
 
-)
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160319134909_0.png)
+

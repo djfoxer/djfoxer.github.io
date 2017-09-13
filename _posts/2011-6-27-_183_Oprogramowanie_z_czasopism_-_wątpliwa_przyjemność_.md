@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      Oprogramowanie z czasopism - wątpliwa przyjemność?
-date:       2011-06-27 23:28:00
-summary:    Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową k...
-categories: hobby inne
----
+﻿---
+layout:     post
+title:      Oprogramowanie z czasopism - wątpliwa przyjemność?
+date:       2011-06-27 23:28:00
+summary:    Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową k...
+categories: hobby inne
+---
 
 
-
+
  *Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową kopertę DVD z kartką. Już tylko chwila dzieli mnie od odseparowania DVD od magazynu.... (trach)... niech to! Kartka się porwała, no cóż, nie pozostaje mi nic innego, jak brutalnie wyrwać to coś razem ze stroną. Z drugiej strony i tak pewnie jest reklama (ups... nie tym razem :P).* 
 
 W taki sposób, chcąc pozbyć się zbędnej (?) płyty DVD z Chipa, doszedłem do wniosku, iż od kiedy ponownie zaprenumerowałem czasopismo (na dwa lata, a było to już hmm, prawie dwa lata temu?), ani razu nawet nie włożyłem płyty do czytnika! 

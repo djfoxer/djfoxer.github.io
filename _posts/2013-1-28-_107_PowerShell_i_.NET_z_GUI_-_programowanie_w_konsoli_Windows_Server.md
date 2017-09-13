@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
-date:       2013-01-28 19:29:00
-summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowan...
-categories: porady programowanie serwery
----
+﻿---
+layout:     post
+title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
+date:       2013-01-28 19:29:00
+summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowan...
+categories: porady programowanie serwery
+---
 
 
-
+
 Niedawny wpis o administracji IIS z linii komend ([WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server](http://www.dobreprogramy.pl/djfoxer/WebAdministration-modul-PowerShell-do-zarzadzania-IIS-w-Windows-Server,38739.html)) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowany! W przeciwieństwie do narzędzi z grupy wiersza poleceń, w PowerShellu możemy korzystać z obiektów .NET, WMI, czy COM. Daje to ogromne możliwości. 
 
 
@@ -15,16 +16,16 @@ PowerShell w całości działa na platformie .NET, stąd można spokojnie używa
 
 
 
-## Obiekty
+## Obiekty
 
-
+
 
 
 Klasyczny przykład to dobrze znane polecenie  *dir*  (listowanie katalogu). Wykorzystajmy przetwarzanie potokowe i metodę  *Get-Member*  (listowanie właściwości i zmiennych dla obiektu):
 
 
-```ps
-dir | Get-Member
+```ps
+dir | Get-Member
 
    TypeName: System.IO.FileInfo
 
@@ -40,22 +41,22 @@ Decrypt                   Method         void Decrypt()
 Delete                    Method         void Delete()                                
 (...)
 
-```
-
+```
+
 
 Jak widać  *dir*  jest niczym innym jak obiektem typu  *System.IO.FileInfo* . Obiekt posiada metody takie jak klasa w C#. 
 
 
 
-## Zmienne
+## Zmienne
 
-
+
 
 Sprawdźmy teraz co się kryje pod zmiennymi w PowerShellu. 
 
 
-```ps
-$tmp = 45.5
+```ps
+$tmp = 45.5
 
 $tmp | Get-Member
 
@@ -65,8 +66,8 @@ Name        MemberType Definition
 ----        ---------- ----------                                                                            
 CompareTo   Method     int CompareTo(System.Object value), int CompareTo(double value), int IComparable.Co...
 Equals      Method     bool Equals(System.Object obj), bool Equals(double obj), bool IEquatable
-```
-.Eq...
+```
+.Eq...
 GetHashCode Method     int GetHashCode()                                                                     
 GetType     Method     type GetType()                                                                        
 GetTypeCode Method     System.TypeCode GetTypeCode(), System.TypeCode IConvertible.GetTypeCode()             
@@ -78,31 +79,31 @@ Zaskoczenia nie ma. Utworzona zmienna to obiekt klasy Double z .NET.
 
 
 
-## Skrypt PowerShell + .NET
+## Skrypt PowerShell + .NET
 
-
+
 
 A teraz mały skrypt, wykorzystujący obiekty klas prosto z .NET. Nasz mały &quot;programik&quot; ma następujące założenia:
 
 
-  * pobieranie określonej strony www
-
+  * pobieranie określonej strony www
 
-  * zapis pobranej strony do określonego pliku (nazwa pliku posiada aktualną datę) w celu archiwizacji (dla ułatwienia analizy, pliki zapisywane są w tym samym folderze co skrypt)
-
 
-  * losowanie czasu na jaki skrypt zostanie uśpiony (losowy okres, aby nie wywołać podejrzeń ;) )
-
+  * zapis pobranej strony do określonego pliku (nazwa pliku posiada aktualną datę) w celu archiwizacji (dla ułatwienia analizy, pliki zapisywane są w tym samym folderze co skrypt)
 
-  * całość działa w pętli przez pewien zadany czas
-
+
+  * losowanie czasu na jaki skrypt zostanie uśpiony (losowy okres, aby nie wywołać podejrzeń ;) )
+
+
+  * całość działa w pętli przez pewien zadany czas
+
 
 
 Skrypt realizujący powyższe założenia wygląda następująco (dodatkowe informacje ułatwiające zrozumienie skryptu zawarte są w komentarzach):
 
 
-```ps
-
+```ps
+
 #na początku zapamiętujemy datę uruchomienia skryptu
 $start =  Get-Date
 #zmienne (minuty) określające w jakim przedziale, losowany będzie czas uśpienia skryptu 
@@ -138,16 +139,16 @@ do{
 
 Write-Host &quot;koniec&quot;
 
-```
-
+```
+
 
 Przykładowy skrypt pokazał jak można polecenia PowerShella połączyć z obiektami prosto z .NET. Dzięki temu, w prosty i szybki sposób można stworzyć wydajne skrypty, które mają olbrzymie możliwości. Znajomość tego typu zależności z .NET dla zaawansowanego administratora, może okazać się zbawienna i nieraz pozwoli zaoszczędzić czas i ułatwi pracę w środowisku serwerowym.
 
 
 
-## GUI
+## GUI
 
-
+
 Skoro PowerShell to .NET, więc można spróbować stworzyć w nim GUI używając obiektów z frameworku. Do wyboru mamy WinForms lub WPF. Skupię się głównie na tej pierwszej opcji. Skrypt z WinForms wygląda podobnie, wręcz identycznie, jak plik  *designer*  generowane np. przez Visual Studio. 
 
 Przedstawię teraz mały skrypt, który korzysta z GUI pod PowerShellem. Jego zadaniem będzie listowanie za pomocą polecenia  *dir*  zawartości folderu. Ścieżkę do katalogu nie będziemy podawali w konsoli, ale w polu tekstowym w oknie graficznym aplikacji PowerShell. Uruchomienie polecenia nastąpi po naciśnięciu odpoweidniego przycisku. Zawartość zostanie przedstawiona w kontrolce  *listbox* . Ostatnim elementem na formatce jest przycisk do zamknięcia okna. 
@@ -155,8 +156,8 @@ Przedstawię teraz mały skrypt, który korzysta z GUI pod PowerShellem. Jego za
 Kod z komentarzami omawiającymi poszczególne elementy skryptu, przedstawia się następująco:
 
 
-```ps
-
+```ps
+
 #tworzymy instancję okna
 $form = New-Object System.Windows.Forms.Form
 #okno otrzymuje nazwę, rozmiar oraz pozycję (środek ekranu)
@@ -206,14 +207,14 @@ $form.Controls.Add($dir)
 
 $form.ShowDialog()
 
-```
-
+```
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-28-_107_/g_-_608x405_-_-_38836x20130127234112_0.png
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-28-_107_/g_-_608x405_-_-_38836x20130127234112_0.png)
+
+
 
 Kilkoma poleceniami w PowerShell stworzyliśmy proste środowisko GUI dla administratora. Idealne jeśli pewne skrypty mają być obsługiwane przez osoby, które nie muszą mieć dużej wiedzy w PowerShellu, czy znać wszystkie składniki metod. Co więcej, w takiej sytuacji można wykluczyć część błędów i zmniejszyć ryzyko nieodpowiedniego użycia poleceń.
 
@@ -221,7 +222,7 @@ Oczywiście na początku tworzenie GUI pod PowerShella wydaj się lekko skomplik
 
 
 
-## Podsumowanie
+## Podsumowanie
 
-
-Znajomość .NET dla zaawansowanych administratorów wydaje się rzeczą bardzo atrakcyjną. Nie tylko zwiększa szybkość i komfort pracy, dzięki skryptom o większych możliwościach, ale także pozwala na proste tworzenie własnych skryptów z GUI. Bardziej przyjazny interfejs idealnie nada się dla mniej doświadczonych osób, które muszą skorzystać ze skryptów i przy okazji pełnić może formę walidatora. Warto znać wszystkie możliwości PowerShella, aby móc pracować efektywniej, szybciej i prościej.)
+
+Znajomość .NET dla zaawansowanych administratorów wydaje się rzeczą bardzo atrakcyjną. Nie tylko zwiększa szybkość i komfort pracy, dzięki skryptom o większych możliwościach, ale także pozwala na proste tworzenie własnych skryptów z GUI. Bardziej przyjazny interfejs idealnie nada się dla mniej doświadczonych osób, które muszą skorzystać ze skryptów i przy okazji pełnić może formę walidatora. Warto znać wszystkie możliwości PowerShella, aby móc pracować efektywniej, szybciej i prościej.

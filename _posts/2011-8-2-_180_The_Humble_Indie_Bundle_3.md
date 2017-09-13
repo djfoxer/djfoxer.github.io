@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      The Humble Indie Bundle 3
-date:       2011-08-02 23:25:00
-summary:    The Humble (Indie) Bundle ? W dużym skrócie czym jest The Humble (Indie) Bundle:- kupujesz paczkę gier za tyle ile chcesz! (dowolna kwota większa od $0 )- gry nie mają żadnych zabezpieczeń- brak limitów pobrań- pieniądze idą na cele charytatywne lub do developerów (sam ustalasz jaka część kwoty pójd...
-categories: windows linux gry
----
+﻿---
+layout:     post
+title:      The Humble Indie Bundle 3
+date:       2011-08-02 23:25:00
+summary:    The Humble (Indie) Bundle ? W dużym skrócie czym jest The Humble (Indie) Bundle:- kupujesz paczkę gier za tyle ile chcesz! (dowolna kwota większa od $0 )- gry nie mają żadnych zabezpieczeń- brak limitów pobrań- pieniądze idą na cele charytatywne lub do developerów (sam ustalasz jaka część kwoty pójd...
+categories: windows linux gry
+---
 
 
-
+
 The Humble (Indie) Bundle ? 
 
 W dużym skrócie czym jest The Humble (Indie) Bundle:
@@ -32,9 +33,9 @@ W przeszłości była również paczka gier od większego developera (patrz dale
 
 
 
-## Historia
+## Historia
 
-
+
 
 Do tej pory dostępne były następujące paczki z Humble (Indie) Bundle
 
@@ -75,18 +76,18 @@ I tak oto doszliśmy szybko do najnowszej paczki:
 
 
 
-## The Humble Indie Bundle 3 
+## The Humble Indie Bundle 3 
 
-
+
 
 W skrócie przedstawię, co nowego jest w aktualnej paczce, mam nadzieję, że kogoś zachęcę do zakupu i pomocy innym :)
 
 
 
 
-## Crayon Physics Deluxe
+## Crayon Physics Deluxe
 
-
+
 
 Gra powinna być znana, chociaż dla części graczy. Cel gry jest prosty. Na planszy 2D mamy kulkę i gwiazdkę. Naszym zadaniem jest popchnięcie kulki w stronę gwiazdki. Niby nic wielkiego, ale sposób pokierowania, poprzez popchnięcie jest ograniczony tylko naszą wyobraźnią! 
 
@@ -102,17 +103,17 @@ Crayon Physics Deluxe jest grą świetną, na długie godziny. Nie można się p
 
  *Crayon Physics Deluxe* 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_1.jpg)
 
- *Cogs* 
-
-
+ *Cogs* 
 
 
 
-## Cogs
 
-
+
+## Cogs
+
+
 
 
 Kolejna gra, Cogs, to gra logiczna, która z założenia jest prosta, ale dzięki temu niesamowicie wciągająca! Mając planszę z jednym brakującym polem musimy ułożyć pozostałe w odpowiedni wzór. Raz będziemy zmuszeniu do przestawienia kół zębatych, aby połączyć obieg, innym razem przesuwając rury z parą w celu uruchomienia silnika. Plansze są bardzo zróżnicowane (np. przesuwanie kół zębatych na ścianach sześcianu!)
@@ -124,27 +125,27 @@ Całość prezentuje się bardzo ładnie i pozwala w pełni cieszyć się radoś
 
 
 
-## VVVVVV
+## VVVVVV
 
-
+
 
 
 Trzecią grą w paczce jest VVVVVV. Już sam tytuł nie jest tuzinkowy, a gra... no cóż również :) Po odpaleniu otrzymujemy grafikę niczym z 8bitowców :) Modną ostatnio wśród developerów Indie :P Gra niczym by się nie wyróżniała, gdyby nie to, iż nasz ludzik nie skacze, a przykleja się raz do sufitu raz do ściany :) VVVVVV jest satysfakcjonującą grą, ale i piekielnie trudną! Nie ma co liczyć na szybkie przejście nawet początkowych poziomów. Na stronie www dostępne są dodatkowe plansze, w które można zagrać :) Nie wiem czemu, ale bardzo przypadła mi do gustu muzyka, ma coś w sobie. Obowiązkowa pozycja dla fanów Super Meat Boy.
 
  *VVVVVV* 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_2.jpg
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_2.jpg)
+
+ 
  *Hammerfight* 
 
 
 
 
-## Hammerfight
+## Hammerfight
 
-
+
 
 
 Gra Hammerfight jest dość oryginalna (choć na tle zestawu nie odstaje, aż tak bardzo ;) ). Jest to rodzaj strzelanki, ale... nie strzelamy :P tylko poruszając myszką w kółko, sterujemy swobodnie zawieszonym poniżej naszego pojazdu młotem. Pomysł oryginalny i świeży. Gra nie jest prosta, ale nauka wprawienia w ruch wahadła, daje wiele frajdy. 
@@ -152,20 +153,20 @@ Gra Hammerfight jest dość oryginalna (choć na tle zestawu nie odstaje, aż ta
 
 
 
-## And Yet It Moves
+## And Yet It Moves
 
-
+
 
 Chyba najdziwniejsza z gier ;) Poruszmy się bohaterem, który... odwraca planszę. Jeśli dalszą eksplorację blokują skały, wystarczy obrócić plansze o 90 stopni w lewo, aby skały osunęły się w dół. Trudność polega na tym, iż obracając planszę nabieramy prędkości i możemy stracić życie.
 
 Każdą z plansz można przejść na kilka sposobów (na czas, w trybie ghost, itp.). Maksymalnie zakręcona gra! :)
 
  *And Yet It Moves* 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_3.jpg
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-2-_180_/g_-_608x405_-_-_26988x20110802185620_3.jpg)
+
+ 
  *Steel Storm - Burning Retribution* 
 
 Steel Storm - Burning Retribution
@@ -177,9 +178,9 @@ Ostatnią grą, dodaną już po rozpoczęciu Humble Indie Bundle 3 jest  Steel S
 
 
 
-## Jak kupić? 
+## Jak kupić? 
 
-
+
 
 Kupno jest bardzo proste! 
 - wchodzimy na stronę [http://www.humblebundle.com](http://www.humblebundle.com/)
@@ -194,9 +195,9 @@ Koniec :)
 
 
 
-## Kup grę i pomóż!
+## Kup grę i pomóż!
 
-
+
 
 Gorąco zachęcam do wzięcia udziału w akcji! Za dowolną kwotę możemy zyskać bardzo oryginalne i unikatowe gry, a dodatkowo możemy jeszcze zasilić organizacje pozarządowe (EFF i Child&#39;s Play)!
 
@@ -207,9 +208,9 @@ Ja już kupiłem swoją paczkę The Humble Indie Bundle 3, a Ty? ;)
 
 
 
-## Edit 1 (06.08.2011)
+## Edit 1 (06.08.2011)
 
-
+
 
 W The Humble Indie Bundle 3 ciągle są zmiany, wiec kilka słów co mamy na chwilę obecną :)
 
@@ -249,9 +250,9 @@ Kwota rośnie cały czas i wygląda na to, iż przekroczy rekord 1.8 miliona $, 
 
 
 
-## Edit 2 (10.08.2011)
+## Edit 2 (10.08.2011)
 
-
+
 
 The Humble Indie Bundle 3 zakończone. Uzbierano ponad 2.1 miliona $! Średnia wpłata to $5.82. 
 
@@ -270,4 +271,3 @@ Linux: 18.6%
 Wpłat było: 372 370
 
 Do zobaczenia przy następnym Humble (Indie) Bundle  :)
-)

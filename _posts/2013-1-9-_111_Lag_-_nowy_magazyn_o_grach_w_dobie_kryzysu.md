@@ -1,19 +1,20 @@
-﻿---layout:     post
-title:      Lag - nowy magazyn o grach w dobie kryzysu
-date:       2013-01-09 14:54:00
-summary:    O problemach papierowej branży gier w Polsce zapewne słyszał już każdy. Znikające magazyny, problemy z płynnością sprzedaży. W tym okresie wypromować chce się zupełnie nowy magazyn o grach, w formie jakiej jeszcze u nas nie było. Czy ma szansę na sukces?Karta z historii Jak pamiętacie, lata 90te to ...
-categories: gry hobby inne
----
+﻿---
+layout:     post
+title:      Lag - nowy magazyn o grach w dobie kryzysu
+date:       2013-01-09 14:54:00
+summary:    O problemach papierowej branży gier w Polsce zapewne słyszał już każdy. Znikające magazyny, problemy z płynnością sprzedaży. W tym okresie wypromować chce się zupełnie nowy magazyn o grach, w formie jakiej jeszcze u nas nie było. Czy ma szansę na sukces?Karta z historii Jak pamiętacie, lata 90te to ...
+categories: gry hobby inne
+---
 
 
-
+
 O problemach papierowej branży gier w Polsce zapewne słyszał już każdy. Znikające magazyny, problemy z płynnością sprzedaży. W tym okresie wypromować chce się zupełnie nowy magazyn o grach, w formie jakiej jeszcze u nas nie było. Czy ma szansę na sukces?
 
 
 
-## Karta z historii
+## Karta z historii
 
- 
+ 
 
 Jak pamiętacie, lata 90te to szybki rozwój rynku gier w Polsce. PC stają się coraz bardziej popularne, a co za tym idzie i rozrywka związana z nimi. W tym czasie powstaje wiele magazynów o tematyce gier. Użytkownicy szukają w nich recenzji, zapowiedzi, kodów, dem, a także pełnych wersji dodawanych do czasopism. Sielanka jednak nie trwa długo.
 
@@ -25,43 +26,43 @@ Czy zatem wchodzenie na rynek papierowych czasopism ma sens?
 
 
 
-## Magazyn Lag - inaczej o grach
-
-
+## Magazyn Lag - inaczej o grach
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109002432_0.jpg
 
-
+
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109002432_0.jpg)
+
+
 
 Konkurencja z  *CD-Action*  nie ma oczywiście sensu. Lag jest jednak zupełnie czymś innym, niż to co mamy obecnie na rynku. Nie znajdziemy w nim recenzji, czy newsów z branży. Jest to zbiór artykułów związanych z tematyką gamingu, podanych w zachęcającej formie, z grafikami nawiązującymi do poruszanego tematu.
 
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109002440_0.jpg
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109002440_0.jpg)
+
+
 
 Lag to 62 stronicowy magazyn w formacie bliskim A5, z wysokiej jakości papieru kredowego. Nie ma w nim reklam, a jedynie tekst okraszony bardzo ciekawą grafiką. Artykuły są rodzajem publicystyki skupionej wokół branży growej. 
 
 Z końcem roku 2012 ruszyła sprzedaż magazynu. Można go nabyć jedynie przez sieć. Lag wraz z przesyłką kosztuje 15zł. Więcej znajdziecie na stronie [Magazyn Lag](http://lagmag.pl/).
 
 Pierwszy numer Lag#1, wydany nakładem 1000 sztuk,  to próba sprawdzenia, jak tego typu produkt sprzeda się i zainteresuje graczy. Z tego co już wiadomo, duże zainteresowanie #1 sprawiło, iż na pewno zostanie wydany Lag #2. Numer pierwszy już rozszedł się w ponad 700 egzemplarzy. Nadal można oczywiście zakupić swój numer.
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109124539_0.jpg
 
-
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-9-_111_/g_-_608x405_-_-_38525x20130109124539_0.jpg)
+
+
 
 Dodam jeszcze, że do magazynu dorzucany jest plakat Śledzia, którego niezmiernie miło pamiętam z komiksów ze  *Świata Gier Komputerowych* .
 
 
 
-## Lag #1 na żywo - opinia
+## Lag #1 na żywo - opinia
 
-
+
 Mój numer Laga dotarł na początku nowego roku. Pierwsze wrażenie jest świetne. Twardsza okładka, miły w dotyku kredowy papier. Strony są sklejane, ale nie wygląda na to, aby miały się odłączyć od całości.
 
 Każdy artykuł zaczynałem czytać od krótkiego przedstawienia autora, które znajduję się na końcu magazynu. Cóż mogę powiedzieć? Tekstów jest jedenaście i są raczej krótkie. Przeczytanie całości zajmie od 0.5 do 1 godziny. Jakość jest różna. 
@@ -77,4 +78,3 @@ Pisałem już o grafikach, które są świetne, miejscami trochę zbyt duże do 
 
 Ogólnie uczucia są mieszane. Kilka świetnych tekstów i miła szata graficzna. Z drugiej strony za 15 złotych treści jest mało, a niektóre są słabej jakości lub wręcz nijakiej. Czy warto kupić Lag#1? Ciężko mi jest odpowiedzieć. Cena nie jest wygórowana, ale i treści nie ma dużo. Warto poczekać do #2 i sprawdzić, czy nowy numer zaoferuje coś więcej niż pilotażowy #1. Jeśli nie, to nie wróże przyszłości dla Laga. Dużo więcej można poczytać na blogach w sieci.
 
-)

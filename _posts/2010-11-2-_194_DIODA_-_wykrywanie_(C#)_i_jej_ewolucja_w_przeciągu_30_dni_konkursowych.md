@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
-date:       2010-11-02 11:59:00
-summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w &quot;zawodach&quot; co chwile musiały sprawdzać czy na stronie nie ma żółtej &quot;gwiazdeczki&quot;. To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnoś...
-categories: programowanie hobby inne
----
+﻿---
+layout:     post
+title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
+date:       2010-11-02 11:59:00
+summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w &quot;zawodach&quot; co chwile musiały sprawdzać czy na stronie nie ma żółtej &quot;gwiazdeczki&quot;. To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnoś...
+categories: programowanie hobby inne
+---
 
 
-
+
 Dioda konkursowa - Intel królem marketingu
 
 Sam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w &quot;zawodach&quot; co chwile musiały sprawdzać czy na stronie nie ma żółtej &quot;gwiazdeczki&quot;. To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez ten miesiąc. 
@@ -39,9 +40,9 @@ Uffff, zaraz, miało być o wykrywaniu diody, a nie jakieś analizy konkursu:) Z
 
 
 
-## Dioda konkursowa od kuchni
+## Dioda konkursowa od kuchni
 
-
+
 
 Opisany sposób jest jedynie informacja, o tym jak można było wykryć diodę jednym z wielu, wielu sposobów. 
 
@@ -55,9 +56,9 @@ Następnie należało odkryć skąd jest brany kolor diody. Z pomocą przyszedł
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030155748_1.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030155748_1.png)
 
- *Rys. 1 Dioda w ostatnim dniu konkursu* 
+ *Rys. 1 Dioda w ostatnim dniu konkursu* 
 
 Na załączonym obrazu widać, iż tło z diodą pobierane jest z web serwisu. Musimy zatem pobrać te tło i odpowiednio je zinterpretować, aby móc wykryć żółtą diodę.
 
@@ -65,9 +66,9 @@ Zdjęcie pochodzi z ostatniego dnia konkursowego.
 
 
 
-## Dioda miała kilka wcieleń podczas całego konkursu. Postaram się opisać każde z nich oraz sposób wykrycia żółtej diody. 
+## Dioda miała kilka wcieleń podczas całego konkursu. Postaram się opisać każde z nich oraz sposób wykrycia żółtej diody. 
 
-
+
 
 
 
@@ -89,9 +90,9 @@ Smacznego!
 
 
 
-## I jeszcze coś...
+## I jeszcze coś...
 
-
+
 
 Po przeanalizowaniu regulaminu konkursu, nie znalazłem nic, co mówiło by o tym, iż nie można używać aplikacji do sprawdzania diody. Dodatkowo wiele osób w  komentarzach pod wpisami na stronie głównej chwaliło się swoimi programami. A, że czołówka w większość miała aplikacje jakieś własne, to chyba nikt w to nie wątpi. 
 
@@ -99,18 +100,18 @@ Po przeanalizowaniu regulaminu konkursu, nie znalazłem nic, co mówiło by o ty
 
 
 
-## Dioda 1.x
+## Dioda 1.x
 
-
+
 
  */Analiza - Dioda 1.0/* 
 Pierwsza dioda była bardzo prosta:
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165340_2.png
 
- *Rys. 2 Dioda 1.x zwracana przez web serwis*  
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165340_2.png)
+
+ *Rys. 2 Dioda 1.x zwracana przez web serwis*  
 
 Zabezpieczaniem był prostokąt zawierający losowe kolory pikseli. Co uniemożliwiało sprawdzenie, czy web serwis zwraca diodę żółtą, na podstawie rozmiaru/sumy kontrolnej obrazka. 
 
@@ -129,8 +130,8 @@ Jednakże łatwo zauważamy, iż jest to aktualna data w formacie:
 Zastosowałem Obiekt Parametrs, dzięki czemu niektóre parametry można było ustawić w oknie opcji.
 Opis parametrów obiektu Parameters:
 
-```csharp
-
+```csharp
+
 par.Ur - url do web serwisu, który zwracał obrazek z diodą
 
 par.PixelX - współrzędna X jaką należy sprawdzić
@@ -145,13 +146,13 @@ par.ColorG_To - składowa G pixela, granica górna
 par.ColorB_From - składowa B pixela, granica dolna
 par.ColorB_To - składowa B pixela, granica górna
 
-```
- 
+```
+ 
 
 Kod sprawdzający czy dioda się &quot;zapaliła&quot;:
 
-```csharp
-
+```csharp
+
 public bool IsDiodeActive(Parametrs par)
 {
 
@@ -160,8 +161,8 @@ DateTime now = DateTime.Now;
 
                     WebClient wc = new WebClient();
                     byte
-```
- data = wc.DownloadData(par.Url
+```
+ data = wc.DownloadData(par.Url
                         + &quot;?q=&quot;
                         + now.Year.ToString(&quot;0000&quot;)
                         + now.Month.ToString(&quot;00&quot;)
@@ -210,19 +211,19 @@ Ogólna ocena:
 
 
 
-## Dioda 2.x
+## Dioda 2.x
 
-
+
 
  */Analiza - Dioda 2.0/* 
 
 Kolejne wcielenie diody było miłym zaskoczeniem. Ktoś tam po drugiej stronie włożył w to sporo pracy. Nazwałem tą wersje 2.0, gdyż zmiany są dość znaczące: (kliknij by powiększyć!)
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165525_3.png
 
- *Rys. 3 Dioda 2.x*   
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165525_3.png)
+
+ *Rys. 3 Dioda 2.x*   
 
 Jak zwykle z pomocą przyszedł Firebug. Z załączonego obrazka widzimy, iż bitmapa zwracana przez web serwis, już jest inna. Znajdują się na niej 8 diod. Nawet gdy nie było pytania, zawierała ona zarówno niebieskie, jak i żółte diody. Celem było znalezienie w jaki sposób wybierana jest dioda poprawna, do wyświetlenia. 
 
@@ -232,13 +233,13 @@ Tak, Firebug jest niemalże niezbędny:P Szybka analiza kodu strony, pozwoliła 
 
 Zmieniony kod:
 
-```csharp
-public bool IsDiodeActive(Parametrs par)
+```csharp
+public bool IsDiodeActive(Parametrs par)
 {
 WebClient wc = new WebClient();
                     byte
-```
- dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
+```
+ dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
                     string plainHtml = Encoding.UTF8.GetString(dataHtml);
 
                     Point p = GetOffset(plainHtml);
@@ -274,13 +275,13 @@ Zatem należało zmienić tak algorytm, ażeby najpierw usunął komentarze z ko
 
 Zmieniony kod:
 
-```csharp
-public bool IsDiodeActive(Parametrs par)
+```csharp
+public bool IsDiodeActive(Parametrs par)
 {
 WebClient wc = new WebClient();
                     byte
-```
- dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
+```
+ dataHtml = wc.DownloadData(&quot;http://konkurs.dobreprogramy.pl/&quot;);
                     string plainHtml = Encoding.UTF8.GetString(dataHtml);
 
                     string[] values = GetDataFromHtml(plainHtml);
@@ -319,9 +320,9 @@ Ogólna ocena:
 
 
 
-## Podsumowanie
+## Podsumowanie
 
-
+
 
 
 Mam nadzieje, że przedstawione sposoby zachęcą kogoś do zagłębienia się w programowanie. Przedstawione kody źródłowe były dość ogólne. Sposób wyświetlania diody już się zmienił (wersji 2.6 jeszcze nie zrobiłem:P).
@@ -334,4 +335,4 @@ Mając możliwość, dziękuje redakcji, iż mogłem wziąć udział w tak emocj
 
 No i pozdrowienia dla dwóch osób z teamu ;)
 
-Dziękuję i pozdrawiam.)
+Dziękuję i pozdrawiam.

@@ -1,12 +1,13 @@
-﻿---layout:     post
-title:      LG GT540 - wymiana wyświetlacza
-date:       2011-09-23 01:30:00
-summary:    Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosz...
-categories: sprzęt porady
----
+﻿---
+layout:     post
+title:      LG GT540 - wymiana wyświetlacza
+date:       2011-09-23 01:30:00
+summary:    Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosz...
+categories: sprzęt porady
+---
 
 
-
+
 Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.
 Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.
 Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosze, gdy możemy sami wymienić wyświetlacz.
@@ -16,9 +17,9 @@ Nie warto jednak rozpaczać. W internecie można kupić zarówno oryginalne wyś
 
 
 
-## UWAGA!
+## UWAGA!
 
-
+
 
 Otwierając smartfon tracimy gwarancję! Sposób działania, zamieszony poniżej robisz na własną odpowiedzialność! Jeśli nie czujesz się na siłach w tego typu naprawach, warto poprosić znajomego, który zna się na rzeczy.
 
@@ -40,9 +41,9 @@ Kilka rad:
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923001245_1.jpg
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923001245_1.jpg)
 
- 
+ 
 
 [1]
 Pęknięty wyświetlacz.  Dokładnie widać linię ukruszenia.
@@ -71,11 +72,11 @@ Aby nie zgubić śrubek, polecam położyć je w bezpieczne miejsce np. do zakr�
 [9]
 Następnym etapem będzie wyjęcie, zaznaczonej na zdjęciu obudowy. Róbmy to ostrożnie, gdyż wykonana jest ona z delikatnego plastyku. Dodatkowo boki są bardzo cienkie i podatne na uszkodzenia.
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923002914_2.jpg
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923002914_2.jpg)
+
+ 
 
 [10]
 Rozbieranie warto zacząć od góry smartfonu. Podważmy delikatnie obudowę na złączeniu.
@@ -104,11 +105,11 @@ Szczęśliwie odseparowany panel od smartfonu;)
 [18]
 Aby móc dalej działać, należy odpiąć łącznik wyświetlacza z płytą główną smartfonu.
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923005825_3.jpg
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923005825_3.jpg)
+
+ 
 
 [19]
 Podobnie jak w kroku 12., delikatnie odegnijmy brzegi zewnętrznej obudowy smartfonu w celu wyjęcia płyty głównej. Polecam zacząć od górnej, czarnej końcówki wyjścia słuchawkowego. 
@@ -143,4 +144,3 @@ W taki oto sposób wymieniliśmy wyświetlacz w LG GT540 i zaoszczędziliśmy pi
 
  *Dziękuję i Pozdrawiam* 
 
-)

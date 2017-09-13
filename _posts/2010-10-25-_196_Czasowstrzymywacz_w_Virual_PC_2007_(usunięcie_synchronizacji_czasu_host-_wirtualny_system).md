@@ -1,17 +1,18 @@
-﻿---layout:     post
-title:      Czasowstrzymywacz w Virual PC 2007 (usunięcie synchronizacji czasu host->wirtualny system)
-date:       2010-10-25 19:33:00
-summary:    Na początekWitajcie. Często korzystając z wirtualki zauważamy, iż maszyna wirtualna jest synchronizowana z czasem hosta (gospodarza, czyli z naszym realnym systemem). Nie zawsze jest to nam na rękę (np. testy oprogramowania itp.). Zmiana testowana była na Virtual PC 2007 SP1, który można zainstalowa...
-categories: windows oprogramowanie porady
----
+﻿---
+layout:     post
+title:      Czasowstrzymywacz w Virual PC 2007 (usunięcie synchronizacji czasu host->wirtualny system)
+date:       2010-10-25 19:33:00
+summary:    Na początekWitajcie. Często korzystając z wirtualki zauważamy, iż maszyna wirtualna jest synchronizowana z czasem hosta (gospodarza, czyli z naszym realnym systemem). Nie zawsze jest to nam na rękę (np. testy oprogramowania itp.). Zmiana testowana była na Virtual PC 2007 SP1, który można zainstalowa...
+categories: windows oprogramowanie porady
+---
 
 
-
 
 
-## Na początek
 
-
+## Na początek
+
+
 
 Witajcie. 
 Często korzystając z wirtualki zauważamy, iż maszyna wirtualna jest synchronizowana z czasem hosta (gospodarza, czyli z naszym realnym systemem). Nie zawsze jest to nam na rękę (np. testy oprogramowania itp.). Zmiana testowana była na Virtual PC 2007 SP1, który można zainstalować na Windows: XP, VISTA, 7. Do dzieła!
@@ -20,9 +21,9 @@ Często korzystając z wirtualki zauważamy, iż maszyna wirtualna jest synchron
 
 
 
-## Działamy
+## Działamy
 
-
+
 
 
 1. 
@@ -36,17 +37,17 @@ Edytuj np. Notatnikiem i znajdź blok:
 
 
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-25-_196_/g_-_608x405_-_-_21163x20101025191440_1.png
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-25-_196_/g_-_608x405_-_-_21163x20101025191440_1.png)
 
- 
+ 
 
 i pod tym blokiem dopisujemy własny blok:
 
-)
 
-![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-25-_196_/g_-_608x405_-_-_21163x20101025191440_2.png
 
- 
+![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-25-_196_/g_-_608x405_-_-_21163x20101025191440_2.png)
+
+ 
 
 Link z kodem do przyklejenia:
 
@@ -57,9 +58,9 @@ Link z kodem do przyklejenia:
 
 
 
-## 4.
+## 4.
 
-
+
 
 Zapisujemy plik .VMC i uruchamiamy maszynę wirtualną!
 Gotowe! :)
@@ -68,12 +69,11 @@ Gotowe! :)
 
 
 
-## Koniec
+## Koniec
 
-
+
 
 Od tej pory czas maszyny wirtualnej nie będzie aktualizowany z czasem hosta. Podobno trik ten nie działa na Windows Virtual PC (wersja specjalna dla Windows 7), jednakże możliwość instalacji Virtual PC 2007 na Win 7 rozwiązuje bezboleśnie tą niedogodność.
 
 Pozdrawiam.
 
-)
