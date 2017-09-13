@@ -3,7 +3,7 @@ layout:     post
 title:      MHL - smartfon na dużym ekranie i problemy ze standardami (Samsung)
 date:       2013-01-26 00:29:00
 summary:    MHL to w miarę nowy standard przesyłania dźwięku i obrazu. Wystarczy mieć urządzenie wspierające standard MHL i odpowiedni adapter. Okazuje się jednak, iż nie jest tak zawsze prosto jak mogło by się wydawać. Najważniejsze jednak, że efekt końcowy jest świetny.  Zapraszam do lektury.MHL - standardMHL...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt porady urządzenia mobilne
 ---
 
 

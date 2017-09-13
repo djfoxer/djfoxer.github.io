@@ -3,7 +3,7 @@ layout:     post
 title:      jv16 PowerTools 2010 - za darmo* + Polowanie na licencje (R.I.P.?)
 date:       2010-12-05 23:17:00
 summary:    Polowanie na licencje (R.I.P.?)Hej, oczywiście nic nie ma całkowicie za darmo, no może nie dla wszystkich;) Chyba po pierwszym rysunku możecie się domyślać w czym rzecz. Rys. 1. R.I.P. Polowanie na licencjeW 2007 roku, ktoś z dobreprogramy.pl wpadł na genialny pomysł. Co pewien czas będą rozdawać za...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
+categories: windows oprogramowanie porady
 ---
 
 

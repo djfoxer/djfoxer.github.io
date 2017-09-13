@@ -3,7 +3,7 @@ layout:     post
 title:      Historia splash screena i jego podmiana (Pimp My Visual Studio)
 date:       2012-08-03 08:43:00
 summary:    Sezon ogórkowy w pełni. Ostatnio było o spolszczeniu do Visuala, a zatem czas na kolejny odcinek z cyklu "Pimp My Visual Studio". W tym wpisie poruszymy temat splash screenu w Visual Studio.Karta z kalendarzaVisual Studio 97Każda z wersji pakietu Visual Studio miała własny splash screen. W wersji 97...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

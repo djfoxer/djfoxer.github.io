@@ -3,7 +3,7 @@ layout:     post
 title:      Humble Voxatron Debut + tanie gry
 date:       2011-11-02 23:35:00
 summary:    Ponownie The Humble Indie Bundle atakuje nas świetną promocją.W skrócie czym jest Humble Indie Bundle:- kupujesz gry za dowolne pieniądze- gry są multiplatformowe- brak zabezpieczeń- pieniądze idą m.in. na cele charytatywnePod http://www.humblebundle.com/ znajdziecie więcej szczegółów. W nowej odsło...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: windows linux gry
 ---
 
 

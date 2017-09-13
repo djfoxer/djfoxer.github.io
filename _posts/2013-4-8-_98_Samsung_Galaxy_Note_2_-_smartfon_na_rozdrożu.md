@@ -3,7 +3,7 @@ layout:     post
 title:      Samsung Galaxy Note 2 - smartfon na rozdrożu
 date:       2013-04-08 10:08:00
 summary:    Galaxy Note 2 to nietypowy smartfon. Posiada on unikalny, jak na telefon, wyświetlacz 5.5 cala. Jeszcze kilka lat temu, ekran 4 cale wydawał się zbyt dużym, by móc trzymać go swobodnie w kieszeni. Obecnie przyjmuje się, ze 4.3-4.5 cala to maksymalny rozmiar wyświetlacza, który jest komfortowy w użyc...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt urządzenia mobilne
 ---
 
 

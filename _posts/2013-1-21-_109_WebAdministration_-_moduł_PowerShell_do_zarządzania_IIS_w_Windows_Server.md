@@ -3,7 +3,7 @@ layout:     post
 title:      WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server
 date:       2013-01-21 18:07:00
 summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: windows porady serwery
 ---
 
 

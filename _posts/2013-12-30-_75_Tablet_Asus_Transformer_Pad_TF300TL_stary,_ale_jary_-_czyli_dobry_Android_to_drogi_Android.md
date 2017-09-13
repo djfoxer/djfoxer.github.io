@@ -3,7 +3,7 @@ layout:     post
 title:      Tablet Asus Transformer Pad TF300TL stary, ale jary - czyli dobry Android to drogi Android
 date:       2013-12-30 14:46:00
 summary:    Każdy z nas miał w ręku tablet z Androidem i zapewne mało który z nich działał przyzwoicie. Niestety system od Googla na urządzeniach przenośnych w większości przypadków jest oprogramowaniem, które lub przypomnieć dla użytkownika o swoich wadach . Dostałem jednak ostatnio do zabawy tablet Asus Trans...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

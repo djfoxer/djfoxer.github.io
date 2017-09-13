@@ -3,7 +3,7 @@ layout:     post
 title:      Oszczędzanie baterii w Windows Phone 7.5 - na maxa
 date:       2012-02-16 23:33:00
 summary:    Temat aktualny zawsze. Smartfony mają coraz większe ekrany, bardziej zaawansowane funkcjonalności, wielomegapikselowe aparaty... bateria zaś nie zmieniła się zbytnio przez ostatnie lata. Dlatego też, po pewnym czasie "oczarowania" przychodzi moment, gdy chcemy, aby nasz smartfon trzymał na baterii, ...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: porady urządzenia mobilne
 ---
 
 

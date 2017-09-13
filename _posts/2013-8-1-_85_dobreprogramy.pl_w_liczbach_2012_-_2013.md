@@ -3,7 +3,7 @@ layout:     post
 title:      dobreprogramy.pl w liczbach 2012 - 2013
 date:       2013-08-01 14:58:00
 summary:    Na lightning talks na HotZloie 2013, prezentowałem m.in. statystyki dotyczące portalu w przeciągu roku. Kilka osób prosiło mnie o wysłanie prezentacji na @, stąd też pomyślałem, że zamiast uszczęśliwiać tylko garstkę użytkowników, mogę uszczęśliwić znacznie większą ich liczbę ;) Tak na podstawie pre...
-categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: inne
 ---
 
 

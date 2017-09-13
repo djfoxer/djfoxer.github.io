@@ -3,7 +3,7 @@ layout:     post
 title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
 date:       2017-04-10 18:52:00
 summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do V...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

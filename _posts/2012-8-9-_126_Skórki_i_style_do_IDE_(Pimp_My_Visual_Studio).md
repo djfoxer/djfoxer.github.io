@@ -3,7 +3,7 @@ layout:     post
 title:      Skórki i style do IDE (Pimp My Visual Studio)
 date:       2012-08-09 16:57:00
 summary:    Oto kolejny wpis z wakacyjnej serii: "Pimp My Visual Studio". Dziś zajmiemy się kolorami w IDE. Otóż problem nie jest błahy. Podczas siedzenia przy Visual Studio, odpowiedni kolor edytora jest bardzo ważny w przypadku, gdy nie chcemy męczyć naszego wzroku. Zapraszam do dalszej części wpisu!Dark VS L...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

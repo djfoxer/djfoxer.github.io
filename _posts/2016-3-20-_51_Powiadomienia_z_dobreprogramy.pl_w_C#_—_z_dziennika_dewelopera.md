@@ -3,7 +3,7 @@ layout:     post
 title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
 date:       2016-03-20 10:56:00
 summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przy...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

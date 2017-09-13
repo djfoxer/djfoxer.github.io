@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone i aktualizacja GDR3 — spójrzmy w przyszłość
 date:       2013-08-15 15:37:00
 summary:    Aktualizacja GDR2 do Windows Phone już jest faktem i każdy, nawet nie mając systemu od Microsoftu, słyszał już zapewne o niej (jak i o dodatku Amber od Nokii). Zatem przyszedł czas, aby przedstawić kolejną dużą paczkę dla tego systemu mobilnego - GDR3. GDR3 - małe zmiany i przymiarki do phebletu!O a...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie urządzenia mobilne
 ---
 
 

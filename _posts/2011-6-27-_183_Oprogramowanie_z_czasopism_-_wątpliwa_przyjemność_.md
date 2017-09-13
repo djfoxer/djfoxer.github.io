@@ -3,7 +3,7 @@ layout:     post
 title:      Oprogramowanie z czasopism - wątpliwa przyjemność?
 date:       2011-06-27 23:28:00
 summary:    Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową k...
-categories: <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: hobby inne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
 date:       2013-01-30 15:41:00
 summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Ni...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: oprogramowanie porady serwery
 ---
 
 

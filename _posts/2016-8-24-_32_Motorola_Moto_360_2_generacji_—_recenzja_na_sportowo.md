@@ -3,7 +3,7 @@ layout:     post
 title:      Motorola Moto 360 2 generacji — recenzja na sportowo
 date:       2016-08-24 17:53:00
 summary:    Moto 360 jest ciekawym smartwatchem, który będzie kupowany jako "przedłużenie" smartfonu. Otrzymywanie SMSów, powiadomień, szybsza i łatwiejsza komunikacja z zewnętrznymi usługami. To i wiele więcej otrzymamy wraz z przygarnięciem zegarka od Motoroli.Przekonajmy się jednak, jak Moto 360 sprawdzi się...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

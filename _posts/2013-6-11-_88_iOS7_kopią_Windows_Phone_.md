@@ -3,7 +3,7 @@ layout:     post
 title:      iOS7 kopią Windows Phone?
 date:       2013-06-11 15:33:00
 summary:    WWDC 2013 Appla pokazało światu "nowy" interfejs, który przywita się z użytkownikiem w odświeżonej wersji iOS7. Powiem szczerze, to co zobaczyłem, aż powaliło mnie na kolana. Rozumiem, że Apple nie ma już dobrych pomysłów, szkoda tylko że kopiuje totalnie interfejs Modern (Metro) z Windows Phona. Ub...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

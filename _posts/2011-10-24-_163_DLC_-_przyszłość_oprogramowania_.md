@@ -3,7 +3,7 @@ layout:     post
 title:      DLC - przyszłość oprogramowania?
 date:       2011-10-24 18:22:00
 summary:    Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłuże...
-categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: gry hobby inne
 ---
 
 

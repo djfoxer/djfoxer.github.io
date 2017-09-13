@@ -3,7 +3,7 @@ layout:     post
 title:      Zadania działające w tle w Universal Windows Platform
 date:       2016-04-16 16:18:00
 summary:    Aplikacja do powiadomień z portalu jest już na takim etapie, że z powodzeniem testuje ją na co dzień na swoim komputerze i smartfonie z Windows 10. Zapewne ważnym elementem jest praca w tle, nawet wówczas, gdy aplikacja nie jest uruchomiona.Dziś zaprezentuję w jaki sposób powiadomienia są pobierane ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

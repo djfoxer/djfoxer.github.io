@@ -3,7 +3,7 @@ layout:     post
 title:      IndieGameStand - Humble Indie Bundle co 96 godzin!
 date:       2012-09-26 18:41:00
 summary:    The Humble Indie Bundle w skrócie - płacimy dowolną kwotę za paczkę gier, a kasa idzie na szczytne cele. Wszystko pięknie, szkoda jednak, że niezbyt często (maksymalnie raz na miesiąc). Podobnie musieli myśle twórcy inicjatywy IndieGameStand, gdzie nowe gry indie, za dowolne pieniądze, pojawiają się...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: windows linux gry
 ---
 
 

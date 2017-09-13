@@ -3,7 +3,7 @@ layout:     post
 title:      LG ucieka od Windows Phone
 date:       2012-05-01 14:52:00
 summary:    LG Electronics ogłosiło, iż ze względu na słabą sprzedaż urządzeń z Windows Phone, rezygnuje z dalszego tworzenia smartfonów opartych na tym systemie. Koreański producent postanowił skupić się na Androidzie. W najbliższej przyszłości nowe urządzenia od LG będą dostępne jedynie z systemem od Googla.W...
-categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: urządzenia mobilne inne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Mobile 7 - zarzucony projekt mobilnego systemu od Microsoftu
 date:       2013-05-20 19:39:00
 summary:    Zapewne wielu z nas, tuż po pierwszych poglądowych zdjęciach Windows Phone 7 w roku 2010, było nastawionych dość sceptycznie do nowego interfejsu Metro. Nie obyło się bez grymasów na twarzy i westchnieniach na myśl o prawdziwym następcy Windows Mobile 6. Otóż dość niespodziewanie, dziś wyciekł mater...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: oprogramowanie urządzenia mobilne inne
 ---
 
 

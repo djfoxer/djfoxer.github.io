@@ -3,7 +3,7 @@ layout:     post
 title:      Chemia w żywności, czyli odżywiaj się zdrowo z Windows Phone
 date:       2014-10-19 14:11:00
 summary:    Zapewne wielu z nas prze zakupem w sklepie spożywczym stoi przy półce z kilkoma produktami i porównuje skład chemiczny poszczególnych towarów. Sprawdzamy ile kalorii ma dany artykuł i czy przypadkiem nasz zakup nie będzie składał się w większości z cukru lub jakiś dziwnych słodzików. Nie możemy takż...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

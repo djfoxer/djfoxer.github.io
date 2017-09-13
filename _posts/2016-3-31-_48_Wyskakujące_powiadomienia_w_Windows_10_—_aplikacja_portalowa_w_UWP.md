@@ -3,7 +3,7 @@ layout:     post
 title:      Wyskakujące powiadomienia w Windows 10 — aplikacja portalowa w UWP
 date:       2016-03-31 22:47:00
 summary:    Ostatnio pokazałem  pierwszą działającą wersję aplikacji w UWP (Universal Windows Platform), która posiadała logowanie i wyświetlała prosty, niesformatowany tekst powiadomień. W dzisiejszym wpisie przedstawię kolejne nowe rzeczy, jakie dodałem do programu.Toast notifications w Windows 10Microsoft w ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

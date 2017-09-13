@@ -3,7 +3,7 @@ layout:     post
 title:      Licznik Blogowy 2017 — niezbędnik blogera (Chrome/Opera/Firefox)
 date:       2017-06-16 18:40:00
 summary:    Nadeszła ta chwila. Po wielu latach oficjalnie światło dziennie ujrzała finalna wersja Licznika Blogowego. Dodatku do przeglądarki www, który pozwala na zbieranie danych o każdym blogu na portalu (nawet bez logowania!) i przedstawieniu statystyk w formie tekstowej i graficznej.HistoriaHistoria Liczn...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: oprogramowanie internet programowanie
 ---
 
 

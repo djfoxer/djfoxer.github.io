@@ -3,7 +3,7 @@ layout:     post
 title:      MyRingtone2SMS (0.1.1) - kolejne szlify
 date:       2012-05-28 23:42:00
 summary:    Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone: MyRingtone2SMS. Pomimo "zapracowanych dni" na juwenaliach :P udało mi się stworzyć kolejną wersję, już bardziej doszlifowaną, z kilkoma bardzo ciekawymi opcjami.Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplika...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

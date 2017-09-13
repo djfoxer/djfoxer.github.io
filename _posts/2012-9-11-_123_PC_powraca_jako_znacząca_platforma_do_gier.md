@@ -3,7 +3,7 @@ layout:     post
 title:      PC powraca jako znacząca platforma do gier
 date:       2012-09-11 19:13:00
 summary:    Od dawna mówi się, że rynek gier na PC umiera. Zmierzch ery PC, co także wiąże się z końcem rynku rozrywkowego na przysłowiowych blaszakach, ogłaszany jest już od kilku lat. Czy jednak takie stwierdzenia, nie są zbyt wcześnie? Wygląda na to, iż może być wręcz odwrotnie. Otóż gry na PC odżyły i mają ...
-categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: gry hobby inne
 ---
 
 

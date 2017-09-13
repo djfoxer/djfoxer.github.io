@@ -3,7 +3,7 @@ layout:     post
 title:      GIMP ucieka z Sourceforge ze względu na adware dodawany do instalatorów
 date:       2013-11-09 16:26:00
 summary:    GIMP na swojej stronie internetowej poinformował o rezygnacji z przechowywania instalatorów pod Windows na Sourceforge. Autorzy uciekają od znanej strony hostingowej, ze względu na spyware / adware / malware (niepotrzebne skreślić), jaki dodawany jest do oryginalnych instalatorów, które przechowywan...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_5" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_5" checked="checked" value="32"><label for="chkTagsList_5">bezpieczeństwo</label>
+categories: oprogramowanie internet bezpieczeństwo
 ---
 
 

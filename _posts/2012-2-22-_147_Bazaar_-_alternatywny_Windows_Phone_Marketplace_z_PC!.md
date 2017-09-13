@@ -3,7 +3,7 @@ layout:     post
 title:      Bazaar - alternatywny Windows Phone Marketplace z PC!
 date:       2012-02-22 22:00:00
 summary:    O Bazaar można było już usłyszeć. Jest to alternatywny Marketplace dla Windows Phone, który jest zbiorem aplikacji, których próżno szukać w Microsoftowym sklepie. W jednym miejscu otrzymujemy zbiór programów typu homebrew. Do tej pory był on dostępny jedynie poprzez aplikację instalowaną na odblokow...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie urządzenia mobilne
 ---
 
 

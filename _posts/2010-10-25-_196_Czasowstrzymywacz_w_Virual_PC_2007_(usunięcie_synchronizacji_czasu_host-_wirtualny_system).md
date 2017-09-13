@@ -3,7 +3,7 @@ layout:     post
 title:      Czasowstrzymywacz w Virual PC 2007 (usunięcie synchronizacji czasu host->wirtualny system)
 date:       2010-10-25 19:33:00
 summary:    Na początekWitajcie. Często korzystając z wirtualki zauważamy, iż maszyna wirtualna jest synchronizowana z czasem hosta (gospodarza, czyli z naszym realnym systemem). Nie zawsze jest to nam na rękę (np. testy oprogramowania itp.). Zmiana testowana była na Virtual PC 2007 SP1, który można zainstalowa...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
+categories: windows oprogramowanie porady
 ---
 
 

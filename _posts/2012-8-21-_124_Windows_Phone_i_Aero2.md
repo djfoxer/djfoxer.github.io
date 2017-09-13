@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone i Aero2
 date:       2012-08-21 18:27:00
 summary:    Ostatnio dużo się pisze o Aero2 - i bardzo dobrze. Darmowy dostęp do internetu poprzez sieć 3G jest wart niejednego wpisu. Z mojej strony chciałbym uzupełnić informacje o to jak, Aero2 współpracuje z urządzeniami z Windows Phone.WymaganiaWszystkie urządzenia z Windows Phone mogą korzystać z darmoweg...
-categories: <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: internet porady urządzenia mobilne
 ---
 
 

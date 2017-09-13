@@ -3,7 +3,7 @@ layout:     post
 title:      Oficjalne i ukryte nowe funkcje w SDK Windows Phone 8 GDR3 (oraz GDR2)
 date:       2014-02-10 17:32:00
 summary:    Wraz z premierą Windows Phone 8 GDR3 Microsoft dodał kilka nowych elementów do SDK. Nie są to jakiejś rewolucyjne zmiany, ale interesujące funkcjonalności, które mogą się przydać przy tworzeniu aplikacji na nowy system mobilny z Redmond. Najciekawsze jednak jest to, że część rzeczy nie jest dostępna...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: porady programowanie urządzenia mobilne
 ---
 
 

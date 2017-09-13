@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7.8 - aktualizacja oficjalnie dostępne dla wszystkich urządzeń
 date:       2013-01-31 10:30:00
 summary:    30 stycznia o godzinie 19 naszego czasu, Microsoft udostępnił aktualizację smartfonów z Windows Phone 7.x do wersji 7.8. Co ciekawe, aktualizację będą dostępne dla większości urządzeń, bez względu na brandowanie. Oczywiście nie wszystkie na raz, ale jest pewność, że urządzenia ze starszej linii Wind...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Konfigurujemy Unit Test w Universal Windows Platform
 date:       2016-05-31 23:49:00
 summary:    Do każdego projektu w Universal Windows Platform możemy dodać test jednostkowy, niezbędny do dewelopingu nowych rzeczy, czy naprawy błędów.Taki test zapewne w wielu przypadkach będzie wymagał dodania konfiguracji, aby nie hardcodować na sztywno parametrów niezbędnych do działania (np. danych do logo...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

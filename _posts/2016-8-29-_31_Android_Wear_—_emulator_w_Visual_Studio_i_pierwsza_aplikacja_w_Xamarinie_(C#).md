@@ -3,7 +3,7 @@ layout:     post
 title:      Android Wear — emulator w Visual Studio i pierwsza aplikacja w Xamarinie (C#)
 date:       2016-08-29 18:41:00
 summary:    Testy Motoroli Moto 360 2 w akcji Lenovo pokazały spory potencjał w aplikacjach na Android Wear. Zupełnym przypadkiem od jakiegoś już czasu grzebię się w Xamarinie, czyli platformie skierowanej do programistów .NET (C#) do tworzenia multiplatformowych aplikacji (nie tylko mobilnych). Z czystej cieka...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

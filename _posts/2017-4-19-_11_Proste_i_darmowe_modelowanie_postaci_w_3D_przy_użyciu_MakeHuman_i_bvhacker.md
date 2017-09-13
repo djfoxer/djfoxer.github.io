@@ -3,7 +3,7 @@ layout:     post
 title:      Proste i darmowe modelowanie postaci w 3D przy użyciu MakeHuman i bvhacker
 date:       2017-04-19 20:58:00
 summary:    Modelowanie w 3D wydaje się nietrywialnym zagadnieniem. Na przeszkodzie staje nie tylko brak umiejętności i doświadczenia, ale także elementy bardziej materialne. Często ograniczeniem bywa sprzęt, który nie uciągnie aplikacji do grafiki 3D, ale również oprogramowanie, które potrafi słono kosztować.W...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
+categories: windows oprogramowanie porady
 ---
 
 

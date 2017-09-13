@@ -3,7 +3,7 @@ layout:     post
 title:      Amazon Kindle - Tips &amp;amp; Tricks
 date:       2012-04-24 17:25:00
 summary:    O Amazon Kindle na blogu dobrychprogramów było już kilka wpisów. Jednakże nikt nie pokusił się o dodanie opisu ukrytych funkcjonalności czytnika lub o przedstawienie dodatków jakie można samemu zainstalować. W tym krótkim wpisie postaram się nadrobić te zaległości i liczę na to, iż przydadzą się one...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

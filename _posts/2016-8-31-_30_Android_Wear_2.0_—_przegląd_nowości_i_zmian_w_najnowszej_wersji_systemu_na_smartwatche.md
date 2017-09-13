@@ -3,7 +3,7 @@ layout:     post
 title:      Android Wear 2.0 — przegląd nowości i zmian w najnowszej wersji systemu na smartwatche
 date:       2016-08-31 19:08:00
 summary:    W ostatnim wpisie z testów Lenovo pokazałem, jak można skonfigurować emulator Android Wear w Visual Studio wraz z uruchomieniem własnej aplikacji napisanej w Xamarinie. Prz okazji okazało się, że można w ten sposób pobawić się z Android Wear w wersji 2.0. Jest to szczególnie ciekawa opcja, gdyż test...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

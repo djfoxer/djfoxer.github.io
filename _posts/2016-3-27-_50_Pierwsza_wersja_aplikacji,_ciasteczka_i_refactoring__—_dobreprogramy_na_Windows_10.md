@@ -3,7 +3,7 @@ layout:     post
 title:      Pierwsza wersja aplikacji, ciasteczka i refactoring  — dobreprogramy na Windows 10
 date:       2016-03-27 15:42:00
 summary:    Wcześniejsze dwa wpisy przedstawiały kompletny sposób na zalogowanie się do portalu i zarządzanie powiadomieniami. W momencie tworzenia już UI, pod Universal Windows Platform (UWP), okazało się jednak, że potrzebny jest mały refactoring, wymuszony przez cachowanie ciasteczek, które powoduje w pewnyc...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

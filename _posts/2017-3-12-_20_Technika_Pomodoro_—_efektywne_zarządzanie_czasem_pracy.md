@@ -3,7 +3,7 @@ layout:     post
 title:      Technika Pomodoro — efektywne zarządzanie czasem pracy
 date:       2017-03-12 09:40:00
 summary:    Ostatni wpis wprowadzający do stworzenia wtyczki Healthy with Visual Studio opisywać będzie ciekawą technikę do zarządzania czasem w pracy. Mowa będzie o Pomodoro, niezmiernie prostym i skutecznym sposobem na planowanie zadań, nie tylko dla programistów.Zapanować nad czasem i zadaniamiZapewne nie ra...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: porady inne
 ---
 
 

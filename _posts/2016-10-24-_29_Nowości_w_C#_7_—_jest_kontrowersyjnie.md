@@ -3,7 +3,7 @@ layout:     post
 title:      Nowości w C# 7 — jest kontrowersyjnie
 date:       2016-10-24 21:42:00
 summary:    Jakiś czas temu pisałem o nowościach jakie wprowadza finalna wersja C# 6. Wówczas zmiany można było przetestować w Visual Studio 2015 i spokojnie zacząć ich używać na co dzień na środowisku produkcyjnym.Będąc na tegorocznym .NET DeveloperDays słynny Jon Skeet delikatnie musnął nowości w C# 7, pokazu...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: porady programowanie
 ---
 
 

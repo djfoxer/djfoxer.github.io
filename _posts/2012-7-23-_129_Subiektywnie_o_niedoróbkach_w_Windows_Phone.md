@@ -3,7 +3,7 @@ layout:     post
 title:      Subiektywnie o niedoróbkach w Windows Phone
 date:       2012-07-23 17:48:00
 summary:    O Windows Phone wile osób już pisało ;) Zarówno o wadach, jak i o zaletach. Postanowiłem napisać mały tekst o tym co najbardziej mnie denerwuje w tym smartfonie. Jako użytkownik tego cuda, z całkiem długi stażem, czuję iż pewne małe szczegóły, mogą delikatnie uprzykrzyć życie. Nie będą to wady, któr...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: porady urządzenia mobilne inne
 ---
 
 

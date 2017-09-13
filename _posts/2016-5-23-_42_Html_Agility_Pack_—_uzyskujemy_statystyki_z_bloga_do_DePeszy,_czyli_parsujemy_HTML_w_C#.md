@@ -3,7 +3,7 @@ layout:     post
 title:      Html Agility Pack — uzyskujemy statystyki z bloga do DePeszy, czyli parsujemy HTML w C#
 date:       2016-05-23 16:57:00
 summary:    Portalowa aplikacja DePesza jest już od jakiegoś czasu w Sklepie Windows. Prace nad doszlifowaniem programu i dodaniem nowych elementów trwają i jeszcze przed końcem maja pojawi się w markecie nowa wersja. Dziś jednak chciałbym przedstawić mały element, który zostanie dodany w kolejnym wydaniu DePes...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

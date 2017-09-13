@@ -3,7 +3,7 @@ layout:     post
 title:      Analiza logowania do portalu dobreprogramy.pl — uzyskujemy dostęp do zasobów użytkownika
 date:       2016-03-12 12:23:00
 summary:    Za nami już wpis odnośnie sposobu działania systemu powiadomień na portalu. Przed przystąpieniem do tworzenia kodu należy koniecznie przeanalizować jeszcze jeden, najważniejszy element tego zagadnienia - logowanie do portalu.System powiadomień, opisany wcześniej, działa na podstawie zalogowanego uży...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

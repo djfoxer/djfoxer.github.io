@@ -3,7 +3,7 @@ layout:     post
 title:      Nowości w C# 6 — cóż ciekawego otrzymujemy?
 date:       2016-07-18 18:57:00
 summary:    Tak, tak, tak. C# 6 jest już z nami od jakiegoś już czasu, ale w życiu nie jest tak kolorowo i nie wszyscy mogli przejść na nowego Visual Studio 2015 tuż po tym jak się ukazał. Dodatkowo nawet jeśli ktoś już przesiadł się na najświeższe IDE od MS, to i tak nie zawsze mógł używać nowości, które wpadł...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows programowanie
 ---
 
 

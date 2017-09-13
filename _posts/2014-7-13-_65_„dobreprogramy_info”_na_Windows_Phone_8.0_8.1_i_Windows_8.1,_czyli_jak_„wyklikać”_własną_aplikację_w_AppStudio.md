@@ -3,7 +3,7 @@ layout:     post
 title:      „dobreprogramy info” na Windows Phone 8.0/8.1 i Windows 8.1, czyli jak „wyklikać” własną aplikację w AppStudio
 date:       2014-07-13 15:06:00
 summary:    Tworzenie aplikacji nie jest wiedzą tajemną, ale nie jest łatwo bez przygotowania stworzyć coś, co nie będzie wstyd pokazać nie tylko naszym znajomym. Jeśli chcecie dowiedzieć się jak tworzyć proste aplikacje na Windows Phone i Windows Modern, bez dotykania do kodowania, to zapraszam do wpisu.Tekst,...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

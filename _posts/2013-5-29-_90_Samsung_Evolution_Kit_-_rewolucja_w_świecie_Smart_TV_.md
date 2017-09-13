@@ -3,7 +3,7 @@ layout:     post
 title:      Samsung Evolution Kit - rewolucja w świecie Smart TV?
 date:       2013-05-29 15:52:00
 summary:    Wszyscy Ci, którzy mają nowe modele telewizorów od Samsunga, zapewne zwrócili uwagę na tylną obudowę, gdzie kryje się wejście dla tajemniczego Evolution Kit. Wszędzie można było przeczytać, że będzie to wejście na rozszerzenia dla naszego TV. Oczywiście, nie każdy wierzyli w takie bajki. Zawsze korz...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: sprzęt inne
 ---
 
 

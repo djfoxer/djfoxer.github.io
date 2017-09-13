@@ -3,7 +3,7 @@ layout:     post
 title:      Czy Windows Phone ma jeszcze szanse na sukces?
 date:       2015-03-28 17:26:00
 summary:    Zapewne wielu z Was już słyszało, iż Microsoft oficjalnie rozszerzył listę smartfonów, na których będzie można zainstalować wczesną wersję Windows 10. Oczywiście nie podano terminu kiedy zostanie udostępniony nowy build, ale wygląda na to, że będzie to w najbliższych tygodniach, a może nawet i przed...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows oprogramowanie urządzenia mobilne
 ---
 
 

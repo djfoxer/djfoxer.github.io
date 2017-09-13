@@ -3,7 +3,7 @@ layout:     post
 title:      Tworzenie wtyczek do Visual Studio: podsumowanie na koniec konkursu
 date:       2017-05-29 19:36:00
 summary:    Właśnie stuknął 20. wpis w konkursie Daj Się Poznać 2017, zatem przyszedł czas na podsumowanie prac na koniec trwania trzymiesięcznych zmagań...Statystycznie W tym czasie wpisy miały sumarycznie prawie 42 tysiące wyświetleń. Najbardziej obleganym wpisem był ten o hakowaniu Visual Studio, czyli o dob...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

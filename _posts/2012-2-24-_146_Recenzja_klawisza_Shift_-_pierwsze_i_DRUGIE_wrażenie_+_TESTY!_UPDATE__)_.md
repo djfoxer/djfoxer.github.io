@@ -3,7 +3,7 @@ layout:     post
 title:      Recenzja klawisza Shift - pierwsze i DRUGIE wrażenie + TESTY! UPDATE :) 
 date:       2012-02-24 18:23:00
 summary:    Klawisz Shift towarzyszy nam od 1878, kiedy to w maszynie do pisania  Remington No. 2 klawisz ten służył do wstawiania dużych liter (w Remington No. 1 można było wpisywać tylko duże litery). Obecnie wykorzystywany jest także do wpisywania innych alternatywnych znaków przypisanych do klawiszy.Shift -...
-categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: inne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Daj Się Poznać 2016 — podsumowanie prac nad DePeszą
 date:       2016-05-31 16:59:00
 summary:    Konkurs Daj Się Poznać 2016, organizowany przez Macieja Aniserowicza, można już uznać za zakończony. Jego celem było promowanie ciekawych pomysłów, blogów i ludzi związanych z programowaniem. O szczegóły odsyłam do pierwszego wpisu z marca. W ramach konkursu, w którym udział wzięło niemalże 300 osób...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Mega statystyki - dobreprogramy w liczbach (2011 r.)
 date:       2012-01-05 22:51:00
 summary:    Z okazji końca roku 2011, a także ze względu na moją pasję związaną ze statystką, postanowiłem zebrać dane o wpisach, jakie Redakcja dobrychprogramów zamieszczała na stronie głównej (zarówno newsy jak i felietony). Dodatkowo, ażeby uzupełnić dane o jeszcze ciekawsze informacje, z każdego wpisu wycią...
-categories: <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: inne
 ---
 
 

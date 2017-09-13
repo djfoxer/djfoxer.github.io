@@ -3,7 +3,7 @@ layout:     post
 title:      NVIDIA - nowe sterowniki + &quot;strasze&quot; gry = klops!
 date:       2010-10-26 22:48:00
 summary:    NVIDIA i jej optymalizacja sterowników..... jest faktem (i u ATI oczywiście też). Każdy o tym wie. Na rynku pojawia się nowa, wyczekiwana gra, hicior + nowa grafika. Producent wypuszcza nowe sterowniki do karty graficznej zoptymalizowane pod dany tytuł, aby móc w testach przeprowadzanych przez serwi...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: sprzęt porady gry
 ---
 
 

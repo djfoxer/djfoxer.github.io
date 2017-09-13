@@ -3,7 +3,7 @@ layout:     post
 title:      &quot;Co wAppStore?&quot; - coś więcej niż Marketplace dla Windows Phone
 date:       2012-04-03 23:32:00
 summary:    "Co wAppStore?" - nic ciekawego :)Oczywiście nie będzie to opis AppStora Appla. Program wAppStore to alternatywny (kolejny) Marketplace, gdzie znajdziemy aplikacje dla Windows Phone.Teoretycznie jest to program, bardzo zbliżony do Bazaar, który opisywałem już wcześniej. Znajdziemy w nim aplikacje, k...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

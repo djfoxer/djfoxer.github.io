@@ -3,7 +3,7 @@ layout:     post
 title:      Rootowanie w Windows Phone 7.5 dla wszystkich!
 date:       2012-03-30 00:55:00
 summary:    Spoglądałeś z zazdrością na użytkowników Windows Phone z hackowanymi ROMami? Oczekujesz możliwości uruchamiania aplikacji, niedostępnych dla urządzeń odblokowanych jedynie developersko? Chcesz zacząć pisać aplikacje na Windows Phone, z rozszerzoną funkcjonalnością? Szukasz edytora rejestru i explora...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

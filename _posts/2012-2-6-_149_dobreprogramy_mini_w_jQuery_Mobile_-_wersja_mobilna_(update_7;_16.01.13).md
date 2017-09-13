@@ -3,7 +3,7 @@ layout:     post
 title:      dobreprogramy mini w jQuery Mobile - wersja mobilna (update 7; 16.01.13)
 date:       2012-02-06 22:36:00
 summary:    W tamtym tygodniu qbap opisał we wpisie dobreprogramy w wersji mini swoją wizję portalu w wersji mobilnej, całkiem przypadkiem zbiegło się to z moim wpisem jQuery Mobile - programowanie mobilne. Postanowiłem połączyć dość luźno te oba wpisy i stworzyć coś co mogłoby się przydać dla każdego z nas. Ta...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie internet urządzenia mobilne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Logujemy się do dobreprogramy.pl z poziomu kodu C# (+ wprowadzenie do projektu)
 date:       2016-03-16 18:12:00
 summary:    Dwa ostatnie wpisy przedstawiały analizę sposobu logowania się i zarządzania powiadomieniami na portalu dobreprogramy. Przyszedł już czas na stworzenie kodu w C#, który pozwałaby już coś w praktyce zrobić.Dzisiaj skupimy się na logowaniu do portalu, a zapewne na dniach przedstawię mechanizm do zarzą...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

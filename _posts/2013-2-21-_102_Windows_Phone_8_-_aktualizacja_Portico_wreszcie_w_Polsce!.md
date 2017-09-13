@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 8 - aktualizacja Portico wreszcie w Polsce!
 date:       2013-02-21 00:08:00
 summary:    Osoby zainteresowane systemem Windows Phone, a w szczególności posiadające nowy Windows Phone 8, słowo portico jest im znane. Jest to pierwsza duża aktualizacja, która została wydana dla Windows Phone 8 w trybie OTA (over-the-air). Aktualizacja jest dostępna od końca grudnia 2012. Niestety nie dla w...
-categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: urządzenia mobilne
 ---
 
 

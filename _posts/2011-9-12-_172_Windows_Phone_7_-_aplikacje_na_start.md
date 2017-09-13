@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7 - aplikacje na start
 date:       2011-09-12 23:33:00
 summary:    Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. Jeśli nie wiesz co zainstalować "na dzień dobry" w Windows Phone 7, szukasz jakiś ciekawych aplikacji na ...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

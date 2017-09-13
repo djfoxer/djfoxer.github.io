@@ -3,7 +3,7 @@ layout:     post
 title:      &quot;Amerykański sen&quot; Microsoftu, na którym traci Windows Phone
 date:       2013-03-19 09:09:00
 summary:    Do poniższych przemyśleń doszedłem w ostatnim czasie, po publikacji danych na temat regionalizacji w ekosystemie Windows Phone. Są to dwie, ważne informacje. Szczególnie ważne dla nas, użytkowników z Polski (jak i wszystkich spoza USA). Microsoft jako cel postawił sobie zawojowanie rynku USA. To wid...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie urządzenia mobilne
 ---
 
 

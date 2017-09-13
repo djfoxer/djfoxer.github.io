@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Indie Bundle V - najlepsza paczka w historii!!
 date:       2012-06-01 00:16:00
 summary:    W skład The Humble Indie Bundle V wchodzą:(w nawiasach oceny z Metacritic)Amnesia: The Dark Descent (85)Bastion (86)LIMBO (88)Psychonauts (87)Superbrothers: Sword & Sworcery EP (85)Czym jest The Humble Indie Bundle, pewnie każdy wie. W skrócie: płacimy dowolną kwotę na szczytny cel i/lub dla develop...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: windows linux gry
 ---
 
 

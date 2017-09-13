@@ -3,7 +3,7 @@ layout:     post
 title:      Pełzanie zakresu - projekt IT nad przepaścią
 date:       2011-09-27 20:27:00
 summary:    Ostatnio kilku blogerów rozpisywało się odnośnie zarządzania projektami IT, problemami w biznesie itp.W swoim wpisie chciałbym opisać pewną patologię, która może zdarzyć się w każdym projekcie IT. Bez względu na to, czy to duże, czy małe przedsięwzięcie.Pełzanie zakresuPełzanie zakresu (scope creepi...
-categories: <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: hobby inne
 ---
 
 

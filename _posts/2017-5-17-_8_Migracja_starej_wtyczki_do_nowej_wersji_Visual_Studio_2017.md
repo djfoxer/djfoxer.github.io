@@ -3,7 +3,7 @@ layout:     post
 title:      Migracja starej wtyczki do nowej wersji Visual Studio 2017
 date:       2017-05-17 20:17:00
 summary:    Tworząc dodatek do Visual Studio zapewne wiele osób będzie uczyło się poprzez analizę kodu istniejących już dodatków (chociażby ze źródeł na GitHubie od MS). Okazuje się jednak, że projekty pluginów stworzonych pod stare IDE zupełnie nie chcą kompilować się w nowej odsłonie Visual Studio. Jesteśmy z...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: oprogramowanie porady programowanie
 ---
 
 

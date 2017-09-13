@@ -3,7 +3,7 @@ layout:     post
 title:      Rockbox - rewelacyjny firmware do przenośnych odtwarzaczy muzyki
 date:       2012-05-17 23:09:00
 summary:    Wgrywanie nieoficjalnych, alternatywnych firmwareów stało się rzeczą normalną i nikogo nie dziwi, że oprogramowanie wbudowane w urządzenie, zastępowane jest softem stworzonym poza firmą, która dostarczyła sprzęt. Routery, telefony komórkowe, odtwarzacze DVD, konsole, aparaty cyfrowe... wszędzie tam ...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

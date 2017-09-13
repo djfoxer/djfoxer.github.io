@@ -3,7 +3,7 @@ layout:     post
 title:      Fakty i mity o Windows Phone
 date:       2012-06-19 18:05:00
 summary:    W jednym z komentarzy na portalu, WODZU podał link do blogu, ze zbiorem kilkudziesięciu (dokładnie 75) bolączek jakie ma Windows Phone wg autora strony. Po przejrzeniu kilku z nich, okazało się, że część z nich jest faktycznie prawdą. Jednakże, dużo z tych "żali" jest albo pisana na siłę, albo nie m...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

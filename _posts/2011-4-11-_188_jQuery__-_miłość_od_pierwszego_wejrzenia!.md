@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery  - miłość od pierwszego wejrzenia!
 date:       2011-04-11 18:42:00
 summary:    .......##..#######..##.....##.########.########..##....##.......##.##.....##.##.....##.##.......##.....##..##..##........##.##.....##.##.....##.##.......##.....##...####.........##.##.....##.##.....##.######...########.....##....##....##.##..##.##.##.....##.##.......##...##......##....##.....
-categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: programowanie
 ---
 
 

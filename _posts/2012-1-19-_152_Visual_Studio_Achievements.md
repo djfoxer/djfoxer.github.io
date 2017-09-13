@@ -3,7 +3,7 @@ layout:     post
 title:      Visual Studio Achievements
 date:       2012-01-19 23:05:00
 summary:    Każdy kto gra w gry, spotkał się z terminem achievement, czyli osiągnięcie. Za każdą, rzecz jaką zrobimy w grze, czy to znalezienie sekretu, czy zwykłe przejście mapy, odblokowujemy określone osiągnięcie. Jest  to obecnie na konsolach, czy na Steamie. Możemy pochwalić się osiągnięciami wśród znajomy...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: windows programowanie inne
 ---
 
 

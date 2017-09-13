@@ -3,7 +3,7 @@ layout:     post
 title:      Ad Mediator, czyli dodajemy wiele sieci reklamowych do aplikacji Windows Phone
 date:       2015-01-07 20:53:00
 summary:    Sposobów na zarabianie na aplikacjach mobilnych jest bardzo dużo. Od udostępniania płatnych wersji oprogramowania, poprzez mikropłatności, aż do reklam umieszczanych wewnątrz aplikacji. Ten ostatni element nie wymaga dużego wkładu własnego od programisty, nie zmusza użytkowników do wydawania ciężko ...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: porady programowanie urządzenia mobilne
 ---
 
 

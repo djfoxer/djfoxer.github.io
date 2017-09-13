@@ -3,7 +3,7 @@ layout:     post
 title:      XAP Handler - instalacja homebrew z urządzenia
 date:       2012-04-05 10:55:00
 summary:    Po tym jak wyszedł WP7 Root Tools, już nie trzeba posiadać przerobionego systemu, aby móc instalować aplikacje, wymagające praw roota.Dzięki temu otworzyły się drzwi do instalowania aplikacji np. homebrew bezpośrednio z urządzenia bez podłączania do komputera (Bazaar, wAppStore). Teraz, dzięki aplik...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

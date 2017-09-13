@@ -3,7 +3,7 @@ layout:     post
 title:      Niezbędne, &quot;zakazane&quot; aplikacje do Windows Phone 7.5
 date:       2012-10-24 15:45:00
 summary:    Świat Windows Phone i nie tylko, czeka z niecierpliwością na nowe wcielenie systemu w wersji 8.  Aby umilić czas, przygotowałem kolejną porcję aplikacji, których nie sposób znaleźć w Marketplace. Przedstawione niżej programy, rozszerzają możliwość konfiguracji Windows Phone, a także dodają nowe funk...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Konferencja 4Developers, ścieżka .NET — relacja 
 date:       2017-04-05 18:13:00
 summary:    W dniu 3 kwietnia uczestniczyłem w imprezie 4Developers w Warszawie. Organizatorzy określają event jako interdyscyplinarny festiwal technologiczny dla programistów, czyli konferencja dla programistów z wieloma ścieżkami do wyboru. W tym roku było na prawdę zacnie. Oto moja krótka relacja z tego even...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: porady programowanie inne
 ---
 
 

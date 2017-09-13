@@ -3,7 +3,7 @@ layout:     post
 title:      Duke Nukem Forever - wydany!
 date:       2011-06-14 00:46:00
 summary:    10. czerwca zakończyła się 14 letnia męczarnia/produkcja gry Duke Nukem Forever! :) Wreszcie nasze spragnione palce, z odciśniętymi klawiszami WSAD, mogą zanurzyć się w świat Dukea... Tak chyba by było,  gdyby gra wyszła z 8-10 lat temu. Powiem szczerze, że jakoś nie zelektryzowała mnie wiadomość o ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
+categories: windows gry hobby
 ---
 
 

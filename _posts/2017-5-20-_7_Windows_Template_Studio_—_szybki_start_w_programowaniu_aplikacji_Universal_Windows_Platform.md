@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Template Studio — szybki start w programowaniu aplikacji Universal Windows Platform
 date:       2017-05-20 14:35:00
 summary:    Osoby programujące z Universal Windows Platform dostały właśnie świetny dodatek do Visual Studio 2017 - Windows Template Studio. Prosty kreator od Microsoftu, który stworzy podstawy projektu UWP z wybranym funkcjonalnościami, zgodnie z dobrymi praktykami programowania.Windows Template StudioDodatek ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Opera Mobile na Windows Phone
 date:       2012-11-19 17:38:00
 summary:    Windows Phone posiada jedyną słuszną przeglądarkę, czyli Internet Explorera w wersji mobilnej. Pomimo tego, iż IE na WP jest naprawdę świetną przeglądarką, każdy tęskni za czymś innym i lepszym. Tak powstał między innymi UC Browser, czyli alternatywna przeglądarka do internetu (polecam sprawdzić!). ...
-categories: <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: internet porady urządzenia mobilne
 ---
 
 

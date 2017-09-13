@@ -3,7 +3,7 @@ layout:     post
 title:      Słownik Szaradzisty - niezbędnik szaradzisty na Windows Phone
 date:       2014-04-03 19:35:00
 summary:    Rozwiązywanie krzyżówek czy ich układanie, było swego czasu dość popularne w okresie przed plagą zwaną internetem ;) Oczywiście krzyżówki nadal się sprzedają, ale nie tak dobrze jak kiedyś (szczególnie widać to na przykładzie krzyżówek dla młodzieży). Jeśli ktoś układał krzyżówki zapewne pamięta dwu...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
+categories: oprogramowanie urządzenia mobilne hobby
 ---
 
 

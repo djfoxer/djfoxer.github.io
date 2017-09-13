@@ -3,7 +3,7 @@ layout:     post
 title:      The Humble Indie Bundle 4  - gwiazdka już dziś
 date:       2011-12-14 22:45:00
 summary:    Ruszyła kolejna akcja The Humble Indie Bundle 4! www.humblebundle.comDla niecierpliwych podaję listę gier z ocenami z metacritic (http://www.metacritic.com):Jamestown (81)Bit.Trip Runner (70)Super Meat Boy (87)Shank (67)NightSky (78)Cave Story+ (brak)Gratuitous Space Battles (72)Jeśli nie wiecie co ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_1" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_1" checked="checked" value="2"><label for="chkTagsList_1">linux</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: windows linux gry
 ---
 
 

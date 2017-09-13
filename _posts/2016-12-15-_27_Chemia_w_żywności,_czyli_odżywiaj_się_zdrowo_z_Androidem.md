@@ -3,7 +3,7 @@ layout:     post
 title:      Chemia w żywności, czyli odżywiaj się zdrowo z Androidem
 date:       2016-12-15 20:40:00
 summary:    Ponad dwa lata temu ukazał się wpis na blogu odnośnie stworzonej aplikacji na mobilnego Windowsa: Chemia w żywności. Przez ten czas aplikacja stała się całkiem popularna i dość wysoko oceniana w markecie Windows. Po tak długim okresie przyszedł czas na stworzenie wersji na Androida. Lepiej późno niż...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

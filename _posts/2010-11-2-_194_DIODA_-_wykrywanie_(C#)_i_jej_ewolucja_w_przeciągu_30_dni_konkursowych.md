@@ -3,7 +3,7 @@ layout:     post
 title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
 date:       2010-11-02 11:59:00
 summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w "zawodach" co chwile musiały sprawdzać czy na stronie nie ma żółtej "gwiazdeczki". To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez te...
-categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: programowanie hobby inne
 ---
 
 

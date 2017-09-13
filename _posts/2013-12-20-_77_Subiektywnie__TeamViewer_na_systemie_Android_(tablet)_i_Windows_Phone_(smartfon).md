@@ -3,7 +3,7 @@ layout:     post
 title:      Subiektywnie: TeamViewer na systemie Android (tablet) i Windows Phone (smartfon)
 date:       2013-12-20 18:05:00
 summary:    Mając w jednym pomieszczeniu urządzenie z Windows Phone i Androidem, nie można liczyć na spokój i odpoczynek. Owe dwa systemy są dość różne, a jeśli do tego dojdzie diametralnie inny rozmiar ekranu, to nie sposób obiektywnie porównać aplikacje dostępne zarówno na tablet jak i smartfon. Pomimo tego, ...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt oprogramowanie urządzenia mobilne
 ---
 
 

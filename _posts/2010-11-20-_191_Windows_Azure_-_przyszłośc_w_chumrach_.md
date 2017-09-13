@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Azure - przyszłośc w chumrach?
 date:       2010-11-20 18:43:00
 summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platform...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: sprzęt programowanie serwery
 ---
 
 

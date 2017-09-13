@@ -3,7 +3,7 @@ layout:     post
 title:      Recenzja: Nokia 105 - idealny klasyczny telefon 
 date:       2014-03-01 14:59:00
 summary:    Czytając serwisy związane z nowymi technologiami można dojść do wniosku, że rynek urządzeń mobilnych kręci się już tylko wokół smartfonów z 5-calowymi ekranami o rozdzielczości Full HD. Kolejne artykuły przekonają nas, że system na każdym takim urządzeniu pozwala już na więcej niż Windows na desktop...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: sprzęt urządzenia mobilne
 ---
 
 

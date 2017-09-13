@@ -3,7 +3,7 @@ layout:     post
 title:      Własny dodatek Timer Pomodoro na pasku statusu Visual Studio
 date:       2017-03-31 17:10:00
 summary:    W poprzednim wpisie pokazywałem jak rozszerzyć Visual Studio o elementy, do których dostęp nie jest możliwy poprzez SDK. Przyszedł czas zatem na wykorzystanie wiedzy w praktyce. Napiszemy podstawy wtyczki HealthyWithVS, w których będzie możliwe pokazanie na pasku zadań timera z pomidorkiem, zgodnie ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Managed Extensibility Framework — system pluginów do aplikacji .NET od Microsoftu 
 date:       2017-03-22 16:42:00
 summary:    W poprzednim wpisie pokazałem jak szybko stworzyć własne okienko w Visual Studio (timer w okienku IDE). Dziś opiszę MEF, czyli framework do tworzenia lekkich aplikacji i pisania rozszerzeń do nich. To właśnie na nim opiera się IDE od Microsoftu.MEF w teoriiObecnie MEF (Managed Extensibility Framewor...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

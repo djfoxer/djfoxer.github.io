@@ -3,7 +3,7 @@ layout:     post
 title:      Zapiekanka od djfoxer&#39;a.
 date:       2011-11-14 22:30:00
 summary:    Krótki wpis o tym, jak dzięki publikacji DjLeo o wypiekaniu kart graficznych (Gotowanie z DjLeo), upiekłem kartę, którą właściciel już chciał wyrzucić na śmietnik.PacjentEVGA GeForce 8800GTS 512MBObjawyNiemożność uruchomienia komputera. Żadnych sygnałów z płyty głównej. Nic, cisza, tak jakby płyta g...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
+categories: sprzęt porady hobby
 ---
 
 

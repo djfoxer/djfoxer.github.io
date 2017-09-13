@@ -3,7 +3,7 @@ layout:     post
 title:      MS SQL - ręczne ładowanie funkcji CLR z biblioteki dll
 date:       2011-08-06 15:44:00
 summary:    Wpis będzie krótki i treściwy: "jak ręcznie wgrać funkcję CLR do bazy MS SQL, mając bibliotekę dll?" :)Kilka razy zdarzyło mi się, iż musiałem wgrywać funkcje CLR do bazy danych, ale nie było możliwość zrobienia szybkiego deploya z poziomu Visual Studio. Jedynie co mieliśmy do dyspozycji to bibliote...
-categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: programowanie
 ---
 
 

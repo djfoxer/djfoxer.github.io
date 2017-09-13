@@ -3,7 +3,7 @@ layout:     post
 title:      Kafelki w serwerze - piąte koło u wozu?
 date:       2012-12-10 14:16:00
 summary:    O kafelkach, czyli nowym interfejsie Modern w najświeższych Okienkach, napisano już tyle, że aż można dostać niestrawności, czytając w kółko to samo. Ten wpis będzie jednak zupełnie inny. Otóż przedstawię kilka faktów technicznych związanych z nimi, a także jak wyglądają i jak mogłyby wyglądać na ma...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: windows oprogramowanie serwery
 ---
 
 

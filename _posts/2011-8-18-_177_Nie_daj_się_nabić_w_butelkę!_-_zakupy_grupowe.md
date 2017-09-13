@@ -3,7 +3,7 @@ layout:     post
 title:      Nie daj się nabić w butelkę! - zakupy grupowe
 date:       2011-08-18 12:20:00
 summary:    Po ciekawym wpisie Ave5 odnośnie zakupów grupowych od środka, postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i du...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: porady inne
 ---
 
 

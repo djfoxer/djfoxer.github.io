@@ -3,7 +3,7 @@ layout:     post
 title:      AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server
 date:       2013-01-16 19:48:00
 summary:    Zarządzanie usługami IIS z poziomu GUI jest dziecinnie proste. Od wersji 7.0 wszystkie opcje są łatwo dostępne i zarządzanie jest niezmiernie proste. Oczywiście interfejs graficzny nie zawsze jest wygody w pewnych zastosowaniach. Do napisania skryptu zarządzającego witryną czy pulą aplikacji łatwiej...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: windows oprogramowanie serwery
 ---
 
 

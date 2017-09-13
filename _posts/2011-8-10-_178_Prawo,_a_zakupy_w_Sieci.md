@@ -3,7 +3,7 @@ layout:     post
 title:      Prawo, a zakupy w Sieci
 date:       2011-08-10 15:37:00
 summary:    Obecnie, kupujemy poprzez Sieć, coraz więcej. Dzięki Ustawie o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny, jesteśmy bardziej chronieni w czasie zakupów sieci. Warto znać swoje prawa. W skrócie przedstawię wybrane zagadnienia. O czym...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: porady inne
 ---
 
 

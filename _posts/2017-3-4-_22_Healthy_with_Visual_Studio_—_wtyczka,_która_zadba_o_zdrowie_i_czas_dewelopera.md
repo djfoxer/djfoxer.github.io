@@ -3,7 +3,7 @@ layout:     post
 title:      Healthy with Visual Studio — wtyczka, która zadba o zdrowie i czas dewelopera
 date:       2017-03-04 19:35:00
 summary:    Kolejny wpis związany z konkursem Daj Się Poznać 2017. Dzisiejszym tematem będzie ogólny zarys projektu, z jakim będę startował w tej edycji.W tym roku postanowiłem skupić się na zapoznaniu się z odnogą technologii .NET, która nie jest bardzo eksploatowana we wpisach blogowych. Mowa jest o tworzeniu...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

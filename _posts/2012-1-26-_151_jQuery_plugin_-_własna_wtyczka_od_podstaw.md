@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery plugin - własna wtyczka od podstaw
 date:       2012-01-26 20:49:00
 summary:    W tym krótkim wpisie, przedstawię jak szybko można napisać własny plugin do jQuery. Z racji tego, iż jest to obecnie jeden z najbardziej popularnych frameworków JavaScriptowych, znajomość tworzenia rozszerzeń jest bardzo przydatna.Nasz pluginW celu uniknięcia tworzenia sztuki dla sztuki, stworzona w...
-categories: <input id="chkTagsList_4" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_4" checked="checked" value="16"><label for="chkTagsList_4">internet</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: internet porady programowanie
 ---
 
 

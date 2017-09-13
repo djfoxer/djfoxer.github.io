@@ -3,7 +3,7 @@ layout:     post
 title:      Nowa DePesza — statystyki z bloga i odświeżony interfejs
 date:       2016-05-27 18:11:00
 summary:    W niedawnym wpisie odnośnie pierwszej aktualizacji dostałem bardzo dużo ciekawych uwag i pomysłów, jak ulepszyć kilka elementów w DePeszy. Przyznaję, że wiele z nich było bardzo twórczych i skłoniło mnie do poświecenia kilku wieczorów na doszlifowanie aplikacji. Ciesze się, że DePesza zyskała spore ...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

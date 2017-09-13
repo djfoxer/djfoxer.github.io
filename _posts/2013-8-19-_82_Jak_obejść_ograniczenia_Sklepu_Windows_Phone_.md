@@ -3,7 +3,7 @@ layout:     post
 title:      Jak obejść ograniczenia Sklepu Windows Phone?
 date:       2013-08-19 16:14:00
 summary:    Każdy z producentów ma własne unikalne aplikacje w sklepie Windows Phone, co więcej, ograniczone często do konkretnych modeli urządzeń (np. Nokia Pro Cam ograniczona do modeli 92x i 1020). Zatem teoretycznie nie zainstalujemy aplikacji od Noki na HTC i na odwrót, także dedykowanej aplikacji do zdjęć...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

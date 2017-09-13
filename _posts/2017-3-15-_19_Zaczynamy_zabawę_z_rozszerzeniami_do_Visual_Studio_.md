@@ -3,7 +3,7 @@ layout:     post
 title:      Zaczynamy zabawę z rozszerzeniami do Visual Studio 
 date:       2017-03-15 21:49:00
 summary:    Jeszcze kilka lat temu pisanie rozszerzeń do IDE od Microsoftu było nie lada wyzwaniem. Szczątkowa dokumentacja, skomplikowane API utrudniały tylko pracę deweloperom chcącym stworzyć własne rozszerzenie.Obecnie sytuacja jest znacznie prostsza, Microsoft udostępnia wiele przykładów i rozwiązań, które...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Licznik Blogowy - wtyczka do Chrome/Opery/Firefoxa dla każdego Blogera portalu [aktualizacja 08.04.14 (nowe funkcjonalności)] 0.6
 date:       2014-01-28 15:30:00
 summary:    Wielu z nas zapewne spogląda często na swoją listę Popularne wpisy, która pokazuje najczęściej komentowane publikacje na naszym prywatnym blogu. Cóż, można śmiało powiedzieć, że równie ważnym czynnikiem popularności wpisu jest również ilość wyświetleń. Niestety, aby zobaczyć licznik wyświetleń musim...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: oprogramowanie porady inne
 ---
 
 

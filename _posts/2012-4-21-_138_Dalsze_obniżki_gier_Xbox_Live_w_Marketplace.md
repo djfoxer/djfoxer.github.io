@@ -3,7 +3,7 @@ layout:     post
 title:      Dalsze obniżki gier Xbox Live w Marketplace
 date:       2012-04-21 17:21:00
 summary:    Microsoft obniża ceny kolejnych gier z Xbox Live w Marketplace. We wcześniejszym wpisie (Promocje w Marketplace na wiosnę!) pisałem o tym, iż obniżka jest weekendowa, jak się okazało ceny tych 7 gier (Angry Birds, Burn the Rope, de Blob, Doodle God, IonBallEX, Max and the Magic Marker, Toy Soldiers)...
-categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label>
+categories: urządzenia mobilne gry
 ---
 
 

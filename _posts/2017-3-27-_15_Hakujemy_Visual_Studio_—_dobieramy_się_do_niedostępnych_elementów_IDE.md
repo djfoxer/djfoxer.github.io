@@ -3,7 +3,7 @@ layout:     post
 title:      Hakujemy Visual Studio — dobieramy się do niedostępnych elementów IDE
 date:       2017-03-27 18:26:00
 summary:    API udostępnione przez SDK do Visual Studio pozwala na olbrzymie zmiany w IDE. Niestety nie zawsze to co chcemy zrobić jest możliwe w oficjalny sposób. W tym wpisie przedstawię sposób na modyfikowanie elementów interfejsu Visual Studio, które nie są możliwe poprzez API. Będziemy hakowali Visuala :)A...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

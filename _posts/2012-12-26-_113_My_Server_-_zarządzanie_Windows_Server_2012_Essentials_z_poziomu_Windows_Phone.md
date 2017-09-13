@@ -3,7 +3,7 @@ layout:     post
 title:      My Server - zarządzanie Windows Server 2012 Essentials z poziomu Windows Phone
 date:       2012-12-26 14:17:00
 summary:    Na blogu o Windows Server 2012 wiele mówi się o najmocniejszych edycjach serwerowych czyli Standard i Datacenter. W nowej linii 2012, Microsoft zaprezentował nową gałąź, a mianowicie: Windows Server 2012 Essentials. Jest to jednak następca Windows Small Business Server Essentials.Omawiana wersja prz...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: windows oprogramowanie serwery
 ---
 
 

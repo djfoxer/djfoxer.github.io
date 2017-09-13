@@ -3,7 +3,7 @@ layout:     post
 title:      Pierwszy dodatek do Visual Studio — timer w okienku IDE
 date:       2017-03-17 17:06:00
 summary:    Przyszedł czas na mięsko. W tym wpisie przedstawię sposób na stworzenie wtyczki do Visual Studio, która będzie timerem odliczającym 25 minut w dół (technika Pomodoro).Stworzony dodatek będzie pływającym okienkiem, które będzie można przypiąć w dowolne miejsce w ekranie roboczym Visual Studio.Zaczyna...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

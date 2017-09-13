@@ -3,7 +3,7 @@ layout:     post
 title:      Osobisty test pendrive&#39;ów
 date:       2011-08-29 21:47:00
 summary:    Ile pendrive'ów ma każdy z nas w domu? :) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szy...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: sprzęt porady inne
 ---
 
 

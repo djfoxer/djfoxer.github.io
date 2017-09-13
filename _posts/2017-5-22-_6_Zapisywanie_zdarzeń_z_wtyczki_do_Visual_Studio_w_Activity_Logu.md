@@ -3,7 +3,7 @@ layout:     post
 title:      Zapisywanie zdarzeń z wtyczki do Visual Studio w Activity Logu
 date:       2017-05-22 23:57:00
 summary:    Dzisiejszy wpis odnośnie tworzenia wtyczki do Visual Studio będzie bardzo szybki i konkretny. W każdej aplikacji przychodzi moment na to, aby zalogować do pliku jakieś zdarzenie. Może być to notka o wyłapanym wyjątku,  bądź też tylko zapis czysto informacyjny. Zapis w Activity LogDodatki do IDE od M...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows porady programowanie
 ---
 
 

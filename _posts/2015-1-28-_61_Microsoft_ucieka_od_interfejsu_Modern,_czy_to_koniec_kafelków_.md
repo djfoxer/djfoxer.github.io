@@ -3,7 +3,7 @@ layout:     post
 title:      Microsoft ucieka od interfejsu Modern, czy to koniec kafelków?
 date:       2015-01-28 18:27:00
 summary:    Prezentacja Microsoftu na temat Windows 10 była dużą niespodzianką pod wieloma względami. Oficjalnie potwierdzono zarówno darmową aktualizację do Windows 10, porzucenie nazwy Windows Phone, na rzecz krótszej wersji bez sufixu Phone i oczywiście unifikacje całego ekosystemu Windows. Przedstawiono tak...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows oprogramowanie urządzenia mobilne
 ---
 
 

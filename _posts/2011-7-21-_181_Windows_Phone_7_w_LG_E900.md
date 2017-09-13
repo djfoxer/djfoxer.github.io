@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7 w LG E900
 date:       2011-07-21 18:54:00
 summary:    Na wstępie dziękuje za zaproszenie na HotZlot. To było niesamowite przeżycie! Możliwość porozmawiania z ludźmi z redakcji i z czytelnikami dobrych programów, których znało się jedynie z xywek/avatarów - bezcenne :)Wpis nigdy by nie powstał, gdyby nie konkurs na Kinecta, gdzie udało mi się wywalczyć ...
-categories: <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: urządzenia mobilne
 ---
 
 

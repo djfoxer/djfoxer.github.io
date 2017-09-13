@@ -3,7 +3,7 @@ layout:     post
 title:      Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki
 date:       2013-01-03 08:19:00
 summary:    Na wstępie kilka zdań wytłumaczenia. Jak już większość z Was wie, Samsung dla wybranych blogerów dostarczył kilka sprzętów do zrecenzowania. Otóż taką paczuszkę dostałe i ja. W moim przypadku jest to telewizor Smart TV seria 8 (UE46ES8000S) o całkiem pokaźnym rozmiarze 46 cali oraz GALAXY Note II. G...
-categories: <input id="chkTagsList_2" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_2" checked="checked" value="4"><label for="chkTagsList_2">sprzęt</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: sprzęt porady inne
 ---
 
 

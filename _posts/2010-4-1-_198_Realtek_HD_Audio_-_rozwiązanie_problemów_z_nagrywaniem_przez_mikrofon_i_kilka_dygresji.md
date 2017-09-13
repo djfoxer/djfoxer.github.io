@@ -3,7 +3,7 @@ layout:     post
 title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
 date:       2010-04-01 11:09:00
 summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić:- włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon) - "naprawa" dźwięku na...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label>
+categories: windows oprogramowanie porady
 ---
 
 

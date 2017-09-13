@@ -3,7 +3,7 @@ layout:     post
 title:      MultiTouch na desktopie - horror w kilku aktach
 date:       2012-03-21 22:53:00
 summary:    Niedawno miałem przyjemność (i nadal mam) pracować przy tworzeniu aplikacji na ekrany dotykowe, podłączone do zwykłych komputerów desktopowych. Całość miała być robiona w oparciu o HTML5. Systemem miał być koniecznie Windows 7 (założenia odgórne). W sumie nie było to złe rozwiązanie, gdyż multitouch...
-categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: programowanie urządzenia mobilne
 ---
 
 

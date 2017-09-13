@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery Mobile - programowanie mobilne
 date:       2012-02-02 23:31:00
 summary:    Jesteśmy świadkami przeniesienia zainteresowania użytkowników, z urządzeń stacjonarnych, na urządzenia mobilne. Coraz bardziej stają się popularne smartfony, tablety. Obecnie komputer stacjonarny staje się reliktem, czymś wygasłym. Technologie mobilne zaś, zyskują rzesze zwolenników i to one napędza...
-categories: <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: programowanie urządzenia mobilne
 ---
 
 

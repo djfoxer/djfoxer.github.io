@@ -3,7 +3,7 @@ layout:     post
 title:      Nie tylko Wiedźmin. Historia polskich gier komputerowych — książka, której nie wypada nie kupić [recenzja]
 date:       2015-07-27 21:22:00
 summary:    Wspomnień czar. Czyli dawno, dawno temu...Moja przygoda z grami zaczęła się na poważnie od Amigii 500. W zestawie wraz z komputerem dostałem Lemingi i Powermonger, w pudełkach z taniej serii od IPSu, plus kartonowe wydanie Tokiego z Wielkiej Brytanii. Oczywiście w komplecie były również potężny zest...
-categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: gry hobby inne
 ---
 
 

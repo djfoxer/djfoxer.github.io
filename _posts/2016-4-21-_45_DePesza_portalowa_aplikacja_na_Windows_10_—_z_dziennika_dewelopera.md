@@ -3,7 +3,7 @@ layout:     post
 title:      DePesza portalowa aplikacja na Windows 10 — z dziennika dewelopera
 date:       2016-04-21 17:14:00
 summary:    Prace nad aplikacją nadal trwają. Dziękuję, za docenienie tej serii i oddane głosy na moje wpisy w marcowym konkursie blogowym ;)Jak już zapewne zauważaliście, została wybrana nazwa na aplikację portalową. Dziękuję wszystkim za komentarze. Propozycji było bardzo dużo. Wybór padł na nazwę, która jest...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: windows programowanie urządzenia mobilne
 ---
 
 

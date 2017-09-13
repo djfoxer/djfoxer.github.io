@@ -3,7 +3,7 @@ layout:     post
 title:      Ewolucja kafelków w Windows Phone i Mobile, czyli historia ekranu startowego w mobilnych okienkach
 date:       2015-01-13 17:18:00
 summary:    Windows Phone to kafelki. Można je lubić lub nie, ale na pewno nie można przejść obok nich obojętnie. Mimo, iż każdy kojarzy ekran startowy z mobilnych okienek, to zapewne niewiele osób pamięta jak ewoluowały one od wersji 7.0, aż do obecnej formy z Windows 10 Mobile. Zapraszam zatem do artykułu, kt...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie porady urządzenia mobilne
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Magazyn Lag #2 - drugi numer, warto było czekać
 date:       2013-07-23 13:52:00
 summary:    W styczniu opisywałem pierwszy numer magazynu Lag (Lag - nowy magazyn o grach w dobie kryzysu). Od tego czasu założenia magazynu się nie zmieniły. Nadal jest to papierowy zbiór artykułów o gamingu, ze świetnymi grafikami towarzyszącymi, podanej w formie książeczki z wysokiej jakości papieru. Mogę ju...
-categories: <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_12" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_12" checked="checked" value="4096"><label for="chkTagsList_12">inne</label>
+categories: gry inne
 ---
 
 

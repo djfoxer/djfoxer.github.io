@@ -3,7 +3,7 @@ layout:     post
 title:      onEscapee - hit z AMIGI (w stylu Another World) za darmo na PC! + recka z ACS (98r.)
 date:       2010-11-07 14:20:00
 summary:    Dawno, dawno temuNa pewno wielu z Was swoja przygodę z komputerami, rozpoczynało z AMIGĄ. Moja historia również rozpoczęła się od Przyjaciółki. Pierwsza komunia, uzbierana kasa i kupno używanej A500 z masą gier :PPiękne czasy. Właśnie niedawno robiąc porządki w piwnicy natknąłem się na kilka egzempl...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_9" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_9" checked="checked" value="512"><label for="chkTagsList_9">gry</label> <input id="chkTagsList_11" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_11" checked="checked" value="2048"><label for="chkTagsList_11">hobby</label>
+categories: windows gry hobby
 ---
 
 

@@ -3,7 +3,7 @@ layout:     post
 title:      Windows Phone 7 - ciekawe aplikacje: Cool Remote i Send To WP7
 date:       2011-08-25 18:49:00
 summary:    W tym małym wpisie chciałbym przedstawić dwie bardzo ciekawe i darmowe aplikacje. Programy w znaczący sposób ułatwią komunikację pomiędzy naszym Windows Phone 7, a np. desktopem.Cool RemoteCool Remote (http://coolremote.wordpress.com) jest aplikacją, dzięki której będziemy mogli połączyć się zdalnie...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie urządzenia mobilne
 ---
 
 

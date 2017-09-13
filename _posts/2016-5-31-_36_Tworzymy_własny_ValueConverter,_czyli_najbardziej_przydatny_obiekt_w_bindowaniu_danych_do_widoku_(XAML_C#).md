@@ -3,7 +3,7 @@ layout:     post
 title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
 date:       2016-05-31 23:57:00
 summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który kon...
-categories: <input id="chkTagsList_0" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_0" checked="checked" value="1"><label for="chkTagsList_0">windows</label> <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label>
+categories: windows oprogramowanie programowanie
 ---
 
 

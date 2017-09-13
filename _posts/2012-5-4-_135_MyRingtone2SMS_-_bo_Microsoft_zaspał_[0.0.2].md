@@ -3,7 +3,7 @@ layout:     post
 title:      MyRingtone2SMS - bo Microsoft zaspał [0.0.2]
 date:       2012-05-04 11:25:00
 summary:    Temat ograniczeń Windows Phone był poruszany wiele razy. Brak przesyłania plików poprzez Bluetooth, brak slotu na pamięć SD itp. Dla mnie osobiście te braki nie przeszkadzają, gdyż nawet jakby te funkcjonalności były, pewnie bym ich nie używał :) Ale, jest jedno ale. W Windows Phone brakuje mi pewne...
-categories: <input id="chkTagsList_3" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_3" checked="checked" value="8"><label for="chkTagsList_3">oprogramowanie</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_8" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_8" checked="checked" value="256"><label for="chkTagsList_8">urządzenia mobilne</label>
+categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
 

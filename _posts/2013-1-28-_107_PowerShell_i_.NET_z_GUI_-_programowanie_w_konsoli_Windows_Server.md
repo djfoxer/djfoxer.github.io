@@ -3,7 +3,7 @@ layout:     post
 title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
 date:       2013-01-28 19:29:00
 summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowan...
-categories: <input id="chkTagsList_6" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_6" checked="checked" value="64"><label for="chkTagsList_6">porady</label> <input id="chkTagsList_7" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_7" checked="checked" value="128"><label for="chkTagsList_7">programowanie</label> <input id="chkTagsList_10" type="checkbox" name="ctl00$phContentRight$chkTagsList$chkTagsList_10" checked="checked" value="1024"><label for="chkTagsList_10">serwery</label>
+categories: porady programowanie serwery
 ---
 
 
