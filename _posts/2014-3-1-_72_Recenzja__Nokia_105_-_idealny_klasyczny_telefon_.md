@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Recenzja: Nokia 105 - idealny klasyczny telefon 
 date:       2014-03-01 14:59:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Polskie Pismo Amigowe - Amiga wiecznie żywa [#11]
 date:       2014-05-14 15:39:00

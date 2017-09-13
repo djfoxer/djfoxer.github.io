@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
 date:       2010-11-02 11:59:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Proste i darmowe modelowanie postaci w 3D przy użyciu MakeHuman i bvhacker
 date:       2017-04-19 20:58:00

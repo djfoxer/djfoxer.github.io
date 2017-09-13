@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Hakujemy Visual Studio — dobieramy się do niedostępnych elementów IDE
 date:       2017-03-27 18:26:00

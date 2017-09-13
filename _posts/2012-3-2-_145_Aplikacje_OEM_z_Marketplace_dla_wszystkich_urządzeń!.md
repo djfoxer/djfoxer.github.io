@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Aplikacje OEM z Marketplace dla wszystkich urządzeń!
 date:       2012-03-02 00:22:00

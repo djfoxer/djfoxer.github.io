@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Migracja starej wtyczki do nowej wersji Visual Studio 2017
 date:       2017-05-17 20:17:00

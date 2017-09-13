@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Historia splash screena i jego podmiana (Pimp My Visual Studio)
 date:       2012-08-03 08:43:00

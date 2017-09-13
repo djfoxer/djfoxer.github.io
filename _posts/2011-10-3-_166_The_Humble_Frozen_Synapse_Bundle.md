@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Frozen Synapse Bundle
 date:       2011-10-03 20:17:00

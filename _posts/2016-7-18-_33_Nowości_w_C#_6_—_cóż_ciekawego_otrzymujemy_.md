@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nowości w C# 6 — cóż ciekawego otrzymujemy?
 date:       2016-07-18 18:57:00

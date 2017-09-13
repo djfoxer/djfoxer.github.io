@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MyRingtone2SMS - bo Microsoft zaspał [0.0.2]
 date:       2012-05-04 11:25:00

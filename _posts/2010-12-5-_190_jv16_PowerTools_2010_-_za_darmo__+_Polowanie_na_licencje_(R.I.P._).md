@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      jv16 PowerTools 2010 - za darmo* + Polowanie na licencje (R.I.P.?)
 date:       2010-12-05 23:17:00

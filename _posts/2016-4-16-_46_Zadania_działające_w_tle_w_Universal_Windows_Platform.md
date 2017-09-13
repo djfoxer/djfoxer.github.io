@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zadania działające w tle w Universal Windows Platform
 date:       2016-04-16 16:18:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Duke Nukem Forever - wydany!
 date:       2011-06-14 00:46:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      UWP Community Toolkit — niezbędnik dewelopera Universal Windows Platform
 date:       2017-01-12 17:26:00

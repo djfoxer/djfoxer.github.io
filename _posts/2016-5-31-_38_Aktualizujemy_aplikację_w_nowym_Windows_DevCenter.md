@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Aktualizujemy aplikację w nowym Windows DevCenter
 date:       2016-05-31 23:38:00

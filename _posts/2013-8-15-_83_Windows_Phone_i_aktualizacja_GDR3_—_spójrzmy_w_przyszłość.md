@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone i aktualizacja GDR3 — spójrzmy w przyszłość
 date:       2013-08-15 15:37:00

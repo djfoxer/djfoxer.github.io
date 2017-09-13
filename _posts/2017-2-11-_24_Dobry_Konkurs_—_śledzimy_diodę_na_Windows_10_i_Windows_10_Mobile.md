@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Dobry Konkurs — śledzimy diodę na Windows 10 i Windows 10 Mobile
 date:       2017-02-11 11:26:00

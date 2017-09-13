@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Bazaar - alternatywny Windows Phone Marketplace z PC!
 date:       2012-02-22 22:00:00

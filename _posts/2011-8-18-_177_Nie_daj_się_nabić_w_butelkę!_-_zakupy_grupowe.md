@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nie daj się nabić w butelkę! - zakupy grupowe
 date:       2011-08-18 12:20:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zaczynamy zabawę z rozszerzeniami do Visual Studio 
 date:       2017-03-15 21:49:00

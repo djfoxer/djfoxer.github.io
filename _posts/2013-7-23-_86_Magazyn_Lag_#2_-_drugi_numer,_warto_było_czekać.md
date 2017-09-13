@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Magazyn Lag #2 - drugi numer, warto było czekać
 date:       2013-07-23 13:52:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
 date:       2010-04-01 11:09:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MyRingtone2SMS (0.1.1) - kolejne szlify
 date:       2012-05-28 23:42:00

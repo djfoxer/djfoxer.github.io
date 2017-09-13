@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Tworzenie wtyczek do Visual Studio: podsumowanie na koniec konkursu
 date:       2017-05-29 19:36:00

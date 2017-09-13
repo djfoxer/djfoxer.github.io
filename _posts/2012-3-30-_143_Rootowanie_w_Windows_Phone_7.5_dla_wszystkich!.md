@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Rootowanie w Windows Phone 7.5 dla wszystkich!
 date:       2012-03-30 00:55:00

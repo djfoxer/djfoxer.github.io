@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Analizujemy kod portalu dobreprogramy.pl — czyli jak działa system powiadomień
 date:       2016-03-09 17:30:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Rockbox - rewelacyjny firmware do przenośnych odtwarzaczy muzyki
 date:       2012-05-17 23:09:00

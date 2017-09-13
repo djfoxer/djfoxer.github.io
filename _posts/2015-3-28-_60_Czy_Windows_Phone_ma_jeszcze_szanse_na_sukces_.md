@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Czy Windows Phone ma jeszcze szanse na sukces?
 date:       2015-03-28 17:26:00

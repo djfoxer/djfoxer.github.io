@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      LG GT540 - wymiana wyświetlacza
 date:       2011-09-23 01:30:00

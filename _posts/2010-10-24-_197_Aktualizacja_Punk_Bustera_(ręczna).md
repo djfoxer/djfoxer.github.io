@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Aktualizacja Punk Bustera (ręczna)
 date:       2010-10-24 12:42:00

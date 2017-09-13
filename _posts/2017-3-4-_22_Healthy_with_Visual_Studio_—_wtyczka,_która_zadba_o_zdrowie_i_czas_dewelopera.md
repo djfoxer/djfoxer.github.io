@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Healthy with Visual Studio — wtyczka, która zadba o zdrowie i czas dewelopera
 date:       2017-03-04 19:35:00

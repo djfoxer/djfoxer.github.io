@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      NVIDIA - nowe sterowniki + &quot;strasze&quot; gry = klops!
 date:       2010-10-26 22:48:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
 date:       2013-01-28 19:29:00

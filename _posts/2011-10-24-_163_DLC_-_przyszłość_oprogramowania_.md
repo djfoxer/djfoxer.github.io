@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DLC - przyszłość oprogramowania?
 date:       2011-10-24 18:22:00

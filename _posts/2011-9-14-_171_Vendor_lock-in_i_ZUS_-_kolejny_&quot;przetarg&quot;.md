@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
 date:       2011-09-14 23:45:00

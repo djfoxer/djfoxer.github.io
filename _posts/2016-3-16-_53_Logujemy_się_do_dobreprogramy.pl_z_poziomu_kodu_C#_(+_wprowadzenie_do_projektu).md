@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Logujemy się do dobreprogramy.pl z poziomu kodu C# (+ wprowadzenie do projektu)
 date:       2016-03-16 18:12:00

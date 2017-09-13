@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Licznik Blogowy 2017 — niezbędnik blogera (Chrome/Opera/Firefox)
 date:       2017-06-16 18:40:00

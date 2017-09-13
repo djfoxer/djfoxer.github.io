@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Chemia w żywności, czyli odżywiaj się zdrowo z Androidem
 date:       2016-12-15 20:40:00

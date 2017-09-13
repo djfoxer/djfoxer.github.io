@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      jQuery Mobile - programowanie mobilne
 date:       2012-02-02 23:31:00

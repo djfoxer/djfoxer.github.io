@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      XAP Handler - instalacja homebrew z urządzenia
 date:       2012-04-05 10:55:00

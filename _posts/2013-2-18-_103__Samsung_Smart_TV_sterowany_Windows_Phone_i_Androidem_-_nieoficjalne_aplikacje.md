@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:       Samsung Smart TV sterowany Windows Phone i Androidem - nieoficjalne aplikacje
 date:       2013-02-18 18:03:00

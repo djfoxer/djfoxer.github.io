@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
 date:       2017-04-10 18:52:00

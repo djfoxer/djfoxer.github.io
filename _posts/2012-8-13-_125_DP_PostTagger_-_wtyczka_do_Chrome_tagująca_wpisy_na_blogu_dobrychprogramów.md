@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DP PostTagger - wtyczka do Chrome tagująca wpisy na blogu dobrychprogramów
 date:       2012-08-13 18:13:00

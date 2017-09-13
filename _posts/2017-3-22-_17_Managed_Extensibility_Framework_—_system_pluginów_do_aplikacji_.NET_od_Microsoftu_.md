@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Managed Extensibility Framework — system pluginów do aplikacji .NET od Microsoftu 
 date:       2017-03-22 16:42:00

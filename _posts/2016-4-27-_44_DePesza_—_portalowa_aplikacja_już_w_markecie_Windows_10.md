@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DePesza — portalowa aplikacja już w markecie Windows 10
 date:       2016-04-27 18:38:00

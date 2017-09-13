@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Unique WAU Elastomer — recenzja fotela komputerowego
 date:       2016-06-08 17:27:00

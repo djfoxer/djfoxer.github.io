@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zapisywanie zdarzeń z wtyczki do Visual Studio w Activity Logu
 date:       2017-05-22 23:57:00

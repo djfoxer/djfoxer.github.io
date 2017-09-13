@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Korelacja: sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
 date:       2011-07-15 23:12:00

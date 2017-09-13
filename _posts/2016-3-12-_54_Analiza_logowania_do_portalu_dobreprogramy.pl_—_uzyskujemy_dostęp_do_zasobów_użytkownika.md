@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Analiza logowania do portalu dobreprogramy.pl — uzyskujemy dostęp do zasobów użytkownika
 date:       2016-03-12 12:23:00

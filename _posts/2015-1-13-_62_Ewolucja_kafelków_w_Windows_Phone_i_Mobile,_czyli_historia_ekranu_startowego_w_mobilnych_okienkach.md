@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Ewolucja kafelków w Windows Phone i Mobile, czyli historia ekranu startowego w mobilnych okienkach
 date:       2015-01-13 17:18:00

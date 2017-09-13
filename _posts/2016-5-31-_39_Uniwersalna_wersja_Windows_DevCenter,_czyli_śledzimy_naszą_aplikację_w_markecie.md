@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Uniwersalna wersja Windows DevCenter, czyli śledzimy naszą aplikację w markecie
 date:       2016-05-31 23:13:00

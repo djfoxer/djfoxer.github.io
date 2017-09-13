@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Pełzanie zakresu - projekt IT nad przepaścią
 date:       2011-09-27 20:27:00

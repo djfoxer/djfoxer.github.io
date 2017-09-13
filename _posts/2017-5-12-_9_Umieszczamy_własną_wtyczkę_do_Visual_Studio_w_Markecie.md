@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Umieszczamy własną wtyczkę do Visual Studio w Markecie
 date:       2017-05-12 23:23:00

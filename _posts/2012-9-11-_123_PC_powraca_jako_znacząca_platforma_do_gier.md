@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      PC powraca jako znacząca platforma do gier
 date:       2012-09-11 19:13:00

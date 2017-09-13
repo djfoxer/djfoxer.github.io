@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server
 date:       2013-01-16 19:48:00

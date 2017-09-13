@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      HotZlot 2013 - nie regulujcie odbiorników
 date:       2013-06-18 22:26:00

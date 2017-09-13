@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MultiTouch na desktopie - horror w kilku aktach
 date:       2012-03-21 22:53:00

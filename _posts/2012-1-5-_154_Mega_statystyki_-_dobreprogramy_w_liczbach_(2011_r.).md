@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Mega statystyki - dobreprogramy w liczbach (2011 r.)
 date:       2012-01-05 22:51:00

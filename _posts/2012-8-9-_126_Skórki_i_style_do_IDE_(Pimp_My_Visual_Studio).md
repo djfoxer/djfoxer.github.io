@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Skórki i style do IDE (Pimp My Visual Studio)
 date:       2012-08-09 16:57:00

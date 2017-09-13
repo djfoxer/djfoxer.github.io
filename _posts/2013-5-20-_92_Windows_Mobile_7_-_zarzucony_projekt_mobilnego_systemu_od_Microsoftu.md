@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Mobile 7 - zarzucony projekt mobilnego systemu od Microsoftu
 date:       2013-05-20 19:39:00

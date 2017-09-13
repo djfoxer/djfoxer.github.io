@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Template Studio — szybki start w programowaniu aplikacji Universal Windows Platform
 date:       2017-05-20 14:35:00

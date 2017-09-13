@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Android Wear 2.0 — przegląd nowości i zmian w najnowszej wersji systemu na smartwatche
 date:       2016-08-31 19:08:00

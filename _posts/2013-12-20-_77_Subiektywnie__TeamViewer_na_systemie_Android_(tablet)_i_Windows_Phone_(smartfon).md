@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Subiektywnie: TeamViewer na systemie Android (tablet) i Windows Phone (smartfon)
 date:       2013-12-20 18:05:00

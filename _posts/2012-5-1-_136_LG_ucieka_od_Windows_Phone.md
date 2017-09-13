@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      LG ucieka od Windows Phone
 date:       2012-05-01 14:52:00

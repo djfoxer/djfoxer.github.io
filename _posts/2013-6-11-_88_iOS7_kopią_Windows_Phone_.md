@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      iOS7 kopią Windows Phone?
 date:       2013-06-11 15:33:00

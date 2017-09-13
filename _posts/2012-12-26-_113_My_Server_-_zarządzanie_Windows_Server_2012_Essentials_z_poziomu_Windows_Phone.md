@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      My Server - zarządzanie Windows Server 2012 Essentials z poziomu Windows Phone
 date:       2012-12-26 14:17:00

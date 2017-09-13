@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zdrowa praca przy komputerze cz. 2 - Urządzenia wspomagające
 date:       2011-05-28 00:12:00

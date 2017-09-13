@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Samsung Smart TV sterowany Androidem - oficjalne aplikacje
 date:       2013-02-15 21:39:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Amazon Kindle - Tips &amp;amp; Tricks
 date:       2012-04-24 17:25:00

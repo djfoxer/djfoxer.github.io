@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Kafelki w serwerze - piąte koło u wozu?
 date:       2012-12-10 14:16:00

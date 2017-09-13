@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
 date:       2013-01-30 15:41:00

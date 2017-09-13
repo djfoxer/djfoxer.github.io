@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Dysk SSD z Windows - konfiguracja
 date:       2011-11-10 20:37:00

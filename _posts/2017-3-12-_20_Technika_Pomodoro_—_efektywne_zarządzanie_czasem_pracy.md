@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Technika Pomodoro — efektywne zarządzanie czasem pracy
 date:       2017-03-12 09:40:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nowości w C# 7 — jest kontrowersyjnie
 date:       2016-10-24 21:42:00

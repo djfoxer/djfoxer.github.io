@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Azure - przyszłośc w chumrach?
 date:       2010-11-20 18:43:00

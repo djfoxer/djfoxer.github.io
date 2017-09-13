@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Oprogramowanie z czasopism - wątpliwa przyjemność?
 date:       2011-06-27 23:28:00

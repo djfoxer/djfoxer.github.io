@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      dobreprogramy mini w jQuery Mobile - wersja mobilna (update 7; 16.01.13)
 date:       2012-02-06 22:36:00

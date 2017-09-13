@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Niezbędne, &quot;zakazane&quot; aplikacje do Windows Phone 7.5
 date:       2012-10-24 15:45:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Gry na Samsung Smart TV sterowane smartfonem (Android)
 date:       2013-03-11 17:51:00

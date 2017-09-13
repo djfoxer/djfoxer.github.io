@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Licznik Blogowy zmienia się dla Ciebie (Chrome/Opera/Firefox) [Aktualizacja]
 date:       2017-07-10 18:49:00

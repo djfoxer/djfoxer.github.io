@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nokia Pocztówka - wyślij za darmo pocztówkę ze swojej Lumii!
 date:       2013-08-26 17:05:00

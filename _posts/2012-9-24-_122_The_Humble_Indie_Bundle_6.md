@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Indie Bundle 6
 date:       2012-09-24 23:59:00

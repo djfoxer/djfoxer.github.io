@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Konferencja 4Developers, ścieżka .NET — relacja 
 date:       2017-04-05 18:13:00

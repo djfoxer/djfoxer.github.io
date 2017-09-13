@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MHL - smartfon na dużym ekranie i problemy ze standardami (Samsung)
 date:       2013-01-26 00:29:00

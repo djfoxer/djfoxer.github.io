@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Motorola Moto 360 2 generacji — recenzja na sportowo
 date:       2016-08-24 17:53:00

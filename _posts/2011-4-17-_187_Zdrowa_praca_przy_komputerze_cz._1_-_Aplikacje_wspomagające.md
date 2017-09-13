@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zdrowa praca przy komputerze cz. 1 - Aplikacje wspomagające
 date:       2011-04-17 14:08:00

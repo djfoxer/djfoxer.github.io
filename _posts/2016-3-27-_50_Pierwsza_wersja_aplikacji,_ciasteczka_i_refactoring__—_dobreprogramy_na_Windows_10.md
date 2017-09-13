@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Pierwsza wersja aplikacji, ciasteczka i refactoring  — dobreprogramy na Windows 10
 date:       2016-03-27 15:42:00

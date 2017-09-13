@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Samsung Evolution Kit - rewolucja w świecie Smart TV?
 date:       2013-05-29 15:52:00

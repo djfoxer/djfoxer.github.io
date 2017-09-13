@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      &quot;Co wAppStore?&quot; - coś więcej niż Marketplace dla Windows Phone
 date:       2012-04-03 23:32:00

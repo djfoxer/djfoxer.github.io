@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone 7 - ciekawe aplikacje: Cool Remote i Send To WP7
 date:       2011-08-25 18:49:00

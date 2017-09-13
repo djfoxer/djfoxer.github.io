@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Daj Się Poznać 2016 — podsumowanie prac nad DePeszą
 date:       2016-05-31 16:59:00

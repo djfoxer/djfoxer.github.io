@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      jQuery  - miłość od pierwszego wejrzenia!
 date:       2011-04-11 18:42:00

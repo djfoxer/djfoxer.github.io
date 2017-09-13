@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Ad Mediator, czyli dodajemy wiele sieci reklamowych do aplikacji Windows Phone
 date:       2015-01-07 20:53:00

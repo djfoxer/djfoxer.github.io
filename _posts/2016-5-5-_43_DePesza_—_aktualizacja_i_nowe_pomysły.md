@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DePesza — aktualizacja i nowe pomysły
 date:       2016-05-05 17:18:00

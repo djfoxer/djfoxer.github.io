@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Wyskakujące powiadomienia w Windows 10 — aplikacja portalowa w UWP
 date:       2016-03-31 22:47:00

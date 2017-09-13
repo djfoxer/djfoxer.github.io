@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Konfigurujemy Unit Test w Universal Windows Platform
 date:       2016-05-31 23:49:00

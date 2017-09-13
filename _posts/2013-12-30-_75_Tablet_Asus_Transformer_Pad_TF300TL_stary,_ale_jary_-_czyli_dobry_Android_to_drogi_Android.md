@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Tablet Asus Transformer Pad TF300TL stary, ale jary - czyli dobry Android to drogi Android
 date:       2013-12-30 14:46:00

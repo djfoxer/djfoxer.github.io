@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      dobreprogramy.pl w liczbach 2012 - 2013
 date:       2013-08-01 14:58:00

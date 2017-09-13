@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Opera Mobile na Windows Phone
 date:       2012-11-19 17:38:00

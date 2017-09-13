@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zakładamy działalność gospodarczą przez Internet — poradnik
 date:       2015-11-11 15:40:00

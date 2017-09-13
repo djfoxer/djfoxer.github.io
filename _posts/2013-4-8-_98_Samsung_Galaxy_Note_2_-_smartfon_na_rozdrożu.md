@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Samsung Galaxy Note 2 - smartfon na rozdrożu
 date:       2013-04-08 10:08:00

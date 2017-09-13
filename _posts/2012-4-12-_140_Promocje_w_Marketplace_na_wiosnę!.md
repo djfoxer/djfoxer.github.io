@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Promocje w Marketplace na wiosnę!
 date:       2012-04-12 18:19:00

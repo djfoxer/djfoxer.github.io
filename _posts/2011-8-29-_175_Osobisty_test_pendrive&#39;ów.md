@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Osobisty test pendrive&#39;ów
 date:       2011-08-29 21:47:00

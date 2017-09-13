@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      GIMP ucieka z Sourceforge ze względu na adware dodawany do instalatorów
 date:       2013-11-09 16:26:00

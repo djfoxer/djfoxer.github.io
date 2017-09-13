@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Humble Voxatron Debut + tanie gry
 date:       2011-11-02 23:35:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Kinect - szpieg w twoim domu. Nowe zapisy w umowe licencyjnej. 
 date:       2010-12-08 23:37:00

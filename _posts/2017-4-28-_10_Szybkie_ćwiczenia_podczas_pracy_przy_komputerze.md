@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Szybkie ćwiczenia podczas pracy przy komputerze
 date:       2017-04-28 17:30:00

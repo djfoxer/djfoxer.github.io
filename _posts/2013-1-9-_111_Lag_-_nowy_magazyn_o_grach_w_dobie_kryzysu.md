@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Lag - nowy magazyn o grach w dobie kryzysu
 date:       2013-01-09 14:54:00

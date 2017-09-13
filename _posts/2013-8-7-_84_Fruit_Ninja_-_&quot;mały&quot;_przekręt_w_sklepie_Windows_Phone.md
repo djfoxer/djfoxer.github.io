@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Fruit Ninja - &quot;mały&quot; przekręt w sklepie Windows Phone
 date:       2013-08-07 00:03:00

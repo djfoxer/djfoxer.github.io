@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zapiekanka od djfoxer&#39;a.
 date:       2011-11-14 22:30:00

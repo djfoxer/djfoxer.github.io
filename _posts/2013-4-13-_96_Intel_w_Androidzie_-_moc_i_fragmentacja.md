@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Intel w Androidzie - moc i fragmentacja
 date:       2013-04-13 18:15:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Programowanie pod WP7.5, czyli Windows Phone od kuchni
 date:       2011-11-23 23:14:00

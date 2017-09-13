@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Samsung Smart TV seria 8. 46&quot; - domowe centrum rozrywki
 date:       2013-01-03 08:19:00

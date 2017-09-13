@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Czasowstrzymywacz w Virual PC 2007 (usunięcie synchronizacji czasu host->wirtualny system)
 date:       2010-10-25 19:33:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Angry Birds GO! już za chwilę startuje
 date:       2013-12-07 18:09:00

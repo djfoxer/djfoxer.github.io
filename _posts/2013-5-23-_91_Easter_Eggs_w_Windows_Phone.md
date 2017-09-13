@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Easter Eggs w Windows Phone
 date:       2013-05-23 23:54:00

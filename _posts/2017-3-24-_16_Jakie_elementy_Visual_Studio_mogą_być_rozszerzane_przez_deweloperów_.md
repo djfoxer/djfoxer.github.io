@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Jakie elementy Visual Studio mogą być rozszerzane przez deweloperów?
 date:       2017-03-24 17:36:00

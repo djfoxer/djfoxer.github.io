@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      IndieGameStand - Humble Indie Bundle co 96 godzin!
 date:       2012-09-26 18:41:00

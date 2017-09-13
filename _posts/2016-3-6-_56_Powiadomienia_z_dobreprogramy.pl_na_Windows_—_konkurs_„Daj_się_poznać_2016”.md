@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Powiadomienia z dobreprogramy.pl na Windows — konkurs „Daj się poznać 2016”
 date:       2016-03-06 14:56:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone i Aero2
 date:       2012-08-21 18:27:00

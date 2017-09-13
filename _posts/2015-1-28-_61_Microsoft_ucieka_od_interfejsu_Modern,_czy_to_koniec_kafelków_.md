@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Microsoft ucieka od interfejsu Modern, czy to koniec kafelków?
 date:       2015-01-28 18:27:00

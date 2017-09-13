@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Software Informer - panaceum na wszelkie bolączki
 date:       2010-11-12 15:50:00

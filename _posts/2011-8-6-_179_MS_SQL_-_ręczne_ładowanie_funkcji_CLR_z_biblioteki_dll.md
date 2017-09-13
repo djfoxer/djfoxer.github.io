@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MS SQL - ręczne ładowanie funkcji CLR z biblioteki dll
 date:       2011-08-06 15:44:00

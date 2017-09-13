@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      ZTE Grand X IN - zaskakuje już na samym początku
 date:       2013-04-10 22:34:00

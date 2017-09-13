@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Jak obejść ograniczenia Sklepu Windows Phone?
 date:       2013-08-19 16:14:00

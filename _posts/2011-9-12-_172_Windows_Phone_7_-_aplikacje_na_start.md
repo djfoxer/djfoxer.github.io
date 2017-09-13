@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone 7 - aplikacje na start
 date:       2011-09-12 23:33:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Oficjalne i ukryte nowe funkcje w SDK Windows Phone 8 GDR3 (oraz GDR2)
 date:       2014-02-10 17:32:00

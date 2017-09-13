@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Licznik Blogowy - wtyczka do Chrome/Opery/Firefoxa dla każdego Blogera portalu [aktualizacja 08.04.14 (nowe funkcjonalności)] 0.6
 date:       2014-01-28 15:30:00

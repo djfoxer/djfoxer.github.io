@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Afterfall: Insanity za 1$? Przyłącz się do akcji!
 date:       2011-10-10 23:40:00

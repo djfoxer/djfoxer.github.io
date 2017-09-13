@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Własny dodatek Timer Pomodoro na pasku statusu Visual Studio
 date:       2017-03-31 17:10:00

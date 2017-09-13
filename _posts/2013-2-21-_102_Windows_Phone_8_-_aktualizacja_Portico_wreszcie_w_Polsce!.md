@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone 8 - aktualizacja Portico wreszcie w Polsce!
 date:       2013-02-21 00:08:00

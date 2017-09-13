@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Android Wear — emulator w Visual Studio i pierwsza aplikacja w Xamarinie (C#)
 date:       2016-08-29 18:41:00

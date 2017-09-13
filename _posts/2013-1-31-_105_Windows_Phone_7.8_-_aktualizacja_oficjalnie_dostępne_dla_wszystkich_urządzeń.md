@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone 7.8 - aktualizacja oficjalnie dostępne dla wszystkich urządzeń
 date:       2013-01-31 10:30:00

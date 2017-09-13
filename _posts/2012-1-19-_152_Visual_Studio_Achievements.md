@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Visual Studio Achievements
 date:       2012-01-19 23:05:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Fakty i mity o Windows Phone
 date:       2012-06-19 18:05:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Polski Windows Phone 7.5 Mango (aktualizacja) i Marketplace via Zune
 date:       2011-09-30 07:55:00

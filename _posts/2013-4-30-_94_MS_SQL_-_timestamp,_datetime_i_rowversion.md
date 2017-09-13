@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      MS SQL - timestamp, datetime i rowversion
 date:       2013-04-30 17:56:00

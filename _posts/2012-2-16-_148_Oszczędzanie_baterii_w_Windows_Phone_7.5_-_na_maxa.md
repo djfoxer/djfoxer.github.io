@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Oszczędzanie baterii w Windows Phone 7.5 - na maxa
 date:       2012-02-16 23:33:00

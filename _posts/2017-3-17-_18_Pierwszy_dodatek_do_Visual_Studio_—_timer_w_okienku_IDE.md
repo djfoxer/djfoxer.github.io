@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Pierwszy dodatek do Visual Studio — timer w okienku IDE
 date:       2017-03-17 17:06:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nowa DePesza — statystyki z bloga i odświeżony interfejs
 date:       2016-05-27 18:11:00

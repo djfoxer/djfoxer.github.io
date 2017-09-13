@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Chemia w żywności, czyli odżywiaj się zdrowo z Windows Phone
 date:       2014-10-19 14:11:00

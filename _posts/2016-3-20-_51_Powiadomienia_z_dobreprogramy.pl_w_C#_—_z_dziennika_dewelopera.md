@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
 date:       2016-03-20 10:56:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Daj Się Poznać 2017 — kolejna edycja konkursu rozpoczęta
 date:       2017-03-01 20:16:00

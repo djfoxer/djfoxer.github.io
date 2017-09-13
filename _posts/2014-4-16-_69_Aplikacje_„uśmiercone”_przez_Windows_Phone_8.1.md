@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Aplikacje „uśmiercone” przez Windows Phone 8.1
 date:       2014-04-16 15:37:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nokia DC-16 - przenośnia ładowarka na USB
 date:       2013-06-03 15:56:00

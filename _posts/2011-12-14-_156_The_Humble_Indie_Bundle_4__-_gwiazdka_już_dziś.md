@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Indie Bundle 4  - gwiazdka już dziś
 date:       2011-12-14 22:45:00

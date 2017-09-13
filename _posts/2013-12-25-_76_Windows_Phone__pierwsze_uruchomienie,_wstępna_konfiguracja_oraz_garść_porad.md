@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Windows Phone: pierwsze uruchomienie, wstępna konfiguracja oraz garść porad
 date:       2013-12-25 15:14:00

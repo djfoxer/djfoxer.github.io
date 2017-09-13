@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Project My Screen - udostępnianie ekranu Windows Phone 8.1 na ekran komputera po kablu USB
 date:       2014-04-19 01:48:00

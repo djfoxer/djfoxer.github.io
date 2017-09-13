@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      onEscapee - hit z AMIGI (w stylu Another World) za darmo na PC! + recka z ACS (98r.)
 date:       2010-11-07 14:20:00

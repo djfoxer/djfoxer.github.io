@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Konkurs na nazwę aplikacji dobreprogramy.pl, a także niesforny Visual Studio
 date:       2016-04-11 21:47:00

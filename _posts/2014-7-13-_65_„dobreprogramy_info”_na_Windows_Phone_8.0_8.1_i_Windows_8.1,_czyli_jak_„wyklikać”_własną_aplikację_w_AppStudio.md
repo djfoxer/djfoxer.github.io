@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      „dobreprogramy info” na Windows Phone 8.0/8.1 i Windows 8.1, czyli jak „wyklikać” własną aplikację w AppStudio
 date:       2014-07-13 15:06:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Prawo, a zakupy w Sieci
 date:       2011-08-10 15:37:00

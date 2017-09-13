@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Indie Bundle V - najlepsza paczka w historii!!
 date:       2012-06-01 00:16:00

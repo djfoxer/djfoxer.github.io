@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Wygraj trampki projektując ekran w Windows Phone 8 - Trampkomania z Windows Phone
 date:       2014-05-26 16:06:00

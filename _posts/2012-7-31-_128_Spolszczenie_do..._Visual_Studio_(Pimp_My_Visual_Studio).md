@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Spolszczenie do... Visual Studio (Pimp My Visual Studio)
 date:       2012-07-31 12:00:00

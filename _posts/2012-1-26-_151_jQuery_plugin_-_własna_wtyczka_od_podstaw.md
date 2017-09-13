@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      jQuery plugin - własna wtyczka od podstaw
 date:       2012-01-26 20:49:00

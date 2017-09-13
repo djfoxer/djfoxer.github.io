@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Licznik Blogowy - wersja 0.6, czyli własne statystyki i wykresy tuż pod ręką
 date:       2014-04-08 13:33:00

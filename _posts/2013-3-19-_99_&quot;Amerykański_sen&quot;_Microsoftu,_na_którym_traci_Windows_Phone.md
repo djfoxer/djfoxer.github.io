@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      &quot;Amerykański sen&quot; Microsoftu, na którym traci Windows Phone
 date:       2013-03-19 09:09:00

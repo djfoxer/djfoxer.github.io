@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Programistok - Białystok dla programistów i nie tylko
 date:       2011-09-22 10:16:00

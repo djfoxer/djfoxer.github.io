@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Recenzja klawisza Shift - pierwsze i DRUGIE wrażenie + TESTY! UPDATE :) 
 date:       2012-02-24 18:23:00

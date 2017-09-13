@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Orange zapomniał o moim Orange
 date:       2013-09-07 17:27:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
 date:       2016-05-31 23:57:00

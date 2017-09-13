@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Darmowe obfuskatory dla .NET
 date:       2011-09-09 00:14:00

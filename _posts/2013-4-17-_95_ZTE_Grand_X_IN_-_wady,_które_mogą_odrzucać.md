@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      ZTE Grand X IN - wady, które mogą odrzucać
 date:       2013-04-17 08:54:00

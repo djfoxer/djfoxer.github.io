@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Subiektywnie o niedoróbkach w Windows Phone
 date:       2012-07-23 17:48:00

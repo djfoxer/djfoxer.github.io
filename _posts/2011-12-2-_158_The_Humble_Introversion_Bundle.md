@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Introversion Bundle
 date:       2011-12-02 00:50:00

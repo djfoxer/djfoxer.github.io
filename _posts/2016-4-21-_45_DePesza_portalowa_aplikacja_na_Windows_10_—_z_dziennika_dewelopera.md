@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      DePesza portalowa aplikacja na Windows 10 — z dziennika dewelopera
 date:       2016-04-21 17:14:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Słownik Szaradzisty - niezbędnik szaradzisty na Windows Phone
 date:       2014-04-03 19:35:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Bad Word Detector  — własna wtyczka do detekcji wulgaryzmów w Visual Studio
 date:       2017-05-27 10:37:00

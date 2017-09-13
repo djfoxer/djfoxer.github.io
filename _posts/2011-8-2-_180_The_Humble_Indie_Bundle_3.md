@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      The Humble Indie Bundle 3
 date:       2011-08-02 23:25:00

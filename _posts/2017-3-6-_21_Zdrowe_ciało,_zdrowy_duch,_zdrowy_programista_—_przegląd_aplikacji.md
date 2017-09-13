@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Zdrowe ciało, zdrowy duch, zdrowy programista — przegląd aplikacji
 date:       2017-03-06 18:40:00

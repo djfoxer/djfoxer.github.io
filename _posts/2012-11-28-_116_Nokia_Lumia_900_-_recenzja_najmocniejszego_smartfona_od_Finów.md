@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Nokia Lumia 900 - recenzja najmocniejszego smartfona od Finów
 date:       2012-11-28 15:51:00
