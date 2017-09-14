@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Korelacja —  sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
+title:      Korelacja —  sprzedaż czasopism - jakość "pełniaków" ?
 date:       2011-07-15 23:12:00
 summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do "badania" wziąłem dwa czasopisma —  CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość sprzedanych egzemplarzy. Dodatkowo, dzięki temu, iż są to magazyny o grach, łatwiej będzie sprawdzić...
 categories: hobby inne
