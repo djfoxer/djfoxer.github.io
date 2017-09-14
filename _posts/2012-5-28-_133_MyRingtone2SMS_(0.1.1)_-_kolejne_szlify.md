@@ -2,7 +2,7 @@
 layout:     post
 title:      MyRingtone2SMS (0.1.1) - kolejne szlify
 date:       2012-05-28 23:42:00
-summary:    Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone —  MyRingtone2SMS. Pomimo "zapracowanych dni" na juwenaliach  — P udało mi się stworzyć kolejną wersję, już bardziej doszlifowaną, z kilkoma bardzo ciekawymi opcjami.Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplika...
+summary:    Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone —  MyRingtone2SMS. Pomimo "zapracowanych dni" na juwenaliach  — P udało mi się stworzyć kolejną wersję, już bardziej doszlifowaną, z kilkoma bardzo ciekawymi opcjami.Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplikacji MyRingtone2SMS.MyRingtone2SMS 0.1.1 changelogdodanie edycji dźwięków SMS/Email/Poczty głosowej —  ...
 categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
@@ -13,9 +13,7 @@ Jakiś czas temu dodałem wpis o mojej małej aplikacji na Windows Phone: [MyRin
 Bardzo, bardzo proszę o zgłaszanie błędów i pomysłów odnośnie aplikacji MyRingtone2SMS.
 
 
-
 ### MyRingtone2SMS 0.1.1 changelog
-
 
 
 
@@ -64,9 +62,7 @@ Dwa tryby: podstawowy i zaawansowany. W trybie podstawowym ustawiamy podstawowe 
 
 
 
-
 ### MyRingtone2SMS - download
-
 
 [MyRingtone2SMS 0.1.1](http://djfoxer.pl/MyRingtone2SMS_0.1.1.xap)
 
@@ -80,40 +76,24 @@ Aplikacja dostępna jest również poprzez [Bazaar](http://wp-bazaar.com/Bazaar/
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231234_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231239_0.jpg)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231244_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231249_0.jpg)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231253_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231303_0.jpg)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231308_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_133_/g_-_288x192_-_-_33537x20120528231313_0.jpg)
-
 
 
 [youtube=http://www.youtube.com/watch?v=5o-WiTMlKnI]

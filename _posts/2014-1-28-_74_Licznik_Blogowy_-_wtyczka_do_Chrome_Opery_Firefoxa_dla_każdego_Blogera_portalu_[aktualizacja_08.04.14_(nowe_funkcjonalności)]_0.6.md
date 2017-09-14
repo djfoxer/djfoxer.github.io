@@ -2,7 +2,7 @@
 layout:     post
 title:      Licznik Blogowy - wtyczka do Chrome/Opery/Firefoxa dla każdego Blogera portalu [aktualizacja 08.04.14 (nowe funkcjonalności)] 0.6
 date:       2014-01-28 15:30:00
-summary:    Wielu z nas zapewne spogląda często na swoją listę Popularne wpisy, która pokazuje najczęściej komentowane publikacje na naszym prywatnym blogu. Cóż, można śmiało powiedzieć, że równie ważnym czynnikiem popularności wpisu jest również ilość wyświetleń. Niestety, aby zobaczyć licznik wyświetleń musim...
+summary:    Wielu z nas zapewne spogląda często na swoją listę Popularne wpisy, która pokazuje najczęściej komentowane publikacje na naszym prywatnym blogu. Cóż, można śmiało powiedzieć, że równie ważnym czynnikiem popularności wpisu jest również ilość wyświetleń. Niestety, aby zobaczyć licznik wyświetleń musimy wejść ręcznie do każdego wpisu z okna edycji i tam wyszukać tej informacji. Nie jest to ani szybki...
 categories: oprogramowanie porady inne
 ---
 
@@ -11,9 +11,7 @@ categories: oprogramowanie porady inne
 Wielu z nas zapewne spogląda często na swoją listę  *Popularne wpisy* , która pokazuje najczęściej komentowane publikacje na naszym prywatnym blogu. Cóż, można śmiało powiedzieć, że równie ważnym czynnikiem popularności wpisu jest również ilość wyświetleń. Niestety, aby zobaczyć licznik wyświetleń musimy wejść ręcznie do każdego wpisu z okna edycji i tam wyszukać tej informacji. Nie jest to ani szybkie, ani optymalne. Nie jest łatwo znaleźć wpis, który jest najbardziej popularny, gdy mamy ich wiele. Przeszukiwanie wszystkich publikacji i ręczne wybieranie tych najbardziej poczytnych jest baaardzo niewygodne. Oczywiście, postanowiłem coś z tym zrobić i tak powstał...
 
 
-
 ## Licznik Blogowy dobreprogramy.pl
-
 
 
 Licznik Blogowy dobreprogramy.pl to wtyczka do Chroma, nowej Opery i Firefoxa, niezbędna dla każdego blogera na portalu. Dzięki niej w prosty sposób wyświetlimy:
@@ -37,9 +35,7 @@ Licznik Blogowy dobreprogramy.pl to wtyczka do Chroma, nowej Opery i Firefoxa, n
 
 
 
-
 ### Instalacja Chrome i Opera
-
 
 Z racji tego, że wtyczka nie jest dodana w sklepie Chroma/Opery trzeba ją  *zainstalować*  ręcznie. Oczywiście jest to trywialnie proste:
 
@@ -55,17 +51,13 @@ Z racji tego, że wtyczka nie jest dodana w sklepie Chroma/Opery trzeba ją  *za
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127203207_0.png)
-
 
 
 Instalacja wygląda niemalże identycznie na nowej Operze.
 
 
-
 ### Instalacja Firefox
-
 
 Wtyczka nie jest dodana do sklepu Firefoxa, ale całość przebiega automatycznie: 
 
@@ -79,33 +71,25 @@ Wtyczka nie jest dodana do sklepu Firefoxa, ale całość przebiega automatyczni
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140128225258_0.png)
-
 
 
 Należy zrestartować Firefoxa.
 
 
-
 ### Aktualizacja
-
 
 Wersje wtyczki na Chrome, Operę i Firefoxa (od wersji 0.4) wspierają autoaktualizację poprzez 
 przeglądarkę. Zatem jeśli wyjdzie nowsza wersja to przeglądarka pobierze ją sama.
 
 
 
-
 ### Użytkowanie
-
 
 Wtyczka Licznik Blogowy działa jedynie w przypadku, gdy jesteśmy zalogowani. Dopiero wówczas rozszerzenie będzie miało dostęp do podstron edycji publikacji. Jeśli jako zalogowani użytkownicy wejdziemy na główną stronę swojego bloga (w moim przypadku to [http://www.dobreprogramy.pl/djfoxer](http://www.dobreprogramy.pl/djfoxer)), wówczas po prawej stronie nad avatarem, a pod polem do wyszukania, znajdziecie nowy przycisk:  *"rozpocznij analizę wpisów na blogu"*  (kolory są zależne od wybranej skórki bloga):
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127232949_0.png)
-
 
 
 W tym momencie, po kliknięciu na przycisk, aplikacja rozpocznie pracę. Poniższe kroki przebiegają automatycznie:
@@ -113,23 +97,17 @@ W tym momencie, po kliknięciu na przycisk, aplikacja rozpocznie pracę. Poniżs
 
 
   * sprawdzenie ilości wpisów...
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127203210_0.png)
 
 
 
-
   * odczyt danych...
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127203211_0.png)
 
 
 
-
   * prezentacja wyników!
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140202141238_0.png)
-
 
 
 
@@ -137,47 +115,35 @@ W tym momencie, po kliknięciu na przycisk, aplikacja rozpocznie pracę. Poniżs
 Wpisy posortowane są wg ilość wyświetleń (malejąco). Od wersji 0.4 można również posortować wpisy wg czterech kryteriów:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140202140933_0.png)
-
 
 
 Prezentowanych jest tylko TOP 10 wpisów, ale nic nie stoi na przeszkodzie, aby wyświetlić całą listę. W tym celu klikamy na przycisk  *"pokaż wszystkie"* , znajdujący się na dole listy:
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127231820_0.png)
-
 
 
 Jeśli do wpisu został dodany komentarz przez moderację bloga:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140127235532_0.png)
-
 
 
 wówczas taka publikacja będzie miała czerwone podświetlenie:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140202141333_0.png)
-
 
 
 W każdym przypadku kliknięcie na nazwę wpisu przeniesie nas bezpośrednio do wpisu na blogu. Jeśli klikniemy na  *"XXX wyświetleń"*  zostaniemy przekierowani do edycji danej publikacji.
 
 
-
 ## Czekam na feedback
-
 
 Przyznam się, że wtyczka przypadła mi do gustu :) Jeśli macie jakieś uwagi, znaleźliście może błędy, chcecie podzielić się swoją opinią o wtyczce lub macie pomysł na nowe funkcje do rozszerzenia, to zapraszam do dyskusji w komentarzach.
 
 
-
 ### wersja 0.1
-
 
 
 
@@ -186,9 +152,7 @@ Przyznam się, że wtyczka przypadła mi do gustu :) Jeśli macie jakieś uwagi,
 
 
 
-
 ### aktualizacja 28.01.14 18:30, wersja 0.2
-
 
 
 
@@ -201,9 +165,7 @@ Przyznam się, że wtyczka przypadła mi do gustu :) Jeśli macie jakieś uwagi,
 
 
 
-
 ### aktualizacja 28.01.14 23:00, wersja 0.3
-
 
 
 
@@ -213,9 +175,7 @@ Przyznam się, że wtyczka przypadła mi do gustu :) Jeśli macie jakieś uwagi,
 
 
 
-
 ### aktualizacja 02.02.14, wersja 0.4
-
 
 
 
@@ -239,9 +199,7 @@ Przyznam się, że wtyczka przypadła mi do gustu :) Jeśli macie jakieś uwagi,
 
 
 
-
 ### aktualizacja 07.02.14 wersja 0.5
-
 
 
 
@@ -260,15 +218,11 @@ dodanie statystyk:
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140207221620_0.png)
 
 
 
-
-
 ### aktualizacja 08.04.14 wersja 0.6
-
 
 
 
@@ -297,6 +251,4 @@ dodanie wykresów:
 Więcej w oddzielnym wpisie: [Licznik Blogowy - wersja 0.6, czyli własne statystyki i wykresy tuż pod ręką](http://dp.do/53496)
 [](http://dp.do/53496).
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-1-28-_74_/g_-_608x405_-_-_51846x20140407195833_0.png)
-

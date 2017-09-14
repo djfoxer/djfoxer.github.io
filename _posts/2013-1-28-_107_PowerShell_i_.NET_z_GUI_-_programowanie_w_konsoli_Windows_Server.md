@@ -2,7 +2,7 @@
 layout:     post
 title:      PowerShell i .NET z GUI - programowanie w konsoli Windows Server
 date:       2013-01-28 19:29:00
-summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowan...
+summary:    Niedawny wpis o administracji IIS z linii komend (WebAdministration - moduł PowerShell do zarządzania IIS w Windows Serv...) zahaczał o dość uniwersalny moduł konsoli PowerShell. Mimo, że wydaje się, iż jest on klasycznym językiem skryptowym, w rzeczywistości jest dużo bardziej złożony i zaawansowany! W przeciwieństwie do narzędzi z grupy wiersza poleceń, w PowerShellu możemy korzystać z obiektów ...
 categories: porady programowanie serwery
 ---
 
@@ -15,9 +15,7 @@ PowerShell w całości działa na platformie .NET, stąd można spokojnie używa
 
 
 
-
 ## Obiekty
-
 
 
 
@@ -47,9 +45,7 @@ Delete                    Method         void Delete()
 Jak widać  *dir*  jest niczym innym jak obiektem typu  *System.IO.FileInfo* . Obiekt posiada metody takie jak klasa w C#. 
 
 
-
 ## Zmienne
-
 
 
 Sprawdźmy teraz co się kryje pod zmiennymi w PowerShellu. 
@@ -78,9 +74,7 @@ ToBoolean   Method     bool IConvertible.ToBoolean(System.IFormatProvider provid
 Zaskoczenia nie ma. Utworzona zmienna to obiekt klasy Double z .NET.
 
 
-
 ## Skrypt PowerShell + .NET
-
 
 
 A teraz mały skrypt, wykorzystujący obiekty klas prosto z .NET. Nasz mały "programik" ma następujące założenia:
@@ -145,9 +139,7 @@ Write-Host "koniec"
 Przykładowy skrypt pokazał jak można polecenia PowerShella połączyć z obiektami prosto z .NET. Dzięki temu, w prosty i szybki sposób można stworzyć wydajne skrypty, które mają olbrzymie możliwości. Znajomość tego typu zależności z .NET dla zaawansowanego administratora, może okazać się zbawienna i nieraz pozwoli zaoszczędzić czas i ułatwi pracę w środowisku serwerowym.
 
 
-
 ## GUI
-
 
 Skoro PowerShell to .NET, więc można spróbować stworzyć w nim GUI używając obiektów z frameworku. Do wyboru mamy WinForms lub WPF. Skupię się głównie na tej pierwszej opcji. Skrypt z WinForms wygląda podobnie, wręcz identycznie, jak plik  *designer*  generowane np. przez Visual Studio. 
 
@@ -211,9 +203,7 @@ $form.ShowDialog()
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-28-_107_/g_-_608x405_-_-_38836x20130127234112_0.png)
-
 
 
 Kilkoma poleceniami w PowerShell stworzyliśmy proste środowisko GUI dla administratora. Idealne jeśli pewne skrypty mają być obsługiwane przez osoby, które nie muszą mieć dużej wiedzy w PowerShellu, czy znać wszystkie składniki metod. Co więcej, w takiej sytuacji można wykluczyć część błędów i zmniejszyć ryzyko nieodpowiedniego użycia poleceń.
@@ -221,8 +211,6 @@ Kilkoma poleceniami w PowerShell stworzyliśmy proste środowisko GUI dla admini
 Oczywiście na początku tworzenie GUI pod PowerShella wydaj się lekko skomplikowane. Na szczęście powstało kilka narzędzi, ułatwiających tworzenie graficznych interfejsów do PowerShella. Dzięki edytorom typu WYSIWYG (ang. What You See Is What You Get) wyklikanie GUI nie powinno nastarczyć problemów. Listę narzędzi można znaleźć pod adresem: [PowerShell GUIs](http://social.technet.microsoft.com/wiki/contents/articles/4579.powershell-guis.aspx). 
 
 
-
 ## Podsumowanie
-
 
 Znajomość .NET dla zaawansowanych administratorów wydaje się rzeczą bardzo atrakcyjną. Nie tylko zwiększa szybkość i komfort pracy, dzięki skryptom o większych możliwościach, ale także pozwala na proste tworzenie własnych skryptów z GUI. Bardziej przyjazny interfejs idealnie nada się dla mniej doświadczonych osób, które muszą skorzystać ze skryptów i przy okazji pełnić może formę walidatora. Warto znać wszystkie możliwości PowerShella, aby móc pracować efektywniej, szybciej i prościej.

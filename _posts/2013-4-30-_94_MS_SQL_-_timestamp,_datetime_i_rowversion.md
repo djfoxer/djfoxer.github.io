@@ -2,7 +2,7 @@
 layout:     post
 title:      MS SQL - timestamp, datetime i rowversion
 date:       2013-04-30 17:56:00
-summary:    Tworząc bazę często natykamy się na konieczność stworzenia mechanizmu, który będzie pozwalał na wykrywanie zmian w poszczególnych wierszach tabeli. Różne są podejścia do tego zagadnienia. Na przykładzie bazy MS SQL można rozwiązać to na kilka sposobów. Do tego celu idealnie nada się change tracking ...
+summary:    Tworząc bazę często natykamy się na konieczność stworzenia mechanizmu, który będzie pozwalał na wykrywanie zmian w poszczególnych wierszach tabeli. Różne są podejścia do tego zagadnienia. Na przykładzie bazy MS SQL można rozwiązać to na kilka sposobów. Do tego celu idealnie nada się change tracking z tombstonem, czy CDC (change data capture) dla wersji enterprise. W tym wpisie skupię się jednak na...
 categories: porady programowanie
 ---
 
@@ -13,9 +13,8 @@ Tworząc bazę często natykamy się na konieczność stworzenia mechanizmu, kt�
 
 
 
-<blockquote>
-<p>MS SQL: timestamp != datetime</p>
-</blockquote>
+
+> MS SQL: timestamp != datetime
 
 
 
@@ -29,9 +28,8 @@ Timestamp jest niczym innym jak znacznikiem czasowym określającym ostatnią ak
 
 
 
-<blockquote>
-<p>MS SQL: timestamp == rowversion</p>
-</blockquote>
+
+> MS SQL: timestamp == rowversion
 
 
 

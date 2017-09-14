@@ -2,7 +2,7 @@
 layout:     post
 title:      Nowości w C# 6 — cóż ciekawego otrzymujemy?
 date:       2016-07-18 18:57:00
-summary:    Tak, tak, tak. C# 6 jest już z nami od jakiegoś już czasu, ale w życiu nie jest tak kolorowo i nie wszyscy mogli przejść na nowego Visual Studio 2015 tuż po tym jak się ukazał. Dodatkowo nawet jeśli ktoś już przesiadł się na najświeższe IDE od MS, to i tak nie zawsze mógł używać nowości, które wpadł...
+summary:    Tak, tak, tak. C# 6 jest już z nami od jakiegoś już czasu, ale w życiu nie jest tak kolorowo i nie wszyscy mogli przejść na nowego Visual Studio 2015 tuż po tym jak się ukazał. Dodatkowo nawet jeśli ktoś już przesiadł się na najświeższe IDE od MS, to i tak nie zawsze mógł używać nowości, które wpadły wraz z C# 6. Zatem dla niektórych będzie to przypomnienie, dla innych zapoznanie się z nowościami....
 categories: windows programowanie
 ---
 
@@ -17,15 +17,11 @@ Sam C# 6 nie przynosi olbrzymich zmian czy nowości. W tym wydaniu nastawiono si
 Cóż ciekawego pojawi się zatem w wraz z C# 6?
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-7-18-_33_/g_-_608x405_-_-_74772x20160716023110_0.jpg)
 
 
 
-
-
 ### Operator  *?.* 
-
  
 To chyba jedna z bardziej wyczekiwanych nowości w C# 6. Zmorą deweloperów tworzących w C# jest wyjątek  *NullReferenceException* . Powoduje to często, że kod w wielu miejscach złożony jest if-ów, w których sprawdzamy czy coś nie jest nullem.
 
@@ -84,9 +80,7 @@ OnChanged?.Invoke(this, args);
 
 
 
-
 ### Właściwości - inicjalizacja
-
 
 
 Możemy już inicjalizować właściwości, podobnie jak w przypadku pól:
@@ -106,9 +100,7 @@ public class Customer
 Warto dodać, że inicjalizacja nie przebiega poprzez  *set* , ale wartość jest  nadawana bezpośrednio. 
 
 
-
 ### Właściwości -  *readonly* 
-
 
 
 ```csharp
@@ -130,9 +122,7 @@ public class Customer
 Właściwości można od teraz tworzyć bez użycia settera. W takim wypadku niejawnie tworzone jest pole  *readonly* . Właściwość może być znacjonalizowana tylko bezpośrednio (jak wyżej) lub w konstruktorze.
 
 
-
 ### String interpolation
-
 
 Kolejną ciekawią nowością jest interpolacja Stringów. Zamiast używać  *String.Format*  możemy to samo zrobić w znacznie krótszy sposób:
 
@@ -151,9 +141,7 @@ var s_csharp6 = $"{first} likes {last} now {DateTime.Now:d}";
 
 
 
-
 ### Metody, właściwości i indeksatory jako pojedyncze wyrażenie lambda
-
 
 
 W C# 6 dostaliśmy możliwość zapisywania metod, będących pojedynczymi wyrażeniami, w prostej i zwięzłej formule. Oczywiście metody takie mogą również zwracać  *void* .
@@ -238,9 +226,7 @@ public class Customer
 
 
 
-
 ### Using static
-
 
 W najnowszej wersji C# możemy korzystać z fleczeru, który pozwala na używanie dostępnych statycznych elementów w klasach czy Enumach.
 
@@ -281,9 +267,8 @@ class Program
 
 
 W ten sposób można jednak łatwo skomplikować sobie życie.
-<blockquote>
-<p>Pytanie: czy  *Sqrt(10* ) przejdzie do metody z klasy  *System.Math*  czy  *Program* , a może wyskoczy wyjątek przy kompilacji?</p>
-</blockquote>
+
+> Pytanie: czy  *Sqrt(10* ) przejdzie do metody z klasy  *System.Math*  czy  *Program* , a może wyskoczy wyjątek przy kompilacji?
 
 
 ```csharp
@@ -312,9 +297,7 @@ class Program
 Ficzer całkiem ciekawy. Z jednej strony zmniejsza ilość kodu i poprawia jego czytelność, ale z drugiej może wprowadzać pewnie niejasności w zrozumieniu kontekstu.  *Using static*  zapewne najlepiej nada się do użycia dla kilku ściśle wybranych klas, aby nie utrudnić analizy kodu.
 
 
-
 ###  *nameof* 
-
 
 C# 6 wprowadza również wyrażenie  *nameof* , które zwraca stringa będącego nazwą zmiennej, właściwości, klasy czy metody:
 
@@ -338,9 +321,7 @@ if (value== null) throw new ArgumentNullException(nameof(value)+ " is null :(");
 
 
 
-
 ### Filtrowanie wyjątków
-
 
 
 W nowej wersji języka dostaliśmy możliwość dodawania filtrów do wyjątków:
@@ -365,9 +346,7 @@ catch (Exception ex)
 
 
 
-
 ### Pozostałe zmiany:
-
 
 
 

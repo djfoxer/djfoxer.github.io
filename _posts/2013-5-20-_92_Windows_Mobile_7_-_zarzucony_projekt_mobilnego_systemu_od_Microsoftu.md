@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Mobile 7 - zarzucony projekt mobilnego systemu od Microsoftu
 date:       2013-05-20 19:39:00
-summary:    Zapewne wielu z nas, tuż po pierwszych poglądowych zdjęciach Windows Phone 7 w roku 2010, było nastawionych dość sceptycznie do nowego interfejsu Metro. Nie obyło się bez grymasów na twarzy i westchnieniach na myśl o prawdziwym następcy Windows Mobile 6. Otóż dość niespodziewanie, dziś wyciekł mater...
+summary:    Zapewne wielu z nas, tuż po pierwszych poglądowych zdjęciach Windows Phone 7 w roku 2010, było nastawionych dość sceptycznie do nowego interfejsu Metro. Nie obyło się bez grymasów na twarzy i westchnieniach na myśl o prawdziwym następcy Windows Mobile 6. Otóż dość niespodziewanie, dziś wyciekł materiał podglądowy z zarzuconej wersji Windows Mobile 7. Można na własne oczy przekonać się, jak miał w ...
 categories: oprogramowanie urządzenia mobilne inne
 ---
 
@@ -13,9 +13,7 @@ Zapewne wielu z nas, tuż po pierwszych poglądowych zdjęciach Windows Phone 7 
 Oczywiście nowy interfejs w Windows Phone okazał się strzałem w dziesiątkę w urządzeniach dotykowych. Przełożyło się to nawet na tryb Modern w "dużym" Windows 8. Co więcej, powstało wiele nakładek na Androida przekształcających wygląd na ten z Windows Phone. Krążą nawet plotki, iż nowy iOS będzie dużo czerpał z kafelkowatego interfejsu. No dobrze, ale co z tym Windows Mobile 7? Otóż...
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_608x405_-_-_41386x20130520185249_0.jpg)
-
 
 
 [Dave Brinda](http://www.brinda.com/) opublikował na vimeo filmik będący konceptem interfejsu, nad jakim pracowano podczas tworzenia Windows Mobile 7. Poniżej zamieszczam najciekawsze screeny, zaś link do pełnego filmu jest [tutaj](http://vimeo.com/66485693) (niestety został on usunięty, poniżej mirror na YouTube)
@@ -23,31 +21,19 @@ Oczywiście nowy interfejs w Windows Phone okazał się strzałem w dziesiątkę
 [youtube=http://www.youtube.com/watch?v=UpdmsEI60kA]
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185732_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185736_0.jpg)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185745_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185752_0.jpg)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185756_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_92_/g_-_288x192_-_-_41386x20130520185800_0.jpg)
-
 
 
 Dave Brinda pracował nie tylko nad Windows Mobile 7. Był również twórcą HTC Sense dla Android i HTC TouchFlo3D pod Windows Mobile 6. Obecnie jest dyrektorem w dziale innowacji w HTC. Cóż można jednak powiedzieć o samej koncepcji UI Windows Mobile7?

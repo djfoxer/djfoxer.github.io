@@ -2,7 +2,7 @@
 layout:     post
 title:      LG ucieka od Windows Phone
 date:       2012-05-01 14:52:00
-summary:    LG Electronics ogłosiło, iż ze względu na słabą sprzedaż urządzeń z Windows Phone, rezygnuje z dalszego tworzenia smartfonów opartych na tym systemie. Koreański producent postanowił skupić się na Androidzie. W najbliższej przyszłości nowe urządzenia od LG będą dostępne jedynie z systemem od Googla.W...
+summary:    LG Electronics ogłosiło, iż ze względu na słabą sprzedaż urządzeń z Windows Phone, rezygnuje z dalszego tworzenia smartfonów opartych na tym systemie. Koreański producent postanowił skupić się na Androidzie. W najbliższej przyszłości nowe urządzenia od LG będą dostępne jedynie z systemem od Googla.Windows Phone i LGLG z Windows Phone —  Optimus 7, Quantum, Jil SanderLG był jednym z pierwszych, którz...
 categories: urządzenia mobilne inne
 ---
 
@@ -11,15 +11,11 @@ categories: urządzenia mobilne inne
 LG Electronics ogłosiło, iż ze względu na słabą sprzedaż urządzeń z Windows Phone, rezygnuje z dalszego tworzenia smartfonów opartych na tym systemie. Koreański producent postanowił skupić się na Androidzie. W najbliższej przyszłości nowe urządzenia od LG będą dostępne jedynie z systemem od Googla.
 
 
-
 ## Windows Phone i LG
 
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_136_/g_-_608x405_-_-_31948x20120501144444_0.jpg)
-
 
 
 LG był jednym z pierwszych, którzy dołączyli do grona producentów tworzących urządzenia dla Windows Phone. Ich pierwszy model [LG Optimus 7 (E900)](http://www.dobreprogramy.pl/djfoxer/Windows-Phone-w-LG-E,26695.html), zaprezentowany w październiku 2010 roku, był bardzo udanym egzemplarzem. Mocna obudowa i prosty design, ogólnie ciekawa propozycja jak na tamte czasy. Możliwość ręcznego odblokowania, duży Marketplace OEM, zachęcały do kupna.  Zaraz po tym modelu, LG zaprezentował model [LG Quantum (C900)](http://en.wikipedia.org/wiki/LG_Quantum). Urządzenie z fizyczną klawiaturą. Zaprezentowany rok później, w październiku 2011 roku, LG Jil Sander był totalną klapą. Urządzenie było technologicznie na poziomie pierwszej generacji smartfonów z Windows Phone, mimo że w tym samym czasie były już dostępne urządzenia z drugiej generacji. Co więcej, oprócz kilu zmian był on zdecydowanie zbyt podobny do LG Optimus 7 i nie można określać go jako nowego smartfonu, jedynie jako nową, odświeżona wersję. Całkowicie zmarnowany rok!
@@ -27,9 +23,7 @@ LG był jednym z pierwszych, którzy dołączyli do grona producentów tworzący
 Dorobek LG z urządzeniami z Windows Phone nie jest pokaźny. Nawet zapowiadany, nigdy nie wydany, LG Miracle również nie zawojowałby rynku. Dlaczego? Technologicznie byłby on nawet słabszy od LG Optimus 7, jedynie wyróżniałby się dodatkiem w postaci NFC, który nie jest jeszcze zbytnio rozpowszechniony. Czy mogło to doprowadzić do czegoś dobrego?
 
 
-
 ## Ucieczka z tonącego statu?
-
 
 
 Ogólnie wg badań, LG ma ok. 2-3% rynku Windows Phone. Wynik faktycznie niezbyt zadowalający. Nie ma jednak co się łudzić. LG myślało, iż urządzenia z  nowym systemem same się wypromują. Błąd!
@@ -42,9 +36,7 @@ Do tworzenia urządzeń z Windows Phone, chętne są już inne firmy. Np. Huawei
 
 
 
-
 ## LG - przykład jak tego nie robić
-
 
 
 
@@ -56,16 +48,12 @@ Brak urządzeń drugiej generacji (LG nie miało nawet planów stworzenia takich
 
 
 
-
 ## Statystyki
-
 
 Na koniec przedstawię kilka statystyk zebranych przez dwie aplikacje, dość popularne na Windows Phone. Każdy z programów zbiera dane o urządzeniach, przez które użytkownicy logują się do nich.
 
 
-
 ### ...i'm a WP7!
-
 
 Czyli aplikacja społecznościowa dla użytkowników WP. Posiada lokalizowanie osób zarejestrowanych w [...i'm a WP7!](http://www.windowsphone.com/pl-PL/apps/16b4f331-e05b-e011-854c-00237de2db9e), statystyki, wskazówki, artykuły itp. 
 
@@ -74,13 +62,10 @@ Czyli aplikacja społecznościowa dla użytkowników WP. Posiada lokalizowanie o
 Wg statystyk zebranych przez  *...i'm a WP7!* , wśród użytkowników ich aplikacji, 8% posiadało urządzenia od LG.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_136_/g_-_608x405_-_-_31948x20120501124816_0.jpg)
 
 
-
 5% użytkowników logowało się poprzez LG Optimus 7.
-
 
 
 
@@ -88,22 +73,15 @@ Wg statystyk zebranych przez  *...i'm a WP7!* , wśród użytkowników ich aplik
 
 
 
-
-
 ### WP Bench
-
 
 
 [WP Bench](http://www.windowsphone.com/pl-PL/apps/962a9521-952c-41e0-8763-25af86bc8937)  to aplikacja do mierzenia wydajność urządzeń z Windows Phone. Wg zebranych danych, 8% przesyłanych statystyk pochodzi od smartfonów od LG. Ciekawie wyglądają dane posortowane wg, popularności modeli. Na trzecim miejscu jest LG Optimus 7!
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_136_/g_-_288x192_-_-_31948x20120501140415_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_136_/g_-_288x192_-_-_31948x20120501140424_0.jpg)
-
 
 
 
@@ -114,8 +92,6 @@ Statystki zebrane przez powyższe programy nie są w pełni miarodajne. Z pewno�
 Zobaczymy, jak LG postąpi z obecnymi klientami smartfonów z WP. Powrót nie będzie prosty, szczególnie, że nowi, jak i przyszli producenci urządzeń, idą dalej do przodu i nie oglądają się za siebie.
 
 
-
 ## [Update 1]
-
 
 Podobno porzucenie Windows Phone, nie jest jednoznaczne. LG chwilowo che skupić się na Androidzie, ale o WP nie zapomni. Czy uda się tak "odstawić" platformę na bok, zahibernować? Zobaczymy, oby nie obudzili się z ręką w....

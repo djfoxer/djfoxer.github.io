@@ -2,7 +2,7 @@
 layout:     post
 title:      Własna konfiguracja do wtyczki w oknie opcji Visual Studio
 date:       2017-04-10 18:52:00
-summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do V...
+summary:    Jakiś czas temu przedstawiłem sposób na umieszczenie Timera Pomodoro na pasku statusu w Visual Studio. W kolejnym kroku dodamy opcje konfiguracyjne do wtyczki w standardowym oknie opcji IDE.Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do Visual Studio. Spróbujmy zatem skonfigurować tą poprzez oko opcji w IDE.Autostart wtyczek w Visual St...
 categories: windows oprogramowanie programowanie
 ---
 
@@ -14,20 +14,14 @@ Jakiś czas temu przedstawiłem sposób na [umieszczenie Timera Pomodoro na pask
 Do tej pory, aby pokazać timera na pasu statusu trzeba było ręcznie wywołać z menu opcję dodająca element do Visual Studio. Spróbujmy zatem skonfigurować tą poprzez oko opcji w IDE.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410185129_0.png)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG)
 
 
 
-
-
 ## Autostart wtyczek w Visual Studio
-
 
 Nasza wtyczka składa się z paczek ( *Packaga* ). W celu automatycznego uruchomienia dodatku przy starcie IDE musimy dodać atrybut do naszej klasy dziedziczącej po  *Package* .
 
@@ -64,9 +58,7 @@ W moim przypadku będzie to  *ShellInitialized_string* , czyli załadownie soluc
 
  
 
-
 ## Okienko opcji w Visual Studio
-
 
 Własne okienko w oknie konfiguracyjnym można umieścić bardzo prosto. Dodajemy do solucji nowy element  *Visual Studio Package* . Następnie tworzymy nową klasę, która dziedziczyć będzie po  *DialogPage* :
 
@@ -108,15 +100,11 @@ Stworzona klasa  *OptionPage*  (dziedzicząca po  *DialogPage* ) będzie podczep
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184228_0.PNG)
 
 
 
-
-
 ## Odczyt danych z okienka opcji
-
 
 Jak odczytywać aktualne dane z okienka konfiguracji IDE? Robimy to w następujący sposób:
 
@@ -132,13 +120,9 @@ Jak odczytywać aktualne dane z okienka konfiguracji IDE? Robimy to w następuj�
 
 W tak dość nieskomplikowany sposób otrzymaliśmy proste okienko konfiguracyjne w IDE.
 
-<blockquote>
-<p>Źródła dostępne są na GitHubie (branch master i POC):
 
-[https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)</p>
-</blockquote>
-
+> Źródła dostępne są na GitHubie (branch master i POC):
+> [https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-4-10-_12_/g_-_608x405_-_-_80415x20170410184234_0.png)
-
 

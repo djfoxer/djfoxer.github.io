@@ -2,7 +2,7 @@
 layout:     post
 title:      Osobisty test pendrive&#39;ów
 date:       2011-08-29 21:47:00
-summary:    Ile pendrive'ów ma każdy z nas w domu?  — ) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szy...
+summary:    Ile pendrive'ów ma każdy z nas w domu?  — ) Co najmniej kilka. Młodsze, których obudowa nie pozwala oderwać od nich oczu i starsze, będące reliktem zamierzchłych czasów. Piękniejsze, będące małymi dziełami sztuki i te najprostsze, które wyglądem przypominają niczym niewyróżniającą się zapalniczkę. Szybkie, które potrafią w ciągu kilku sekund przerzucić GB danych oraz te wolniejsze, które podczas kop...
 categories: sprzęt porady inne
 ---
 
@@ -17,13 +17,9 @@ Wszystkie pendrive'y były testowane za pomocą aplikacji CrystalDiskMark 3.0.1 
 Poniżej zamieszczam wyniki testów oraz, krótkie omówienie każdego z nich. Zapraszam do lektury.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_1.jpg)
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110828093739_2.jpg)
-
 
 
  *Kingston DataTraveler 410 (16GB)* 
@@ -125,9 +121,7 @@ Kontynuacja wątku z pendrive'm OCZ Rally2 [http://www.dobreprogramy.pl/djfoxer/
  *Podsumowanie* 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-29-_175_/g_-_608x405_-_-_27436x20110827230200_3.png)
-
 
 
 Chciałbym zaznaczyć, iż jest to test pendrive'ów, które znalazły się w mojej domowej "kolekcji". Mały test pokazał, z czym możemy się spotkać w życiu codzienny, a także czego unikać, a na co zwrócić uwagę.

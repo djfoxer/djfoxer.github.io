@@ -2,7 +2,7 @@
 layout:     post
 title:      Humble Voxatron Debut + tanie gry
 date:       2011-11-02 23:35:00
-summary:    Ponownie The Humble Indie Bundle atakuje nas świetną promocją.W skrócie czym jest Humble Indie Bundle — - kupujesz gry za dowolne pieniądze- gry są multiplatformowe- brak zabezpieczeń- pieniądze idą m.in. na cele charytatywnePod http — //www.humblebundle.com/ znajdziecie więcej szczegółów. W nowej odsło...
+summary:    Ponownie The Humble Indie Bundle atakuje nas świetną promocją.W skrócie czym jest Humble Indie Bundle — - kupujesz gry za dowolne pieniądze- gry są multiplatformowe- brak zabezpieczeń- pieniądze idą m.in. na cele charytatywnePod http — //www.humblebundle.com/ znajdziecie więcej szczegółów. W nowej odsłonie The Humble Indie Bundle, która obecnie zwie się —  Humble Voxatron Debut możemy otrzymać Voxatron,...
 categories: windows linux gry
 ---
 
@@ -22,18 +22,14 @@ W skrócie czym jest Humble Indie Bundle:
 Pod [http://www.humblebundle.com/](http://www.humblebundle.com/) znajdziecie więcej szczegółów.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-11-2-_162_/g_-_608x405_-_-_28582x20111101222510_1.jpg)
-
  
 
 W nowej odsłonie The Humble Indie Bundle, która obecnie zwie się: Humble Voxatron Debut możemy otrzymać Voxatron, a także jeśli wpłata przekroczy średnią aktualnych wpłat: The Binding of Isaac i Blocks That Matter.
 
 
 
-
 ## Voxatron
-
 
 
 Tytułowa pozycja to strzelanka z rzutem izometrycznym. Grę otrzymujemy w wersji alfa. Jest to jednocześnie pra-premiera. Nie posiada ona jednak jakiś znaczących defektów, przez co można spokojnie grać :) Mamy również gwarancję, iż będziemy dostawać wszelkie aktualizacje i dodatki, jakie otrzyma.
@@ -53,9 +49,7 @@ Gorąco zachęcam do kupna paczki, nawet tylko dla tej gry! Warto! Nie zawiedzie
 
 
 
-
 ## The Binding of Isaac
-
 
 
 Ocena na metacritic: 84
@@ -73,9 +67,7 @@ Gra nie jest łatwa, zarówno pod względem poziomu trudności, jak jeśli chodz
 
 
 
-
 ## Blocks That Matter
-
 
 
 Ocena na metacritic: 76
@@ -97,9 +89,7 @@ Chcesz więcej gier za "symboliczną kwotę"?
 Od 3 listopada, w Biedronce ([http://biedronka.pl/gry/](http://biedronka.pl/gry/)) będzie dostępnych 12 gier, każda w cenie 9,99zł. Warto zapoznać się z ofertą, gdyż jest kilka pozycji, które każdy szanujący się gracz powinien mieć na półce. Oto krótki spis:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-11-2-_162_/g_-_608x405_-_-_28582x20111101231245_2.jpg)
-
  
 
 Zeno Clash 
@@ -124,9 +114,7 @@ Ocena na metacritic: 71
 Gra przygodowa w świecie filmu Opowieści z Narnii.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-11-2-_162_/g_-_608x405_-_-_28582x20111101231245_3.jpg)
-
  
 
 
@@ -144,9 +132,7 @@ Ocena na metacritic: 54
 Sieka TPP, bez szaleństw.
 
 
-
 ## Król Lew 
-
 
 
 Gra przygodowa dla najmłodszych.
@@ -166,9 +152,7 @@ Zręcznościówka dla dzieciaków.
 
 
 
-
 ## Edit 1 (11.11.2011)
-
 
 
 Do paczki dołączono kolejne gry:
@@ -177,8 +161,6 @@ Do paczki dołączono kolejne gry:
 2. Jasper's Journeys,  Zen Puzzle Garden i Chocolate Castle - trzy wcześniejsze gry  ze studia Lexaloffle, odpowiedzialnego za stworzenie Voxatronu.
 
 
-
 ## Do końca zostały jeszcze 4 dni!
-
 
 

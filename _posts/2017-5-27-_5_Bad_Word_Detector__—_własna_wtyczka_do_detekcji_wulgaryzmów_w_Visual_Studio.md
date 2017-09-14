@@ -2,7 +2,7 @@
 layout:     post
 title:      Bad Word Detector  — własna wtyczka do detekcji wulgaryzmów w Visual Studio
 date:       2017-05-27 10:37:00
-summary:    Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie "kupę" lub inny równie ciekawy zwrot. Niestety czasem takie "kwiatki" wychodzą na produkcję i nie są m...
+summary:    Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zawierał wulgaryzmy czy to w postaci komentarza, czy to w postaci nazw zmiennych. Również my sami lubimy wstawić gdzieś w kodzie "kupę" lub inny równie ciekawy zwrot. Niestety czasem takie "kwiatki" wychodzą na produkcję i nie są może czymś karygodnym lub niebezpiecznym, ale wizerunkowo raczej nikt na tym nie zyskuje. Ostatnio pi...
 categories: windows porady programowanie
 ---
 
@@ -13,9 +13,7 @@ Tworząc w IDE zapewne nieraz natknęliście się na kod źródłowy, który zaw
 Niestety czasem takie "kwiatki" wychodzą na produkcję i nie są może czymś karygodnym lub niebezpiecznym, ale wizerunkowo raczej nikt na tym nie zyskuje. Ostatnio pisał [Niebezpiecznik](https://www.facebook.com/niebezpiecznik/photos/a.389100481820.172327.176141556820/10154425418321821/?type=3&theater) chociażby o "fakach" na stronce OKE
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-5-27-_5_/g_-_608x405_-_-_81299x20170527090917_0.png)
-
 
 
 a kilka dni wcześniej podobnie "wpadł" Citibank.
@@ -23,9 +21,7 @@ a kilka dni wcześniej podobnie "wpadł" Citibank.
 Tworząc [na konkurs](https://www.dobreprogramy.pl/djfoxer/Healthy-with-Visual-Studio-Daj-Sie-Poznac,s308.html) wtyczkę [Healthy With VS](https://marketplace.visualstudio.com/items?itemName=djfoxer.HealthyWithVS) wpadłem na pomysł, aby stworzyć dodatek do Visual Studio, który mógłby zaradzić takim problemom. Bad Word Detector, bo tak nazwałem ten nano-projekt, wykrywa wulgaryzmy w kodzie źródłowym edytora i je zaznacza. Obecnie jest to dopiero pierwsza wersja, ale mimo to już może być przydatna. 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-5-27-_5_/g_-_608x405_-_-_81299x20170527090905_0.PNG)
-
 
 
 Lista wulgaryzmów obecnie ograniczona jest do języka angielskiego, ale w przyszłości będzie rozszerzona o inne języki, w tym polski. Baza słów została zaczerpnięta z projektu na GitHbie [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), czyli  *List of Dirty, Naughty, Obscene, and Otherwise Bad Words* . Tak, takie rzeczy też można znaleźć na GitHubie :)
@@ -37,18 +33,14 @@ Projekt jest już gotowy do przetestowania w Visual Studio. Można go pobrać z 
 Teraz trochę o tym jak taka wtyczka została zrobiona.
 
 
-
 ## Jak działa Bad Word Detector?
-
 
 
 
 Tworzymy nowy projekt w VS typu VSIXProject (gałąź Extensibility). Następnie do pustego projektu dodajemy element Editor Classifier
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-5-27-_5_/g_-_608x405_-_-_81299x20170527090916_0.png)
-
 
 
 Ten szablon pozwoli na stworzenie wtyczki, która będzie kolorowała składnię w Visual Studio. 
@@ -169,9 +161,7 @@ I oto główny  *core*  wtyczki Bad Word Detector. W przyszłości planuję doda
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-5-27-_5_/g_-_608x405_-_-_81299x20170527094331_0.PNG)
-
 
 Pobierz: [Bad Word Detector](https://marketplace.visualstudio.com/items?itemName=djfoxer.BadWordDetector-18879)
 

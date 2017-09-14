@@ -2,7 +2,7 @@
 layout:     post
 title:      Chemia w żywności, czyli odżywiaj się zdrowo z Windows Phone
 date:       2014-10-19 14:11:00
-summary:    Zapewne wielu z nas prze zakupem w sklepie spożywczym stoi przy półce z kilkoma produktami i porównuje skład chemiczny poszczególnych towarów. Sprawdzamy ile kalorii ma dany artykuł i czy przypadkiem nasz zakup nie będzie składał się w większości z cukru lub jakiś dziwnych słodzików. Nie możemy takż...
+summary:    Zapewne wielu z nas prze zakupem w sklepie spożywczym stoi przy półce z kilkoma produktami i porównuje skład chemiczny poszczególnych towarów. Sprawdzamy ile kalorii ma dany artykuł i czy przypadkiem nasz zakup nie będzie składał się w większości z cukru lub jakiś dziwnych słodzików. Nie możemy także ominąć etykiety, w poszukiwaniu chemicznych dodatków do żywności, tzw. numerów E. Oczywiście mało ...
 categories: oprogramowanie porady urządzenia mobilne
 ---
 
@@ -13,24 +13,18 @@ Zapewne wielu z nas prze zakupem w sklepie spożywczym stoi przy półce z kilko
 Oczywiście mało kto jest w stanie zapamiętać wszystkie numery E, które dodatkowo mają jeszcze własne nazwy. Stąd też warto mieć zawsze przy sobie aplikację, która pomoże w identyfikacji poszczególnych numerów E na etykietach w produktach spożywczych. Czy to w sklepie, czy w domu, w każdym miejscu można uruchomić aplikację i dowiedzieć się jak na zdrowie wpływa kurkumina, Zieleń S czy E210.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-10-19-_64_/g_-_608x405_-_-_58583x20141019141013_0.jpg)
-
 
 
 W markecie Windows Phone nie znalazłem aplikacji, która zawierała by bazę chemicznych dodatków z ciekawymi opisami do poszczególnych numerów E, zatem postanowiłem "wziąć sprawy w swoje ręce". 
 
 
 
-
 ### Chemia w żywności
-
 
 Stworzona aplikacja  *Chemia w żywności*  jest obszerną bazą ponad 370 numerów E jakie mogą znaleźć się w produktach spożywczych. Każdy z dodatków posiada swój numer E, nazwę (lub nazwy, jeśli jest ich kilka), przydział do grupy, informacje o szkodliwości, a także ciekawy i wyczerpujący opis.
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-10-19-_64_/g_-_608x405_-_-_58583x20141018145800_0.png)
-
 
 Aplikacja posiada szybkie wyszukiwane, gdzie już przy pierwszym spojrzeniu będziemy wiedzieli z jakim dodatkiem chemicznym mamy do czynienia. Każdy z numerów E został oznaczony kolorem, który oznacza:
 
@@ -48,9 +42,7 @@ Aplikacja posiada szybkie wyszukiwane, gdzie już przy pierwszym spojrzeniu będ
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-10-19-_64_/g_-_608x405_-_-_58583x20141018145846_0.png)
-
 
 Numery E nie zostały nadane przypadkowo. Poszczególne zakresy oznaczają grupę, do jakiej przynależy dodatek chemiczny:
 
@@ -82,17 +74,13 @@ Numery E nie zostały nadane przypadkowo. Poszczególne zakresy oznaczają grup�
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-10-19-_64_/g_-_608x405_-_-_58583x20141018145808_0.png)
-
 
 
 Każdy z dodatków chemicznych posiada interesujący i dogłębny opis. Dowiemy się z niego wielu ciekawych szczegółów jak chociażby wpływu numeru E na organizm człowieka,  pochodzenia czy danych o krajach w których jest on zakazany. Baza wiedzy pochodzi z portalu i sklepu ze zdrową żywnością [JemCoDobre](http://jemcodobre.pl/).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-10-19-_64_/g_-_608x405_-_-_58583x20141018145751_0.png)
-
 
 
 Jeśli macie jakieś uwagi, pomysły itp. to zapraszam do komentowania. Jest to dopiero pierwsza wersja aplikacji i zapewne w przyszłości zostanie ona wzbogacona o nowe elementy.

@@ -2,7 +2,7 @@
 layout:     post
 title:      Własny dodatek Timer Pomodoro na pasku statusu Visual Studio
 date:       2017-03-31 17:10:00
-summary:    W poprzednim wpisie pokazywałem jak rozszerzyć Visual Studio o elementy, do których dostęp nie jest możliwy poprzez SDK. Przyszedł czas zatem na wykorzystanie wiedzy w praktyce. Napiszemy podstawy wtyczki HealthyWithVS, w których będzie możliwe pokazanie na pasku zadań timera z pomidorkiem, zgodnie ...
+summary:    W poprzednim wpisie pokazywałem jak rozszerzyć Visual Studio o elementy, do których dostęp nie jest możliwy poprzez SDK. Przyszedł czas zatem na wykorzystanie wiedzy w praktyce. Napiszemy podstawy wtyczki HealthyWithVS, w których będzie możliwe pokazanie na pasku zadań timera z pomidorkiem, zgodnie z techniką Pomodoro.Zaczniemy oczywiście od stworzenia projektu typu VSIX Project, który jest bazą d...
 categories: windows oprogramowanie programowanie
 ---
 
@@ -11,14 +11,10 @@ categories: windows oprogramowanie programowanie
 W [poprzednim wpisie](https://www.dobreprogramy.pl/djfoxer/Hakujemy-Visual-Studio-dobieramy-sie-do-niedostepnych-elementow-IDE,80126.html) pokazywałem jak rozszerzyć Visual Studio o elementy, do których dostęp nie jest możliwy poprzez SDK. Przyszedł czas zatem na wykorzystanie wiedzy w praktyce. Napiszemy podstawy wtyczki HealthyWithVS, w których będzie możliwe pokazanie na pasku zadań timera z pomidorkiem, [zgodnie z techniką Pomodoro](https://www.dobreprogramy.pl/djfoxer/Technika-Pomodoro-efektywne-zarzadzanie-czasem-pracy,79724.html).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331004545_1.png)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331003927_0.png)
-
 
 
 
@@ -29,17 +25,13 @@ Zaczniemy oczywiście od stworzenia projektu typu  *VSIX Project* , który jest 
 Do projektu zatem dorzucamy nowy Item typu  *Custom Command*  (dostępny w  *Extenibility* ). Tak to wygląda (TomatoStatusBar.xaml jest kontrolką WPF z timerem, o czym później): 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331003927_1.png)
-
 
 
 Wygenerowany kod będzie jedynie udostępniał podmenu do menu Tools. Zróbmy jednak...
 
 
-
 ## Własne menu w Visual Studio
-
 
 
 Dodanie menu wymaga edycji pliku  *vsct* , który odpowiada za rozmieszenie edytowalnego elementu UI na oknie VS. Jeśli dodaliśmy plik typu  *Custom Command*  z okienka  IDE, wówczas taki plik zostanie stworzony automatycznie z wygenerowanym podstawom przyciskiem. 
@@ -160,24 +152,18 @@ W celu nie przeciągania tej części (i nie zaciemniania rozwiązania) udostęp
 Efektem pracy jest gotowe menu:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331003926_0.png)
-
  
 
 
-
 ## Timer Pomodoro na pasku statusu
-
 
 Teraz dodajmy timer na pasku statusu. Zaczniemy prosto, od stworzenia kontrolki w XAMLu (u mnie TomatoStatusBar.xaml). Wykorzystamy do tego kod, który był już przedstawiony [we wpisie z tworzeniem Toolboxa z timerem](https://www.dobreprogramy.pl/djfoxer/Pierwszy-dodatek-do-Visual-Studio-timer-w-okienku-IDE,79926.html).
 
 Od strony C# będzie to niemalże identyczny kod, zaś widok będzie jedynie trochę doszlifowany, aby zmieścił się w małe miejsce na dole okna Visual Studio. Widok zawiera ikonkę pomidora, timer odliczający od 25 minut w dół i przycisk play/pauza oraz stop. Dodatkowo gdy zegar dojdzie do końca (00:00) z głośników wydobędzie się sygnał budzika :)
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331003926_1.png)
-
 
 
 Wspomagając się kodem, omawianym [we wpisie o Hakowaniu  *Visual Studio* ](https://www.dobreprogramy.pl/djfoxer/Hakujemy-Visual-Studio-dobieramy-sie-do-niedostepnych-elementow-IDE,80126.html) dodamy stworzoną kontrolkę do dolnego paska. Zaczniemy od podczepienia się do eventu menu, które stworzyliśmy w poprzednim punkcie. Jeśli pliki powstał z kreatora z szablonu, wówczas wchodzimy w klasę będącą implementacją akcji w naszym pakiecie (w moim przypadku jest to  *CommandShowTomatoStatusBar.cs* )
@@ -206,23 +192,17 @@ statusBarObj.Children.Insert(0, new TomatoStatusBar());
 W ten sposób otrzymujemy w pełni działający timer na bazie techniki Pomodoro:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331003920_0.png)
-
 
 
 
 W kolejnych wpisach będziemy rozszerzali możliwości wtyczki o ćwiczenia w formie graficznych obrazków.
 
 
-<blockquote>
-<p>Źródła dostępne są na GitHubie (branch master i POC):
 
-[https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)</p>
-</blockquote>
-
+> Źródła dostępne są na GitHubie (branch master i POC):
+> [https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-31-_14_/g_-_608x405_-_-_80247x20170331004248_0.png)
-
 
  

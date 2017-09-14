@@ -2,7 +2,7 @@
 layout:     post
 title:      Tworzymy własny ValueConverter, czyli najbardziej przydatny obiekt w bindowaniu danych do widoku (XAML/C#)
 date:       2016-05-31 23:57:00
-summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który kon...
+summary:    Zapewne tworząc aplikacje w WPF czy UWP natknęliście się na to, że właściwość w modelu (ViewModelu) wymagała konwersja na inny typ lub inną wartość, aby móc jej użyć na widoku. Tworzenie jednak dodatkowych właściwości jest nieefektywne i zbędne. Z pocą przychodzi interfejs IValueConverter, który konwertuje jedne dane na drugie, bez konieczność rozszerzania obiektu. W moim przypadku musiałem przekw...
 categories: windows oprogramowanie programowanie
 ---
 
@@ -15,9 +15,7 @@ Z pocą przychodzi interfejs  *IValueConverter* , który konwertuje jedne dane n
 Na widoku nowe powiadomienia nie są przezroczyste, zaś stare mają przezroczystość ustawioną na 0.5. Efekt jest następujący:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601002238_0.png)
-
 
 
 Oczywiście najbardziej używanym konwerterem jest: Bool <=> Visibility, czyli mając zmienną o typu Bool(true/false), chcemy sterować widocznością elementu (Visibility.Visible/Visibility.Collapsed).Przejdźmy jednak do naszego przykładu.
@@ -98,16 +96,12 @@ Na końcu pamiętajmy jeszcze o rejestracji  *StatusToOpacityConverter*  w  *App
 
 
 
-<blockquote>
-<p>DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).</p>
-</blockquote>
 
-<blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
-[https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
+> DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).
 
+
+> Aktualne źródła można znaleźć na GitHub pod adresem:
+> [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_36_/g_-_608x405_-_-_73651x20160601010129_0.png)
-
 

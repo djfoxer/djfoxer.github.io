@@ -2,7 +2,7 @@
 layout:     post
 title:      jQuery plugin - własna wtyczka od podstaw
 date:       2012-01-26 20:49:00
-summary:    W tym krótkim wpisie, przedstawię jak szybko można napisać własny plugin do jQuery. Z racji tego, iż jest to obecnie jeden z najbardziej popularnych frameworków JavaScriptowych, znajomość tworzenia rozszerzeń jest bardzo przydatna.Nasz pluginW celu uniknięcia tworzenia sztuki dla sztuki, stworzona w...
+summary:    W tym krótkim wpisie, przedstawię jak szybko można napisać własny plugin do jQuery. Z racji tego, iż jest to obecnie jeden z najbardziej popularnych frameworków JavaScriptowych, znajomość tworzenia rozszerzeń jest bardzo przydatna.Nasz pluginW celu uniknięcia tworzenia sztuki dla sztuki, stworzona wtyczka będzie coś robić. Jej zadaniem będzie zmiana tła w środku elementu, po kliknięciu na tym obie...
 categories: internet porady programowanie
 ---
 
@@ -11,16 +11,12 @@ categories: internet porady programowanie
 W tym krótkim wpisie, przedstawię jak szybko można napisać własny plugin do jQuery. Z racji tego, iż jest to obecnie jeden z najbardziej popularnych frameworków JavaScriptowych, znajomość tworzenia rozszerzeń jest bardzo przydatna.
 
 
-
 ### Nasz plugin
-
 
  *W celu uniknięcia tworzenia sztuki dla sztuki, stworzona wtyczka będzie coś robić. Jej zadaniem będzie zmiana tła w środku elementu, po kliknięciu na tym obiekcie. Jako parametry przyjmować będzie dwa kolory, które co kliknięcie będą się zmieniać.* 
 
 
-
 ## Baza
-
 
 
 Każdy plugin dla jQuery składa się z bazy, która zawsze jest identyczna dla każdej wtyczki, bez względu na to w jaki sposób będzie dalej tworzona.
@@ -62,9 +58,7 @@ $("div").changeColor();
 
 
 
-
 ## Łańcuchowość
-
 
 
 Pluginy jQuery opierają się na zasadzie, iż każda wtyczka zwraca przetworzony/wybrany łańcuch obiektów dalej. Dzięki czemu można pisać ciąg poleceń np.:
@@ -96,9 +90,7 @@ W powyższym przykładzie, ze strony wybieramy wszystkie elementy div i ustawiam
 	
 
 
-
 ## Parametry wejściowe
-
 
 
 Nasz plugin powinien przyjmować parametry wejściowe, zatem należy zapewnić taką możliwość:
@@ -141,9 +133,7 @@ $("div").changeColor({ colorSecond : 'Yellow' });
 
 
 
-
 ## Metody publiczne i prywatne
-
 
 
 Kolejny krok to dodanie metod. Jeśli nasza wtyczka ma być prosta można spokojnie zacząć kodować w ciele głównej metody pluginu. Jednakże, jeśli kod ma być bardziej złożony i dodatkowo udostępniać na zewnątrz metody, warto jeszcze chwilę poczekać. 
@@ -210,17 +200,13 @@ $("div").changeColor('swapColors');
 Dodatkowo prywatna metoda  *onClick*  będzie użyta jedynie wewnątrz wtyczki.
 
 
-
 ## Destruktory
-
 
 
 Pisząc plugin do jQuery, warto zadbać o to by można było nasz plugin "odinstalować". Należy zatem dodać metodę która będzie sprzątała po naszej wtyczce. W takim destruktorze warto zadbać o to, by znalazło się w nim usunięcie np. eventów, które podczepiliśmy podczas inicjalizacji lub innych danych wrzuconych do htmla. Do powyższego kodu dołączono metodę  *destroy* , wywołuje się ją podobnie jak inne publiczne metody.
 
 
-
 ## Dodawanie funkcjonalności
-
 
 
 Możemy zatem przystąpić do dodawani funkcjonalności do naszego pluginu.
@@ -293,9 +279,7 @@ $this.removeData("changeColor");
 Gdy zechcemy usunąć plugin z elementu wywołujemy metodę  *destroy* . Pozbywamy się eventa dla kliknięcia na element i czyścimy wszelkie dane.
 
 
-
 ### Nasz gotowy plugin
-
 
 
 

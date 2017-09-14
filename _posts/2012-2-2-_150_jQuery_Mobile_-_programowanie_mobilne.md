@@ -2,7 +2,7 @@
 layout:     post
 title:      jQuery Mobile - programowanie mobilne
 date:       2012-02-02 23:31:00
-summary:    Jesteśmy świadkami przeniesienia zainteresowania użytkowników, z urządzeń stacjonarnych, na urządzenia mobilne. Coraz bardziej stają się popularne smartfony, tablety. Obecnie komputer stacjonarny staje się reliktem, czymś wygasłym. Technologie mobilne zaś, zyskują rzesze zwolenników i to one napędza...
+summary:    Jesteśmy świadkami przeniesienia zainteresowania użytkowników, z urządzeń stacjonarnych, na urządzenia mobilne. Coraz bardziej stają się popularne smartfony, tablety. Obecnie komputer stacjonarny staje się reliktem, czymś wygasłym. Technologie mobilne zaś, zyskują rzesze zwolenników i to one napędzają nowe technologie i nowe spojrzenie na świat. Dają one większą swobodę dla użytkowników, ale i dla...
 categories: programowanie urządzenia mobilne
 ---
 
@@ -14,17 +14,13 @@ Dzięki [jQuery Mobile](http://jquerymobile.com/), możemy zacząć przygodę z 
 
 
 
-
 ## Czym jest jQuery Mobile?
-
 
 
 Może warto napisać czym nie jest :) Nie jest to mobilna wersja jQuery. Jest to framework, który rozszerza oryginalnego jQuery o dodatki, które są pomocne, a czasem niezbędne, do tworzenia aplikacji webowych z poziomu urządzeń mobilnych. Zatem z jQuery Mobile będziemy tworzyć strony w HTML z tą sama biblioteką jQuery co w zwykłych, "dużych" stronach. 
 
 
-
 ## Co otrzymujemy?
-
 
 
 Twórcy oddali do dyspozycji framework, który stara się być niezależny od przeglądarki w jakiej zostanie otworzona strona. Kompatybilność z urządzeniami/przeglądarkami została podzielona na kilka stopni. Większość nowych samrtfonów i tabletów oraz przeglądarek www, w 100% może wykorzystać możliwości jQuery Mobile (aktualne zestawienie na stronie: [Mobile Graded Browser Support](http://jquerymobile.com/gbs/)).
@@ -34,9 +30,7 @@ Twórcy oddali do dyspozycji framework, który stara się być niezależny od pr
 Biblioteka opiera się na HTML5 i CSS3. Otrzymujemy gotowy zestaw interfejsu, który przystosowany jest do urządzeń mobilnych, do obsługi stron palcem. Całość przypomina interface z iOSa i w działaniu sprawdza się rewelacyjnie. Wszystko jest na tyle duże, aby móc bezproblemowo trafić palcem. Tworząc stronę web pod ekrany dotykowe, wybór tego frameworku jest wręcz oczywisty. Kontrolki jakie otrzymujemy i cały UI jest bardzo bogaty. Ciekawie prezentują się również wszelkie efekty przejścia pomiędzy "stronami". Mamy wrażenie, korzystania z natywnej aplikacji mobilnej.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-2-_150_/g_-_608x405_-_-_30130x20120202222432_0.png)
-
 
 
 
@@ -45,15 +39,11 @@ Biblioteka jQuery Mobile oferuje również eventy, charakterystyczne dla aplikac
 Z pełnymi możliwościami można zapoznać się stronie z [demami i dokumentacją](http://jquerymobile.com/demos). Kreator tmatów graficznych dostępny jest pod tym adresem: [ThemeRoller](http://jquerymobile.com/themeroller/).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-2-_150_/g_-_608x405_-_-_30130x20120202222415_0.png)
 
 
 
-
-
 ## Przykładowa strona
-
 
 
 Tworzenie stron jest dość proste, a efekty zaskakująco dobre.
@@ -115,9 +105,7 @@ Przykładowy kod strony:
 A taki będzie to wyglądać w oknie przeglądarki:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-2-_150_/g_-_608x405_-_-_30130x20120202222320_0.png)
-
 
 
 Strona składa się z: nagłówka ( *header* ), zawartości ( *content* ) i stopki ( *footer* ). To zaś jest stroną ( *page* ). Na jednej stronie HTML może być kilka "stron" ( *page* ). Dzięki czemu przejścia pomiędzy nimi mogą być płynne, z animacją "przejścia", niczym w natywnej aplikacji.
@@ -125,9 +113,7 @@ Strona składa się z: nagłówka ( *header* ), zawartości ( *content* ) i stop
 Dodano event swipe do diva w standardowej funkcji  *$(document).ready()*  znanej z jQuery. jQuery Mobile, ze względu na to, iż w obrębie jednego pliku HTML, może być kilka "stron", istnieje metoda  *pageInit()* , która wykonuje się dla każdej "wirtualnej" strony.
 
 
-
 ## Kontrowersje
-
 
 
 Biblioteka jest bardzo rozbudowana i oferuje wiele możliwości. Mimo starań o to by była ona uniwersalna, nie jest ona w pełni zgodna ze wszystkimi przeglądarkami. Część efektów działać będzie tylko na przeglądarkach opartych o WebKita. Nie zawsze ze względu na ograniczenia innych silników, lecz ze względu na to, iż całość opiera się na CSS3, a w stylach dla niektórych efektów dodano jedynie znaczniki  *-webkit* . I tak oto mimo, że silnik Gecko wspiera rotację, w kodzie css jest tylko:  *-webkit-transform: rotate* , gdzie pod Firefoxem idealnie działa:  *-moz-transform: rotate* 

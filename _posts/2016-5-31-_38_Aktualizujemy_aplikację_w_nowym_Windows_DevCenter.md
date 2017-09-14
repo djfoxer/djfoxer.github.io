@@ -2,7 +2,7 @@
 layout:     post
 title:      Aktualizujemy aplikację w nowym Windows DevCenter
 date:       2016-05-31 23:38:00
-summary:    Wydanie aktualizacji aplikacji to spore wydarzenie dla każdego dewelopera. Niezliczone ilości godzin przesiedziane przed monitorem, kartką z notatkami, rozmowami z klientami czy testami w końcu mogą zaowocować stworzeniem poprawionej, nowej wersji oprogramowania.Wychodzę z założenia, że proces pierw...
+summary:    Wydanie aktualizacji aplikacji to spore wydarzenie dla każdego dewelopera. Niezliczone ilości godzin przesiedziane przed monitorem, kartką z notatkami, rozmowami z klientami czy testami w końcu mogą zaowocować stworzeniem poprawionej, nowej wersji oprogramowania.Wychodzę z założenia, że proces pierwszej certyfikacji macie już za sobą i dziewicza wersja dostępna jest już w markecie.Tworząc kolejne ...
 categories: windows oprogramowanie programowanie
 ---
 
@@ -11,9 +11,7 @@ categories: windows oprogramowanie programowanie
 Wydanie aktualizacji aplikacji to spore wydarzenie dla każdego dewelopera. Niezliczone ilości godzin przesiedziane przed monitorem, kartką z notatkami, rozmowami z klientami czy testami w końcu mogą zaowocować stworzeniem poprawionej, nowej wersji oprogramowania.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160531232056_0.jpg)
-
 
 
 Wychodzę z założenia, że proces pierwszej certyfikacji macie już za sobą i dziewicza wersja dostępna jest już w markecie.
@@ -25,9 +23,7 @@ Zatem jak tego dokonać? Na co uważać?
 Proces aktualizacji na początku wydaje się skomplikowany, ale szybko można się oswoić z tym zadaniem. Oto kilka porad, o czym pamiętać przy wypuszczaniu nowej wersji do marketu. Oczywiście przydadzą się one również w przypadku dodawanie pierwszej wersji aplikacji.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160601020510_0.PNG)
-
 
 
 
@@ -35,9 +31,7 @@ Proces aktualizacji na początku wydaje się skomplikowany, ale szybko można si
   * Aktualizacji dokonujemy na zakładce  *Submissions*  poprzez przycisk  *Update* 
 na wersji, która jest już w markecie.
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160601014744_0.PNG)
-
 
 Wówczas po udanej certyfikacji nowa wersja zastąpi starszą.
 
@@ -51,18 +45,14 @@ Wówczas po udanej certyfikacji nowa wersja zastąpi starszą.
 
   * Pamiętaj, aby podać w opisie co wnosi nowa wersja ( *App description -> Release notes* ). Wydaje się to logiczne, ale sam Microsoft o tym zapomina i wypuszcza aktualizacje swoich apek bez tej informacji!
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160531232530_0.PNG)
-
 
 
 
 
   * System, po dodaniu nowej wersji paczki, wyświetli komunikat, który porówna paczkę z aktualizacją, z jej obecną wersją w markecie. Szybko odnajdziemy, jakie systemy będą wspierane po certyfikacji.
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160601021144_0.PNG)
-
 
  
 
@@ -87,16 +77,12 @@ Mam nadzieję, że taki szybki poradnik przyda się osobom, które rozpoczynają
 
 
 
-<blockquote>
-<p>DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).</p>
-</blockquote>
 
-<blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
-[https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
+> DePesza dostępna jest w markecie Windows 10 (desktop i mobile). Bezpośredni link: [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2).
 
+
+> Aktualne źródła można znaleźć na GitHub pod adresem:
+> [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_38_/g_-_608x405_-_-_73640x20160601013916_0.png)
-
 

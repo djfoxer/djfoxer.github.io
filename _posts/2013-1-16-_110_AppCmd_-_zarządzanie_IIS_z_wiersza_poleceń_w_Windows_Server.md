@@ -2,7 +2,7 @@
 layout:     post
 title:      AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server
 date:       2013-01-16 19:48:00
-summary:    Zarządzanie usługami IIS z poziomu GUI jest dziecinnie proste. Od wersji 7.0 wszystkie opcje są łatwo dostępne i zarządzanie jest niezmiernie proste. Oczywiście interfejs graficzny nie zawsze jest wygody w pewnych zastosowaniach. Do napisania skryptu zarządzającego witryną czy pulą aplikacji łatwiej...
+summary:    Zarządzanie usługami IIS z poziomu GUI jest dziecinnie proste. Od wersji 7.0 wszystkie opcje są łatwo dostępne i zarządzanie jest niezmiernie proste. Oczywiście interfejs graficzny nie zawsze jest wygody w pewnych zastosowaniach. Do napisania skryptu zarządzającego witryną czy pulą aplikacji łatwiej użyć oczywiście wiersza poleceń. W tym momencie z pomocą przychodzi narzędzie AppCmd - administracj...
 categories: windows oprogramowanie serwery
 ---
 
@@ -37,9 +37,7 @@ AppCmd pozwala na na:
 AppCmd.exe znajduje się w folderze  *%windir%\system32\inetsrv* . Powyższa ścieżka nie istnieje w zmiennej  *path* , a zatem aby ułatwić pracę, można ją tam dopisać. Dzięki temu zabiegowi uzyskamy dostęp do aplikacji z każdej lokacji.
 
 
-
 ## Składnia
-
 
 Narzędzie AppCmd działa poprzez wydanie odpowiednich poleceń ( *command* ) dla obiektów ( *object-type* ) z opcjonalnymi parametrami ( *parameter1:value1 ...* ):
 
@@ -67,17 +65,13 @@ appcmd (command) (object-type) /?
 
 
 
-
 ## Przykłady
-
 
 
 Teoria już za nami. Przejdźmy do kilku przykładów które pokarzą możliwości AppCmd, a także najbardziej przydatne polecenia. Część poleceń  np.  *delete* , czy  *set* , jest analogiczna dla większości obiektów i nie ma potrzeby powtarzania ich dla każdej z opcji.
 
 
-
 ### Witryny
-
 
 
 
@@ -123,9 +117,7 @@ appcmd delete site Test
 
 
 
-
 ### Aplikacje
-
 
 Mając już witrynę możemy pobawić się z aplikacjami w jej obrębie.
 
@@ -143,9 +135,7 @@ appcmd add app /site.name:Test /path:/a1 /physicalPath:"c:\PUB\d1\a1"
 
 
 
-
 ### Pule aplikacji
-
 
 
 
@@ -203,9 +193,7 @@ appcmd set apppool "apool" /autoStart:"false"
 
 
 
-
 ### Foldery wirtualne
-
 
 
 
@@ -233,9 +221,7 @@ Pomimo, iż listowanie, w każdym przypadku wygląda podobnie, to dzięki parame
 
 
 
-
 ### Backup
-
 
 Dzięki appcmd w prost sposób wykonany backup konfiguracji serwera:
 
@@ -259,9 +245,7 @@ appcmd restore backup "b20120116"
 
 
 
-
 ### Procesy
-
 
 
 
@@ -284,9 +268,7 @@ appcmd list wp "35674"
 
 
 
-
 ### Śledzenie witryn
-
 
 Ciekawym obiektem jest  *trace*  to śledzenia witryn. Można w prosty sposób przeanalizować działanie witryn pod kątem błędów.
 
@@ -317,9 +299,7 @@ appcmd list trace "id_logu.xml" /text:path
 
 
 
-
 ### Potoki
-
 
 Dzięki zaimplementowanemu mechanizmowi potoków, można jeszcze więcej wycisnąć z appcmd. Oto kilka bardziej zaawansowanych przykładów, które wykorzystują potoki (dla ułatwienia analizy, dodałem linie nowych znaków pomiędzy potokami):
 
@@ -351,8 +331,6 @@ W tym przypadku listujemy witryny, generujące błąd 500, następnie przekazuje
 
 
 
-
 ## Podsumowanie
-
 
 AppCmd to potężne narzędzie do zarządzania IIS z konsoli, w przypadku gdy np. nie możemy skorzystać z graficznego odpowiednika. Przedstawiłem zaledwie kilak podstawowych i najprzydatniejszych funkcji. Jeszcze jest wiele do odkrycia. Cieszy duża gama opcji i co najważniejsze, mechanizm potoków, który jest tu wręcz niezbędny.

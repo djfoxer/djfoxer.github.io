@@ -2,7 +2,7 @@
 layout:     post
 title:      UrlRewritingNet.UrlRewrite na nowych wersjach IIS
 date:       2013-01-30 15:41:00
-summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Ni...
+summary:    Wszytko idzie do przodu. Nowe wersje Windows Server, kolejne wydania IIS, co chwila udoskonalany framework .NET... świat IT leci do przodu jak oszalały. Kolejne reklamy promujące śweżynki, czy to w postaci oprogramowania lub sprzętu. Każdy musi mieć najnowszą wersję, najbardziej wypasiony sprzęt. Niestety w szarej rzeczywistości IT nieraz jesteśmy zmuszani do tego, aby działać ze starszym oprogram...
 categories: oprogramowanie porady serwery
 ---
 

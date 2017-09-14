@@ -2,7 +2,7 @@
 layout:     post
 title:      Pendrive OCZ Rally2 - promocja idealna?
 date:       2011-09-03 12:45:00
-summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało "odkryte" (CSI — DobreProgramy  — P) przypadkiem, przy wcześniejszym wpisie —  "Osobisty test pendrive'ów". W skrócie —  test 6 pendive'ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.Był tam równie...
+summary:    Niewinne początkiWpis jest podsumowaniem tego, co zostało "odkryte" (CSI — DobreProgramy  — P) przypadkiem, przy wcześniejszym wpisie —  "Osobisty test pendrive'ów". W skrócie —  test 6 pendive'ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.Był tam również test pendrive'a frmy OCZ Rally2, który otrzymaliśmy na HotZlocie 2011. Urządzenie zajęło ostatnie ...
 categories: sprzęt porady inne
 ---
 
@@ -13,9 +13,7 @@ categories: sprzęt porady inne
 Wpis jest podsumowaniem tego, co zostało "odkryte" (CSI:DobreProgramy :P) przypadkiem, przy wcześniejszym wpisie: ["Osobisty test pendrive'ów"](http://www.dobreprogramy.pl/djfoxer/Osobisty-test-pendriveow,27436.html). W skrócie: test 6 pendive'ów jakie miałem w domu. Nowsze, starsze, szybsze jak i wolniejsze. Pełna gama, do wyboryu do koloru.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_1.jpg)
-
 
 
 Był tam również test pendrive'a frmy OCZ Rally2, który otrzymaliśmy na HotZlocie 2011. Urządzenie zajęło ostatnie miejsce. Bardzo mnie rozczarowując, ze względu na to, iż zapowiadało się, że będzie to najszybsze urządzenie w rankingu. Wyniki były jednakże co najwyżej średnie.
@@ -29,9 +27,7 @@ Hmm, coś tu jest nie tak...
 Ponownie zacząłem szukać danych technicznych tego pendrive'a. Na stronie OCZ odnośnie Rally2: [http://www.ocztechnology.com/ocz-rally2-usb-2-0-flash-drive.html](http://www.ocztechnology.com/ocz-rally2-usb-2-0-flash-drive.html) jest wszystko oprócz danych odnośnie szybkości zapisu/odczytu. Dziwne, jak na pendrive'a, który wygrał wiele rankingów.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903094522_2.jpg)
-
 
 
 Na opakowaniu również nie ma żadnych informacji odnośnie tego, jakie prędkości osiąga pendrive. Żeby było ciekawiej, na opakowaniu OCZ umieścił masę sloganów, wskazujących na to, iż mamy do czynienia z demonem prędkości ("Industry leading Ultra Fast Dual Technology", "Rapid Transfer Rates surpass the competition", "HIGH SPEED USB 2.0" i na koniec: "BLAZING SPEED!") oraz pochwaliło się kilkoma nagrodami.
@@ -79,9 +75,7 @@ Problemy z prędkością potwierdzili również: Wolfgar, underface, flaszer i N
 RaveStar dodał komentarz, iż jego wyniki z OCZ Rally2 z niebieską diodą są lepsze, niż nasze. Jednakże nie zamieścił jeszcze dokładnych danych z programu CrystalDiskMark.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-3-_174_/g_-_608x405_-_-_27567x20110903122331_3.jpg)
-
  
 
  *Co na to OCZ/dystrybutor* 
@@ -148,9 +142,7 @@ Szczególnie pozdrawiam [Wolfgar'a](http://www.dobreprogramy.pl/78903,Wolfgar,Uz
 
 
 
-
 ## Powiązane
-
 
 
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      LG GT540 - wymiana wyświetlacza
 date:       2011-09-23 01:30:00
-summary:    Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosz...
+summary:    Nowe ekrany dotykowe w smartfonach są coraz większe i piękniejsze. Niestety, czasem zdąża się, iż taki wyświetlacz ulegnie uszkodzeniu mechanicznemu.Gwarancja nie obejmuje darmowej wymiany ekranu na nowy.Tak stało się z LG GT540. Bardzo przyjemny smartfon z Androidem. Szkoda pozbywać się go za grosze, gdy możemy sami wymienić wyświetlacz.Koszt nowego wyświetlacza z robocizną w serwisie to wydatek ...
 categories: sprzęt porady
 ---
 
@@ -16,9 +16,7 @@ Koszt nowego wyświetlacza z robocizną w serwisie to wydatek prawie 200 zł.
 Nie warto jednak rozpaczać. W internecie można kupić zarówno oryginalne wyświetlacze (ponad 100 zł) lub zamienniki (50 zł). Jakość nieoryginalnych części, w tym przypadku,  nie rożni się niczym od oryginalnych.
 
 
-
 ## UWAGA!
-
 
 
 Otwierając smartfon tracimy gwarancję! Sposób działania, zamieszony poniżej robisz na własną odpowiedzialność! Jeśli nie czujesz się na siłach w tego typu naprawach, warto poprosić znajomego, który zna się na rzeczy.
@@ -40,9 +38,7 @@ Kilka rad:
  *Do dzieła!* 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923001245_1.jpg)
-
  
 
 [1]
@@ -73,9 +69,7 @@ Aby nie zgubić śrubek, polecam położyć je w bezpieczne miejsce np. do zakr�
 Następnym etapem będzie wyjęcie, zaznaczonej na zdjęciu obudowy. Róbmy to ostrożnie, gdyż wykonana jest ona z delikatnego plastyku. Dodatkowo boki są bardzo cienkie i podatne na uszkodzenia.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923002914_2.jpg)
-
  
 
 [10]
@@ -106,9 +100,7 @@ Szczęśliwie odseparowany panel od smartfonu;)
 Aby móc dalej działać, należy odpiąć łącznik wyświetlacza z płytą główną smartfonu.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-23-_169_/g_-_608x405_-_-_27939x20110923005825_3.jpg)
-
  
 
 [19]

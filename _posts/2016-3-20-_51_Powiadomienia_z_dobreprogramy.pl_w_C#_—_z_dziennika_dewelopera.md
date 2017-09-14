@@ -2,7 +2,7 @@
 layout:     post
 title:      Powiadomienia z dobreprogramy.pl w C# — z dziennika dewelopera
 date:       2016-03-20 10:56:00
-summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przy...
+summary:    Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej powiadomienia z portalu dobreprogramy.pl posuwają się na przódu. We wcześniejszym poście przedstawiłem kod (plus projekt w VS), który służy do logowania się na swoje konto z poziomu C#. Został nam zatem ostatni etap w przygotowaniu serca naszej aplikacji - zarządzanie powiadomieniami. Zatem do dzieła!Pobieramy powiadomie...
 categories: windows programowanie urządzenia mobilne
 ---
 
@@ -12,9 +12,7 @@ Prace ku stworzeniu uniwersalnej aplikacji Windows 10 (+ Mobile) obsługującej 
 
 
 
-
 ## Pobieramy powiadomienia z portalu w formacie JSON
-
 
 
 Analiza sposobu działania powiadomień na portalu została przedstawiona w poście: [Analizujemy kod portalu dobreprogramy.pl — czyli jak działa system powiadomień](http://www.dobreprogramy.pl/djfoxer/Analizujemy-kod-portalu-dobreprogramy.pl-czyli-jak-dziala-system-powiadomien,71145.html). Dziś przejdziemy już jednak do kodowania.
@@ -51,15 +49,11 @@ Oczywiście zmienna  *znacznik_czasu*  będzie generowana przez nasz kod przy ka
 Ważnym elementem jest tutaj uzupełnienie nagłówka o ciasteczko, jakie pozyskaliśmy na etapie logowania. W kolejnych krokach pobieramy zapytanie z serwera, czyli string posiadający odpowiedź w JSONie:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318181817_0.png)
 
 
 
-
-
 ## Praca z JSONem - Json.NET na ratunek!
-
 
 
 Zostaje nam zatem  przerobienie JSONa na coś bardziej  *zjadliwego* . Celem jest stworzenie obiektów nowej klasy, które będą reprezentować powiadomienia z portalu. Chcąc ułatwić pracę z JSONem, nie trzeba tworzyć klas pośrednich lub ręcznie parsować stringa. Posłużymy się tutaj deserializatorem z frameworku [Json.NET](http://www.newtonsoft.com/json). W tym celu do projektu dodajemy przez NuGeta pakiet  *Newtonsoft.Json* . Nasz kod uzupełniamy o linijkę:
@@ -75,15 +69,11 @@ Zostaje nam zatem  przerobienie JSONa na coś bardziej  *zjadliwego* . Celem jes
 Pozwoli to nam na operowanie na danych w znacznie wygodniejszy sposób:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318183229_0.png)
 
 
 
-
-
 ## Jak wygląda powiadomienie?
-
 
 
 W celu przechowywania powiadomień w aplikacji (bazka SQLite, a może coś bardziej trywialnego, jak plik XML ładowany, tylko częściowo, na wejście do aplikacji - to jeszcze kwestia otwarta). W tym celu stworzyłem klasę, która będzie przetrzymywała dane:
@@ -203,9 +193,7 @@ Typy powiadomień w JSONie są w formie tekstu, więc parsujemy je wg następuj�
 
 
 
-
 ## JSON => Notification
-
 
 Samo parsowanie z JSONa na nasz obiekt Notification jest trywialnie proste dzięki Json.NET:
 
@@ -248,17 +236,13 @@ Nie chciałem się już bawić w jakieś convertery, więc ręcznie zamieniłem 
 W taki oto sposób otrzymujemy piękną listę powiadomień w C#:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160318184134_0.png)
-
 
 
 Na takiej liście można już spokojnie pracować 
 
 
-
 ## Powiadomienie - odczytywanie/usuwanie
-
  
 
 Zostało jeszcze dodanie metody, które oznaczy powiadomienie jako odczytane i usunięte. Wystarczy tutaj dodać mały kawałek kodu:
@@ -297,21 +281,16 @@ W ten sposób  stworzyliśmy pełnoprawny mechanizm do zarządzania powiadomieni
 
 
 
-
 ## Kolejne kroki?
-
 
 Główny mechanizm do logowania i zarządzania powiadomieniami już mamy. Myślę, że w następnym tygodniu uda mi się  *złożyć*  coś, co nie będzie wyglądać dobrze :P , ale będzie działać w tle i pokazywać powiadomienia w Windows 10. Zobaczymy, czy uda się ten plan osiągnąć przed Wielkanocą i/lub maratonem  w Dębnie ;) 
 
 Zapraszam do kolejnych odcinków z serii :)
 
-<blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
-[https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
 
+> Aktualne źródła można znaleźć na GitHub pod adresem:
+> [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-20-_51_/g_-_608x405_-_-_71524x20160319134909_0.png)
-

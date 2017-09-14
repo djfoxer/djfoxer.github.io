@@ -2,7 +2,7 @@
 layout:     post
 title:      Programowanie pod WP7.5, czyli Windows Phone od kuchni
 date:       2011-11-23 23:14:00
-summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć"  — P i napisać coś własnego na Windows Phone 7.5. Od razu napisz...
+summary:    Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć"  — P i napisać coś własnego na Windows Phone 7.5. Od razu napisze, że jest kilka problemów (i to wcale nie natury programistycznej).Dla kogo?Chcący zacząć programow...
 categories: windows programowanie urządzenia mobilne
 ---
 
@@ -11,24 +11,18 @@ categories: windows programowanie urządzenia mobilne
 Po miesiącach szaleństw z Windows Phone, nieskończonej liczby instalacji i deinstalacji, kilku flashowaniach, grzebaniach się w MFG, aktualizacjach (udanych i tych zakończonych niepowodzeniem), przyszedł wreszcie czas, ażeby "spoważnieć" :P i napisać coś własnego na Windows Phone 7.5. Od razu napisze, że jest kilka problemów (i to wcale nie natury programistycznej).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-11-23-_159_/g_-_608x405_-_-_28713x20150107205731_0.jpg)
-
-
 
 
 
 ## Dla kogo?
 
 
-
 Chcący zacząć programować dla Windows Phone 7(.5) powinniśmy umieć "na dzień dobry" podstawy C#/VB oraz podstawy Silverlighta lub XNA jeśli zechcemy tworzyć gry (także na XBox360!). Aplikacje pisane są w Visual Studio 2010 for Windows Phone. W Tym krótkim przewodniku postaram się opisać jak zacząć przygodę z pisaniem aplikacji na Windows Phone. A zatem, do dzieła!
 
 
 
-
 ## Visual Studio 2010 for Windows Phone
-
 
 
 Jak już wspomniałem przygodę rozpoczynamy od instalacji Visual Studio 2010 for Windows Phone [http://www.microsoft.com/visualstudio/en-us/products/2010-editions/windows-phone-developer-tools](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/windows-phone-developer-tools). 
@@ -59,9 +53,7 @@ Mając już środowisko, chlelibyśmy zacząć coś pisać...
 
 
 
-
 ## Baza wiedzy
-
 
 
 Z racji tego, iż temat programowania na Windows Phone 7 jest dość świeży, chętni znajdą wiele ciekawych poradników/książek z pomocą w kodowaniu online i nie tylko. 
@@ -88,9 +80,7 @@ Aplikacja gotowa, chcę wrzucić ją na własnego smartfona...
 
 
 
-
 ## Odblokowanie telefonu
-
 
 
 Jak już wiadomo, jedną z możliwości odblokowania telefonu jest zakup konta na AppHubie. Nie jest to jednak jedyna, oficjalna, droga na wgranie oprogramowania na komórkę w plikach xap (format plików na Windows Phone). 
@@ -103,9 +93,7 @@ Mam już coś stworzonego i przetestowanego na własnym smartfonie, jak pokazać
 
 
 
-
 ## AppHub i Marketplace
-
 
 
 
@@ -135,9 +123,7 @@ Więcej szczegółów na : [http://create.msdn.com/en-US/home/faq](http://create
 
 
 
-
 ##  Podsumowanie 
-
 
 
 Mam nadzieję, że ten krótki wpis zainteresuje część osób do pisania aplikacji na Windows Phone, a także wyjaśni kilka zawiłości w temacie.

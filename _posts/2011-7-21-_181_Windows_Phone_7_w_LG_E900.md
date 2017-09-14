@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Phone 7 w LG E900
 date:       2011-07-21 18:54:00
-summary:    Na wstępie dziękuje za zaproszenie na HotZlot. To było niesamowite przeżycie! Możliwość porozmawiania z ludźmi z redakcji i z czytelnikami dobrych programów, których znało się jedynie z xywek/avatarów - bezcenne  — )Wpis nigdy by nie powstał, gdyby nie konkurs na Kinecta, gdzie udało mi się wywalczyć ...
+summary:    Na wstępie dziękuje za zaproszenie na HotZlot. To było niesamowite przeżycie! Możliwość porozmawiania z ludźmi z redakcji i z czytelnikami dobrych programów, których znało się jedynie z xywek/avatarów - bezcenne  — )Wpis nigdy by nie powstał, gdyby nie konkurs na Kinecta, gdzie udało mi się wywalczyć w boksie - LG z Windows Phone 7  — ) Pozdro dla wszystkich uczestników konkursu  — )Pierwsze kroki w Win...
 categories: urządzenia mobilne
 ---
 
@@ -13,9 +13,7 @@ Wpis nigdy by nie powstał, gdyby nie konkurs na Kinecta, gdzie udało mi się w
 
 
 
-
 ### Pierwsze kroki w Windows Phone 7
-
 
 
 Windows Phone 7 miałem okazje zobaczyć już w okolicach października/listopada 2010. W większości przeważały opinie, iż jest brzydki i mało intuicyjny. Wówczas po minucie spędzonej z nim, nie można było myśleć inaczej. 
@@ -32,9 +30,7 @@ Drugi ekran (przewijamy ekran w lewo), jest ekranem zarządczym. To taki "panel 
 
 
 
-
 ### Interface
-
 
 
 Interface w Phone 7 nie jest podobny do niczego innego, co widzieliście wcześniej ;) Menu główne, jak już wspomniałem, to kafelki, które dostosowujmy do własnych potrzeb. Przechodząc do aplikacji, które zostały przygotowane z myślą o Phone 7, dostrzeżemy ich wyjątkowość pod kątem UI. 
@@ -43,9 +39,7 @@ Całość sprowadza się do przedstawienia interfejsu w postaci kilku ruchomych,
 Standardową są to trzy płaszczyzny: pierwsza: tło w postaci grafiki, druga: tekst z opisem gdzie się znajdujemy i trzecia: menu aplikacji. W ruchu prezentuje się to świetnie.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-21-_181_/g_-_608x405_-_-_26695x20110721184734_1.jpg)
-
 
 
 Kolejną ważnym elementem są dodatkowe opcje, przyciski dostępne w dolnym pasku (wyślij, edytuj, opcje...). Microsoft, założył, iż każdy(!) piszący na Phone 7 ma używać standardowych rozmiarów ikon i to tylko czarno-białych! Ilość widocznych przycisków również ograniczono z góry. Pozostałe funkcje dostępne są po dotknięciu do trzech kropeczek "..." (więcej). Zabieg ten spowodował, iż menu w każdej aplikacji wygląda identycznie i nie sposób się zgubić. Szybko doszedłem do wniosku, że to naprawdę świetny pomysł. Menu dzięki temu jest dodatkowo schludne i nieprzeciążone. Minusem może być jedynie to, iż ikonu dla niektórych osób mogą być ciut za małe i przez to niezbyt czytelne.
@@ -57,9 +51,7 @@ Interface jest schludni i minimalistyczny, brak wodotrysków powoduje, iż cało
 Dzięki niezłemu pomysłowi z kafelkami, obsługa całości za pomocą palca spisuje się rewelacyjnie! 
 
 
-
 ### Wesoła trójka
-
 
 
 Każdy telefon z Windows Phone musi został wyposażony w 3 przyciski od lewej (wg ustaleń Microsoftu): "Wstecz"- cofa do ekranu wcześniejszego, "Start" - powraca do ekranu powitalnego i" Szukaj" - szuka elementów w obecnie znajdującym się zestawie (np. Marketplace) lub w sieci. 
@@ -72,33 +64,25 @@ Po środku przycisk "Windows", który zabiera nas zawsze do domu :) Dłuższe pr
 
 
 
-
 ### Facebook
-
 
 
 O tak, integracja z Facebookiem w Windows Phone 7 jest genialna! Podając login i hasło do naszego konta, nasza lista kontaktów z telefonu zintegruje się automatycznie z lista znajomych z Facebooka! Otrzymujemy w taki oto prosty sposób, listę kontaktów z telefonami połączoną z danymi z Facebooka (email, data urodzin, podgląd tablicy, zdjęcie profilowe jako avatar kontaktu). Całość wygląda jak połączenie książki telefonicznej z tablicą Facebooka, rewelacja ;) 
 
 
-
 ### Marketplace
-
 
 
 Marketplace dla Windows Phone 7 został uruchomiony w październiku 2010 roku. Obecnie ma ponad 26000 aplikacji! W tym kilkaset polskich. Całość wygląda bardzo podobnie jak w innych systemach. W tym miejscu polecam aplikację WP7applist, która spisuje się znacznie lepiej, niż oryginalna do zarządzania Marketplacem.  Możemy w każdej z kategorii przeglądać tylko płatne/darmowe programy. Dodatkowo posiada ona kategorię z płatnymi aplikacjami, które zostały udostępnione za darmo! Każdy znajdzie coś dla siebie :)
 
 
-
 ### LG E900
-
 
 
 Sam telefon nie wyróżnia się niczym z pośród telefonów z Windows Phone 7. Na plus można zaliczyć bardzo czuły ekran, który pozwala dodatkowo zwiększyć komfort symbiozy z telefonem ;) Ciekawe został zaprojektowany dolny i górny brzeg telefonu. Posiada on wykończenie z dobrze trzymającego się gumo-plastyku :) Dzięki czemu trzymanie telefonu w pozycji horyzontalnej jest bardzo wygodne i stabilne. 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-21-_181_/g_-_608x405_-_-_26695x20110721184734_2.jpg)
-
 
 
 Z telefonem otrzymujemy ładowarkę z odpinanym kablem USB, bardzo przyzwoite słuchawki dokanałowe, całkiem szczegółową instrukcje o Windows Phone 7 i baterię 1500 mAh.
@@ -123,9 +107,7 @@ Protokoły: 3G, GPRS, EDGE
 
 
 
-
 ### Kilka dodatków
-
 
 
 Bardzo miło korzysta się również z aparatu. 5MP sprawuje się na zdjęciach, jak na aparat wbudowany w telefon, dość dobrze. Uważam, iż takie dodatki do telefonów to raczej bajer, ale tutaj ciężko się do czegoś przyczepić. Zdjęcia/filmy są i tyle ;) 
@@ -139,15 +121,11 @@ Instalując na komputerze Zune, możemy bezproblemowo wgrywać zdjęcia/muzykę 
 Telefon posiada mobilnego Offica 2010. Ja na wersję mobilną jest całkiem ok. Chociaż, służyć będzie w większości, jako narzędzie do niewielkiej edycji/prezentowania dokumentów, niż pisania wypracowań, czy formularzy w Excelu :)
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-21-_181_/g_-_608x405_-_-_26695x20110721184734_3.jpg)
 
 
 
-
-
 ### Łyżka dziegciu
-
 
 
 Żeby nie było zbyt kolorowo, Windows Phone 7 jest świetnym systemem ale...
@@ -169,9 +147,7 @@ Mimo, że Windows Phone 7 posiada świetny interface, brakuje jednak możliwośc
 Może najmniejsza "usterka", ale czemu w gotowych emotikonach nie ma ":*"? Dlaczego? :P Jakaś poprawność polityczna, czy co? :P
 
 
-
 ### Windows Phone 7.5 "Mango"
-
 
 
 Na jesień Microsoft planuje wydanie dużej aktualizacji do Windows Phone. Wersja 7.5 ma zawierać ponad 500 poprawek! W tym możliwość ustawienia własnego dzwonka (max. 1MB i 30s., wow!), poprawki dla modułu Bluetooth, nowa wersja IE bazująca na IE9, obsługa Flasha, obsługa Twittera, Office 365, może będzie coś związanego ze Skype, obsługa wielozadaniowości. Pełna lista nie została podana, ale ma być to aktualizacja zwalająca z nóg ;)
@@ -181,9 +157,7 @@ Mimo wszystko, wersja 7.5 zapowiada się bardzo ciekawie i z niecierpliwością 
 
 
 
-
 ### Podsumowując
-
 
 
 Teflon po dwóch tygodniach mile mnie rozczarował. Jako osoba, która zarzekała się, iż nigdy nie będzie posiadać niczego z dotykowym ekranem, mogę z czystym sumieniem polecić telefon z Windows Phone 7 dla osób, które szukają prostego i szybkiego telefonu bez zbędnych bajerów i zagłębiania się w niezliczone opcje urządzenia. 

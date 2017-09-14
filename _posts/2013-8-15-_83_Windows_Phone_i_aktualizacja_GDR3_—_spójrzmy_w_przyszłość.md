@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Phone i aktualizacja GDR3 — spójrzmy w przyszłość
 date:       2013-08-15 15:37:00
-summary:    Aktualizacja GDR2 do Windows Phone już jest faktem i każdy, nawet nie mając systemu od Microsoftu, słyszał już zapewne o niej (jak i o dodatku Amber od Nokii). Zatem przyszedł czas, aby przedstawić kolejną dużą paczkę dla tego systemu mobilnego - GDR3. GDR3 - małe zmiany i przymiarki do phebletu!O a...
+summary:    Aktualizacja GDR2 do Windows Phone już jest faktem i każdy, nawet nie mając systemu od Microsoftu, słyszał już zapewne o niej (jak i o dodatku Amber od Nokii). Zatem przyszedł czas, aby przedstawić kolejną dużą paczkę dla tego systemu mobilnego - GDR3. GDR3 - małe zmiany i przymiarki do phebletu!O aktualizacji GDR3 (General Distribute Release 3) dla Windows Phone 8 jest już coraz głośniej od jakie...
 categories: oprogramowanie urządzenia mobilne
 ---
 
@@ -12,27 +12,19 @@ Aktualizacja GDR2 do Windows Phone już jest faktem i każdy, nawet nie mając s
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_83_/g_-_608x405_-_-_45708x20130815125334_0.jpg)
-
-
 
 
 
 ## GDR3 - małe zmiany i przymiarki do phebletu!
 
 
-
 O aktualizacji GDR3 (General Distribute Release 3) dla Windows Phone 8 jest już coraz głośniej od jakiegoś już czasu. Były przecieki mówiące o tym, że Microsoft pracuje nad nową paczką, która wniesie dużo zmian, nie tylko jeśli chodzi o software, ale także w kwestii sprzętowej. W międzyczasie pojawiały się rozmazane zdjęcia (podobno) phebletu od Nokii, a nawet zrobione potajemnie zdjęcie z fabryki, które przedstawiało ekran z około 6 calowego modelu Nokii. 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_83_/g_-_288x192_-_-_45708x20130815125840_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_83_/g_-_288x192_-_-_45708x20130815130529_0.jpg)
-
 
 
 
@@ -40,16 +32,12 @@ O aktualizacji GDR3 (General Distribute Release 3) dla Windows Phone 8 jest już
 Zupełnie przypadkiem, w czasie gdy większość osób testowała pierwsze wersje GDR2, Tom Warren z The Verge, opublikował informację, że GDR3 nie jest wcale odległą pieśnią przyszłości i testy idą pełną parą. Podał on kilka ciekawych informacji, które potwierdzają wcześniejsze przecieki i rzucają nowe światło na aktualizację GDR3, ale również kilka nowinek o przyszłych paczkach dla Windows Phone 8. Co zatem wiemy o nadchodzącej aktualizacji? 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_83_/g_-_608x405_-_-_45708x20130815125814_0.png)
 
 
 
 
-
-
 ## Windows Phone GDR3 - czego możemy się spodziewać?
-
 
 
 Przedstawione poniżej nowe elementy, jakie zostaną wprowadzone z GDR3, nie są oficjalną listą przedstawioną przez Microsoft. Jednakże ich prawdopodobieństwo zaistnienia jest niemalże pewne, ze względu na wszelkie przecieki i informacje, jakie do tej pory się pojawiły. Zmiany ułożyłem wg prawdopodobieństwa ukazania się w GDR3.
@@ -95,15 +83,11 @@ Jak zawsze wszelkie aktualizacje, na początku, będą dostępne tylko dla nowyc
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_83_/g_-_608x405_-_-_45708x20130815125336_0.jpg)
 
 
 
-
-
 ## Dalsze zmiany? Co dalej po GDR3?
-
 
 
 Aktualizacja GDR3 to nie koniec przecieków i nowinek o nowych dodatkach dla Windows Phone. Na początku 2014 roku, Microsoft planuje udostępnienie paczki pod kątem biznesu tzw. Enterprise Feature Pack. Główne zmiany jakie ma wprowadzać to:

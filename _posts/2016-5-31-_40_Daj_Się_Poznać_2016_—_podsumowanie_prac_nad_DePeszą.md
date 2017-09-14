@@ -2,7 +2,7 @@
 layout:     post
 title:      Daj Się Poznać 2016 — podsumowanie prac nad DePeszą
 date:       2016-05-31 16:59:00
-summary:    Konkurs Daj Się Poznać 2016, organizowany przez Macieja Aniserowicza, można już uznać za zakończony. Jego celem było promowanie ciekawych pomysłów, blogów i ludzi związanych z programowaniem. O szczegóły odsyłam do pierwszego wpisu z marca. W ramach konkursu, w którym udział wzięło niemalże 300 osób...
+summary:    Konkurs Daj Się Poznać 2016, organizowany przez Macieja Aniserowicza, można już uznać za zakończony. Jego celem było promowanie ciekawych pomysłów, blogów i ludzi związanych z programowaniem. O szczegóły odsyłam do pierwszego wpisu z marca. W ramach konkursu, w którym udział wzięło niemalże 300 osób (!!!), postanowiłem stworzyć aplikację dla użytkowników portalu dobreprogramy.pl. Już od jakiegoś c...
 categories: oprogramowanie programowanie urządzenia mobilne
 ---
 
@@ -11,9 +11,7 @@ categories: oprogramowanie programowanie urządzenia mobilne
 Konkurs [Daj Się Poznać 2016](http://devstyle.pl/daj-sie-poznac/), organizowany przez [Macieja Aniserowicza](http://devstyle.pl/o-mnie/), można już uznać za zakończony. Jego celem było promowanie ciekawych pomysłów, blogów i ludzi związanych z programowaniem. O szczegóły odsyłam do pierwszego [wpisu z marca](http://www.dobreprogramy.pl/djfoxer/Powiadomienia-z-dobreprogramy.pl-na-Windows-konkurs-Daj-sie-poznac-2016,71094.html). 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530182959_0.png)
-
 
 
 W ramach konkursu, w którym udział wzięło  *niemalże 300 osób*  (!!!), postanowiłem stworzyć aplikację dla użytkowników portalu dobreprogramy.pl. Już od jakiegoś czasu krążył po mojej głowie pomysł, aby przenieść system powiadomień ze strony www do aplikacji, która w tle sama sprawdzałaby nowe notyfikacje. Była ona adresowana do  *wąskiej*  grupy odbiorców, czyli do najbardziej aktywnych użytkowników portalu (oczywiście zwrot  *wąska*  grupa proszę nie brać dosłownie :P ). Od początku wiedziałem, co chce osiągnąć, dzięki czemu finalny stan na koniec akcji blogowej jest bardzo satysfakcjonujący. 
@@ -21,14 +19,11 @@ W ramach konkursu, w którym udział wzięło  *niemalże 300 osób*  (!!!), pos
 Z racji tego, iż na co dzień związanych jestem z rozwiązaniami Microsoftowymi (.NET, MS SQL), postanowiłem projekt aplikacji stworzyć w C#, a dokładniej w oparciu o nową platformę Universal Windows Platform. Było to dla mnie czymś nowym i stanowiło swego rodzaju wyzwanie, możliwość rozwoju, ale także stworzenie czegoś, co będzie przydatne współużytkownikom portalu dobreprogramy.pl, z którym wszyscy tu jesteśmy związani.  
 
 Spis wszystkich wpisów z serii można znaleźć pod tym linkiem:
-<blockquote>
-<p>Seria wpisów: [Aplikacja Windows 10 (Mobile) do powiadomień z dobreprogramy.pl](http://www.dobreprogramy.pl/djfoxer/Aplikacja-Windows-Mobile-do-powiadomien-z-portalu-dobreprogramypl,s229.html)</p>
-</blockquote>
 
+> Seria wpisów: [Aplikacja Windows 10 (Mobile) do powiadomień z dobreprogramy.pl](http://www.dobreprogramy.pl/djfoxer/Aplikacja-Windows-Mobile-do-powiadomien-z-portalu-dobreprogramypl,s229.html)
 
 
 ## Podsumowanie prac
-
 
 
 Całościowo projekt po tych trzech miesiącach wypada niezmiernie pozytywie. Tak naprawdę udało się osiągnąć znacznie więcej niż zakładałem. Cieszę się, że stworzona seria składa się w wpisów, gdzie każdy z nich jest niezmiernie obszerny i wartościowy. Przyznaję, że wymagało to sporo pracy i poświęceń, ale było warto :) Postanowiłem w kilku punktach zawrzeć najważniejsze informacje o projekcie.
@@ -41,29 +36,19 @@ Całościowo projekt po tych trzech miesiącach wypada niezmiernie pozytywie. Ta
   * Aplikacja nie tylko działa, ale równie całkiem nieźle wygląda i doczekała się własnego logo
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530192214_0.jpg)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530192218_0.PNG)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530192217_0.PNG)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530192217_1.PNG)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530192359_0.png)
-
 
 
 
@@ -111,45 +96,33 @@ Całościowo projekt po tych trzech miesiącach wypada niezmiernie pozytywie. Ta
 
 
 
-<blockquote>
-<p>Sumarycznie (na dzień tworzenia tego wpisu): 
- *ponad 52 000*  wyświetleń, 3 *40 komentarzy* , najbardziej poczytny wpis: [Wyskakujące powiadomienia w Windows 10](http://www.dobreprogramy.pl/djfoxer/Wyskakujace-powiadomienia-w-Windows-10-aplikacja-portalowa-w-UWP,71904.html) ( *10 000*  wyświetleń)</p>
-</blockquote>
 
-<blockquote>
-<p>Powstała szczegółowa analiza systemu logowania i zarządzania powiadomieniami na portalu dobreprogramy.pl, seria wisów o tematyce Universal Windows Platform, jak i czystym C#</p>
-</blockquote>
+> Sumarycznie (na dzień tworzenia tego wpisu): 
+>  *ponad 52 000*  wyświetleń, 3 *40 komentarzy* , najbardziej poczytny wpis: [Wyskakujące powiadomienia w Windows 10](http://www.dobreprogramy.pl/djfoxer/Wyskakujace-powiadomienia-w-Windows-10-aplikacja-portalowa-w-UWP,71904.html) ( *10 000*  wyświetleń)
 
-<blockquote>
-<p>Wsparcie czytelników - konkurs na nazwę, logo DePeszy, zgłaszanie błędów i nowych pomysłów</p>
-</blockquote> 
 
-<blockquote>
-<p>Powstała aplikacja, która od kilku dni jest już w wersji finalnej w markecie Windows:  [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2)</p>
-</blockquote>
+> Powstała szczegółowa analiza systemu logowania i zarządzania powiadomieniami na portalu dobreprogramy.pl, seria wisów o tematyce Universal Windows Platform, jak i czystym C#
 
+
+> Wsparcie czytelników - konkurs na nazwę, logo DePeszy, zgłaszanie błędów i nowych pomysłów 
+
+
+> Powstała aplikacja, która od kilku dni jest już w wersji finalnej w markecie Windows:  [DePesza](https://www.microsoft.com/pl-pl/store/apps/depesza/9nblggh4nvs2)
 
 
 ## Co dalej?
 
-
 Aplikacja na Windows 10 i Windows 10 Mobile można uznać za produkt skończony. Zapewne będą jeszcze wrzucane pomniejsze poprawki związane z UI lub wyłapanymi błędami. W tym momencie głównie skupię się już jednak na stworzeniu aplikacji na pozostałe platformy przy użyciu Xamarina.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530194609_0.png)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-5-31-_40_/g_-_608x405_-_-_73595x20160530194609_1.png)
 
 
 
-
-
 ## Słowo na koniec
-
  
 
 Przyznaję, że ciekawy projekt, który pierwotnie miał być aplikacją do własnego użytku, stał się DePeszą - programem dla czytelników portalu dobreprogramy.pl.

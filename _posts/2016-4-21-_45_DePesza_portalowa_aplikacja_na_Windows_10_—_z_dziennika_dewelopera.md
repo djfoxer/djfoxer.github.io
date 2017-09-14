@@ -2,7 +2,7 @@
 layout:     post
 title:      DePesza portalowa aplikacja na Windows 10 — z dziennika dewelopera
 date:       2016-04-21 17:14:00
-summary:    Prace nad aplikacją nadal trwają. Dziękuję, za docenienie tej serii i oddane głosy na moje wpisy w marcowym konkursie blogowym ;)Jak już zapewne zauważaliście, została wybrana nazwa na aplikację portalową. Dziękuję wszystkim za komentarze. Propozycji było bardzo dużo. Wybór padł na nazwę, która jest...
+summary:    Prace nad aplikacją nadal trwają. Dziękuję, za docenienie tej serii i oddane głosy na moje wpisy w marcowym konkursie blogowym ;)Jak już zapewne zauważaliście, została wybrana nazwa na aplikację portalową. Dziękuję wszystkim za komentarze. Propozycji było bardzo dużo. Wybór padł na nazwę, która jest prosta i wpadająca w ucho, a dodatkowo bardzo sprytnie kojarzy się z portalem —   DePesza Autorem DeP...
 categories: windows programowanie urządzenia mobilne
 ---
 
@@ -11,9 +11,8 @@ categories: windows programowanie urządzenia mobilne
 Prace nad aplikacją nadal trwają. Dziękuję, za docenienie tej serii i oddane głosy na moje  *wpisy*  w [marcowym konkursie blogowym](http://www.dobreprogramy.pl/Cebula/Nagradzamy-najlepszych-blogerow-marca-2016,72349.html) ;)
 
 Jak już zapewne zauważaliście, została wybrana nazwa na aplikację portalową. Dziękuję wszystkim za komentarze.[ Propozycji było bardzo dużo](http://www.dobreprogramy.pl/djfoxer/Konkurs-na-nazwe-aplikacji-dobreprogramy.pl-a-takze-niesforny-Visual-Studio,72207.html). Wybór padł na nazwę, która jest prosta i wpadająca w ucho, a dodatkowo bardzo sprytnie kojarzy się z portalem:  
-<blockquote>
-<p>DePesza </p>
-</blockquote>
+
+> DePesza
 
 Autorem  *DePeszy*  jest użytkownik: [Czajo](http://www.dobreprogramy.pl/Czajo). 
 Gratuluję i dziękuję za wzięcie udziału w zabawie. Prócz klucza na Steam do gry  *Murdered: Soul Suspect*  dodatkowo dorzucam jeszcze klucz do gry  *Arma: Gold Edition* . 
@@ -38,37 +37,27 @@ Pozostałe wyróżnione osoby:
 Gratuluję i proszę o kontakt na prv :)
 
 
-
 ## Raport z prac
-
 
 Tworzenie aplikacji idzie powolutku, ale cały czas idę do przodu. Przyznaję, że platforma Universal Windows Application jest jeszcze bardzo młoda i ma zauważalne choroby wieku dziecięcego.
 
 
-
 ### Pierwsza wersja testowa już w drodze
 
-
 Z racji tego, iż dodawanie aplikacji do Windows Store bywa długie, postanowiłem już rozpocząć certyfikację aplikacji. Dostęp do DePeszy (fajna nazwa :D ) nie będzie jeszcze otwarty (nie znajdziecie jej w sklepie). Instalacja stanie się możliwa dopiero po otrzymaniu specjalnego linku do marketu. 
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-4-21-_45_/g_-_608x405_-_-_72467x20160421010258_0.PNG)
 
 
-
 Pierwsza,  *ukryta* , wersja w markecie jest  testem certyfikacji i liczę na to, że kolejne aktualizacje będą przechodziły szybciej. Mam również takie wrażenie, że całość była znacznie krótsza w porównaniu do marketu Windows Phone i Windows 8.x, ale to może moja pamięć płata figle.
-
 
 
 ### Windows 10 - poligon doświadczalny
 
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-4-21-_45_/g_-_608x405_-_-_72467x20160421011850_0.gif)
-
 
 
 Tworząc aplikację napotkałem na kilka trudności, które spędziły mi sen z powiek. Co najgorsze, czasem okazuje się, że nasz problem nie wynika z braku dostatecznej wiedzy, a z... błędów w kodzie systemu...
@@ -88,9 +77,7 @@ Możemy skorzystać także z różnych systemowych dźwięków. Poprzez dodanie 
 Na Windows 10 Mobile problemów nie ma zupełnie, ale na desktopie z Windows 10 niestety już tak nie jest kolorowo. Systemowe dźwięki odtwarzają się tylko niektóre i są inne, niż analogiczne na telefonie. Dodatkowo ktoś z MS w swoim poradniku do tworzenia powiadomień przyznał się (w czeluściach komentarzy), że zapomnieli dodać obsługę  własnych dźwięków na desktopie zdefiniowanych przez aplikację (na smartfonie wszystko działa). Prace nad znalezieniem buga trwają... Nie pytajcie ile na tym czasu spędziłem, zanim znalazłem komentarz odnośnie błędu...
 
 
-
 ### Z serii ciekawe dodatki - NotificationsExtensions
-
 
 
 Tutaj taki mały tip, powiadomienie toast w Windows 10 definiuje się jako xml i warto użyć dodatku [NotificationsExtensions](https://github.com/WindowsNotifications/NotificationsExtensions), dzięki czemu zamiast pisać gołego xmla:
@@ -148,24 +135,18 @@ ToastVisual visual = new ToastVisual()
 Bardzo ułatwia i pomaga.
 
 
-
 ### Błędy i niedoróbki w DePeszy
 
-
 Aplikacja działa już całkiem nieźle od kilku dni. W końcu udało się zsynchronizować pobieranie powiadomień z głównej aplikacji i zadania w tle (jest to zupełnie niezależny wątek systemowy) do jednego miejsca. Spróbuję w wolnej chwili sprawdzić, jak działać będzie Storage Roaming, który jest synchronizowany pomiędzy różnymi urządzeniami. Zatem pobrane powiadomienia na desktopie, będą widoczne również na smartfonie. Wówczas coś więcej o tym napiszę.
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-4-21-_45_/g_-_608x405_-_-_72467x20160421015248_0.PNG)
 
 
-
 Trochę prac wymaga jeszcze lista powiadomień pod kątem różnych zachowań (usunięcie/przeczytanie powiadomienia), aby całość była bardziej intuicyjna. Również wyskakujące informacje z procesu w tle jeszcze nie mają obsługi otwierania linku www do źródła.
 
 
-
 ## Pierwszy etap prac niedługo można będzie zamknąć
-
 
 Pomimo kilku uwag, aplikacja spełnia swoje podstawowe założenie. Można się zalogować, pobrać powiadomienia, a w tle zaciągane są bieżące notyfikacje. W przypadku, gdy przyjdzie nowa informacja, pojawia się okienko z opisem, z którego można otworzyć stronę www (jeśli pochodzi z procesu głównego). 
 
@@ -175,11 +156,8 @@ Myślę, że do końca kwietnia aplikacja w wersji alfa/beta pojawi się w marke
 
 
 
-<blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
-[https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
 
+> Aktualne źródła można znaleźć na GitHub pod adresem:
+> [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-4-21-_45_/g_-_608x405_-_-_72467x20160421010253_0.png)
-

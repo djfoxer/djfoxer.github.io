@@ -2,7 +2,7 @@
 layout:     post
 title:      Programistok - Białystok dla programistów i nie tylko
 date:       2011-09-22 10:16:00
-summary:    W Białymstoku powstała bardzo ciekawa inicjatywa promująca nowe technologie i trendy w programowaniu - Programistok. (Programistok na Facebooku —  http — //www.facebook.com/pages/Programistok/237808102923666)Cykliczne spotkania będą omawiać m.in. programowanie na urządzenia mobilne, testowanie aplikacji...
+summary:    W Białymstoku powstała bardzo ciekawa inicjatywa promująca nowe technologie i trendy w programowaniu - Programistok. (Programistok na Facebooku —  http — //www.facebook.com/pages/Programistok/237808102923666)Cykliczne spotkania będą omawiać m.in. programowanie na urządzenia mobilne, testowanie aplikacji, projektowanie interfejsów użytkownika czy pisanie lepszego, czystszego kodu.Każdy zainteresowany m...
 categories: windows linux programowanie
 ---
 
@@ -12,9 +12,7 @@ W Białymstoku powstała bardzo ciekawa inicjatywa promująca nowe technologie i
 (Programistok na Facebooku: [http://www.facebook.com/pages/Programistok/237808102923666](http://www.facebook.com/pages/Programistok/237808102923666))
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-22-_170_/g_-_608x405_-_-_27925x20110922082306_1.jpg)
-
 
 
 Cykliczne spotkania będą omawiać m.in. programowanie na urządzenia mobilne, testowanie aplikacji, projektowanie interfejsów użytkownika czy pisanie lepszego, czystszego kodu.
@@ -46,20 +44,14 @@ Pierwsze spotkanie odbyło się 1 września 2011, tematy jakie zostały przedsta
 [http://mongodb-programistok.heroku.com/](http://mongodb-programistok.heroku.com/)
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-22-_170_/g_-_608x405_-_-_27925x20110922122818_2.jpg)
-
  
-
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-22-_170_/g_-_608x405_-_-_27925x20110922101433_3.jpg)
-
  
-
 
 
 ## Następne spotkanie 6 października.
-
 
 
 

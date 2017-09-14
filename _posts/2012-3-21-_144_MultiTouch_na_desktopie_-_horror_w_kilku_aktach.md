@@ -2,7 +2,7 @@
 layout:     post
 title:      MultiTouch na desktopie - horror w kilku aktach
 date:       2012-03-21 22:53:00
-summary:    Niedawno miałem przyjemność (i nadal mam) pracować przy tworzeniu aplikacji na ekrany dotykowe, podłączone do zwykłych komputerów desktopowych. Całość miała być robiona w oparciu o HTML5. Systemem miał być koniecznie Windows 7 (założenia odgórne). W sumie nie było to złe rozwiązanie, gdyż multitouch...
+summary:    Niedawno miałem przyjemność (i nadal mam) pracować przy tworzeniu aplikacji na ekrany dotykowe, podłączone do zwykłych komputerów desktopowych. Całość miała być robiona w oparciu o HTML5. Systemem miał być koniecznie Windows 7 (założenia odgórne). W sumie nie było to złe rozwiązanie, gdyż multitouch na linuxie mógł sprawić dużo kłopotu,a terminy były napięte. Z racji tego, że oprócz HTML5 nie było...
 categories: programowanie urządzenia mobilne
 ---
 
@@ -15,15 +15,11 @@ Tak przynajmniej się wydawało. Okazuje się, że temat ekranów dotykowych z m
 W kilku podpunktach omówię, ciekawostki na jakie się natknąłem.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-21-_144_/g_-_608x405_-_-_31092x20120321222931_0.jpg)
 
 
 
-
-
 ## Firefox - jedyny sprawiedliwy
-
 
 
 HTML5 pociągał za sobą użycie jakiejś nowszej przeglądarki. Dzięki specyfikacji aplikacji, można było wybrać jedną, konkretną wersję przeglądarki pod jaką będziemy działać. Wybór jest ogromny. Jednakże, jak się okazało, nie było to prawdą :)
@@ -35,9 +31,7 @@ Przeglądarki desktopowe w większości obsługują gesty multitouch samodzielni
 Nagłówek akapitu, wskazuje zwycięzce. Jedynie w Firefoxie desktopowym nie ma automatycznego zoomowania przy dotykaniu ekranu dwoma palcami. Czyżby był to już koniec problemów z przeglądarką? O nie nie...
 
 
-
 ## Firefox - zapomniany dotyk na desktopie
-
 
 
 Ogólnie nic nie mam do dokumentacji Mozilli. Jest świetna, wyczerpująca, ma wiele przykładów (działających na live demo!) i jest naprawdę pomocna. Jednakże....
@@ -88,9 +82,7 @@ Wszystko byłoby ok, gdyby nie to, że nie chcą one działać. Co się okazuje?
 Ludzie... :P
 
 
-
 ## Wyrzućcie tego WebKita!
-
 
 
 Z racji tego, iż WebKit króluje na urządzeniach mobilnych, wszelkie wtyczki do np. jQuery, związane z dotykiem, tworzone są z myślą właśnie o tym silniku. Szkoda tylko, że powoli robi się z WebKita hamulec internetu, podobnie jak było ze starym Internet Explorerem. Zaglądając do kodu CSS takiej wtyczki, otrzymujemy sieczkę prefixów  *-webkit-* . Co za tym idzie? Otóż na Firefoxie (i innych nie WebKitowych silnikach) nie uświadczymy efektów działania części wtyczek, do obsługi dotyku. Ha, nawet wtyczki multitouch pod WebKita nie działają na wersji desktopowej... bida...
@@ -99,9 +91,7 @@ Występuje to nawet w jQuery Mobile. Obecnie aktualna wersja 1.0, wszelkie anima
 
 
 
-
 ## Szybkość działania CSSów
-
 
 
 Będąc już przy CSSach zahaczę o temat wydajności animacji. Na małych 3"-5" ekranach, nawet 1GHz mobilne procesorki spokojnie obsłużą wymyślne przejścia w CSS3. Jednakże na 22" ekranie niektóre animacje nie są już płynne. 
@@ -113,9 +103,7 @@ To nie koniec, całkiem udana wtyczka jQTouch ([http://www.jqtouch.com/preview/d
 W sumie w kilku miejscach trzeba było i tak samemu, korzystając z [jQuery UI Draggable](http://jqueryui.com/demos/draggable/), dorabiać "szuranie" listą po ekranie. Dla dużych danych, CSSowe animacje nie wyrabiały...
 
 
-
 ## A jednak się udało
-
 
 
 Mimo wielu przeciwności, efekt po wstępnej fazie, wyszedł zaskakująco dobry. Mam nadzieje, że kilka wskazówek przyda się osobom chcącym tworzyć aplikacje w HTML5 na ekrany (multi)touch pod desktopy.

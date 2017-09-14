@@ -2,7 +2,7 @@
 layout:     post
 title:      Logujemy się do dobreprogramy.pl z poziomu kodu C# (+ wprowadzenie do projektu)
 date:       2016-03-16 18:12:00
-summary:    Dwa ostatnie wpisy przedstawiały analizę sposobu logowania się i zarządzania powiadomieniami na portalu dobreprogramy. Przyszedł już czas na stworzenie kodu w C#, który pozwałaby już coś w praktyce zrobić.Dzisiaj skupimy się na logowaniu do portalu, a zapewne na dniach przedstawię mechanizm do zarzą...
+summary:    Dwa ostatnie wpisy przedstawiały analizę sposobu logowania się i zarządzania powiadomieniami na portalu dobreprogramy. Przyszedł już czas na stworzenie kodu w C#, który pozwałaby już coś w praktyce zrobić.Dzisiaj skupimy się na logowaniu do portalu, a zapewne na dniach przedstawię mechanizm do zarządzania powiadomieniami. Na początku jednak mały wstęp odnośnie samego projektu.Szkielet aplikacji Ap...
 categories: windows programowanie urządzenia mobilne
 ---
 
@@ -15,15 +15,11 @@ Dzisiaj skupimy się na logowaniu do portalu, a zapewne na dniach przedstawię m
 Na początku jednak mały wstęp odnośnie samego projektu.
 
 
-
 ## Szkielet aplikacji
-
  
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160315224532_0.png)
-
 
 
 Aplikacja tworzona będzie w Visual Studio 2015 Community (wersja pozwala na działania komercyjne, zupełnie za darmo, szczegóły licencji [tutaj](https://www.visualstudio.com/support/legal/mt171547)).
@@ -33,9 +29,7 @@ Aplikacja tworzona będzie w Visual Studio 2015 Community (wersja pozwala na dzi
 Projektem naszym jest oczywiście aplikacja uniwersalna - Universal Windows. Pozwala ona na tworzenie oprogramowania zarówno pod Windows 10, jak i Winodows 10 Mobile.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160315224532_1.png)
-
 
 
 Oprócz powyższego projektu, do solucji dorzucę również projekt do zarządzania logiką (Class Library do apek uniwersalnych). Będzie on odpowiadał za komunikację ze stroną portalu, zarządzał powiadomieniami od strony naszej apki, a także zajmie się mapowaniem obiektów i innymi rzeczami, które w przyszłości będą dochodziły do aplikacji. Zapewne będzie trzeba stworzyć również rodzaj lokalnej bazy, do przetrzymywania historycznych powiadomień i ustawień. Nie wykluczam także powiększenie apki o kolejne moduły, które pozwolą na zarządzanie kontem, a może nawet pokuszę się o jakieś rozszerzenie funkcjonalności (jakieś dodatkowe powiadomienia?).
@@ -43,23 +37,18 @@ Oprócz powyższego projektu, do solucji dorzucę również projekt do zarządza
 Trzecim projektem jest Unit Test, który będzie służył do testowania kodu. Na początek będzie to główny rdzeń solucji, tuż obok logiki. Ze względu na to, iż w pierwszej kolejności zadbać chcę o podstawowe funkcjonalności komunikacyjne pomiędzy portalem, a aplikacją - to testy jednostkowe będą głównym sposobem na sprawdzenie poprawności kodu.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160315224647_0.PNG)
 
 
 
-<blockquote>
-<p>Refactoring to podstawa</p>
-</blockquote>
+> Refactoring to podstawa
 
 Oczywiście taki szkielet projektu jest tylko przejściowym stadium. W miarę rozrostu aplikacji zajdzie zapewne potrzeba na podzielenie kodu na odrębne projekty, dokonanie zmian i reorganizacji. Jednakże na sam początek taki niewielki podział powinien wystarczyć.
 
 Przejdźmy zatem do mięska...
 
 
-
 ## Logujemy się z poziomu kodu
-
 
 
 Logowanie do aplikacji podzielić można na dwa etapy:
@@ -75,9 +64,7 @@ Logowanie do aplikacji podzielić można na dwa etapy:
 
 
 
-
 ### Uzyskiwanie ciasteczka
-
  
 
 Punkt pierwszy wymaga od nas pobrania ciasteczka z portalu. Sprawa jest prosta, musimy pozyskać ciasteczko, które będzie wykorzystane w logowaniu (po szczegóły odsyłam do [wcześniejszego wpisu](http://www.dobreprogramy.pl/djfoxer/Analiza-logowania-do-portalu-dobreprogramy.pl-uzyskujemy-dostep-do-zasobow-uzytkownika,71265.html)). W tym celu wystarczy jedynie pobrać stronę, która zwrócimy nam Id (ciasteczko), identyfikujące sesję użytkowania (jeszcze niezalogowanego) po stronie serwera.
@@ -122,9 +109,7 @@ Pobieranie danych zrobione jest asynchronicznie, aby nie obawiać się o zamraż
 Mamy już ciasteczko. Teraz musimy zalogować się  z użyciem pobranego ciasteczka.
 
 
-
 ### Logowanie!
-
 
 
 Przystępujemy zatem do naszego małego finału. Zakładamy, że login i hasło jest przekazywane nam w metodzie w postaci parametrów  *login*  i  *password* .
@@ -187,17 +172,13 @@ response = await request.GetResponseAsync();
 Jeśli wszystko się udało,  *ciasteczko*  przechowywane w zmiennej  *cookie*  wskazywać będzie na sesję zalogowanego użytkownika, którego dane pobraliśmy:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160316001059_0.png)
-
 
 
 Co jeśli dane do logowanie byłyby niepoprawne? Wówczas przy wywołaniu  *GetResponseAsync*  otrzymamy wyjątek z serwera:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160316001100_0.png)
-
 
 
 Dodajmy zatem jeszcze proste (na ten czas) rozwiązanie w postaci kodu  *try..catch* , który pozwoli na detekcję błędnych danych do logowania:
@@ -221,9 +202,7 @@ Dodajmy zatem jeszcze proste (na ten czas) rozwiązanie w postaci kodu  *try..ca
 
 
 
-
 ## Kolejne kroki?
-
 
 Mamy zatem już podstawowy mechanizm do logowania. Śmiało można sprawdzać różne warianty danych przy testach jednostkowych. Zanim będziemy dalej rozbudowywali program i go zabezpieczali, w kolejnym wpisie przedstawię kod do zarządzania systemem powiadomień na portalu. 
 
@@ -231,12 +210,9 @@ Będzie można prześledzić sposób na pobieranie i oznaczanie powiadomień w C
 
 Zapraszam do kolejnych odcinków z serii :)
 
-<blockquote>
-<p>Aktualne źródła można znaleźć na GitHub pod adresem:
-[https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)</p>
-</blockquote>
+
+> Aktualne źródła można znaleźć na GitHub pod adresem:
+> [https://github.com/djfoxer/dp.notification](https://github.com/djfoxer/dp.notification)
  
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-3-16-_53_/g_-_608x405_-_-_71411x20160315225438_0.png)
-

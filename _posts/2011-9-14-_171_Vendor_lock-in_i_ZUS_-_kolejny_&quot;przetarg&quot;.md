@@ -2,7 +2,7 @@
 layout:     post
 title:      Vendor lock-in i ZUS - kolejny &quot;przetarg&quot;
 date:       2011-09-14 23:45:00
-summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów — ...
+summary:    Vendor lock-inCzym jest vendor lock-in? W skrócie można to opisać jako uzależnienie na usługę/produkt, od konkretnego dostawcy. Wiąże się to z tym, iż zmiana dostawcy pociągnęłaby za sobą duże koszty, jakie należałoby ponieść w celu dostosowania się do innych produktów konkurencji. Kilka przykładów — Kupujemy do firmy 100 drukarek/ploterów marki "ABC". Po pewnym czasie okazuje się, iż wymian tuszy n...
 categories: inne
 ---
 
@@ -34,9 +34,7 @@ Do czego doprowadza vendor lock-in:
 ZUS jest typowym przykładem instytucji, która uzależniła się od jednego dostawcy. Dokładniej od Microsoftu i nic nie robi aby to zmienić. Jego program umożliwiający wysyłanie dokumentów ubezpieczeniowych do ZUSu - Płatnik ([http://e-inspektorat.zus.pl/program_platnik.asp](http://e-inspektorat.zus.pl/program_platnik.asp))  działa tylko na Windowsie. Istnieje (istniał?) alternatywny projekt Janosik, którego celem było przeniesienie funkcjonalności Płatnika, na pozostałe systemy operacyjne. Twórca Janosika złożył z końcem 2006 roku w sądzie wniosek o odtajnienie protokołu przesyłania danych przez Płatnika. Sąd nakazał ZUSowi udostępnić dokumentację protokołu, co zostało uczynione w kwietniu 2007, mimo wszystko nie zmieniło to nic w sprawie programu Janosik. Projekt najprawdopodobniej już można uznać za martwy, ostatnia aktualizacja jest z roku 2007 [http://www.janosik.net/aktualnosci.html](http://www.janosik.net/aktualnosci.html). 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-9-14-_171_/g_-_608x405_-_-_27787x20110914185119_1.jpg)
-
  
 
  *Nowy "przetarg" w ZUSie* 
@@ -54,9 +52,7 @@ Wymagania dotyczące oprogramowania
 Microsoft Windows 7, lub równoważny*, w wersji umożliwiającej, zgodnie z zapisami licencyjnymi, nieodpłatny downgrade do systemu Microsoft Windows XP Professional:  niewymagający aktywacji, w polskiej wersji językowej wraz z dołączonymi nośnikami pozwalającymi na zainstalowanie wybranej wersji systemu operacyjnego. System zainstalowany na partycji systemowej z domyślnymi ustawieniami wraz z wymaganymi do prawidłowej pracy wszystkich podzespołów sterownikami, bez dodatkowego oprogramowania firm trzecich. 
 
 
-
 ## 17. Oprogramowanie dodatkowe
-
 
 
 
@@ -107,9 +103,7 @@ Warunki przetargu nie pozostawiają złudzeń. Oprogramowanie z Rdmond zawita w 
 
 
 
-
 ## Powiązane
-
 
 
 

@@ -2,7 +2,7 @@
 layout:     post
 title:      DLC - przyszłość oprogramowania?
 date:       2011-10-24 18:22:00
-summary:    Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłuże...
+summary:    Czym jest DLC, każdy powinien wiedzieć. DLC, czyli  Downloadable content, jest  dodatkową zawartością (do gier) jaką możemy pobrać za pośrednictwem sieci. Coraz szybszy internet spowodował, że wielu producentów po wydaniu gry, tworzą DLC, które można za pośrednictwem sieci pobrać i cieszyć się dłużej, zakupionym tytułem. Wszystko wydawałoby się, że jest ok, gdyby nie to, że gdzie w grę wchodzą pie...
 categories: gry hobby inne
 ---
 
@@ -24,17 +24,13 @@ Sama pomysł DLC nie jest zły. Niestety część producentów, wypacza ideę do
 Moim skromnym zdaniem, prym wiedzie tutaj Capcom, który "udostępnił"  tryb Versus do Resident Evil 5 (tryb multiplayer dla maksymalnie czterech graczy). Nie było by w tym nic dziwnego, gdyby nie to, iż ten tryb gry... już jest w grze, tylko nieaktywny. Można go aktywować, poprzez ściągnięcie DLC, które waży poniżej  2MB. Cena? 5$ (400 MS Points)!
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_1.jpg)
-
 
 
 Widząc, iż taki chwyt poniżej pasa jest opłacalny, niektórzy postanowili pójść jeszcze dalej. Oto EA wydaje 3 DLC do Dead Space 2 (zawierające broń, ciuszki itp. czyli nic szczególnego i nic nadzwyczajnego, ot kolejny zapychacz, umożliwiający łatwy zarobek). Wszystko wydaje się ok. Ale zobaczcie na rozmiary tych dodatków! 3x108KB! Okazało się, że są one dostępne w każdym zakupionym egzemplarzu gry. Odblokować je można za darmo poprzez save do gry, ważący 3KB! Kolejna gra, która została okrojona z jakiś małych dodatków, które są dostępne na dysku graczy. Cena? 400 MS Points za każdy dodatek, czyli 5$x3 = 15$ za coś co już mamy na dysku!
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111024181134_2.jpg)
-
 
 
 
@@ -66,16 +62,12 @@ Czy twórcy aplikacji, także zechcą wyciągnąć łapy po pieniądze użytkown
 Kiedy będziemy musieli zapłacić za dodatkowe skórki do Visual Studio? Czy dodatkowy zestaw ikonek do Adobe Readera to daleka przyszłość? Może niedługo zestaw dodatkowych filtrów do Photoshopa będzie kosztował więcej niż sama aplikacja. A bez DLC do Picasy będziemy ograniczeni do 100 zdjęć? 
 
 
-
 ## W dobie pakietów biurowych offline, być może Microsoft zaproponuje desktopowego Office bez opłat, lecz z mikropłatnościami. Co  nie było by takie złe, szczególnie mając na uwadze, iż większość osób nie wykorzystuje całego potencjału pakietu. W przyszłości ściągniemy instalkę za darmo i skonfigurujemy, za które funkcjonalności zechcemy zapłacić? Nie wydaje się to wcale, aż tak nierealne i oderwane od rzeczywistości. 
 
 
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-10-24-_163_/g_-_608x405_-_-_28450x20111023152122_3.png)
-
 
 
 

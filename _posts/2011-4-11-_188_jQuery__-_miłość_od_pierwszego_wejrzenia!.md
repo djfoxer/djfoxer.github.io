@@ -2,7 +2,7 @@
 layout:     post
 title:      jQuery  - miłość od pierwszego wejrzenia!
 date:       2011-04-11 18:42:00
-summary:    .......##..#######..##.....##.########.########..##....##.......##.##.....##.##.....##.##.......##.....##..##..##........##.##.....##.##.....##.##.......##.....##...####.........##.##.....##.##.....##.######...########.....##....##....##.##..##.##.##.....##.##.......##...##......##....##.....
+summary:    .......##..#######..##.....##.########.########..##....##.......##.##.....##.##.....##.##.......##.....##..##..##........##.##.....##.##.....##.##.......##.....##...####.........##.##.....##.##.....##.######...########.....##....##....##.##..##.##.##.....##.##.......##...##......##....##....##.##....##..##.....##.##.......##....##.....##.....######...#####.##..#######..########.##........
 categories: programowanie
 ---
 
@@ -149,17 +149,13 @@ Biblioteka jq posiada jeszcze wiele, wiele funkcji i ma wręcz nieograniczone mo
 
 
 
-
 ## Morze pluginów
-
 
 
 Oczywiście pisząc w jq nie sposób nie skorzystać z chyba nieskończonej ilości pluginów. Z czego obowiązkowym przykładem jest jQueryUI. Biblioteka do graficznych elementów wykorzystująca potęgę jq. To co zostało nam dane przez Twórców JQUI [2]  zasługuje na największe pochwały. Otrzymujemy 8 przepięknie stworzonych kontrolek, z  wieloma możliwościami, które w bardzo prosty sposób możemy rozbudowywać oraz świetną dokumentacje. 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-4-11-_188_/g_-_608x405_-_-_24258x20110410231307_1.png)
-
  
  *Rys. 1 jqUI*   
 
@@ -168,25 +164,19 @@ Chociaż jedno zdanie muszę napisać o jQueryValidate. Plugienie do walidacji f
 Moimi pupilkiem jest jqGrid [3],[4]  . Plugin, który udostępnia nam grida ze stronicowaniem, wyszukiwaniem, sortowaniem, dodawaniem własnych przycisków, dynamicznym ładowaniem danych za pomocą ajaxa, dodawanie własnych typów komórek,... Nie wyobrażam sobie teraz jakiegoś np. Admin Panelu bez tej wtyczki.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-4-11-_188_/g_-_608x405_-_-_24258x20110410231307_2.png)
 
-
  *Rys. 2 jqGrid*   
-
 
 
 
 ## Testy
 
 
-
 Dzięki stronie [5]  , każdy może przetestować szybkość działania jq i porównać wyniki z innymi frameworkami. Test oparty jest na selektorach. Moje wyniki:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-4-11-_188_/g_-_608x405_-_-_24258x20110411173518_3.png)
-
 
  *Rys. 3 Wyniki porównania frameworków*  
 
@@ -194,13 +184,10 @@ Interpretacja jest prosta :) Jq jest w czołówce, przy czym różnice nie są d
 
 
 
-
 ## Podsumowanie
 
 
-
 Jeśli jeszcze nie znasz jq to zachęcam do przetestowania. Framework jest szybki, prosty w nauce oraz ma rewelacyjną dokumentację. Jeśli doda się do tego olbrzymią bibliotekę darmowych pluginów, faktem staje się stwierdzenie, iż jq jest tym czego poszukujemy w pracy z js :)
-
 
 
 
@@ -213,10 +200,7 @@ Jeśli jeszcze nie znasz jq to zachęcam do przetestowania. Framework jest szybk
 
 
 
-
-
 ## Powiązane
-
 
 
 [1] [http://jquery.com/ - jQuery Home](http://jquery.com/) 

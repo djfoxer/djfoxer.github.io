@@ -2,7 +2,7 @@
 layout:     post
 title:      Oprogramowanie z czasopism - wątpliwa przyjemność?
 date:       2011-06-27 23:28:00
-summary:    Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową k...
+summary:    Środek tygodnia, w skrzynce pocztowej pojawia się świeżutki numer Chipa. Jak zawsze szybko rozrywam folie (srut!), wyszukuję płytę(y) dołączonej do magazynu, gdzieś ukrytej pomiędzy stronami. Sukces! Tutaj już postępuje delikatniej, opuszkami palców dostaję się powoli do spoiwa łączącego tekturową kopertę DVD z kartką. Już tylko chwila dzieli mnie od odseparowania DVD od magazynu.... (trach)... ni...
 categories: hobby inne
 ---
 

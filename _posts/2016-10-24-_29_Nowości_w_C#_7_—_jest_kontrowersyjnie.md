@@ -2,7 +2,7 @@
 layout:     post
 title:      Nowości w C# 7 — jest kontrowersyjnie
 date:       2016-10-24 21:42:00
-summary:    Jakiś czas temu pisałem o nowościach jakie wprowadza finalna wersja C# 6. Wówczas zmiany można było przetestować w Visual Studio 2015 i spokojnie zacząć ich używać na co dzień na środowisku produkcyjnym.Będąc na tegorocznym .NET DeveloperDays słynny Jon Skeet delikatnie musnął nowości w C# 7, pokazu...
+summary:    Jakiś czas temu pisałem o nowościach jakie wprowadza finalna wersja C# 6. Wówczas zmiany można było przetestować w Visual Studio 2015 i spokojnie zacząć ich używać na co dzień na środowisku produkcyjnym.Będąc na tegorocznym .NET DeveloperDays słynny Jon Skeet delikatnie musnął nowości w C# 7, pokazując Tuple i dekompozycję. Pomimo tego opinie o zmianach były dość podzielone (z przewagą tych negaty...
 categories: porady programowanie
 ---
 
@@ -14,17 +14,13 @@ Będąc na tegorocznym .NET DeveloperDays słynny Jon Skeet delikatnie musnął 
 
 Sprawdźmy zatem całościowo jakie nowości szykują się w C# 7. Obecnie (gdy piszę te słowa) dostępne jest już testowe wydanie Visual Studio 15 (Preview 5), a także wraz z nim podglądowa wersja C# 7.
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-10-24-_29_/g_-_608x405_-_-_76985x20161024211944_0.png)
 
 
 
 
 
-
-
 ## Wymagania
-
 
 W celu przetestowania C# 7 potrzebujemy:
 
@@ -34,7 +30,6 @@ W celu przetestowania C# 7 potrzebujemy:
 
   * Dodanie do projektu paczki System.ValueTuple z NuGeta, jeśli chcemy "pobawić się" nowymi Tuplami
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2016-10-24-_29_/g_-_608x405_-_-_76985x20161024210935_0.PNG)
 
 
@@ -43,10 +38,7 @@ W celu przetestowania C# 7 potrzebujemy:
 
 
 
-
-
 ## Pattern matching
-
 
 Jednym z ciekawszych  *ficzerów*  w nowej odsłonie C# jest Pattern matching. Funkcjonalność ta daje name możliwość sprawdzenia warunku wartości, a następnie przetworzenie tej wartości, jeśli warunek jest prawdziwy. Patterns są nowymi elementami języka C#. W obecnej fazie do dyspozycji mamy następujące wzorce:
 
@@ -110,16 +102,12 @@ public void CheckData(Vehicle vehicle)
 
 
 
-
 ### Opinia
-
 
 Ciekawa funkcjonalność, która nie od początku przypadnie do gustu wszystkim, ale zapewne z biegiem czasu zyska zwolenników. Ciekawi mnie, o jakie dodatkowe konstrukcje rozszerzy Microsoft zastosowanie pattern matching w finalnej wersji C# 7.
 
 
-
 ## Tuples
-
 
 Klasę Tuple wprowadzono w C# 4. Miała być ona alternatywą do tworzenia "prywatnych" dedykowanych klas w przypadku, gdy np. chcemy jednorazowo zwrócić kilka wartości z metody.
 
@@ -188,16 +176,12 @@ Console.WriteLine($"data : {data.name},{data.login},{data.phone}");
 
 
 
-
 ### Opinia
-
 
 Przez wielu klasy Tuple do dziś są na cenzurowanym i nie bez przyczyny. Łatwo o zaciemnienie kodu właściwościowymi Item1, Item2,... . Kolejne wcielenie tupli nie przysporzy raczej olbrzymiej liczby zwolenników temu rozwiązaniu. Kod delikatnie zyska na czytelności poprzez aliasy, ale nadal obiekty będą posiadały prócz własnych nazw... pola Item1, Item2... Oprócz tego, że w oczy nie będzie kuła nazwa Tuple (wywołująca u niektórych słuszną alergię), nie zyskamy aż tak wiele. Faktem jednak jest, że aliasy pomogą w znacznie przyjemniejszej pracy z tuplami.
 
 
-
 ## Deconstruction
-
 
 Z Tuplami związana jest również nowa funkcjonalność - dekonstrukcja. Dzięki niej możemy obiekty Tuple (ale również i zwykłe klasy) rozdzielić na dedykowane zmienne. Przykład z punktu wyżej możemy rozbić zatem na różne sposoby:
 
@@ -299,16 +283,12 @@ var (userName, userLogin, userPhone) = u;
 Sugeruje się, że dekonstrukcja we własnych klasach będzie zapewne używana jako "odwrotność" konstruktora. Czas pokaże. Warto zauważyć, że dekonstruktor przyjmuję parametry wyjściowe i nie zwraca typu. Dzięki temu można przeciążyć dekonstruktor i mieć ich kilka w pojedynczej klasie.
 
 
-
 ### Opinia
-
 
 Przyznaję, że dekonstrukcja w formie w jakiej przedstawiono ją w C#7 zupełnie mnie nie przekonuje. O ile jeszcze razem z tuplami ma to jakiś sens (jeśli przełkniemy tuple jako takie), to w połączeniu z obiektami zwykłych klas jest to opcja delikatnie zbędna. Przeglądając taki kod nie do końca będziemy w stanie wiedzieli skąd takie zmienne się wzięły, co więcej, dużo będzie tu zależeć od nazw poszczególnych parametrów w dekompozycji. Dodajmy do tego jeszcze przeciążenie dekompozycji i interpretacja takiego kodu będzie już wyzwaniem.  Nie wyobrażam sobie, aby używać tego ficzeru na co dzień, przy większych projektach. Czuję, że będzie to kolejny często "banowany" bajer w rozleglejszych rozwiązaniach, niczym starszy brat - klasa Tuple.
 
 
-
 ## Out variables
-
 
 C# 7 uprzyjemnia także pracę z parametrami przekazywanymi z modyfikatorem  *out* . Do tej pory chcąc użyć metody z parametrami out, musieliśmy je wcześniej zadeklarować. Było to o tyle niewygodne, gdyż w większości przypadków zmienne te i tak były nadpisywane przez metody, do których były przekazywane. 
 
@@ -351,16 +331,12 @@ if (int.TryParse(s, out var i))
 
 
 
-
 ### Opinia
-
 
 Out variables niezmiernie przypadł mi do gustu. Rozwiązanie to jest bardzo intuicyjne i naturalne, a jednocześnie zmniejsza ilość niepotrzebnego kodu, który często był generowany przy metodach z parametrami out. Mała rzecz, ale niezmiernie cieszy. 
 
 
-
 ## Local functions
-
 
 Kolejna nowość to metody lokalne. Jest to nic innego jak możliwość deklarowania funkcji na potrzeby pojedynczej metody:
 
@@ -385,16 +361,12 @@ public string Multi(int dataId)
 Warto odnotować, że w funkcji lokalnej widoczne są zmienne z metody w której została ona zadeklarowana.
 
 
-
 ### Opinia
-
 
 Jest to dość kontrowersyjna opcja na dłuższą metę. Obawiam się, że dodawanie lokalnych funkcji w metodach może spowodować, że część kodu będzie dublowana. "Skoro nie ma czegoś co mam obliczyć, to zapewne nikt tego nie będzie używał" - takie przekonanie może doprowadzić do rozrostu lokalnych funkcji i bałaganu w kodzie. Dodatkowo jest to już jawne dawanie zielonego światła na wyrzucenie do kosza Single Responsibility Principle (SRP)...
 
 
-
 ## Return values and local variables by reference
-
 
 W C# 7 postawiono również na optymalizację. Jednym z tych przykładów jest możliwość deklarowania zmiennych po referencji i zwracania wartości poprzez referencję. 
 
@@ -426,32 +398,24 @@ public void TakeARide()
 Dzięki zastosowaniu zwracanej referencji w metodzie  *GetDataWithRef*  unika się zbędnego kopiowania danych i operuje się na oryginalnych danych.
 
 
-
 ### Opinia
-
 
 Mała drobnostka, która zapewne będzie powszechne wykorzystywana w projektach operujących na dużych strukturach danych.
 
 
-
 ## ValueTask<T>
-
 
 C# 7 pozwoli także na optymalizację kodu asynchronicznego. Do tej pory każda metoda asynchroniczna musiała zwracać  *void* ,  *Task*  lub  *Task<T>*  (gdzie Task był typem refrencyjnym). Teraz ma się to zmienić i będzie można zwracać także  *ValueTask<T>* , typ strukturalny. 
 
  *ValueTask*  ma być używany w przypadku, gdy już podczas wywołania metody asynchronicznej, znana jest zwracana wartość. Użycie tej struktury ma znacząco wpłynąć na wydajność, poprzez zmniejszenie ilości alokacji na stercie.
 
 
-
 ### Opinia
-
 
 Microsoft już ostrzega, iż poprawne wykorzystanie  *ValueTask<T>*  nie jest wcale trywialne. Użycie nowego bytu nie będzie powszechnie stosowane przez większość programistów, ale z pewnością wykorzystane zostanie w różnych zewnętrznych frameworkach i modułach. W obecnej, testowej wersji Visual Studio, nadal nie można było używać  *ValueTask* .
 
 
-
 ## Więcej expression bodied features
-
 
 W C# 6 zaprezentowano metody expression bodied, które znacząco skracały pisanie jedno linijkowych metod. C# 7 dodaje możliwość skrócenia pisania konstruktorów, destruktorów oraz getterów i setterów.
 
@@ -477,16 +441,12 @@ public class Vehicle
 
 
 
-
 ### Opinia
-
 
 Na ten moment rozszerzone użycie expression bodied nie zostało jeszcze wprowadzone. Microsoft szczyci się, że zmiany wyszły bezpośrednio od społeczności i to ona zasugerowała twórcom te nowości. Nie jestem jednak przekonany czy faktycznie powyższy kod zyskał na czytelności, a i skrócenie go o kilka nawiasów niewiele przyspiesza w ogólnym rozrachunku. Ot taka drobnostka.
 
 
-
 ## Wyjątki w wyrażeniach
-
 
 Drobnym dodatkiem jest także możliwość wyrzucania wyjątków bezpośrednio w wyrażeniach:
 
@@ -506,16 +466,12 @@ public string GetLoginFromDb(int id) =>
 
 
 
-
 ### Opinia
-
 
 Obecna wersja Visual Studio nie pozwalała na przetestowanie tej funkcjonalności. 
 
 
-
 ## Literały - usprawnienia
-
 
 C# 7 dodaje także możliwość stworzenia literałów binarnych, a także rozdzielenia wpisanych wartości znakiem "_", w celu ułatwienia czytelności zapisu: 
 
@@ -529,16 +485,12 @@ int phone = 000_000_000_111;
 
 
 
-
 ### Opinia
-
 
 Taka mała drobnostka, że może nawet nie być zauważona przez większość osób. Plusem jest głównie to, że nie trzeba pamiętać wartości heksadecymalnych przy ustawianiu bitów. 
 
 
-
 ## Wildcards
-
 
 Na koniec wspomnieć trzeba jeszcze o jednym ficzerze, który nie jest jeszcze w 100% potwierdzony w C#7. Mowa o wildcards.
 
@@ -588,17 +540,13 @@ var (userName, *) = u;
 co oznacza, iż tylko pierwszy zwracany parametr out nas interesuje.
 
 
-
 ### Opinia
-
 
 Ta funkcjonalność również nie została jeszcze udostępniona... i mam nadzieję, że jej nie będzie w finalnym C#7. Jeśli połączymy wildcardy i przeciążenia w dekompozycji to otrzymamy niestrawny kotlet, który będzie nam się odbijał przez długi czas.
 
 
 
-
 ## Podsumowanie
-
 
 C# 7 to dość kontrowersyjne zmiany. Większość nowości i usprawnień nie do końca wydaje się być bardzo przydatna. Widać tutaj, że Microsoft chce koniecznie przenieść kolejne rzeczy dostępne już w języku F# do C#. Nie wiem tylko czy jest sens wrzucanie do języka obiektowego C# elementów z funkcyjnego języka F#. W wielu miejscach C# w wersji 7 zaczyna przypominać zmiany w JS z ECMAScript 6, co nie do końca jest będzie się podobać.
 

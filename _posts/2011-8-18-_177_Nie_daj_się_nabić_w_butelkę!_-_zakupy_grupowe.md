@@ -2,7 +2,7 @@
 layout:     post
 title:      Nie daj się nabić w butelkę! - zakupy grupowe
 date:       2011-08-18 12:20:00
-summary:    Po ciekawym wpisie Ave5 odnośnie zakupów grupowych od środka, postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i du...
+summary:    Po ciekawym wpisie Ave5 odnośnie zakupów grupowych od środka, postanowiłem dodać mały poradnik, na co uważać korzystając z zakupów grupowych.  Zakupy grupowe znane są już od 2001 roku. U nas od dość niedawna, mimo wszytko  temat  jest obecnie bardzo chodliwy. Każdy chce na tym zarobić. Mały jak i duży. W Polsce mamy już (jak podaje Chip) ponad 40 serwisów. Ile z nich się utrzyma? Nie wiadomo, ale ...
 categories: porady inne
 ---
 
@@ -16,16 +16,12 @@ Wszystko wygląda z pozoru pięknie, ale część ofert niestety jest delikatnie
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120031_2.jpeg)
-
 
  *źródło: wp.pl*  
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-8-18-_177_/g_-_608x405_-_-_27253x20110818120313_1.gif)
-
  
 
 
@@ -34,9 +30,7 @@ Oto kilka typów ofert z jakimi możemy się spotkać oraz kilka zdań na co war
 
 
 
-
 ##  *1. Wycieczki* 
-
 
 
 
@@ -49,9 +43,7 @@ Wybierając ofertę turystyczną na zakupach grupowych, warto w tym przypadku na
 - zapoznaj się z terminem rezerwacji; jako, iż jest to oferta grupowa, możesz się spodziewać, iż kupując tani nocleg w hotelu, nie będziesz jedyny. Pewna oferta posiadała bardzo tani nocleg w Pradze, okazało się jednak, iż było tylu chętnych, iż część osób nie była w stanie zrealizować kuponu do wyznaczonego terminu. Warto zatem sprawdzić kiedy kupon wygasa oraz w danym przypadku spieszyć się z rezerwacją. Inaczej będziemy zmuszeniu do wyjazdu na urlop, grubo po sezonie turystycznym, za cenę jak w środku wysypu turystów.
 
 
-
 ##  *2. Usługi komputerowe* 
-
 
 
 
@@ -64,9 +56,7 @@ Usługi komputerowe często występują w postaci usług "diagnostyki" lub "prze
 
 
 
-
 ##  *3. Sprzęt komputerowy* 
-
 
 
 
@@ -79,9 +69,7 @@ Wiele ofert na zakupach grupowych oferuje sprzedaż sprzętu, po cenie często n
 
 
 
-
 ##  *4. Usługi gastronomiczne* 
-
 
 
 
@@ -92,9 +80,7 @@ Z racji tego, iż najczęściej kupuję jedzenie polecam sprawdzić:
 
 
 
-
 ##  *5. Oferty sklepów internetowych* 
-
 
 
 
@@ -105,9 +91,7 @@ Na koniec zostawiłem wisienkę na torcie ;) Z racji tego, iż sklepy internetow
  
 
 
-
 ##  *Podsumowanie* 
-
 
 
 

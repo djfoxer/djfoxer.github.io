@@ -2,16 +2,14 @@
 layout:     post
 title:      NVIDIA - nowe sterowniki + &quot;strasze&quot; gry = klops!
 date:       2010-10-26 22:48:00
-summary:    NVIDIA i jej optymalizacja sterowników..... jest faktem (i u ATI oczywiście też). Każdy o tym wie. Na rynku pojawia się nowa, wyczekiwana gra, hicior + nowa grafika. Producent wypuszcza nowe sterowniki do karty graficznej zoptymalizowane pod dany tytuł, aby móc w testach przeprowadzanych przez serwi...
+summary:    NVIDIA i jej optymalizacja sterowników..... jest faktem (i u ATI oczywiście też). Każdy o tym wie. Na rynku pojawia się nowa, wyczekiwana gra, hicior + nowa grafika. Producent wypuszcza nowe sterowniki do karty graficznej zoptymalizowane pod dany tytuł, aby móc w testach przeprowadzanych przez serwisy, prasę itp. itd wypaść jak najlepiej.Ok. Nic szczególnego. Normalka. Ale co się dzieje, kiedy po ...
 categories: sprzęt porady gry
 ---
 
 
 
 
-
 ## NVIDIA i jej optymalizacja sterowników...
-
 
 
 
@@ -25,9 +23,7 @@ Ale po kolei.
 
 
 
-
 ## A wszystko zaczęło się od...
-
 
 
 
@@ -36,9 +32,7 @@ Ale po kolei.
 
 
 
-
 ## ...zainstalowałem najnowsze wersje sterowników
-
 
 
 
@@ -47,9 +41,7 @@ Chyba nie powinno to nikogo zdziwić, procedura normalna. Większość z nas tak
 
 
 
-
 ## ...Bioshocka
-
 
 
 
@@ -59,9 +51,7 @@ Zaczynamy zabawę.
 
 
 
-
 ## Uruchamiam grę, a tu...
-
 
 
 
@@ -70,9 +60,7 @@ Zaczynamy zabawę.
 
 
 
-
 ## Przypadek 1. Bioshock
-
 
 
 
@@ -83,18 +71,14 @@ Zaczynamy zabawę.
 
 
 
-
 ## Starą grafikę sprzedałem, ale...
-
 
 
 
 ...osoba która kupiła grafikę również miała problem. Specjalnie pod kupioną moją grafikę, zainwestowała w Burnout Paradise: The Ultimate Box. Po instalacji nowych sterowników na ekranie w grze widać było artefakty:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-10-26-_195_/g_-_608x405_-_-_21185x20101026180251_1.jpg)
-
 
 
 Cóż, myślałem, że to wina pogody (zima) i chłodna karta została włożona do komputera, lub podczas transportu mogła ulec uszkodzeniu. Okazało się, że problem był w... najnowszych sterownikach. 
@@ -110,9 +94,7 @@ Przypadek 2. Burnout Paradise: The Ultimate Box
 
 
 
-
 ## Na koniec...
-
 
 
 

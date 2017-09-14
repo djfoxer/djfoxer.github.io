@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Phone —  pierwsze uruchomienie, wstępna konfiguracja oraz garść porad
 date:       2013-12-25 15:14:00
-summary:    Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz "TAK", to ten wpis jest właśnie dla Ciebie  — ) Zaprasz...
+summary:    Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz "TAK", to ten wpis jest właśnie dla Ciebie  — ) Zapraszam  — )Każdy z nas po pierwszym uruchomieniu telefonu zastanawia się jak szybko i optymalnie skonfigur...
 categories: oprogramowanie porady urządzenia mobilne
 ---
 
@@ -11,24 +11,18 @@ categories: oprogramowanie porady urządzenia mobilne
  *Dostałeś urządzenie z Windows Phone pod choinkę, ale nie miałeś nigdy styczności z systemem mobilnym od Microsoftu? Chcesz dowiedzieć się jak skonfigurować smartfon, co warto zainstalować oraz przeczytać garść porad? Jeśli odpowiedziałeś choć raz "TAK", to ten wpis jest właśnie dla Ciebie :) Zapraszam :)* 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225144701_0.jpg)
-
 
 
 Każdy z nas po pierwszym uruchomieniu telefonu zastanawia się jak szybko i optymalnie skonfigurować urządzenie. Dodatkowo dochodzi aktualizacja najważniejszych składników systemu oraz instalacja niezbędnych aplikacji. W tym poradniku przedstawię jak poprawnie przejść przez te zagadnienia i jak szybko skonfigurować urządzenie z Windows Phone.
 
 
-
 ### Używany smartfon = reset ustawień
-
 
 Jeśli kupiliśmy używany telefon warto zrobić reset ustawień. Nie ma sensu cofania zmian wprowadzonych przez kogoś, co więcej nie zmienimy konta Microsoft na własne. Wyczyszczenie smartfonu dokonamy przez menu  *Ustawienia => zakładka aplikacje=> informacje*  i klikając na przycisk  *zresetuj telefon* . W ten sposób wyczyścimy dane prywatne (ustawienia, zdjęcia, aplikacje itd.) i skonfigurujemy wszystko sami od początku.
 
 
-
 ### Wyłączenie danych komórkowych
-
 
 Pierwszą rzeczą po uruchomieniu telefonu jest wyłączenie danych komórkowych. Oczywiście jeśli ktoś ma pakiet internetowy, to jest to krok zbędny. Jednakże osoby, które nie posiadają wykupionych MB u operatora komórkowego, powinny wyłączyć tę funkcję i uruchamiać ją tylko gdy zajdzie taka potrzeba. 
 
@@ -38,15 +32,11 @@ W celu wyłączenia danych komórkowych:  *Ustawienia => zakładka system => sie
 W ten sposób system oraz aplikację w Windows Phone nie będą miały dostępu do transmisji danych (miesięczne limity i statystyki zużycia danych znajdziemy w aplikacji Data Sense, dostępnej tylko na Windows Phone 8).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225144517_0.png)
 
 
 
-
-
 ### Wybór języka polskiego
-
 
 Krok niezbędny dla osób, które kupiły urządzenie z Windows Phone pochodzące z zagranicy. Ustawienia językowe zmieniamy w menu   *Ustawienia => zakładka system => język + region*  (lub odpowiednie nazwy dla innego języka systemu). Wybieramy ustawienia jak na załączonym poniżej screenie.
 
@@ -56,44 +46,31 @@ Warto także sprawdzić czy klawiatura posiada ustawienia dla języka polskiego.
 Na koniec opcja dodatkowa. Jeśli myślimy o sterowaniu głosem, to warto dodać (jeśli nie ma) mowę dla naszego ojczystego języka. Dokonujemy tego w menu  *Ustawienia => zakładka system => mowa* . W tym miejscu w  *Język Mowy*  wybieramy  *Polski (Polska)*  (może się to wiązać z pobraniem danych z serwera Microsoftu i ponownym uruchomieniem urządzenia).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225144521_0.png)
-
-
 
 
 
 ### Dodanie konta Microsoft
 
-
 Windows Phone opiera się na koncie Microsoft i bez podpięcia go do urządzenia nie skorzystamy z marketu, nie przerzucimy zdjęć na SkyDrive, a nawet nie synchronizujemy notatek w OneNote. Jest to również sposób na zrobienie kopii listy kontaktów. Zatem jeśli już mamy dostęp do sieci, trzeba pamiętać aby dodać (lub założyć) konto Microsoft. Jeśli nie zrobiliśmy tego na początku, można zawsze dokonać tego z menu  *Ustawienia => zakładka system => poczta + konta* , poprzez  *+ dodaj konto*  wybieramy opcję  *Konto Microsoft* . W ten sposób połączymy również Windows Phone z kontem na Facebooku. Mała uwaga. Można tylko raz ustawić konto Microsoft w urządzeniu, jedyną opcją aby je zmienić to wyczyszczenie danych i reset smartfonu.
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225144524_0.png)
 
 
 
-
-
 ### Aktualizacja systemu
 
-
 Kiedy podłączymy się poprzez WiFi do sieci, warto sprawdzić aktualizacje Windows Phone. Wjedźmy w   *Ustawienia => zakładka system => aktualizacje*  i poprzez przycisk  *sprawdź aktualizacje*  zobaczmy czy Microsoft nie wydał aktualizacji dla naszego systemu. 
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225144514_0.png)
 
 
 
-
-
 ### Aktualizacja aplikacji od producentów urządzeń (OEM: Nokia, Samsung, HTC)
 
-
 Prócz aktualizacji Windows Phone, warto (a nawet powinno się) sprawdzić czy posiadamy najnowsze wersje składników od producentów urządzeń. Automatyczne sprawdzenie nie odbędzie się natychmiast i może trochę potrwać. Oczywiście nie mamy na to czasu i chcemy przyspieszyć ten proces.  W tym przypadku pomoże nam aplikacja [SysApp Pusher](http://www.windowsphone.com/pl-pl/store/app/sysapp-pusher/19d44d9e-f18e-4df1-9bce-36335242ed2e) (dostępna za darmo na Windows Phone 8). Dzięki niej szybko przejrzymy składniki od producenta smartfonu. Z racji tego, że jest to pierwsze uruchomienie SysApp Pusher, na liście u wybranej firmy OEM, należy po kolei sprawdzić każdą z aplikacji (szczególnie zakładkę  *System* ) w celu sprawdzenia czy nie ma aktualizacji. Warto także sprawdzić inne wbudowane oprogramowanie (np. Here Map i Here Drive dla Nokii), więcej o SysApp Pusher w krótkim [newsie](http://www.dobreprogramy.pl/SysApp-Pusher-pomoze-zaktualizowac-oprogramowanie-OEM-w-Windows-Phone,News,46515.html). Tutaj mała uwaga, w Lumiach posiadających Here Drive bez plusa (np. Nokia Lumia 520, 720) aktualizację tej aplikacji dokonamy poprawnie tylko z marketu ( *Sklep => Nokia collection* ).
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225145033_0.png)
@@ -101,32 +78,23 @@ Prócz aktualizacji Windows Phone, warto (a nawet powinno się) sprawdzić czy p
 
 
 
-
-
 ### Przenoszenie kontaktów i danych ze starego urządzenia
 
-
 Jeśli do tej pory używany stary telefon miał Bluetooth, to w prosty sposób można przenieść listę kontaktów, wiadomości, a nawet zdjęcia na nowy smartfon z Windows Phone. Wystarczy pobrać z marketu aplikację [Przekaż moje dane](http://www.windowsphone.com/pl-pl/store/app/przeka%C5%BC-moje-dane/dc08943b-7b3d-4ee5-aa3c-30f1a826af02) (tylko Lumie) i połączyć się ze starym urządzeniem za pomocą Bluetootha. W ten sposób skopiujemy z Symbiana, Androida, iOSa, BlackBerry, Windows Phone i innych systemów kontakty na  nowy smartfon oraz inne dane. Operacja jest szybka i prosta.
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131227133612_0.png)
 
 
-
 Kontakty możemy również przenieść w tradycyjny sposób poprzez import z karty SIM ( *Ustawienia => zakładka aplikacje=> kontakty*  i klikamy na  *importuj kontakty z karty SIM* ).
-
 
 
 ### Zalecane aplikacje
 
-
 Każdy z nas ma listę aplikacji, które instaluje na świeżym systemie. W przypadku Windows Phone jest podobnie. Wybrałem tylko takie, które faktycznie na dzień dzisiejszy wydają się najbardziej potrzebnymi do codziennej pracy i zabawy. Oto lista: 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225145632_0.png)
-
 
 
 
@@ -168,16 +136,12 @@ Każdy z nas ma listę aplikacji, które instaluje na świeżym systemie. W przy
 
 
 
-
 ### Przedłużenie życia na baterii
-
 
 Z racji tego, że obecnie smartfony mają coraz większe ekrany, często są prawie 24h na dobę online, sprawia to, że bateria nie wytrzymuje nawet całego dnia bez doładowania. W celu wydłużenia życia na baterii, przedstawiam kilka najważniejszych rad:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225145805_0.png)
-
 
 
 
@@ -265,15 +229,11 @@ warto sprawdzić w Data Sense, które aplikacje najwięcej wykorzystują transmi
 
 
 
-
 ### Ogólnie
 
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-25-_76_/g_-_608x405_-_-_51174x20131225145624_0.jpg)
-
 
 
 Z racji tego, że smartfony są coraz częściej elementem naszego portfela, warto zabezpieczyć dostęp do systemu. Na pewno w przyszłości pokusimy się o pobranie aplikacji bankowej, a nawet już teraz część z nas otrzymuje potwierdzenia operacji na koncie poprzez SMS. W celu zabezpieczenia smartfonu przed niepowoływanymi osobami ustawmy blokowanie ekranu na hasło ( *Ustawienia => zakładka system => ekran blokady* , w tym miejscu aktywujemy przełącznik  *Hasło*  i ustawiamy opcje  *Wymagaj hasło po*  -  *za każdym razem* ).
@@ -289,8 +249,6 @@ Własny dzwonek skomponujemy przez aplikację Twórca dzwonków ([WP7](http://ww
 
 
 
-
 ### Co jeszcze?
-
 
 Oczywiście to nie wszystkie wskazówki/porady. Jeśli macie jakieś pytania lub propozycje związane z uzupełnieniem tematu to śmiało piszcie. 

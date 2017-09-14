@@ -2,7 +2,7 @@
 layout:     post
 title:      Managed Extensibility Framework — system pluginów do aplikacji .NET od Microsoftu 
 date:       2017-03-22 16:42:00
-summary:    W poprzednim wpisie pokazałem jak szybko stworzyć własne okienko w Visual Studio (timer w okienku IDE). Dziś opiszę MEF, czyli framework do tworzenia lekkich aplikacji i pisania rozszerzeń do nich. To właśnie na nim opiera się IDE od Microsoftu.MEF w teoriiObecnie MEF (Managed Extensibility Framewor...
+summary:    W poprzednim wpisie pokazałem jak szybko stworzyć własne okienko w Visual Studio (timer w okienku IDE). Dziś opiszę MEF, czyli framework do tworzenia lekkich aplikacji i pisania rozszerzeń do nich. To właśnie na nim opiera się IDE od Microsoftu.MEF w teoriiObecnie MEF (Managed Extensibility Framework) jest komponentem .NET 4.0. Biblioteka powstała jako odpowiedź na zapotrzebowania programistów w t...
 categories: windows porady programowanie
 ---
 
@@ -11,16 +11,12 @@ categories: windows porady programowanie
 W poprzednim wpisie pokazałem jak szybko stworzyć własne okienko w Visual Studio ([timer w okienku IDE](https://www.dobreprogramy.pl/djfoxer/Pierwszy-dodatek-do-Visual-Studio-timer-w-okienku-IDE,79926.html)). Dziś opiszę MEF, czyli framework do tworzenia lekkich aplikacji i pisania rozszerzeń do nich. To właśnie na nim opiera się IDE od Microsoftu.
 
 
-
 ## MEF w teorii
-
 
 Obecnie MEF (Managed Extensibility Framework) jest komponentem .NET 4.0. Biblioteka powstała jako odpowiedź na zapotrzebowania programistów w tworzeniu aplikacji, które mogłyby być rozszerzalne poprzez zewnętrzne pluginy (reużywalne). Jest on zbiorem wcześniejszych doświadczeń, który pozwala w prosty sposób na zaimplementowanie systemu rozszerzeń w każdej aplikacji .NET, bez tworzenia kolejnego frameworku od zera.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-22-_17_/g_-_608x405_-_-_80021x20170321131143_0.png)
-
 
 
 MEF można uznać za bibliotekę pozwalająca na Dependency Injection opartą na atrybutach. Pozwala ona na tworzenie aplikacji na zasadzie odkrywania (wyszukiwania) rozszerzeń i ładowania ich dynamicznie do programu. Takie dodatki mogą być reużywalne przez różne aplikacje. MEF umożliwia dla programu, do którego ładowane są wtyczki, stworzenie sposobu na identyfikację i walidację takiego zewnętrznego kodu,  a także jego uruchomienie.
@@ -28,9 +24,7 @@ MEF można uznać za bibliotekę pozwalająca na Dependency Injection opartą na
 Managed Extensibility Framework pozwala zarówno na tworzenie wtyczek, jak i aplikacji, które będę z nich korzystać. Framework umożliwia także rozszerzanie platformy o własne rozwiązania i biblioteki, bazując na MEF. Visual Studio korzysta z MEF i pozwala w ten sposób na pisanie dodatków, powiększających możliwości IDE. 
 
 
-
 ### Composition container, catalog, parts
-
 
 
 Aplikacje pisane w MEF bazują na podstawowych elementach: kontener z kompoyzcją (composition container), katalog (catalog) i elementy (parts).
@@ -50,16 +44,12 @@ Aplikacje pisane w MEF bazują na podstawowych elementach: kontener z kompoyzcj�
  
 
 
-
 ## MEF w praktyce
-
 
 Zobaczmy zatem jak sprawuje się MEF. W tym celu tworzymy zwykłą aplikację konsolową, którą wykorzysta mechanizm pluginów (pamiętając jednocześnie o dodaniu referencji  *System.ComponentModel.Composition* !).
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-22-_17_/g_-_608x405_-_-_80021x20170321140941_0.PNG)
-
 
 
 Aplikacja konsolowa będzie uruchamiała naszego  *hosta* , który to będzie rozszerzony o autorski plugin.
@@ -198,18 +188,13 @@ container.ComposeParts(this);
 Po uruchomieniu otrzymamy taki ekran:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-22-_17_/g_-_608x405_-_-_80021x20170321220233_0.PNG)
-
-
 
 
 
 ## MEF i Visual Studio
 
-
 Po co nam wiedza o MEF? Otóż edytor w Visual Studio został oparty na MEF. Zatem napisanie jakiegokolwiek pluginu do IDE od Microsoftu będzie wymagało dotknięcia do MEF. O czym już konkretniej w kolejnej części.
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-22-_17_/g_-_608x405_-_-_80021x20170321220231_0.png)
@@ -217,12 +202,7 @@ Po co nam wiedza o MEF? Otóż edytor w Visual Studio został oparty na MEF. Zat
 
 
 
-<blockquote>
-<p>Źródła dostępne są na GitHubie (branch master i POC):
-
-[https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)</p>
-</blockquote>
-
+> Źródła dostępne są na GitHubie (branch master i POC):
+> [https://github.com/djfoxer/healthyWithVS/](https://github.com/djfoxer/healthyWithVS/)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-3-22-_17_/g_-_608x405_-_-_80021x20170321220545_0.png)
-

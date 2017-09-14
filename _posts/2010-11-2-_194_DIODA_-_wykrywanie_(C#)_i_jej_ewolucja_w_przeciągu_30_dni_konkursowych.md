@@ -2,7 +2,7 @@
 layout:     post
 title:      DIODA - wykrywanie (C#) i jej ewolucja w przeciągu 30 dni konkursowych
 date:       2010-11-02 11:59:00
-summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w "zawodach" co chwile musiały sprawdzać czy na stronie nie ma żółtej "gwiazdeczki". To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez te...
+summary:    Dioda konkursowa - Intel królem marketinguSam pomysł na formę konkursu z diodą jest genialny. Osoby biorące udział w "zawodach" co chwile musiały sprawdzać czy na stronie nie ma żółtej "gwiazdeczki". To automatycznie sprawiało, iż liczba użytkowników oglądających portal, z pewnością wzrosła przez ten miesiąc. Mam nadzieje, że redakcja udostępni jakieś statystyki, odnośnie użytkowników biorących ud...
 categories: programowanie hobby inne
 ---
 
@@ -39,9 +39,7 @@ Uffff, zaraz, miało być o wykrywaniu diody, a nie jakieś analizy konkursu:) Z
 
 
 
-
 ## Dioda konkursowa od kuchni
-
 
 
 Opisany sposób jest jedynie informacja, o tym jak można było wykryć diodę jednym z wielu, wielu sposobów. 
@@ -55,9 +53,7 @@ Jednakże już samo spojrzenie na sam plik swf, sugerowało, iż jest inaczej. G
 Następnie należało odkryć skąd jest brany kolor diody. Z pomocą przyszedł dodatek Firebug do Firefoxa, po jego uruchomieniu otrzymałem coś niezwykle pomocnego:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030155748_1.png)
-
  *Rys. 1 Dioda w ostatnim dniu konkursu* 
 
 Na załączonym obrazu widać, iż tło z diodą pobierane jest z web serwisu. Musimy zatem pobrać te tło i odpowiednio je zinterpretować, aby móc wykryć żółtą diodę.
@@ -65,9 +61,7 @@ Na załączonym obrazu widać, iż tło z diodą pobierane jest z web serwisu. M
 Zdjęcie pochodzi z ostatniego dnia konkursowego. 
 
 
-
 ## Dioda miała kilka wcieleń podczas całego konkursu. Postaram się opisać każde z nich oraz sposób wykrycia żółtej diody. 
-
 
 
 
@@ -89,9 +83,7 @@ Smacznego!
 
 
 
-
 ## I jeszcze coś...
-
 
 
 Po przeanalizowaniu regulaminu konkursu, nie znalazłem nic, co mówiło by o tym, iż nie można używać aplikacji do sprawdzania diody. Dodatkowo wiele osób w  komentarzach pod wpisami na stronie głównej chwaliło się swoimi programami. A, że czołówka w większość miała aplikacje jakieś własne, to chyba nikt w to nie wątpi. 
@@ -99,18 +91,14 @@ Po przeanalizowaniu regulaminu konkursu, nie znalazłem nic, co mówiło by o ty
 
 
 
-
 ## Dioda 1.x
-
 
 
  */Analiza - Dioda 1.0/* 
 Pierwsza dioda była bardzo prosta:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165340_2.png)
-
  *Rys. 2 Dioda 1.x zwracana przez web serwis*  
 
 Zabezpieczaniem był prostokąt zawierający losowe kolory pikseli. Co uniemożliwiało sprawdzenie, czy web serwis zwraca diodę żółtą, na podstawie rozmiaru/sumy kontrolnej obrazka. 
@@ -210,9 +198,7 @@ Ogólna ocena:
 
 
 
-
 ## Dioda 2.x
-
 
 
  */Analiza - Dioda 2.0/* 
@@ -220,9 +206,7 @@ Ogólna ocena:
 Kolejne wcielenie diody było miłym zaskoczeniem. Ktoś tam po drugiej stronie włożył w to sporo pracy. Nazwałem tą wersje 2.0, gdyż zmiany są dość znaczące: (kliknij by powiększyć!)
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-2-_194_/g_-_608x405_-_-_21254x20101030165525_3.png)
-
  *Rys. 3 Dioda 2.x*   
 
 Jak zwykle z pomocą przyszedł Firebug. Z załączonego obrazka widzimy, iż bitmapa zwracana przez web serwis, już jest inna. Znajdują się na niej 8 diod. Nawet gdy nie było pytania, zawierała ona zarówno niebieskie, jak i żółte diody. Celem było znalezienie w jaki sposób wybierana jest dioda poprawna, do wyświetlenia. 
@@ -319,9 +303,7 @@ Ogólna ocena:
 
 
 
-
 ## Podsumowanie
-
 
 
 

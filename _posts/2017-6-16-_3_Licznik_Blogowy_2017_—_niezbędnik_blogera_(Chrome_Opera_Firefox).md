@@ -2,7 +2,7 @@
 layout:     post
 title:      Licznik Blogowy 2017 — niezbędnik blogera (Chrome/Opera/Firefox)
 date:       2017-06-16 18:40:00
-summary:    Nadeszła ta chwila. Po wielu latach oficjalnie światło dziennie ujrzała finalna wersja Licznika Blogowego. Dodatku do przeglądarki www, który pozwala na zbieranie danych o każdym blogu na portalu (nawet bez logowania!) i przedstawieniu statystyk w formie tekstowej i graficznej.HistoriaHistoria Liczn...
+summary:    Nadeszła ta chwila. Po wielu latach oficjalnie światło dziennie ujrzała finalna wersja Licznika Blogowego. Dodatku do przeglądarki www, który pozwala na zbieranie danych o każdym blogu na portalu (nawet bez logowania!) i przedstawieniu statystyk w formie tekstowej i graficznej.HistoriaHistoria Licznika Blogowego sięga roku 2014. Wówczas to na początku roku powstaje dodatek do Chrome, który zbiera ...
 categories: oprogramowanie internet programowanie
 ---
 
@@ -11,15 +11,11 @@ categories: oprogramowanie internet programowanie
 Nadeszła ta chwila. Po wielu latach oficjalnie światło dziennie ujrzała finalna wersja Licznika Blogowego. Dodatku do przeglądarki www, który pozwala na zbieranie danych o każdym blogu na portalu (nawet bez logowania!) i przedstawieniu statystyk w formie tekstowej i graficznej.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610185132_0.png)
 
 
 
-
-
 ## Historia
-
 
 Historia Licznika Blogowego sięga roku 2014. Wówczas to na [początku roku powstaje](https://www.dobreprogramy.pl/djfoxer/Licznik-Blogowy-wtyczka-do-ChromeOperyFirefoxa-dla-kazdego-Blogera-portalu-aktualizacja-08.04.14-nowe-funkcjonalnosci-0.6,51846.html) dodatek do Chrome, który zbiera dane odnośnie wyświetleń wszystkich wpisów blogowych zalogowanej osoby. W przeciągu najbliższych miesięcy wtyczka otrzymuje możliwość instalacji na przeglądarkach Firefox i Opera, a także tworzenie wykresów na podstawie zebranych danych.
 
@@ -27,9 +23,7 @@ Niestety w przeciągu lat portal przeszedł na https, a możliwość instalacji 
 W ostatnim czasie otrzymałem sporo zapytań odnośnie reaktywacji wtyczki i przyszedł ten czas, aby zaprezentować finalną wersję.
 
 
-
 ## Licznik Blogowy
-
 
 
 
@@ -38,9 +32,7 @@ Licznik Blogowy przeznaczony jest do analizy blogów na portalu [dobreprogramy.p
 Licznik Blogowy dodaje przycisk nad avatarem, który znajduje się na stronie domowej autora bloga. Wtyczka działa dla każdego bloga, nie trzeba być zalogowanym. Jeśli jednak jesteś zalogowany, wówczas Licznik Blogowy przedstawi jeszcze więcej statystyk po wejściu na Twojego bloga.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610184324_0.png)
-
 
 
 
@@ -70,9 +62,7 @@ Stworzoną przez aplikację listę można posortować względem:
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610184324_1.png)
-
 
 
 
@@ -117,19 +107,13 @@ Dodatkowo, klikając na przycisk  *pokaż wykresy*  uruchomimy opcję do generow
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610184517_0.png)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610184518_0.png)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170610184519_0.png)
-
 
 
 
@@ -137,78 +121,48 @@ Wtyczka integruje się całkowicie ze stroną. Menu do sortowania wpisów, a tak
 
 Wtyczka dostępna jest w markecie przeglądarek Chrome, Firefox i Opera:
 
-<blockquote>
-<p>Licznik Blogowy dobreprogramy - Chrome
 
-[Link do marketu](https://chrome.google.com/webstore/detail/licznik-blogowy-dobreprog/omplpihocnjpfdjkmdabalakfiebefpp?hl=pl)
-
-
-
-</p>
-</blockquote>
-
+> Licznik Blogowy dobreprogramy - Chrome
+> [Link do marketu](https://chrome.google.com/webstore/detail/licznik-blogowy-dobreprog/omplpihocnjpfdjkmdabalakfiebefpp?hl=pl)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170613203055_0.PNG)
 
 
 
-<blockquote>
-<p>Licznik Blogowy dobreprogramy - Opera
-
-[Link do marketu](https://addons.opera.com/pl/extensions/details/licznik-blogowy-dobreprogramy/)
-
-
-
-</p>
-</blockquote>
-
+> Licznik Blogowy dobreprogramy - Opera
+> [Link do marketu](https://addons.opera.com/pl/extensions/details/licznik-blogowy-dobreprogramy/)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170613164648_0.PNG)
 
 
 
 
-<blockquote>
-<p>Licznik Blogowy dobreprogramy - Firefox
-
-[Link do marketu](https://addons.mozilla.org/pl/firefox/addon/licznik-blogowy-dobreprogramy/)
-
-</p>
-</blockquote>
-
+> Licznik Blogowy dobreprogramy - Firefox
+> [Link do marketu](https://addons.mozilla.org/pl/firefox/addon/licznik-blogowy-dobreprogramy/)
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170614165441_0.PNG)
 
 
 
 
-
-
 ## Co nowego pod maską?
-
 
 Sama wtyczka obecnie pobiera znacznie więcej danych. Po wielu walkach udało się stworzyć moduł, który pobiera wszystkie komentarze pod wpisami blogera z informacją kto skomentował, kiedy i ile dostał lajków (stąd też wzrósł czas pobierania danych i ich ilość). Umożliwiło to stworzenie nowych wykresów i statystyk, o których wcześniej nie było mowy. Znacznie uatrakcyjniło to wtyczkę i jej możliwości. Takie statystyki jak  *Top komentatorzy naszych wpisów*  czy podział komentarzy na lata/miesiące/dni tygodnia/pory dnia mówią sporo o zainteresowaniu naszym blogiem i wpisami. Ciekawą nową grafiką jest także wykres  *średnia liczba komentarzy na wpis rocznie* , która powie nam co nieco o komentarzach na przestrzeni lat.
 
 Jak zapewne zauważyliście wtyczka działa nie tylko na blogu zalogowanej osoby, ale wszystkich blogach (nie trzeba być nawet zalogowanym). Wystarczy wejść na dowolnego bloga, aby zebrać statystyki. Oczywiście nie będą one tak bogate, jak przy analizie własnego bloga (brak danych odnośnie wyświetleń, moderacji i wpisów na głównej), ale jest to zapewne ciekawa opcja dla części z was.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170613170125_0.png)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-6-16-_3_/g_-_608x405_-_-_81509x20170613170125_1.png)
 
 
 
-
 Samo pobieranie statystyk również zostało zoptymalizowane i obecnie pobiera  mniej danych. Również naprawiono wszelakie błędy jakie pojawiały się w skrajnych przypadkach. Zaktualizowałem także użyte wtyczki i trochę wyczyściłem kod. Można uznać, że jest to niemal nowa wtyczka od strony kodu.
 
 
-
 ## Certyfikacja wtyczki - nie było łatwo
-
 
 
 Wtyczki umieszczone są obecnie w oficjalnych marketach przeglądarek. Tu również trzeba było poświęcić sporo czasu i nie tylko czasu. Dostanie się do sklepu Chrome wymagało... uiszczenia opłaty w wysokości $5. Dziwne, w porównaniu do tego, że pozostałe przeglądarki nie wymagają wpłaty. No cóż zapłaciłem, nich będzie. Okazało się, że dzięki temu wszelakie aktualizacje wtyczki są publikowane znacznie szybciej, a proces certyfikacji jest niemal natychmiastowy. Co ma też swoje minusy, gdyż nie ma tu wnikliwego sprawdzania kodu.
@@ -222,9 +176,7 @@ Bez przygotowania wcześniejszego, certyfikacja wtyczki możne potrwać nawet ki
 Planuję wrzucić także wtyczkę na Edge. Ogólnie dodatek działa już wyśmienicie, ale MS ma dziwną politykę i przed pierwszą publikacją do marketu wymaga wysłania prośby o aktywacje dostępu do sklepu z wtyczkami. Dziwne. Ogólnie czekam na aktywację i wrzucam Licznik Blogowy na przeglądarkę Edge. 
 
 
-
 ## Co dalej?
-
 
 Wtyczka będzie na pewno dalej rozwijana. Jeśli macie jakieś ciekawe propozycje odnośnie tego co powinno się jeszcze znaleźć w Liczniku Blogowym to piszcie w komentarzach. Również proszę zgłaszać wszelakie błędy i nieprawidłowości. 
 

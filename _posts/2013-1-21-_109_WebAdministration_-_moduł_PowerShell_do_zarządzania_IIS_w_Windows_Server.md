@@ -2,7 +2,7 @@
 layout:     post
 title:      WebAdministration - moduł PowerShell do zarządzania IIS w Windows Server
 date:       2013-01-21 18:07:00
-summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia ...
+summary:    Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Server. Wcześniejszy wpis poświęciłem narzędziu AppCmd (AppCmd - zarządzanie IIS z wiersza poleceń w Windows Server). Bardzo poręczny i bogaty w możliwości program do nadzorowania IIS z systemowej konsoli. Ten wpis przedstawia zaś moduł WebAdministration w PowerShellu. Dzięki niemu można również kontrolować działanie IISa, al...
 categories: windows porady serwery
 ---
 
@@ -12,9 +12,7 @@ Nadal będzie o alternatywnej (bez użycia GUI) konfiguracji IIS w Windows Serve
 
 
 
-
 ## Przygotowanie do pracy
-
 
 Aby móc zacząć pracę należy uruchomić PowerShella na prawach administratora. Aby załadować omawiany moduł wpisujemy:
 
@@ -34,9 +32,7 @@ Jeśli nie chcemy za każdym razem ładować modułu w PowerShellu, wystarczy, i
 
 Podczas tworzenia skryptów warto jednak używać Windows PowerShell ISE (Integrated Scripting Environment). Uprzyjemnia pracę w pisaniu dzięki zakładkom, debugowaniu, czy dynamicznemu intellisense. Znajdziemy go w :  *%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell_ise.exe*  
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-21-_109_/g_-_608x405_-_-_38739x20130120224054_0.png)
-
 
 
 Dostępne polecenia znajdziemy szybko poprzez:
@@ -55,9 +51,7 @@ Get-Help [polecenie cmdlet]
 
 
 
-
 ## Hierarchia
-
 
 WebAdministration posiada hierarchę na wzór tego jak jest  w IIS:
 
@@ -104,9 +98,7 @@ Każdy z elementów drzewa jest wirtualnym folderem. Działają zatem polecenia 
 Poleceń  modułu jest dokładnie 79 i w połączeniu ze składnią PowerShella dają one duże pole do popisu dla osób tworzących skrypty. Moduł WebAdministration pozwala na zarządzanie każdym elementem IIS. Tworzenie witryn, aplikacji, puli aplikacji, wirtualnych folderów, backupu, konfiguracji i wszelkie manipulacje nimi. Pokazanie wszystkich możliwości modułu zajęłoby zapewne potężny rozdział w grubej książce. W tym wpisie przedstawię kilka prostych przykładów i na końcu skrypt, który będzie korzystał z omawianych poleceń. 
 
 
-
 ## Przykłady
-
 
 
 
@@ -217,9 +209,7 @@ while (1)
 
 
 
-
 ## Podsumowanie
-
 
 
 Moduł WebAdministration do PowerShella, to kolejny po [AppCmd](http://www.dobreprogramy.pl/djfoxer/AppCmd-zarzadzanie-IIS-z-wiersza-polecen-w-Windows-Server,38643.html) sposób na zarządzanie IIS bez użycia GUI. Duże możliwości jakie oferuje PS sprawiają, iż jest to wyśmienite narzędzie do tworzenia zarówno prostych jak i zaawansowanych skryptów z modułem WebAdministration.

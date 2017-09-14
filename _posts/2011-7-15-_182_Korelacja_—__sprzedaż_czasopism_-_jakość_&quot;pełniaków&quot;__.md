@@ -2,7 +2,7 @@
 layout:     post
 title:      Korelacja —  sprzedaż czasopism - jakość &quot;pełniaków&quot; ?
 date:       2011-07-15 23:12:00
-summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do "badania" wziąłem dwa czasopisma —  CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość ...
+summary:    W tym wpisie chciałbym, z czystej ciekawości sprawdzić, czy istnieje jakakolwiek korelacja pomiędzy sprzedażą czasopism, a atrakcyjnością (ocenami) pełniaków zawartych w nich.Do "badania" wziąłem dwa czasopisma —  CD Action oraz PLAY!. Oba będąc w Związku Kontroli Dystrybucji Prasy udostępniają ilość sprzedanych egzemplarzy. Dodatkowo, dzięki temu, iż są to magazyny o grach, łatwiej będzie sprawdzić...
 categories: hobby inne
 ---
 
@@ -35,9 +35,7 @@ Tak to wygląda "na sucho". Po więcej zapraszam do genialnej książki "Statyst
 Na początek, wyniki sprzedaży. Nikogo nie powinny zdziwić statystyki. CD Action od lat jest liderem prasy o grach, PLAY! ociera się już o granice wypłacalności. CD Action jest bardziej miarodajny niż PLAY!, które zostało wzięte do obliczeń jedynie jako ciekawostka i jako możliwość porównania danych ze statystykami CD Action. Dodatkowo PLAY! funduje czytelnikom prócz gier, które pochodzą "znikąd", to jeszcze często mają "czyszczenie magazynów" (pełne wersje gier z poprzednich miesięcy). Wiadomo, iż nie sprzyja to zwiększeniu sprzedaży.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_1.png)
-
 
  *Wykres nr 1* 
 
@@ -67,9 +65,7 @@ Problemem, mimo wszystko, okazała się ocena gier. Odpada szukanie pojedynczych
 Oto lista gier z ocenami w nawiasach:
 
 
-
 ## CD Action
-
 
 
 
@@ -92,9 +88,7 @@ kwi-11 Call of Juarez: Bound in Blood (78), Bionic Commando (69), Shaun White Sn
 
 
 
-
 ## PLAY!
-
 
 
 
@@ -140,16 +134,12 @@ wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,1
 
 
 
-
 ## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a średnią ocena  pełnych wersji gier 
 
 
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110714180415_2.png)
-
 
  *Wykres nr 2 / Wykres nr 3* 
 
@@ -173,9 +163,7 @@ wartość  *ta*  odczytana z tablic t Studenta ( *a = 0,05; a = 14 * ) to:  *2,1
 
 
 
-
 ## Podsumowując, nie wykryto zależności pomiędzy sprzedażą CD Action, a medianą ocen  pełnych wersji gier (można było się spodziewać, analizując średnią ocen i wykresy dla obu statystyk (wykres nr 2 i 3)) 
-
 
 
 
@@ -201,9 +189,7 @@ Podsumowując ten krok: możemy założyć, iż istnieje korelacja (powiązanie)
 Wykres nr 5 - przedstawia wykres dwóch cech: sprzedaż X ocena. Poprowadzono linie trendu. Widać, iż dla danych z maksymalną oceną, występuje korelacja.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-7-15-_182_/g_-_608x405_-_-_25771x20110715222214_3.png)
-
 
  *Wykres nr 4 / Wykres nr 5* 
 

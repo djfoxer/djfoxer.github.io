@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Azure - przyszłośc w chumrach?
 date:       2010-11-20 18:43:00
-summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platform...
+summary:    Rewolucja czy ewolucja?Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft. Rys 1. Diagram platformy Azure Ogólnie patrząc, Azure oferuje nam —  zestaw usług dostępnych w chmurze, infrastrukturę do hos...
 categories: sprzęt programowanie serwery
 ---
 
@@ -13,9 +13,7 @@ Rewolucja czy ewolucja?
 Windows Azure - usługa (system) do przechowywania danych w chmurze oraz udostępniania infrastruktury, za ustaloną cenę. Premiera Azura w Polsce miała miejsce jakiś czas temu. Jest to ciekawa technologia, oparta na chmurze, przedstawiona przez Microsoft.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120155952_1.jpg)
-
  
  *Rys 1. Diagram platformy Azure * 
 
@@ -26,9 +24,7 @@ Mówią nam, że pomysł nie jest nowy. Przykładem niech będzie prąd. Płacim
 
 
 
-
 ## Szczegóły Microsoft Azure
-
 
 
 
@@ -82,9 +78,7 @@ Pamięć: 14 GB
 Storage: 2040 GB 	
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120163825_2.jpg)
-
  
  *Rys 2. Jedno z setek, rozsianych po świecie, Data Center Azura (na zdjęciu w San Antonio) * 
 
@@ -92,9 +86,7 @@ Storage: 2040 GB
 
 
 
-
 ## Cena
-
 
 
 
@@ -119,18 +111,14 @@ Przeglądając te dane dojdziemy do wniosku, iż nie są to ceny atrakcyjne. Us�
 
 
 
-
 ## Jak rozpocząć przygodę z Azure?
-
 
 
 Aby móc rozpocząć pracę z Azure należy zarejestrować się na Microsoft Online Services [5] (Rysunek 3.). Niezbędne jest posiadanie Windows Live Id! Na stronie [5] aktywujemy podstawowy pakiet Azure. Rejestracja jest długa i mało intuicyjna. Musimy posiadać kartę kredytową już na etapie rejestracji! 
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-20-_191_/g_-_608x405_-_-_21587x20101120175757_3.png)
-
  
  *(Kliknij aby powiększyć)
 Rys 3. Konto na Microsoft Online Services [4] 
@@ -143,9 +131,7 @@ Od strony programisty przygotowano Toolkit Azura dla Visual Studio 2010. Wymagan
 
 
 
-
 ## Dlaczego Azure?
-
 
 
 Azure, a w sumie i ogólna postać chmury, daje nam niewątpliwie wiele zalet:
@@ -172,9 +158,7 @@ Sama technologia Azure jest bardzo ciekawa i ma wiele zalet, jednak już przy pi
 
 
 
-
 ## Słowem podsumowania
-
 
 
 

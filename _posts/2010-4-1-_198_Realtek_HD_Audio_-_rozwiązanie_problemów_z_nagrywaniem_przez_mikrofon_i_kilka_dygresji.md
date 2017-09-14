@@ -2,7 +2,7 @@
 layout:     post
 title:      Realtek HD Audio - rozwiązanie problemów z nagrywaniem przez mikrofon i kilka dygresji
 date:       2010-04-01 11:09:00
-summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić — - włączenie boosta (problem —  słaba słyszalność nagrywania przez mikrofon) - "naprawa" dźwięku na...
+summary:    Słowem wstępuWitam serdecznie na moim blogu. To jest pierwszy wpis, jak widać;).Chciałbym w nim poruszyć temat problemów z nagrywaniem przez mikrofon na karce Realtek HD Audio, czyli w jaki sposób zrobić — - włączenie boosta (problem —  słaba słyszalność nagrywania przez mikrofon) - "naprawa" dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., n...
 categories: windows oprogramowanie porady
 ---
 
@@ -20,9 +20,7 @@ Zapraszam do lektury :)
 
 
 
-
 ### Jak to się zaczęło
-
 
 
 
@@ -34,9 +32,7 @@ Znalezienie rozwiązania trochę mi zajęło czasu, więc che podzielić się z 
 
 
 
-
 ### Menadżer Realtek HD Audio - jakie to jest brzydkie
-
  
 
 
@@ -49,9 +45,7 @@ Ogólnie nie przekonuje mnie to co zrobili panowie z Realtek'a. Ale może to tyl
 
 
 
-
 ## Włączenie boosta (problem: słaba słyszalność nagrywania przez mikrofon)
-
 
 
 
@@ -67,29 +61,21 @@ Aby włączyć boosta (zwiększenie wydajność mikrofonu) musisz:
 5. Bingo! Mamy to! :) Okienko do włączenia zwiększenia wydajność mikrofonu! Zaznaczamy i cieszymy się tym, iż nasi rozmówcy wreszcie nasz słyszą głośno!
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_1.png)
-
  
-
 
 
 ### Aktualizacja: Windows Vista/7/8
 
 
-
 W przypadku nowych systemów Windows,boost ukryty jest w zakładce  *Mikrofon* , pod mało czytelną ikoną (zaznaczone na zrzucie ekranu): 
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20130220093911_0.jpg)
 
 
 
-
-
 ## "Naprawa" dźwięku nagrywanego przez mikrofon (wyłączenie rejestrowania dźwięku z komputera np. dźwięk z gry, mp3 itp., na mikrofon)
-
 
 
 
@@ -105,18 +91,14 @@ Nie jest to raczej duży problem, ale mimo, iż mam duże doświadczenie z kompu
 5. W taki oto sposób pozbyliśmy się nagrywania przez mikrofon inny dźwięków z komputera (mp3/radio/gry/ dźwięki systemowe i inne)
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20100401110221_2.png)
-
  
 
 
 
 
 
-
 ## Na zakończenie
-
 
 
 
@@ -128,19 +110,13 @@ P.S.
 Odnośnie gry Cod4: MW, jeśli kogoś interesuje jak pozbyć się lagów w tej grze, które spowodowane są przez "rewelacyjnego" PunkBuster proszę o info w komentarzach.
 
 
-
 ## Aktualizacja
 
 
-
-
 ### Windows 7, 8, 10
-
 
 Jeśli macie problemy na nowszych systemach, warto zainstalować aplikację [Volume2](http://www.dobreprogramy.pl/Volume2,Program,Windows,38701.html).
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-4-1-_198_/g_-_608x405_-_-_17467x20161215212909_0.png)
-

@@ -2,7 +2,7 @@
 layout:     post
 title:      Software Informer - panaceum na wszelkie bolączki
 date:       2010-11-12 15:50:00
-summary:    Update allKażdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki  — P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawd...
+summary:    Update allKażdy wie, że ze względu na bezpieczeństwo, warto mieć zawsze (ok, są wyjątki  — P) najnowsze wersje aplikacji, zainstalowanych na dysku. Jeśli mamy na dysku tylko przysłowiowego  Worda i Winampa, to nie jest to duży problem. Jednakże, jeśli posiadamy już pokaźniejsza armię aplikacji. Sprawdzanie czy producent nie wydał nowszej wersji, eliminującej znalezione błędy, backdoory (lub dodające...
 categories: windows oprogramowanie porady
 ---
 
@@ -16,9 +16,7 @@ Wielu z nas jest również "domowym serwisem komputerowym":P i często siadamy d
 
 
 
-
 ## Eureka...
-
 
 
 W takich przypadkach nieocenione są narzędzia, które zbiorą informacje o zainstalowanych aplikacjach i same poinformują, czy producent już wydał nowszą wersję.
@@ -27,9 +25,7 @@ I tu pojawia się perełka. Darmowe, małe, szybkie, rewelacyjne narzędzie.
 Mowa o: Software Informer
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-12-_192_/g_-_608x405_-_-_21466x20101112152123_1.png)
-
  
 
 Program rozwijany jest przez społeczność, która cały czas dodaje informacje o aplikacjach. Obecnie baza zawiera ponad 1.8 mln programów!
@@ -51,25 +47,19 @@ Możemy dla większości aplikacji wyświetlić stronę, stworzoną przez społe
 - nagrody przyznane dla wyszukanej aplikacji
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2010-11-12-_192_/g_-_608x405_-_-_21466x20101112152123_2.png)
-
  
-
 
 
 
 ## Nie dla leniów
 
 
-
 Program nie jest, aplikacją w stylu one-button-updater-all. Czyli nie aktualizuje za nas wszystkiego (co jest dobre, gdyż sami wiemy co instalujemy i z jakiego źródła). Więc jeśli liczyłeś na to, iż uruchomisz program, klikniesz na jeden guziczek i samo wszystko się zrobi - to niestety, to nie jest to czego szukasz ;)
 
 
 
-
 ## Maluśkie mankamenciki
-
 
 
 Program jest rewelacyjny, jednak posiada kilka malutkich wad. Na obrazku nr 1 podświetliłem program AIMP. Software Informer wykrył nowszą wersję. Ale zaraz, coś się nie zgadza. No tak. Wersja zainstalowana: 2.6.1.583, a najnowsza dostępna to... 2.61.583. Program pogubił kropki w wersjonowaniu, podobna sytuacji jest u mnie w Tweak UI (2.1 -> 2.10). 
@@ -77,9 +67,7 @@ Ostatnim mankamentem jest pokazywanie updatów, dla aplikacji niedostępnych dla
 
 
 
-
 ## Sum up
-
 
 
 Podsumowując. Program polecam dla każdego. Nie będziesz go używał codziennie, lecz nawet jeśli uruchomisz go raz na tydzień, czy na trzy tygodnie, docenisz go na pewno!

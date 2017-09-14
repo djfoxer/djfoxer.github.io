@@ -2,16 +2,14 @@
 layout:     post
 title:      Duke Nukem Forever - wydany!
 date:       2011-06-14 00:46:00
-summary:    10. czerwca zakończyła się 14 letnia męczarnia/produkcja gry Duke Nukem Forever!  — ) Wreszcie nasze spragnione palce, z odciśniętymi klawiszami WSAD, mogą zanurzyć się w świat Dukea... Tak chyba by było,  gdyby gra wyszła z 8-10 lat temu. Powiem szczerze, że jakoś nie zelektryzowała mnie wiadomość o ...
+summary:    10. czerwca zakończyła się 14 letnia męczarnia/produkcja gry Duke Nukem Forever!  — ) Wreszcie nasze spragnione palce, z odciśniętymi klawiszami WSAD, mogą zanurzyć się w świat Dukea... Tak chyba by było,  gdyby gra wyszła z 8-10 lat temu. Powiem szczerze, że jakoś nie zelektryzowała mnie wiadomość o wydaniu DNF, ale zacznijmy od początku...One man, one world, one million babes to save!!Pierwsze dwi...
 categories: windows gry hobby
 ---
 
 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-14-_184_/g_-_608x405_-_-_25520x20110613185325_2.jpg)
-
  
 
 
@@ -32,9 +30,7 @@ Gra wydana w 1996 r. była strzałem w dziesiątkę! Świetna jak na tamte czasy
 Jest rok 1997, twórcy 3D Realms, potwierdzają, iż prace nad kolejną częścią są już w toku. Ma być jeszcze lepiej i jeszcze więcej Dukea. Gracze zacierają już ręce i w przerwach między sesjami DN3D, szukają kolejnych newsów odnośnie nowej odsłony Księcia.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2011-6-14-_184_/g_-_608x405_-_-_25520x20110613191812_1.jpg)
-
  
  *Świat Gier Komputerowych, Zapowiedź Duke Nukem Forever (kliknij by powiększyć)* 
 
@@ -81,25 +77,19 @@ Gra jest średnia, lecz gdyby nie był to Duke nikt nie miałby pretensji, a tak
 
 
 
-
 ## PS
-
 
 
 W 2002 roku wyszedł Duke Nukem: Manhattan Project, gra nawiązująca do dwóch pierwszych części. Świetna oldschoolowa  platformówka. Jeśli nie graliście, gorąco polecam! Zabawa murowana!
 
 
-
 ## PPS
-
 
 
 Warto przeczytać również z wycinka z ŚGK, zapowiedź Preya. Pierwsze wzmianki pojawiły się już w roku 1995, zaś wydano ją w 2006 roku, również po kilku zmianach silnika...
 
 
-
 ## PPPS
-
 
 
 Ahhhhh, jest też zapowiedź Half-Life na silniku Q2, no cóż, dobrze, że chociaż to wyszło wg zapowiedzi :)

@@ -2,7 +2,7 @@
 layout:     post
 title:      Ad Mediator, czyli dodajemy wiele sieci reklamowych do aplikacji Windows Phone
 date:       2015-01-07 20:53:00
-summary:    Sposobów na zarabianie na aplikacjach mobilnych jest bardzo dużo. Od udostępniania płatnych wersji oprogramowania, poprzez mikropłatności, aż do reklam umieszczanych wewnątrz aplikacji. Ten ostatni element nie wymaga dużego wkładu własnego od programisty, nie zmusza użytkowników do wydawania ciężko ...
+summary:    Sposobów na zarabianie na aplikacjach mobilnych jest bardzo dużo. Od udostępniania płatnych wersji oprogramowania, poprzez mikropłatności, aż do reklam umieszczanych wewnątrz aplikacji. Ten ostatni element nie wymaga dużego wkładu własnego od programisty, nie zmusza użytkowników do wydawania ciężko zarobionych pieniędzy, a dodatkowo jest możliwy do wdrożenia niemalże w każdym typie aplikacji. Co w...
 categories: porady programowanie urządzenia mobilne
 ---
 
@@ -13,9 +13,7 @@ Sposobów na zarabianie na aplikacjach mobilnych jest bardzo dużo. Od udostępn
 Osoby tworzące aplikacje na Windows Phone w czystym środowisku deweloperskim mają gotową kontrolkę [AdControl](http://msdn.microsoft.com/en-us/library/advertising-mobile-windows-phone-adcontrol-class(v=msads.20).aspx), która umożliwia proste wyświetlanie reklam Microsoft Advertising. Działa to wyśmienicie, ale jeśli chcielibyśmy dodać inne sieci reklamowe (w celu zwiększenia przychodów poprzez optymalizację reklamodawców do rynku) jak AdMob od Google czy AdDuplex, wówczas mamy nie lada problem.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150106224628_0.png)
-
 
 
 
@@ -29,18 +27,14 @@ Wszyscy znają zasadę DRY (Don’t Repeat Yourself), która zalecająca unikani
 Ad Mediator wspiera Windows Phone 8.0/8.1 pod Silverlightem oraz Windows Phone 8.1 XAML. W przyszłości lista ta zostanie rozszerzona o aplikacje Windows Phone 8.1 tworzone w JavaScripcie oraz aplikacje pod Windows Store (Modern). Kontrolka posiada następujące sieci reklamowe (z uwzględnieniem wsparcia dla poszczególnych typów aplikacji):
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150106224618_0.png)
-
 
 
 Implementacja i konfiguracja Ad Mediatora w Windows Phone nie jest skomplikowana. Oto poradnik jak krok pro kroku dodać wiele sieci reklamowych do własnej aplikacji na system mobilny od Microsoftu. 
 
 
 
-
 ### Dodanie Ad Mediatora do projektu
-
 
 
 Pierwszą czynnością będzie pobranie rozszerzenia [Ad Mediator](https://visualstudiogallery.msdn.microsoft.com/401703a0-263e-4949-8f0f-738305d6ef4b) i zainstalowanie go. Wówczas możemy przystąpić do dodania i konfiguracji kontrolki w projekcie:
@@ -160,9 +154,7 @@ Zaleca się, aby do pliku App.xaml.cs dodać obsługę wyjątków sieci reklamow
 
 
 
-
 ### Konfiguracja poszczególnych reklamodawców w Visual Studio
-
 
 
 Przyszedł czas na konfiguracje sieci reklamowych. W przykładzie użyję Microsoft Advertising, AdDuplex oraz AdMob (Google).
@@ -176,9 +168,7 @@ Ad Mediator umożliwia szybkie dodanie wybranych sieci reklamowych. W tym celu n
 Add->ConnectedService...
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150106234219_0.png)
-
 
 
 a w nowo otwartym oknie  *Services Manager*  wybrać
@@ -186,9 +176,7 @@ a w nowo otwartym oknie  *Services Manager*  wybrać
  * Select ad networks* 
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150106235000_0.png)
-
 
 
 Zaznaczamy w tym miejscu sieci reklamowe, jakie mają być dostępne w aplikacji.
@@ -201,9 +189,7 @@ Zaznaczamy w tym miejscu sieci reklamowe, jakie mają być dostępne w aplikacji
   * Ręczne dodanie brakujących bibliotek
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150106235009_0.png)
-
 
 
 W przykładzie zarówno Microsoft Advertising, jak i AdDuplex nie wymagają dodatkowych bibliotek do działania (inaczej mówiąc Ad Mediator pobierze je za nas). Inaczej jest jednak z AdMob. W tym przypadku aplikacja nie może pobrać dllek i musimy dodać je ręcznie, pobierając paczkę ok. 250 KB ze strony [ Google Mobile Ads SDK](https://developers.google.com/mobile-ads-sdk/download#download) 
@@ -213,17 +199,13 @@ W przykładzie zarówno Microsoft Advertising, jak i AdDuplex nie wymagają doda
   * Dane dostępowe
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107000050_0.png)
-
 
 
 Jeśli wszystko udało się poprawnie dołączyć do projektu, każda z sieci będzie posiadała status  *Fetched*  w oknie  *Services Manager*  (jeśli mimo wszystko jest inaczej, patrz niżej). Teraz przyszedł czas na szybką konfiguracje sieci, poprzez identyfikatory, które wygenerowaliśmy/dostaliśmy od poszczególnych reklamodawców:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107000100_0.png)
-
 
  
 
@@ -237,10 +219,7 @@ Jak zapewne zauważyliście, każda z sieci posiada listę funkcji, które musi 
 W tym celu w oknie  *Services Manager*  należy przejrzeć ostatnia kolumnę * Required capabilities*  i w pliku WMAppManifest.xml dodać wymagana opcje:
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107000050_0.png)
-
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107000951_0.png)
@@ -250,9 +229,7 @@ W tym celu w oknie  *Services Manager*  należy przejrzeć ostatnia kolumnę * R
 
 
 
-
 Tak skonfigurowana aplikacja powinna już wyświetlać reklamy:
-
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107195116_0.png)
@@ -260,23 +237,16 @@ Tak skonfigurowana aplikacja powinna już wyświetlać reklamy:
 
 
 
-
-
 ### Zdalna konfiguracja reklamodawców przez DevCenter
-
 
 
 Jedną z najbardziej wartościowych funkcji Ad Mediatora jest pełna integracja z centrum deweloperskim DevCenter. Po dodaniu aplikacji poprzez portal, DevCenter sam wykryje obecność Ad Mediatora i aktywuje panel do zdalnej konfiguracji kontrolki.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107200011_0.png)
 
 
-
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2015-1-7-_63_/g_-_608x405_-_-_60151x20150107200019_0.png)
-
 
 
 
@@ -315,9 +285,7 @@ W tym miejscu można również ustalić czy sieć reklamowa ma być całkowicie 
 Plik konfiguracyjny Ad Mediatora można pobrać klikając na  *Download config* , w celu podmiany domyślnie stworzonego pliku w Visual Studio, aby ten nie nadpisywał konfiguracji w DevCenter podczas wgrywania nowej wersji.
 
 
-
 ### Najczęstsze problemy i ich rozwiązania
-
 
 Mimo, że Ad Mediator jest niesłychanie prostym i przyjemnym narzędziem, zdarzają się często małe, ale uciążliwe problemy. Oto kilka z nich, wraz ze wskazówkami na ich rozwiązanie:
 

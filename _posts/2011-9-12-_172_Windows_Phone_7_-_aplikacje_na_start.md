@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows Phone 7 - aplikacje na start
 date:       2011-09-12 23:33:00
-summary:    Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. Jeśli nie wiesz co zainstalować "na dzień dobry" w Windows Phone 7, szukasz jakiś ciekawych aplikacji na ...
+summary:    Czekając na premierę aktualizacji Mango do Windows Phone 7, która ma być wydana już na dniach, postanowiłem stworzyć wpis, opisujący aplikacje (darmowe) warte zainstalowania na swoim smartfonie. Jeśli nie wiesz co zainstalować "na dzień dobry" w Windows Phone 7, szukasz jakiś ciekawych aplikacji na swojego smartfona lub po prostu chcesz być na bieżąco z softem - ten wpis jest dla Ciebie!  — )Smaczne...
 categories: oprogramowanie porady urządzenia mobilne
 ---
 
@@ -143,18 +143,14 @@ Ocena: 3,73/5 Recenzji: 97
 Prosta aplikacja do zapisywania notatek. Możliwość synchronizacji z Dropboxem. Bardzo praktyczna i szybka.
 
 
-
 ## Polish Keyboard
-
 
 
 Ocena: 4,00/5 Recenzji: 4
 Zanin wyjdzie Mango, ta aplikacja zaoferuje nam dostęp do polskiej klawiatury. Możemy wpisany tekst kopiować w dowolne miejsce (sms, email, facebook itp.).
 
 
-
 ## Google Search
-
 
 
 Ocena: 2,68/5 Recenzji: 362
@@ -164,9 +160,7 @@ Wyszukiwarka www. Wyszukujemy z poziomu aplikacji, a po kliknięciu na link, zos
  *Multimedia* 
 
 
-
 ## The Listener
-
 
 
 Ocena: 4,33/5 Recenzji: 55
@@ -193,18 +187,14 @@ Ocena: 4,35/5 Recenzji: 654
 Programik do nagrywania głosu, a następnie jego "obróbki". Możemy przyspieszyć (efekt jak po helu) lub zwolnić wypowiadaną kwestie. Dobra zabawa ze znajomymi :)
 
 
-
 ## Shazam
-
 
 
 Ocena: 2,43/5 Recenzji: 327
 Nie wiesz jaka piosenka leci teraz radiu? Wystarczy uruchomić tą aplikację, mieć dostęp do internetu i zbliżyć smartfona do głośników. Program po kilku sekundach sam znajdzie utwór, wyświetli wykonawcę, link do teledysku na YouTubie, okładkę płyty.
 
 
-
 ## Thumba Cam
-
 
 
 Ocena: 3,83/5 Recenzji: 59
@@ -212,9 +202,7 @@ Dodawanie efektów graficznych, nakładanie filtrów do zdjęć. Bardzo prosta o
 
 
 
-
 ## Weather & Clock
-
 
 
 Ocena: -/5 Recenzji: 0

@@ -2,7 +2,7 @@
 layout:     post
 title:      Jak obejść ograniczenia Sklepu Windows Phone?
 date:       2013-08-19 16:14:00
-summary:    Każdy z producentów ma własne unikalne aplikacje w sklepie Windows Phone, co więcej, ograniczone często do konkretnych modeli urządzeń (np. Nokia Pro Cam ograniczona do modeli 92x i 1020). Zatem teoretycznie nie zainstalujemy aplikacji od Noki na HTC i na odwrót, także dedykowanej aplikacji do zdjęć...
+summary:    Każdy z producentów ma własne unikalne aplikacje w sklepie Windows Phone, co więcej, ograniczone często do konkretnych modeli urządzeń (np. Nokia Pro Cam ograniczona do modeli 92x i 1020). Zatem teoretycznie nie zainstalujemy aplikacji od Noki na HTC i na odwrót, także dedykowanej aplikacji do zdjęć dla Lumii 920 nie pobierzmy na Lumię 820. Okazuje się jednak, że można to w prosty sposób obejść, b...
 categories: oprogramowanie porady urządzenia mobilne
 ---
 
@@ -12,9 +12,7 @@ Każdy z producentów ma własne unikalne aplikacje w sklepie Windows Phone, co 
 
 
 
-
 ## Przygotowania do pracy
-
 
 
 Aby móc działać w jakikolwiek sposób, należy pobrać program [Fiddler](http://fiddler2.com/get-fiddler). Dzięki tej aplikacji będziemy w stanie monitorować ruch jaki generuje nasze urządzenie z Windows Phone. Kiedy już zainstalujemy Fiddlera, czas na konfigurację:
@@ -23,9 +21,7 @@ Aby móc działać w jakikolwiek sposób, należy pobrać program [Fiddler](http
 
   * Musimy sprawdzić nasze IP, na którym zainstalowany jest Fiddler. Najszybciej wykonamy to z linii poleceń. Skrótem  *Windows+R*  otwieramy okno  *Uruchamianie* , wpisujemy w nim  *cmd* , aby uruchomić linię poleceń. Wpisujemy komendę  *ipconfig*  i sprawdzamy nasz adres IP.
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_608x405_-_-_45753x20130818142007_0.png)
-
 
 
 
@@ -33,13 +29,9 @@ Aby móc działać w jakikolwiek sposób, należy pobrać program [Fiddler](http
   * Komputer, na którym jest Fiddler, pełnić będzie rolę proxy. Zatem ustawmy w Windows Phone odpowiednie opcje. Połączmy się z sieci WiFi (w której już jest obecny komputer z Fiddlerem) i poprzez przytrzymanie palca na nazwie sieci, dodajmy proxy.
 
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818142007_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818142005_0.jpg)
-
 
 
 Adres IP ustawimy taki, jaki jest na komputerze z Fiddlerem, zaś nr portu wpisujemy:  *8888*  (domyślnie dla Fiddlera).
@@ -51,9 +43,7 @@ Adres IP ustawimy taki, jaki jest na komputerze z Fiddlerem, zaś nr portu wpisu
 
   * Czas na uruchomienie Fiddlera. W menu opcji  *Tools->Fiddler Options...*  w zakładce  *Connections* , zaznaczyć należy  *Allow remote computers to conect* .
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_608x405_-_-_45753x20130818142530_0.png)
-
 
 
 
@@ -61,9 +51,7 @@ Adres IP ustawimy taki, jaki jest na komputerze z Fiddlerem, zaś nr portu wpisu
 
  
 
-
 ## Analiza podglądu
-
 
 
 Już na tym etapie wszelki ruch sieciowy wykonywany z poziomu telefonu, powinien być wychwytywany przez Fiddlera (jeśli tak nie jest, sprawdź czy opcja  *File->Capture Traffic*  jest zaznaczona). Warto teraz wyczyścić okno Fiddlera (ikona krzyżyka i wybieramy  *Remove all* ). 
@@ -97,9 +85,7 @@ Szybko zauważymy:
 Oczywiście to nie wszystkie parametry, jakie są wysyłane, ale te które na daną chwilę mogę się nam przydać.
 
 
-
 ## Jak podmienić wartości?
-
 
 
 Wiemy już jak wygląda link do Sklepu i co w nim jest przesyłane. Jak teraz  *w locie*  podmienić wartości na takie, jakie zechcemy ustawić? Użyjemy tu Fiddlera. Można to osiągnąć w dwojaki sposób. Z poziomu GUI (zakładka  *AutoResponder*  i ustawienie reguł) lub w skrypcie. Opcja pierwsza jest najprostsza, ale najmniej uniwersalna i konfigurowalna, druga zaś ma większe możliwości i nią się właśnie zajmiemy:
@@ -140,17 +126,13 @@ Powyższy kod sprawdza, czy w url znajduje się szukany ciąg, jeśli tak jest, 
 
 
 
-
 ## Wykorzystanie
-
 
 
 Znamy wygląd url wysyłanego do Sklepu oraz z czego się składa, teraz przyszedł czas na kilka przykładów wykorzystania tej wiedzy.
 
 
-
 ### Pobieranie aplikacji OEM od innego producenta, niż producent urządzenia
-
 
 Sprawa jest prosta. Posiadamy np. Lumię od Nokii, a chcemy pobrać aplikację [Photo Enhancer](http://www.windowsphone.com/pl-pl/store/app/photo-enhancer/8e17bc66-2bb2-df11-8a2f-00237de2db9e), która dedykowana jest tylko dla urządzeń od HTC. Naszym celem jest podmiana producenta OEM, jaki jest doklejany do url. Oto co należy zrobić:
 
@@ -179,13 +161,9 @@ Sprawa jest prosta. Posiadamy np. Lumię od Nokii, a chcemy pobrać aplikację [
   * 
 Otwiera się okno Sklepu...
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818153520_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818154033_0.png)
-
 
 ... i instalujemy aplikację.
   
@@ -210,9 +188,7 @@ Dla ułatwienia podaję listę z linkami aplikacji od konkretnych producentów:
 
 
 
-
 ### Instalacja aplikacji dostępnych tylko dla określonych urządzeń
-
 
 Na pewno wszyscy kojarzą aplikację [Nokia Pro Cam](http://www.windowsphone.com/pl-pl/store/app/nokia-pro-cam/bfd2d954-12da-415c-ad99-69a20f101e04), która wraz z aktualizacją Amber, została udostępniona tylko dla urządzeń Lumia z serii 92x oraz 1020. Nic nie stoi jednak na przeszkodzie, aby pobrać Nokia Pro Cam np. na Lumię 820. W tym celu, podmienimy model urządzenia, jaki przesyłany jest w url. Poszczególne etapy wyglądają następująco:  
 
@@ -242,13 +218,9 @@ Na pewno wszyscy kojarzą aplikację [Nokia Pro Cam](http://www.windowsphone.com
   * 
 Otwiera się okno Sklepu...
 
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818153518_0.jpg)
-
 [join]
-
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_82_/g_-_288x192_-_-_45753x20130818154029_0.png)
-
 
 ... i instalujemy aplikację.
   
@@ -257,9 +229,7 @@ Otwiera się okno Sklepu...
 
 
 
-
 ## Kilka uwag
-
 
 
 W ten sposób mamy dostęp do wszelakich aplikacji umieszczonych w Sklepie Windows Phone. Na koniec kilka uwag i porad:
