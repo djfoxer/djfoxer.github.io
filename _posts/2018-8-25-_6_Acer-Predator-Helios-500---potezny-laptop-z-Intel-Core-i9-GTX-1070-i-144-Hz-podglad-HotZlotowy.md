@@ -2,7 +2,7 @@
 layout:     post
 title:      Acer Predator Helios 500 - potężny laptop z Intel Core i9, GTX 1070 i 144 Hz (podgląd HotZlotowy)
 date:       2018-08-25 10:19:00
-summary:    HotZlot już za nami. Były rozmowy, sok jabłkowy i wiele ciekawych sprzętów do zapoznania się. Jednym z nich był wypasiony na maksa laptop od Acera - Predator Helios 500. Poniższy wpis proszę nie traktować, jako recenzję, a raczej jako szybki podgląd z kilku godzin grania. Zapraszam do mini wpisu!<!-- galleryStart -->Podświetlenie jest całkowicie modyfikowalne z możliwością... wyłączenia<!-- galler...
+summary:    HotZlot już za nami. Były rozmowy, sok jabłkowy i wiele ciekawych sprzętów do zapoznania się. Jednym z nich był wypasiony na maksa laptop od Acera - Predator Helios 500. Poniższy wpis proszę nie traktować, jako recenzję, a raczej jako szybki podgląd z kilku godzin grania. Zapraszam do mini wpisu! Podświetlenie jest całkowicie modyfikowalne z możliwością... wyłączenia
 categories: windows sprzęt gry
 slug: Acer-Predator-Helios-500-potezny-laptop-z-Intel-Core-i9-GTX-1070-i-144-Hz-podglad-HotZlotowy,90437.html
 ---
