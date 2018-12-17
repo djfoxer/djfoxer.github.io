@@ -28,7 +28,8 @@ Jeśli system sam nie wykryje aktualizacji, należy przejść do okna  *Ustawien
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233121_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233155_0.jpg)
 
 
@@ -38,7 +39,8 @@ Po pobraniu, zostaniemy poproszeni o potwierdzenie aktualizacji. Ten proces rów
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233158_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233202_0.jpg)
 
 
@@ -77,7 +79,8 @@ Najważniejsze zmiany:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233139_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233143_0.jpg)
 
 
@@ -87,7 +90,8 @@ Najważniejsze zmiany:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233125_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233129_0.jpg)
 
 
@@ -95,7 +99,8 @@ do skonfigurowania w oknie  *ustawienia->telefon*  pod przyciskiem  *edytuj podp
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233147_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-21-_116_/g_-_-x-_-_-_x20130220233150_0.jpg)
 
 

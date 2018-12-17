@@ -30,7 +30,8 @@ Android posiada wiele aplikacji do sterowania Smart TV. Warto uważać co się w
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120256_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120325_0.png)
 
 
@@ -40,7 +41,8 @@ Okno główne wita nas na początku dużym pustym obszarem. W tym miejscu można
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120310_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120339_0.png)
 
 
@@ -58,7 +60,8 @@ Miłym i niezmiernie przydatnym dodatkiem jest wysyłanie tekstu ze smartfona do
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120127_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120133_0.png)
 
 
@@ -68,7 +71,8 @@ Otóż sterowanie funkcjami w Remote odbywa się za pomocą gestów! Wybieramy i
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120137_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120142_0.png)
 
 
@@ -94,7 +98,8 @@ Windows Phone to dość świeży system na rynku smartfonów. Ma on jednak w swo
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120351_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120401_0.jpg)
 
 
@@ -104,7 +109,8 @@ Dodatkowo otrzymujemy również suchą listę funkcji, które nie zostały przyd
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120408_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120414_0.jpg)
 
 
@@ -122,7 +128,8 @@ Aplikacja jest płatana. Posiada ona jednak wersję demo, która nie ma żadnych
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120105_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120109_0.jpg)
 
 
@@ -132,7 +139,8 @@ Miło, że autor aplikacji dodał również możliwość wpisywania tekstu wpros
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120112_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-18-_117_/g_-_-x-_-_-_x20130217120115_0.jpg)
 
 

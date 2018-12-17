@@ -34,7 +34,8 @@ Nie oszukujmy się, wAppStore posiada obecnie 5 (!) aplikacji homebrew (w tym ci
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403225151_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403225158_0.jpg)
 
 
@@ -50,7 +51,8 @@ Opisywałem niedawno[ jak można dostać się do hubów producentów urządzeń]
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403225203_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403225210_0.jpg)
 
 
@@ -58,7 +60,8 @@ Opisywałem niedawno[ jak można dostać się do hubów producentów urządzeń]
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403231214_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-3-_156_/g_-_-x-_-_-_x20120403231220_0.jpg)
 
 

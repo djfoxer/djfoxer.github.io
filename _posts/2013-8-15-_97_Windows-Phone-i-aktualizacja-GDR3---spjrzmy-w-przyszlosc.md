@@ -30,7 +30,8 @@ O aktualizacji GDR3 (General Distribute Release 3) dla Windows Phone 8 jest już
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_97_/g_-_-x-_-_-_x20130815125840_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-15-_97_/g_-_-x-_-_-_x20130815130529_0.jpg)
 
 

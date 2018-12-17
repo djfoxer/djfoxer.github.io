@@ -36,21 +36,24 @@ Mój Orange dostępny jest przecież na Windows Phone i nawet (nikomu niepotrzeb
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171737_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171730_0.png)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171731_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171732_0.png)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171733_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-9-7-_94_/g_-_-x-_-_-_x20130907171736_0.png)
 
 

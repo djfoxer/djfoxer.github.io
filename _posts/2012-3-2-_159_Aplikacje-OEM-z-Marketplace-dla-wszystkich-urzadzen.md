@@ -71,7 +71,8 @@ Nokia ma najkrótszy staż i ma też najmniejszą ilość unikalnych aplikacji O
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235236_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235246_0.jpg)
 
 
@@ -79,7 +80,8 @@ Nokia ma najkrótszy staż i ma też najmniejszą ilość unikalnych aplikacji O
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235255_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235304_0.jpg)
 
 
@@ -95,7 +97,8 @@ Samsung oferuje dość sporo aplikacji, kilka słowników, standardowo aplikacje
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235311_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235338_0.jpg)
 
 
@@ -103,7 +106,8 @@ Samsung oferuje dość sporo aplikacji, kilka słowników, standardowo aplikacje
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235320_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235358_0.jpg)
 
 
@@ -111,7 +115,8 @@ Samsung oferuje dość sporo aplikacji, kilka słowników, standardowo aplikacje
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235351_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235047_0.jpg)
 
 
@@ -127,7 +132,8 @@ Marketplace HTC wyróżnia się świetnym Hubem (działa na "nieoryginalnych" ur
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235057_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235104_0.jpg)
 
 
@@ -135,7 +141,8 @@ Marketplace HTC wyróżnia się świetnym Hubem (działa na "nieoryginalnych" ur
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235112_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235129_0.jpg)
 
 
@@ -158,7 +165,8 @@ LG ma bardzo ciekawy zbiór aplikacji, ze względu na to iż mam LG E900, nie je
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235144_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235153_0.jpg)
 
 
@@ -166,7 +174,8 @@ LG ma bardzo ciekawy zbiór aplikacji, ze względu na to iż mam LG E900, nie je
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235210_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235202_0.jpg)
 
 
@@ -174,7 +183,8 @@ LG ma bardzo ciekawy zbiór aplikacji, ze względu na to iż mam LG E900, nie je
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120301235230_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-2-_159_/g_-_-x-_-_-_x20120302000241_0.jpg)
 
 

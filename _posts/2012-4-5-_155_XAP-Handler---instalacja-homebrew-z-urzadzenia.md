@@ -15,7 +15,8 @@ Po tym jak wyszedł [WP7 Root Tools](http://www.dobreprogramy.pl/djfoxer/Rootowa
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-5-_155_/g_-_-x-_-_-_x20120403234839_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-5-_155_/g_-_-x-_-_-_x20120403234854_0.jpg)
 
 
@@ -29,7 +30,8 @@ Dzięki temu otworzyły się drzwi do instalowania aplikacji np. homebrew bezpo�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-5-_155_/g_-_-x-_-_-_x20120403234902_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-5-_155_/g_-_-x-_-_-_x20120403234845_0.jpg)
 
 

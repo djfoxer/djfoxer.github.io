@@ -31,7 +31,8 @@ Otóż urządzenia z [Windows Phone 7](http://www.dobreprogramy.pl/djfoxer/Windo
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-19-_113_/g_-_-x-_-_-_x20130319084427_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-19-_113_/g_-_-x-_-_-_x20130319084431_0.jpg)
 
 

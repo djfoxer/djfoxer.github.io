@@ -35,7 +35,8 @@ Standardowo jak w tego typu aplikacjach otrzymujemy możliwości, które niemal�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215201257_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215201305_0.png)
 
 
@@ -45,7 +46,8 @@ Standardowe opcje jak zmiana głośności, kanału to nie powinno nikogo dziwić
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215201312_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215201326_0.png)
 
 
@@ -74,7 +76,8 @@ Na pierwszy rzut oka jest podobny do pierwszej aplikacji. Sterowanie kanałami i
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215205941_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215205949_0.png)
 
 
@@ -84,7 +87,8 @@ Dostajemy również przeniesiony pilot, niemalże 1:1, którego screenów nie b�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215210043_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130215210121_0.png)
 
 
@@ -173,14 +177,16 @@ Niedawno wyszła aktualizacja do aplikacji SmartView . Największe zmiany przesz
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130527183608_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130527183602_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130527183558_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-2-15-_118_/g_-_-x-_-_-_x20130527183545_0.jpg)
 
 

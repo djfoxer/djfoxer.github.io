@@ -50,7 +50,8 @@ Po włożeniu karty sim Aero2, pierwszym krokiem jest udane się do ustawień si
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132659_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132704_0.jpg)
 
 
@@ -61,7 +62,8 @@ Po chwili Aero2 powinno zostać "zarejestrowane". Nie trzeba się martwić ikon�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132719_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132727_0.jpg)
 
 
@@ -97,7 +99,8 @@ Kilka testów wykonanych o rożnych porach dnia:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132801_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-8-21-_138_/g_-_-x-_-_-_x20120821132813_0.jpg)
 
 

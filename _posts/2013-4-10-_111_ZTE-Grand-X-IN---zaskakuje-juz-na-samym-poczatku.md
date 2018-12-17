@@ -59,7 +59,8 @@ Więcej o procesorze Intela w tym modelu we wpisie: [Intel w Androidzie - moc i 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-10-_111_/g_-_-x-_-_-_x20130410185436_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-10-_111_/g_-_-x-_-_-_x20130410185440_0.png)
 
 
@@ -74,7 +75,8 @@ Wydajność Intela wyróżnia się pozytywnie. Poniższe screeny pokazują podst
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-10-_111_/g_-_-x-_-_-_x20130410185427_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-10-_111_/g_-_-x-_-_-_x20130410185431_0.png)
 
 

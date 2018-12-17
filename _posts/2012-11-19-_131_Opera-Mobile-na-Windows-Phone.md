@@ -39,14 +39,16 @@ W taki oto prosty sposób dostaliśmy działającą Opera Mobile na Windows Phon
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232819_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232825_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232830_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232834_0.jpg)
 
 
@@ -71,14 +73,16 @@ Na koniec jeszcze ciekawostka. Ta wersja Opery, ma tendencję do znikania... Nib
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232946_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232907_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121117001818_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232927_0.jpg)
 
 
@@ -100,7 +104,8 @@ Jednakże moc drzemiąca w WP7 Root Tools może nas jeszcze zaskoczyć i nie sko
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232839_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232846_0.jpg)
 
 
@@ -109,13 +114,15 @@ Jednakże moc drzemiąca w WP7 Root Tools może nas jeszcze zaskoczyć i nie sko
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232932_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232936_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232941_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-19-_131_/g_-_-x-_-_-_x20121116232901_0.jpg)
 

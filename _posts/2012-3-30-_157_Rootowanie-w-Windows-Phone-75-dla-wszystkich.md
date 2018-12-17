@@ -17,7 +17,8 @@ Dzięki aplikacji WP7 Root Tools, stworzonej przez [Heathcliff74](http://www.wp7
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003513_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003520_0.jpg)
 
 
@@ -82,7 +83,8 @@ WP7 Root Tools to nie tylko nadawanie uprawnień roota, to także kilka ciekawyc
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003425_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003439_0.jpg)
 
 
@@ -97,7 +99,8 @@ WP7 Root Tools to nie tylko nadawanie uprawnień roota, to także kilka ciekawyc
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003435_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-3-30-_157_/g_-_-x-_-_-_x20120330003448_0.jpg)
 
 

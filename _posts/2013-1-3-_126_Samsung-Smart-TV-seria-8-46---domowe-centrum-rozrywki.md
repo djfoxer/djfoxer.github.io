@@ -156,7 +156,8 @@ Do dyspozycji dostajemy również kamerkę na górze telewizora. Idealna do wide
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229182446_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229182555_0.jpg)
 
 
@@ -189,7 +190,8 @@ Aktualizację można dokonać bezpośrednio z sieci, wówczas odpowiednie oprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229184552_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229184610_0.jpg)
 
 
@@ -342,7 +344,8 @@ Dużo jest już typowo polskich programów. Wspomnę tylko o TVN Player, iPLA, w
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229174501_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229174547_0.jpg)
 
 
@@ -352,21 +355,24 @@ Każda aplikacja prócz opisu ma podgląda zrzutów ekranów i kilka informacji 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229190950_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229191003_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229191019_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229191034_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229191101_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-1-3-_126_/g_-_-x-_-_-_x20121229191156_0.jpg)
 
 

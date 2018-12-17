@@ -124,14 +124,16 @@ Samsung swój tabletofon wyposażył w mocny sprzęt, który spokojnie da radę 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407153924_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407153931_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407153940_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407153948_0.jpg)
 
 
@@ -177,14 +179,16 @@ Note 2 posiada tylny aparat 8 Mpix i przedni 1.9 Mpix. Oczywiście przedni nie m
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161635_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161641_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161605_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161624_0.jpg)
 
 
@@ -197,7 +201,8 @@ Z racji posiadania również kilku urządzeń Windows Phone, doskwiera fizyczny 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161610_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407161618_0.jpg)
 
 
@@ -283,7 +288,8 @@ Jak już wspomniałem wcześniej, wszystkie gry jakie są w Google Play, bez pro
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151844_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151852_0.jpg)
 
 
@@ -298,7 +304,8 @@ Duży ekran idealnie sprawuje się do  *wielu aplikacji*  otwartych jednocześni
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151911_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151839_0.jpg)
 
 
@@ -308,7 +315,8 @@ Proporcje ekranu można dowolnie zmieniać. Aplikacje dostosowują się także d
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151915_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151919_0.jpg)
 
 
@@ -326,7 +334,8 @@ Z racji dużego ekranu obsługa jedną ręką jest bardzo ciężka. Dzięki Andr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407154401_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407154409_0.jpg)
 
 
@@ -341,7 +350,8 @@ Samsung od siebie dodał kilka ciekawych aplikacji. Note 2 ma dostęp do sklepu 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151900_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-8-_112_/g_-_-x-_-_-_x20130407151905_0.jpg)
 
 

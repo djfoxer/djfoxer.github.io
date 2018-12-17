@@ -84,7 +84,7 @@ void M(Person p)
 ```
 
 
-[b] *Wg mnie..:* [/b] Nullowalne typy referencyjne to ciekawy krok do przodu w świecie programowania obiektowego w C#. Niepokoić może trochę to, że przejście na C# 8.0 w istniejącym już projekcie będzie powodować olbrzymią ilość warningów przy kompilacji. Z drugiej strony może to pomóc w utrzymaniu kodu wolnego od typowego wyjątku, jakim jest  *NullReferenceExceptions* . Zobaczymy jak to finalnie wyjdzie. Na pewno nie obędzie się bez refactoringu istniejącego już kodu, po przeskoczeniu na C# 8.0. Co nie zmienia tego, że jestem na tak :) 
+__ *Wg mnie..:* __ Nullowalne typy referencyjne to ciekawy krok do przodu w świecie programowania obiektowego w C#. Niepokoić może trochę to, że przejście na C# 8.0 w istniejącym już projekcie będzie powodować olbrzymią ilość warningów przy kompilacji. Z drugiej strony może to pomóc w utrzymaniu kodu wolnego od typowego wyjątku, jakim jest  *NullReferenceExceptions* . Zobaczymy jak to finalnie wyjdzie. Na pewno nie obędzie się bez refactoringu istniejącego już kodu, po przeskoczeniu na C# 8.0. Co nie zmienia tego, że jestem na tak :) 
 
 
 ### Domyślna implementacja w interfejsie
@@ -112,7 +112,7 @@ class ConsoleLogger : ILogger
 
 W przykładzie ConsoleLogger brak implementacji Log(Exception ex), nie spowoduje błędu kompilacji, gdyż zostanie wzięta domyślna implementacja z interfejsu ILogger. 
 
-[b] *Wg mnie... * [/b]Krok ciekawy, coś podobnego zostało zaprezentowane już w Javie 8. Nie jest to nic szczególnego wg mnie, gdyż do tej pory w większości przypadków domyślny kod znajdował się np. w dziedziczonej klasie abstrakcyjnej. Ciekawe, ale nie jest to jakiś killer-ficzer, czy coś na co wiele osób czekało. Bez szału.
+__ *Wg mnie... * __Krok ciekawy, coś podobnego zostało zaprezentowane już w Javie 8. Nie jest to nic szczególnego wg mnie, gdyż do tej pory w większości przypadków domyślny kod znajdował się np. w dziedziczonej klasie abstrakcyjnej. Ciekawe, ale nie jest to jakiś killer-ficzer, czy coś na co wiele osób czekało. Bez szału.
 
 
 ### Nowe typy: Index i Range
@@ -143,7 +143,7 @@ var slice = a[i1..i2]; // { 3, 4, 5 }
 ```
 
 
-[b] *Wg mnie...* [/b] Mała rzecz, ale może być całkiem przydatna szczególnie ten indeks liczony od końca. Mały, ale zdecydowany plusik.
+__ *Wg mnie...* __ Mała rzecz, ale może być całkiem przydatna szczególnie ten indeks liczony od końca. Mały, ale zdecydowany plusik.
 
 
 ### Async streams
@@ -165,7 +165,7 @@ async IAsyncEnumerable<int> GetBigResultsAsync()
 ```
 
 
-[b] *Wg mnie...* [/b] Cóż, ok. Zapewne znajdą się osoby, do których ten ficzer jest bezpośrednio targetowany. 
+__ *Wg mnie...* __ Cóż, ok. Zapewne znajdą się osoby, do których ten ficzer jest bezpośrednio targetowany. 
 
 
 ### Pattern matching z rekurencją
@@ -189,7 +189,7 @@ IEnumerable<string> GetEnrollees()
 
 W powyższym przykładzie z MSDN szukamy obiektu  *Poeple* , który jest typu  *Student* , ma dodatkowo właściwość  *Graduated*  ustawioną na  *false, a*  właściwość name nie jest nullem.
 
-[b]Wg mnie... [/b]Całkiem ciekawe rozwinięcie pattern matchingu. Coraz częściej używam PM w pracy i całkiem nieźle pomaga w zachowaniu przejrzystego kodu. Oczywiście nadużycie może doprowadzić do tego, iż kod będzie delikatnie trudny do czytania, ale tu już trzeba będzie zdać się na umiar.
+__Wg mnie... __Całkiem ciekawe rozwinięcie pattern matchingu. Coraz częściej używam PM w pracy i całkiem nieźle pomaga w zachowaniu przejrzystego kodu. Oczywiście nadużycie może doprowadzić do tego, iż kod będzie delikatnie trudny do czytania, ale tu już trzeba będzie zdać się na umiar.
 
 
 ### Wyrażenia switch
@@ -211,7 +211,7 @@ var area = figure switch
 ```
 
 
- [b]Wg mnie...[/b] Nowe elementy do pattern matchingu zawsze na propsie!
+ __Wg mnie...__ Nowe elementy do pattern matchingu zawsze na propsie!
 
 
 ### Docelowy typ w wyrażeniach new
@@ -227,7 +227,7 @@ Point[] ps = { new (1, 4), new (3,-2), new (9, 5) }; // all Points
 ```
 
 
-[b]Wg mnie...[/b] Niech i tak będzie, ok :)
+__Wg mnie...__ Niech i tak będzie, ok :)
 
 
 ### Nie dla psa kiełbasa!

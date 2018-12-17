@@ -77,7 +77,8 @@ Visual Studio Achievements oferuje ponadto:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-19-_166_/g_-_-x-_-_-_x20120119230024_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-19-_166_/g_-_-x-_-_-_x20120119230019_0.png)
 
 

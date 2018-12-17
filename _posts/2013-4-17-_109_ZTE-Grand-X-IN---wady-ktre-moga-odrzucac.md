@@ -88,7 +88,8 @@ Niezła jakość obrazu w ZTE psuje właśnie efekt  *fali* , jaki można zaobse
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-17-_109_/g_-_-x-_-_-_x20130415230709_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-17-_109_/g_-_-x-_-_-_x20130415230703_0.png)
 
 

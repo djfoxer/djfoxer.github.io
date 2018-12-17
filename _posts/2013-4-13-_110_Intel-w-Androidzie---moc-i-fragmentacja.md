@@ -29,7 +29,8 @@ W ZTE Grand X IN zastosowano procesor Intel Atom Z2460 oparty na architekturze x
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-13-_110_/g_-_-x-_-_-_x20130413171858_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-13-_110_/g_-_-x-_-_-_x20130413171850_0.png)
 
 
@@ -81,7 +82,8 @@ Jeśli gry to zapewne może przydać się MHL. ZTE z Intelem radzi sobie całkie
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-13-_110_/g_-_-x-_-_-_x20130413180549_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-4-13-_110_/g_-_-x-_-_-_x20130413180555_0.png)
 
 

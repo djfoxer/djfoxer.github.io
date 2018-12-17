@@ -44,7 +44,8 @@ Każdy z kolorów ma własny pojemnik i jest on zabezpieczony zaczepem:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_xfb94e2a3-28d1-4b18-9cf3-bfd2f4b2bc03.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x7a979b40-0c78-4af7-8b3e-6bf206040c36.jpg)
 
 
@@ -54,7 +55,8 @@ Tusze przychodzą w pojemnikach zapakowanych próżniowo, można być spokojnym 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x23c59bb2-b281-42f8-81ce-9cd82c35bf4c.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x2191b1ef-acd0-44db-8403-c0260f35890f.jpg)
 
 
@@ -72,7 +74,8 @@ Dopiero po włożeniu tuszu do pojemnika w drukarce, kulka się przemieszcza i t
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_xe1bc011d-cea7-4baf-9c2c-f7d275272cc5.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x189512b7-e624-420c-b2a6-711533bfe7bb.jpg)
 
 
@@ -91,7 +94,8 @@ Ok, przyspieszmy to ;) Szybko napełnijmy pozostałe tusze.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x594d1260-cb83-4368-a1c1-9dd1f81d95dd.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x6ee62021-cad1-4cdf-aadd-bc961e971bad.jpg)
 
 
@@ -99,7 +103,8 @@ Ok, przyspieszmy to ;) Szybko napełnijmy pozostałe tusze.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x9f3eec0e-03e2-48f8-8199-6ae20a1be9e4.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_xff3bbfad-301c-45a3-9a7d-5156fd8cf91b.jpg)
 
 
@@ -107,7 +112,8 @@ Ok, przyspieszmy to ;) Szybko napełnijmy pozostałe tusze.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x63af6bb4-d0a2-4159-93cb-c949b3839de6.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_xed5ba02e-048e-44dd-9c0a-974b26d15b29.jpg)
 
 

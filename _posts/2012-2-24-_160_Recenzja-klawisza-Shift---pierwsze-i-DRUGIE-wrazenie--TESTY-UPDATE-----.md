@@ -29,7 +29,8 @@ Już wiemy coś o pochodzeniu klawisza. Warto dodać coś więcej. A zatem dodaj
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120224181016_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120224181904_0.png)
 
 
@@ -45,7 +46,8 @@ Szczęśliwie jestem posiadaczem markowej klawiatury firmy A4Tech, która to zaw
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120224181029_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120224181035_0.png)
 
 
@@ -142,7 +144,8 @@ Faktycznie trochę po macoszemu potraktowałem jego konkurencje i parametry tech
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120225180913_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-24-_160_/g_-_-x-_-_-_x20120225180922_0.jpg)
 
 

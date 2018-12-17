@@ -116,14 +116,16 @@ Asus Transformer Pad TF300TL działa pod kontrolą Androida w wersji 4.2.1. Syst
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-30-_89_/g_-_-x-_-_-_x20131229234602_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-30-_89_/g_-_-x-_-_-_x20131229234606_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-30-_89_/g_-_-x-_-_-_x20131229234609_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-30-_89_/g_-_-x-_-_-_x20131229234558_0.png)
 
 

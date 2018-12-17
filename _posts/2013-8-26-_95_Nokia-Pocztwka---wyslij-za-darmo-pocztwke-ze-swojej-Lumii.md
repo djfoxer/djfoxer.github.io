@@ -23,7 +23,8 @@ Zatem, jeśli posiadacie Nokię Lumię z Windows Phone (zarówno w wersji 7. jak
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001444_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001445_0.jpg)
 
 
@@ -33,7 +34,8 @@ Nokia (odział w Polsce) zorganizował wzorową akcję promującą Windows Phone
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001446_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001447_0.jpg)
 
 
@@ -46,7 +48,8 @@ Tutaj podajemy dane adresata oraz treść wiadomości, jaka ma pojawić się na 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001450_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-26-_95_/g_-_-x-_-_-_x20130825001451_0.jpg)
 
 

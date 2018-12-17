@@ -23,7 +23,8 @@ Nokia Lumia 900 jest najwyższym modelem od Finów. Moim skromnym zdaniem, to r�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185850_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185857_0.jpg)
 
 
@@ -118,21 +119,24 @@ Ten model Lumii posiada także kamerkę z przodu o rozdzielczości 1.3 Mpix. Ide
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185930_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185946_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127190039_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127190554_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121128181033_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121128181047_0.jpg)
 
 
@@ -176,7 +180,8 @@ W tym konkretnym przypadku, Lumia 900 posiada  wersję 7.10.9773.98, a zatem ju�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185753_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185818_0.png)
 
 
@@ -204,7 +209,8 @@ Testy przeprowadzone przy pomocy [WP Bench](http://www.windowsphone.com/pl-pl/st
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185831_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127185835_0.jpg)
 
 
@@ -282,21 +288,24 @@ Funkcjonalność znana z innych urządzeń. Dzwoniący telefon można szybko wyc
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191935_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191920_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191758_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191805_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191740_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191747_0.jpg)
 
 
@@ -308,14 +317,16 @@ Funkcjonalność znana z innych urządzeń. Dzwoniący telefon można szybko wyc
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191727_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191734_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191849_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-11-28-_130_/g_-_-x-_-_-_x20121127191855_0.jpg)
 
 

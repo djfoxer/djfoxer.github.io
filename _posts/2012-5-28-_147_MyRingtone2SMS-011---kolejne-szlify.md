@@ -81,28 +81,32 @@ Aplikacja dostępna jest również poprzez [Bazaar](http://wp-bazaar.com/Bazaar/
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231234_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231239_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231244_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231249_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231253_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231303_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231308_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-28-_147_/g_-_-x-_-_-_x20120528231313_0.jpg)
 
 

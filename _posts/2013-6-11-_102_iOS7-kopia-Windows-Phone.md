@@ -17,7 +17,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611083339_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611083700_0.png)
 
  
@@ -25,7 +26,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082614_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082621_0.jpg)
 
 
@@ -33,7 +35,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082627_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082630_0.jpg)
 
   
@@ -41,7 +44,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082635_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082639_0.jpg)
 
   
@@ -49,7 +53,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082644_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082649_0.jpg)
 
 
@@ -57,7 +62,8 @@ Ok. Koniec tych, uszczypliwości. Pora na fakty. [Xanthia](http://www.dobreprogr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082655_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-11-_102_/g_-_-x-_-_-_x20130611082659_0.jpg)
 
   

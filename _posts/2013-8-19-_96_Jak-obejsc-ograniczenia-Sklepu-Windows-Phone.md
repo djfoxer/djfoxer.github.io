@@ -37,7 +37,8 @@ Aby móc działać w jakikolwiek sposób, należy pobrać program [Fiddler](http
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818142007_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818142005_0.jpg)
 
 
@@ -175,7 +176,8 @@ Otwiera się okno Sklepu...
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818153520_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818154033_0.png)
 
 
@@ -233,7 +235,8 @@ Otwiera się okno Sklepu...
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818153518_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-8-19-_96_/g_-_-x-_-_-_x20130818154029_0.png)
 
 

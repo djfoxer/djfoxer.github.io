@@ -53,7 +53,8 @@ Tej pozycji nie trzeba nikomu przedstawiać, słynne Angry Birds na Windows Phon
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180611_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180624_0.png)
 
 
@@ -74,7 +75,8 @@ Bardzo oryginalna gra, której celem jest takie pokierowanie płomieniem, aby sp
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180634_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180643_0.png)
 
 
@@ -93,7 +95,8 @@ Bardzo oryginalna gra, której celem jest takie pokierowanie płomieniem, aby sp
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180655_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-12-_154_/g_-_-x-_-_-_x20120412180714_0.png)
 
 

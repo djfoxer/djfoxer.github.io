@@ -40,7 +40,8 @@ Nokia DC-16 to świetnie wykonane urządzenie z twardego plastiku o wysokiej jak
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-3-_103_/g_-_-x-_-_-_x20130530225855_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-6-3-_103_/g_-_-x-_-_-_x20130530225900_0.jpg)
 
 

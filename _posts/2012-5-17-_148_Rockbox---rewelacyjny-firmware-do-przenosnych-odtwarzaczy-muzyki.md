@@ -77,7 +77,8 @@ Ekran jest czytelny, a opcje poukładane dość logicznie. Momentami można jedn
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515223954_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515223959_0.png)
 
 
@@ -86,7 +87,8 @@ Ekran jest czytelny, a opcje poukładane dość logicznie. Momentami można jedn
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120517175601_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120517175607_0.png)
 
 
@@ -124,7 +126,8 @@ Możliwości konfiguracji dźwięku są bardzo duże, standardowo otrzymujemy
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515231454_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515231458_0.png)
 
 
@@ -156,7 +159,8 @@ Oczywiście  opcji jest jeszcze więcej...
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515235802_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120515235805_0.png)
 
 
@@ -173,7 +177,8 @@ Oczywiście nie mogło obyć się bez nagrywania dźwięku. Rocbox i w tym nie z
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516230403_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516230406_0.png)
 
 
@@ -189,7 +194,8 @@ Wraz z nowym oprogramowaniem na nasz odtwarzacz, otrzymujemy zestaw gier. Jest i
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516231949_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516231942_0.png)
 
 
@@ -206,7 +212,8 @@ Kolejny zbiór wtyczek to aplikacje. Znajdziemy tu m.in. edytor tekstu (!), apli
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516232629_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516232635_0.png)
 
 
@@ -223,7 +230,8 @@ Kilka dodatków, które pozwolą nam sprawdzić na co stać naszego "malucha" lu
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516233115_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516233119_0.png)
 
 
@@ -278,7 +286,8 @@ Zanim wgramy Rockboxa na odtwarzacz, warto go przetestować. Twórcy dali nam em
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516235143_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-17-_148_/g_-_-x-_-_-_x20120516235311_0.png)
 
 

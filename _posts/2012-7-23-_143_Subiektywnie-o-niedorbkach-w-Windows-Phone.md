@@ -42,14 +42,16 @@ Pamiętamy, że polska wersja językowa weszła z Mango. Wydawać, by się mogł
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-7-23-_143_/g_-_-x-_-_-_x20120721150624_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-7-23-_143_/g_-_-x-_-_-_x20120721150709_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-7-23-_143_/g_-_-x-_-_-_x20120721151900_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-7-23-_143_/g_-_-x-_-_-_x20120721151906_0.jpg)
 
 

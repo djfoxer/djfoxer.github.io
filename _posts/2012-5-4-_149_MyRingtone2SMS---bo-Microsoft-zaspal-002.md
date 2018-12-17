@@ -25,7 +25,8 @@ Może trochę historii. Pierwsze wydanie Windows Phone 7 nie pozwalało na ustaw
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502114537_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502114629_0.jpg)
 
 
@@ -47,7 +48,8 @@ W taki sposób powstał pomysł  na aplikację MyRingtone2SMS. Program odczytuje
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502120238_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502120247_0.jpg)
 
 
@@ -55,7 +57,8 @@ W taki sposób powstał pomysł  na aplikację MyRingtone2SMS. Program odczytuje
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502120448_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-4-_149_/g_-_-x-_-_-_x20120502120453_0.jpg)
 
 

@@ -17,7 +17,8 @@ Wersja działająca dostępna jest pod adresem: [www.djfoxer.pl/mini/](http://ww
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222317_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222325_0.jpg)
 
 
@@ -25,7 +26,8 @@ Wersja działająca dostępna jest pod adresem: [www.djfoxer.pl/mini/](http://ww
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222335_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222351_0.jpg)
 
 
@@ -72,7 +74,8 @@ Strona jest prosta i bardzo mała. Na górze umieściłem combobox, z którego m
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222907_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120206222915_0.jpg)
 
 
@@ -133,7 +136,8 @@ Sprawdziłem też wyświetlanie na Operze Mini (6.5 i 4.2)
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120207175031_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120207175037_0.jpg)
 
 
@@ -227,7 +231,8 @@ Wrzuciłem na serwer nową wersje, całkiem sporo zmian (m.in komentarze):
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120221075911_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-2-6-_163_/g_-_-x-_-_-_x20120221075920_0.jpg)
 
 

@@ -33,7 +33,8 @@ Kindle ma wiele możliwości, do których nie można się dostać z poziomu menu
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422113304_0.gif)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422113308_0.gif)
 
 
@@ -81,7 +82,8 @@ Zaraz po uruchomieniu świeżej wersji Kindla, możemy trochę się przestraszy�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422121325_0.gif)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422121329_0.gif)
 
 
@@ -89,7 +91,8 @@ Zaraz po uruchomieniu świeżej wersji Kindla, możemy trochę się przestraszy�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422121431_0.gif)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422121333_0.gif)
 
 
@@ -109,14 +112,16 @@ Kolejny dodatek pozwala na zastąpienie domyślnej czcionki na własną. Bardzo 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422122840_0.gif)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422122837_0.gif)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422124626_0.gif)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422124632_0.gif)
 
 
@@ -167,7 +172,8 @@ Na "żywo" wyglądają jeszcze piękniej :)
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422134715_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-4-24-_151_/g_-_-x-_-_-_x20120422134724_0.jpg)
 
 

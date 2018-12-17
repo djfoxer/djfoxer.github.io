@@ -27,21 +27,24 @@ Oczywiście nowy interfejs w Windows Phone okazał się strzałem w dziesiątkę
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185732_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185736_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185745_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185752_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185756_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-20-_106_/g_-_-x-_-_-_x20130520185800_0.jpg)
 
 

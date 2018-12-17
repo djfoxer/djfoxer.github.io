@@ -76,7 +76,8 @@ Już w tym momencie okazało się, że aplikacja na Androida posiada więcej mo�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-20-_91_/g_-_-x-_-_-_x20131219184336_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-20-_91_/g_-_-x-_-_-_x20131219185449_0.png)
 
 
@@ -94,7 +95,8 @@ Jak już wspomniałem, system zdalny obsługujemy w trybie gestów myszy (Window
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-20-_91_/g_-_-x-_-_-_x20131219184357_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-12-20-_91_/g_-_-x-_-_-_x20131219185100_0.png)
 
 

@@ -23,7 +23,8 @@ Każdy kto ma Windows Phone, wie że w menu  *Gry*  dostępny jest nasz avatar z
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224543_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224547_0.jpg)
 
 
@@ -36,7 +37,8 @@ Zatem na początku postarajmy się potrząsnąć naszym telefonem. Avatar zaczni
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224552_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224556_0.jpg)
 
 
@@ -47,7 +49,8 @@ Powtórzmy to jeszcze raz i zobaczymy, że lekko się zirytuje... jeszcze kilka 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224601_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224609_0.jpg)
 
 
@@ -57,7 +60,8 @@ Czy to już koniec? Oczywiście jeszcze nie, nie damy odpocząć naszemu bohater
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224612_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-23-_105_/g_-_-x-_-_-_x20130523224616_0.jpg)
 
 

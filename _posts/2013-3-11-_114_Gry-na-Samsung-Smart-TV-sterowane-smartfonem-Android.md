@@ -48,7 +48,8 @@ Jedna z najbardziej wciągających gier na Smart TV w połączeniu ze smartfonem
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220020_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220029_0.jpg)
 
 
@@ -68,7 +69,8 @@ Teraz dotykając ekran smartfona i wykonując palcem ruch przesunięcia na karci
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220040_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220111_0.jpg)
 
 
@@ -88,7 +90,8 @@ Kolejna gra, która w jeszcze inny sposób posłuży się smartfonem podłączon
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220123_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220129_0.jpg)
 
 
@@ -96,7 +99,8 @@ Kolejna gra, która w jeszcze inny sposób posłuży się smartfonem podłączon
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220134_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220151_0.jpg)
 
 
@@ -127,7 +131,8 @@ Następna gra dla naszego duetu Smart TV i smartfon to Gunmanthe: legend begins.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220203_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220216_0.jpg)
 
 
@@ -186,7 +191,8 @@ Ostatnia z pozycji w tym wpisie to gra Shaking. Jest to wariacja na popularny ro
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220253_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220259_0.jpg)
 
 
@@ -196,14 +202,16 @@ Na początku otrzymujemy zamówienia na konkretny rodzaj drinka. Przepis pojawia
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220307_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220319_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220312_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220331_0.jpg)
 
 
@@ -218,7 +226,8 @@ Na koniec wlewamy tak przygotowany drink do szklanki dla gościa (przechlamy sma
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220340_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-3-11-_114_/g_-_-x-_-_-_x20130310220347_0.jpg)
 
 

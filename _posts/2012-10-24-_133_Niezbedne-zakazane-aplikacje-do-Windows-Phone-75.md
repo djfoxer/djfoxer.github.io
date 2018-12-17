@@ -28,7 +28,8 @@ WinTT jest jednym z pierwszych tweakerów jakie powstały na Windows Phone. Ofer
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230135_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230140_0.jpg)
 
 
@@ -51,7 +52,8 @@ WinTT jest jednym z pierwszych tweakerów jakie powstały na Windows Phone. Ofer
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230145_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230151_0.jpg)
 
 
@@ -77,7 +79,8 @@ BlueManager to aplikacja, która zapewne może ucieszyć tych, którzy narzekaj�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230102_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230004_0.jpg)
 
 
@@ -87,7 +90,8 @@ Użytkownik dostaje możliwość przesłania: zdjęć, muzyki oraz konatków. Ca
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230019_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230052_0.jpg)
 
 
@@ -97,7 +101,8 @@ Teraz kilka ciekawostek. Otóż przy pomocy BlueManager, można w Windows Phone 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230013_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230110_0.jpg)
 
 
@@ -122,7 +127,8 @@ Ostatni niezbędna aplikacja dla  użytkowania z odblokowanym systemem z Windows
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230119_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-10-24-_133_/g_-_-x-_-_-_x20121023230125_0.jpg)
 
 

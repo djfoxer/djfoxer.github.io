@@ -54,7 +54,7 @@ Główną siłą Foobota są czujniki powietrza, omówmy zatem jakie dane o tym 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-3-13-_8_/g_-_-x-_-_-_x23a4f97f-f7d1-4841-a56a-5e786a99b2f0.png)
 
 
-[b]Pył zawieszony (PM 2.5)[/b]
+__Pył zawieszony (PM 2.5)__
 
 Pył zawieszony o średnicy nie większej niż 2.5 µm, uznawany jest za najbardziej szkodliwy z zanieczyszczeń atmosferycznych. Nie sposób go wyeliminować, ale warto zmniejszyć jego ilość w naszych domach. Omawiany czujnik wykrywa cząstki od 0,003 do 2,5µg.
 
@@ -64,7 +64,7 @@ Olbrzymim źródłem PM 2.5 są stare piece w chociażbym domkach jednorodzinnyc
 
 Warto zatem wietrzyć, w miarę możliwości, pomieszczenia gdzie przebywamy najczęściej. Dodatkowo nie zaszkodzi w kuchniach używać okapów i dbać o jakość filtrów w odkurzaczach, a także zrezygnować z palenia papierosów w domu. W ostateczności można zakupić dedykowany filtr powietrza.
 
-[b]Lotne związki organiczne (VOC)[/b]
+__Lotne związki organiczne (VOC)__
 
 Powstają często jako uboczne produkty w przemyśle. W naszych domach mogą powstawać poprzez używanie farb, lakierów, a także korzystanie z produktów konsumenckich, które uwalniają związki organiczne jak np. środki czystości, dezodoranty czy odświeżacze powietrza
 
@@ -74,13 +74,13 @@ Foobot nie wykrywa każdego ze związków osobno, ale podaje ogólny podgląda n
 
 Jeśli ilość związków jest wysoka warto przewietrzyć pomieszczenie przy malowaniu w mieszkaniu czy zrezygnować ze szkodliwych dezodorantów/lakierów, a także zmniejszyć ilość chemii do czyszczenia i odświeżania powietrza.
 
-[b]CO2[/b]
+__CO2__
 
 CO2 obliczane jest przy użyciu czujnika badającego lotne związki organiczne. Foobot wykrywa CO2 od 450 ppm. Dwutlenek węgla jest wszędzie wokół nas, a nawet rośliny w nocy emitują CO2 do powietrza.
 
 Nadmierne stężenie CO2 w pomieszczeniach może prowadzić do bólów i zawrotów głowy, senności, nudności. W przypadku podwyższonego CO2 (powyżej 1300 ppm) warto przewietrzyć pomieszczenie lub użyć filtrów powietrza. 
 
-[b]Temperatura i wilgotność[/b]
+__Temperatura i wilgotność__
 
 Foobot zmierzy również temperaturę i wilgotność powietrza. Odpowiednia wilgotność (40-60%) nie będzie powodowała wysuszenia oczyu czy błon śluzowych, a także zminimalizuje tworzenie się grzybów. Warto również wiedzieć, że wysoka temperatura sprzyja w kumulowaniu się lotnych związków organicznych.
 
@@ -102,7 +102,7 @@ Pomarańczowe diody to znak, że warto zainteresować się szczegółowymi staty
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-3-13-_8_/g_-_-x-_-_-_xd812bc04-ac1f-40a8-8dab-85dc4a49a6e5.jpg)
 
 
-[b]Dedykowana aplikacja na smartfona[/b]
+__Dedykowana aplikacja na smartfona__
 
 Wraz z urządzeniem powinniśmy pobrać aplikację na nasz telefon z [Androidem ](https://play.google.com/store/apps/details?id=com.airboxlab.foobot)lub [iOS](https://itunes.apple.com/us/app/foobot/id909284570?mt=8). W ten sposób skonfigurujemy czujnik i dostosujemy go do naszych potrzeb, a także na bieżąco będzie możliwe monitorowanie staniu naszego powierza.
 
@@ -126,7 +126,7 @@ Sama aplikacja jest czytelna i zrozumiała, bez przeładowanych informacji. W ra
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-3-13-_8_/g_-_-x-_-_-_x9d1d4394-3b13-472e-bed3-84bca2708f85.png)
 
 
-[b]IFTTT[/b]
+__IFTTT__
 
 Jeśli dedykowana aplikacja to za mało można pokusić się o pobranie [IFTTT ](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=pl)na telefon. Ta aplikacja, po połączeniu z Foobotem, umożliwia stworzenie wyzwalaczy, które na konkretnym poziomie jakości powietrza mogą aktywować akcję. Możemy zatem zapisać pomiar czujnika do arkusza Google, wysłać maila, zamrugać lampką hue od Philipsa, uruchomić filtr powietrza (Nest Thermostat, Honeywell Lyric, ecobee) czy zapisać dane do kalendarza. 
 
@@ -134,11 +134,11 @@ Jeśli dedykowana aplikacja to za mało można pokusić się o pobranie [IFTTT ]
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-3-13-_8_/g_-_-x-_-_-_x86328400-f627-46fb-975d-c3f71c886969.png)
 
 
-[b]Alexa i inni[/b]
+__Alexa i inni__
 
 Foobot można również podpiąć pod konto w Conrad Connect (system do sterownia inteligentnymi urządzeniami w naszym domu). Ciekawszym rozwiązaniem jest również połączenie z Alexa od Amazona, co umożliwi sterowanie Foobotem głosowo.
 
-[b]API[/b]
+__API__
 
 Jeśli wymienione propozycje to za mało, możemy samemu napisać aplikację wykorzystując API. Darmowy interfejs pozwoli na pobieranie danych z sieci odnośnie naszych czujników. dzienny limit zapytań to 200.
 
@@ -148,7 +148,7 @@ Jeśli wymienione propozycje to za mało, możemy samemu napisać aplikację wyk
 
 Podstawowym pytaniem jest jednak: jak działa Foobot? Po dwóch tygodniach testów śmiało mogę powiedzieć, że monitor sprawuje się świetnie.
 
-[b]Pierwsze kroki[/b]
+__Pierwsze kroki__
 
 Instalacja przebiega bezproblemowo i odbywa się za pomocą gestów (obracamy Foobota, aby potwierdzić zmiany). Przy pierwszym uruchomieniu czujnik sam pobierze aktualizację i w kilka chwil jest już gotowy do użycia. Szkoda, że ani aplikacja, ani instrukcja nie są w języku polskim.
 
@@ -156,7 +156,7 @@ Pełną sprawność Foobot osiąga po 6 dniach, w tym czasie czujniki  *rozgrzew
 
 Bardzo ciekawym gestem jest podwójne stuknięcie w Foobota od góry. W tym momencie czujnik pokaże stan powietrza poprzez zapalenie diod (jeśli wyłączyliśmy diody, np. w nocy gdy ustawimy tryb ciszy) i zaktualizuje dane w aplikacji.
 
-[b]Analiza na co dzień[/b]
+__Analiza na co dzień__
 
 Foobot zbiera informacje z czujników 24h na dobę i w każdej chwili można poprzez aplikację sprawdzić szczegółowy stan naszego powietrza w pomieszczeniu. 
 
@@ -180,7 +180,7 @@ Sama aplikacja, która zbiera dane jest bogata w funkcje, ale nie jest przesadni
 
 Szkoda, że Foobot nie ma możliwości pracy z baterii/akumulatora. Na pewno zyskałby on na funkcjonalności, gdyby można było postawić go w każdym miejscu, bez zawracania sobie głowy kablem zasilającym. 
 
-[b]Nie róbcie tego w domu (he he he)[/b]
+__Nie róbcie tego w domu (he he he)__
 
 Pomimo tego, iż Foobot nie jest przeznaczony do działa na zewnątrz postanowiłem sprawdzić jego działanie na świeżym powietrzu (po podłączeniu do powerbanku). Pomimo temperatury dochodzącej do -15 st. C, Foobot sprawdzał się znakomicie i pokazywał dane bez żadnych przeszkód. Jedynym mankamentem jest to, że wbudowana aplikacja nie pokazuje temperatury poniżej zera (przez API jest ok). 
 

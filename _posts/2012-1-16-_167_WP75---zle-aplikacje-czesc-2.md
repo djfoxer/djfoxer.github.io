@@ -60,28 +60,32 @@ Jak widać program ma ciekawe możliwości. Jest to pierwsza wersja do testów, 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150456_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150505_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150512_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150520_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150531_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150542_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150554_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115150600_0.jpg)
 
 
@@ -114,28 +118,32 @@ Wyniki pracy cieszą oko. Program działa stabilnie i nie zawiesza się (co w pr
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152345_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152401_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152410_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152418_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152436_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152502_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152534_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115152544_0.jpg)
 
 
@@ -164,21 +172,24 @@ Aplikacja od 1 stycznia nie jest już niestety dostępna na Marketplace. Ze wzgl
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155650_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155700_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155717_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155738_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155747_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115161302_0.jpg)
 
 
@@ -190,7 +201,8 @@ Aplikacja od 1 stycznia nie jest już niestety dostępna na Marketplace. Ze wzgl
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155804_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115155822_0.jpg)
 
 
@@ -211,7 +223,8 @@ Warto zaznaczyć, iż należy ostrożnie obchodzić się z tą aplikacją, gdyż
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115160828_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115160838_0.jpg)
 
 
@@ -235,14 +248,16 @@ Oczywiście nie jest to całkowita nakładka na system, a jedynie HUB, coś na w
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115162301_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115162317_0.jpg)
 
 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115162332_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-1-16-_167_/g_-_-x-_-_-_x20120115162350_0.jpg)
 
 

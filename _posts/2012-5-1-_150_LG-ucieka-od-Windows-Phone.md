@@ -101,7 +101,8 @@ Wg statystyk zebranych przez  *...i'm a WP7!* , wśród użytkowników ich aplik
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_150_/g_-_-x-_-_-_x20120501140415_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-5-1-_150_/g_-_-x-_-_-_x20120501140424_0.jpg)
 
 

@@ -23,7 +23,8 @@ Evolution Kit od Samsunga to rozszerzenie, które zaktualizuje oprogramowanie w 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-29-_104_/g_-_-x-_-_-_x20130529112523_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-29-_104_/g_-_-x-_-_-_x20130529112529_0.jpg)
 
 
@@ -68,7 +69,8 @@ Podłączenie rozszerzenia do TV dodaje:
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-29-_104_/g_-_-x-_-_-_x20130529112538_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2013-5-29-_104_/g_-_-x-_-_-_x20130529112546_0.jpg)
 
 

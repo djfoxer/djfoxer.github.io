@@ -56,7 +56,8 @@ Całość działa szybko i niezmiernie płynnie. Co ważne, za pomocą aplikacji
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-19-_82_/g_-_-x-_-_-_x20140419010845_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-19-_82_/g_-_-x-_-_-_x20140419010852_0.jpg)
 
 

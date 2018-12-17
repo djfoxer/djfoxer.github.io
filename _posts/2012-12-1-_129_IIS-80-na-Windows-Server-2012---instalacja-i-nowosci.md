@@ -32,7 +32,8 @@ W kreatorze wybieramy odpowiedni typ instalacji i serwer docelowy.
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130184100_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130184234_0.png)
 
 
@@ -45,7 +46,8 @@ Jeśli pojawi się okienko z pytaniem, czy dodać wymagane funkcje, potwierdzamy
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130190501_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130190452_0.png)
 
 
@@ -63,7 +65,8 @@ Teraz możemy już odpalić nowego IIS 8.0. Tutaj na szczęście nie ma interfac
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130192007_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130192013_0.png)
 
 
@@ -124,7 +127,8 @@ Ograniczeniem może być zarówno odmowa wyświetlenie strony, albo tylko logowa
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130203806_0.png)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2012-12-1-_129_/g_-_-x-_-_-_x20121130203809_0.png)
 
 

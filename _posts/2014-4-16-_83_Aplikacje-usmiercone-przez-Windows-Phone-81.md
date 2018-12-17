@@ -23,7 +23,8 @@ Wraz z instalacją Windows Phone 8.1 dostajemy centrum powiadomień. Znajdziemy 
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221035_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221029_0.jpg)
 
 
@@ -39,7 +40,8 @@ Windows Phone 8.1 oferuje szybkie sprawdzenie czy zainstalowane aplikacje nie do
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221031_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221032_0.jpg)
 
 
@@ -55,7 +57,8 @@ Microsoft udostępnił oszczędzanie baterii jako oddzielną aplikację na liśc
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221034_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221037_0.jpg)
 
 
@@ -70,7 +73,8 @@ Finalna wersja Windows Phone 8.1 dostarczy dla każdego użytkownika systemu pe�
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221040_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415221039_0.jpg)
 
 
@@ -85,7 +89,8 @@ Na koniec zostawiłem najbardziej kontrowersyjny punkt, ale moim zdaniem całkie
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415231111_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415231115_0.jpg)
 
 
@@ -93,7 +98,8 @@ Taki stan rzeczy zapewne wpłynie znacznie na atrakcyjność IE 11 na Windows Ph
 
 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415231113_0.jpg)
-[join]
+
+
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2014-4-16-_83_/g_-_-x-_-_-_x20140415231114_0.jpg)
 
 
