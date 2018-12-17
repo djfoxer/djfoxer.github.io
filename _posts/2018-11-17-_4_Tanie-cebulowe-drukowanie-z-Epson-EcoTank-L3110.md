@@ -40,7 +40,7 @@ W celu sprawdzenia jak to cudo działa i jak duża jest to  *cebula, * otrzyma�
 ### Wincyj cebuli!
 
 
-Kończąc ten już przydługawy wstęp do testów EcoTanka, dodam jeszcze kilka przydatnych informacji dla prawdziwych  *cebul * :) Otóż można obecnie uzyskać__ zwrot za zakup drukarki__ Epson. W najdroższych modelach sięga ona nawet __500 zł__ (w testowanym modelu wynosi ona 100 zł). Po więcej szczegółów odsyłam do strony z promocyjnej: [link](https://www.epson.pl/viewcon/corporatesite/cms/index/12835).
+Kończąc ten już przydługawy wstęp do testów EcoTanka, dodam jeszcze kilka przydatnych informacji dla prawdziwych  *cebul * :) Otóż można obecnie uzyskać __zwrot za zakup drukarki__ Epson. W najdroższych modelach sięga ona nawet  __500 zł__ (w testowanym modelu wynosi ona 100 zł). Po więcej szczegółów odsyłam do strony z promocyjnej: [link](https://www.epson.pl/viewcon/corporatesite/cms/index/12835).
 
 
 
@@ -48,7 +48,7 @@ Kończąc ten już przydługawy wstęp do testów EcoTanka, dodam jeszcze kilka 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-17-_4_/g_-_-x-_-_-_x6a864e1c-8013-4948-b377-b0876c5e080d.PNG)
 
 
-Warto też dodać, że oryginalne tusze (dosłownie tusze, bo są to pojemniki do wstrzyknięcia) kosztują całkiem rozsądne pieniądze. Otóż za __27 zł__ dostajemy 65 ml tuszu (czarny lub jeden z kolorów CMY). Pozwala to na wydrukowanie __4500 stron czarno-białych__ lub __7500 kolorowych__ (kupując 3 kolorowe pojemniki oczywiście). Jest to cena więcej niż atrakcyjna za tusz wysokiej jakości od producenta. Można tylko zacierać ręce jeśli pomyślimy ile wyniesie nam uzupełnienie o tusz z zamiennika. Pytaniem oczywiście jest czy warto to robić, ale to już zapewne okazja do innego wpisu.
+Warto też dodać, że oryginalne tusze (dosłownie tusze, bo są to pojemniki do wstrzyknięcia) kosztują całkiem rozsądne pieniądze. Otóż za  __27 zł__ dostajemy 65 ml tuszu (czarny lub jeden z kolorów CMY). Pozwala to na wydrukowanie  __4500 stron czarno-białych__ lub  __7500 kolorowych__ (kupując 3 kolorowe pojemniki oczywiście). Jest to cena więcej niż atrakcyjna za tusz wysokiej jakości od producenta. Można tylko zacierać ręce jeśli pomyślimy ile wyniesie nam uzupełnienie o tusz z zamiennika. Pytaniem oczywiście jest czy warto to robić, ale to już zapewne okazja do innego wpisu.
 
 
 

@@ -28,7 +28,7 @@ Po wydrukowaniu 200 zdjęć bez ramek (format 10x15 cm), w najwyższej jakości 
 ![desk](https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-12-9-_1_/g_-_-x-_-_-_x439f3d2c-02d1-4621-adab-ac94fd8fd1e4.jpg)
 
 
-Można zatem przyjąć, że wydrukowanie jednego zdjęcia 10x15 cm najwyższej jakości kosztuje około __12 gr (tusz), __ustalmy że tusze ubywają jednakowo. Dodajmy do tego jeszcze koszt papieru: 10 gr (paczka 100 arkuszy, 250 g). Sumarycznie wychodzi__ __zatem __22 gr (tusz+papier)__ za zdjęcie najwyższej jakości. Pojedyncze zdjęcie 10x15 cm w fotolabie online za druk do 100 sztuk wynosi 55 gr. W kwestii ceny drukowanie w domu drukarką EcoTank wychodzi na plus i jest bardzo opłacalne. Dodatkowo można jeszcze poeksperymentować z tańszym papierem i drukując w jakości standard (ja drukowałem w najwyższej dostępnej), wówczas można będzie zejść z 22 gr, na grubo poniżej 20 gr za zdjęcie.
+Można zatem przyjąć, że wydrukowanie jednego zdjęcia 10x15 cm najwyższej jakości kosztuje około  __12 gr (tusz), __ ustalmy że tusze ubywają jednakowo. Dodajmy do tego jeszcze koszt papieru: 10 gr (paczka 100 arkuszy, 250 g). Sumarycznie wychodzi __ __ zatem  __22 gr (tusz+papier)__ za zdjęcie najwyższej jakości. Pojedyncze zdjęcie 10x15 cm w fotolabie online za druk do 100 sztuk wynosi 55 gr. W kwestii ceny drukowanie w domu drukarką EcoTank wychodzi na plus i jest bardzo opłacalne. Dodatkowo można jeszcze poeksperymentować z tańszym papierem i drukując w jakości standard (ja drukowałem w najwyższej dostępnej), wówczas można będzie zejść z 22 gr, na grubo poniżej 20 gr za zdjęcie.
 
 
 ### Epsone EcoTank vs fotolab - jakość zdjęć
