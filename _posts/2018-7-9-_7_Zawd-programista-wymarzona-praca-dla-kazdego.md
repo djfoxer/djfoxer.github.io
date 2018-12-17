@@ -5,6 +5,7 @@ date:       2018-07-09 17:16:00
 summary:    Programowanie od jakiegoś czasu jest coraz bardziej poszukiwaną umiejętnością na rynku pracy. Bardzo prosto jest również takim programistą zostać, patrząc na oferty wszelakich kursów czy studiów podyplomowych. Doszło do tego, że można nawet stać się programistą poprzez korespondencyjny kurs na Messengerze... Na pewno programowanie jest umiejętnością, która przydać się może każdemu. Pytanie można z...
 categories: oprogramowanie porady programowanie
 slug: Zawod-programista-wymarzona-praca-dla-kazdego,89182.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-7-9-_7_/g_-_-x-_-_-_x0b3e3f3a-05d5-4683-92f8-7035468aed56.jpg
 ---
 
 

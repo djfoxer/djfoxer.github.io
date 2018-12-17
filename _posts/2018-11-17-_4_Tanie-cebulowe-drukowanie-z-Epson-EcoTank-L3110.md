@@ -5,6 +5,7 @@ date:       2018-11-17 21:00:00
 summary:    Drukarkę podłączoną do komputera ma niemal każdy. Jeśli ktoś nadal nie ma, to zapewne nadejdzie moment, kiedy trzeba będzie coś pilnie wydrukować i wówczas zostanie tylko żal, że przycebuliło się i nie kupiło drukarki do domu. Oczywiście jest jak zawsze jeden tylko problem. Jaką drukarkę kupić? Większość z nas oczekuje urządzenia, którego jakość druku jest co najmniej dobra, a jednocześnie codzien...
 categories: sprzęt porady
 slug: Tanie-cebulowe-drukowanie-z-Epson-EcoTank-L,92206.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-17-_4_/g_-_-x-_-_-_x784f8e8d-7094-4368-8f75-a08fb085d619.jpg
 ---
 
 

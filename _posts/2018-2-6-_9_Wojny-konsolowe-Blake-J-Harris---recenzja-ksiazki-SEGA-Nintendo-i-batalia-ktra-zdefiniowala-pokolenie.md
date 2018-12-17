@@ -2,9 +2,10 @@
 layout:     post
 title:      Wojny konsolowe, Blake J. Harris — recenzja książki (SEGA, Nintendo i batalia, która zdefiniowała pokolenie)
 date:       2018-02-06 17:09:00
-summary:    Nie ma co tu owijać w bawełnę i nudzić wstępem na siłę. Książka jest świetna i jeśli interesujesz się grami retro lub ogólnie historią przemysłu rozrywkowego, to jest to pozycja wręcz obowiązkowa. Nawet więcej, warto znać omawianą książkę jako szersze spojrzenie na obecną branżę gier, a uwierzcie, że znajdziecie wiele analogii do obecnych poczynań tuz świata growego.
+summary:    Nie ma co tu owijać w bawełnę i nudzić wstępem na siłę. Książka jest świetna i jeśli interesujesz się grami retro lub ogólnie historią przemysłu rozrywkowego, to jest to pozycja wręcz obowiązkowa. Nawet więcej, warto znać omawianą książkę jako szersze spojrzenie na obecną branżę gier, a uwierzcie, że znajdziecie wiele analogii do obecnych poczynań tuz świata growego. <!----><!---->Sega od środkaKs...
 categories: sprzęt oprogramowanie gry
 slug: Wojny-konsolowe-Blake-J.-Harris-recenzja-ksiazki-SEGA-Nintendo-i-batalia-ktora-zdefiniowala-pokolenie,85915.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-2-6-_9_/g_-_-x-_-_-_x76419508-dc60-44d1-aa4e-598c11cb8752.jpg
 ---
 
 

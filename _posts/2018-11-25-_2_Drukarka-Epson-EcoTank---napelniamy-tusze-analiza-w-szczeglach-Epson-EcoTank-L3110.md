@@ -5,6 +5,7 @@ date:       2018-11-25 13:36:00
 summary:    Drukarka dostarczona od Epsona do testów jest już u mnie jakiś czas. Jest ona reklamowana jako jedno z najtańszych urządzeń na rynku w kwestiach eksploatacyjnych. We wcześniejszym wpisie (Tanie, cebulowe drukowanie z Epson EcoTank L3110) przedstawiłem kilka suchych faktów odnośnie samej drukarki. Dziś przyszedł czas na trochę praktyki. W pierwszej kolejności zobaczymy jak napełnia się tuszami ów s...
 categories: sprzęt porady
 slug: Drukarka-Epson-EcoTank-napelniamy-tusze-analiza-w-szczegolach-Epson-EcoTank-L,92369.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-25-_2_/g_-_-x-_-_-_x05dfedfd-9268-46ad-b25d-bd0583f9f0af.jpg
 ---
 
 

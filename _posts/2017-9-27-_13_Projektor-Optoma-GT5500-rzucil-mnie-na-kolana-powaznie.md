@@ -5,6 +5,7 @@ date:       2017-09-27 20:24:00
 summary:    Będąc na prezentacjach, szkoleniach czy wykładach nieraz zastanawiałem się nad zakupem projektora. Taki rzutnik byłby idealny do oglądania filmów czy grania w gry w domu. Niestety w mieszkaniu nie zawsze jest wystarczająco dużo miejsca, aby móc tak rzutnik postawić w odpowiedniej odległości od ściany. Stąd też temat zakupu projektora odłożyłem na bok, a to błąd...Co to za dziwo?Jakiś czas temu Red...
 categories: sprzęt porady inne
 slug: Projektor-Optoma-GT5500-rzucil-mnie-na-kolana-powaznie,83392.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-9-27-_13_/g_-_-x-_-_-_x20170927184240_0.jpg
 ---
 
 

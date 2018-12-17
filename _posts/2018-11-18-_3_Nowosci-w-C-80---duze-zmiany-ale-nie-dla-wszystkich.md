@@ -5,6 +5,7 @@ date:       2018-11-18 15:06:00
 summary:    C# 8.0 zbliża się wielkimi krokami. Premiera planowana jest razem z .NET Core 3.0 (nieokreślona data w 2019 roku), aczkolwiek pierwsze wersje podglądowe mają być dostępne już z wersjami beta Visual Studio 2019. Co ciekawe, nowości w C# 8.0 nie będą dostępne dla wszystkich (tak, tak, klasyczny .NET Framework będzie zapewne wygaszany!).Cóż zatem nowego możemy spodziewać się w C# 8.0? Sprawdźmy to! <...
 categories: programowanie
 slug: Nowosci-w-C--duze-zmiany-ale-nie-dla-wszystkich,92211.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-18-_3_/g_-_-x-_-_-_x6dea61f5-a68a-4528-a982-5ea5603b88c8.png
 ---
 
 

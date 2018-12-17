@@ -2,9 +2,10 @@
 layout:     post
 title:      Epson EcoTank — domowa drukarnia i fotolab w jednym
 date:       2018-12-09 19:03:00
-summary:    Testy drukarki Epson EcoTank L3110 niestety już dobiegły do końca i sprzęt trzeba zwrócić. Przez ostatnie tygodnie wydrukowałem grubo pand 200 zdjęć i ponad 50 stron tekstu. W pożegnalnym wpisie przedstawię kilka porad i uwag odnośnie drukowania zdjęć w domu za pomocą drukarek EcoTank. <!-- galleryStart --><!-- galleryEnd -->Domowy fotolab - kosztyDrukowanie w domu zdjęć do albumu to kusząca propo...
+summary:    Testy drukarki Epson EcoTank L3110 niestety już dobiegły do końca i sprzęt trzeba zwrócić. Przez ostatnie tygodnie wydrukowałem grubo pand 200 zdjęć i ponad 50 stron tekstu. W pożegnalnym wpisie przedstawię kilka porad i uwag odnośnie drukowania zdjęć w domu za pomocą drukarek EcoTank. <!----><!---->Domowy fotolab - kosztyDrukowanie w domu zdjęć do albumu to kusząca propozycja. Z drukarką EcoTank ...
 categories: sprzęt porady
 slug: Epson-EcoTank-domowa-drukarnia-i-fotolab-w-jednym,96412.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-12-9-_1_/g_-_-x-_-_-_xcbae6f91-1001-4ded-90d7-b33c84f07b55.jpg
 ---
 
 

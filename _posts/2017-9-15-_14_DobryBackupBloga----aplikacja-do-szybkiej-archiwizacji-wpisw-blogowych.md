@@ -5,6 +5,7 @@ date:       2017-09-15 11:28:00
 summary:    Nowy blog zbliża się wielkimi krokami. Zapewne w październiku będziemy cieszyli się zarówno nowymi blogami, jaki i aplikacją mobilną, a może również odświeżeniem portalu.Z tego co zapowiada Lisek blog przejdzie gruntowny remont, łączenie z nowym formatem wpisów blogowych (zniknie bbcode). Może to właśnie dobry moment, aby każdy bloger zbackupował własne wpisy z bloga. Oczywiście ręczne kopiowanie ...
 categories: oprogramowanie internet hobby
 slug: DobryBackupBloga--aplikacja-do-szybkiej-archiwizacji-wpisow-blogowych,83137.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-9-15-_14_/g_-_-x-_-_-_x20170915094722_0.png
 ---
 
 

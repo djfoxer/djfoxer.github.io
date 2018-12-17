@@ -5,6 +5,7 @@ date:       2018-02-02 20:05:00
 summary:    Xamarin pozwala na tworzenie aplikacji pod Androida i iOS używając jedynego słusznego języka programowania, czyli C# ;) Jednym z częstszych problemów na jakie się natkniemy podczas wrzucania naszych apek do marketów jest wersjonowanie aplikacji. W jaki sposób jednocześnie numerować kolejne wydania pod Androida i iOS, bez szukania za każdym razem plików, a także sterować numeracją tylko z jednego m...
 categories: porady programowanie urządzenia mobilne
 slug: Automatyczne-wersjonowanie-aplikacji-mobilnych-Android-i-iOS-w-Xamarin,85853.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-2-2-_10_/g_-_-x-_-_-_x51fcb691-dbf3-49cf-a39c-1307f1c9db30.png
 ---
 
 

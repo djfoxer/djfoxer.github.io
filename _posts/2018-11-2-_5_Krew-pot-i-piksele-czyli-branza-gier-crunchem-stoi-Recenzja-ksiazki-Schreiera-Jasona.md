@@ -5,6 +5,7 @@ date:       2018-11-02 21:44:00
 summary:    Branża gier już od dłuższego czasu przynosi znacznie większe zyski niż przemysł filmowy i muzyczny razem wzięty. Przypomnę tylko, że nowy Spider-Man, wydany tylko na konsole PS4, w weekend otwarcia zarobił prawie dwa razy tyle co film Spider-Man —  Homecoming... Co ważne, zarabiają tu nie tylko tuzy gamedevu jak EA, Blizzard czy Activision, ale również jednoosobowe firemki, które swoim produktem tra...
 categories: programowanie gry hobby
 slug: Krew-pot-i-piksele-czyli-branza-gier-crunchem-stoi-Recenzja-ksiazki-Schreiera-Jasona,91884.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-11-2-_5_/g_-_-x-_-_-_x53d9dd43-faaa-46f2-94d6-59e46645de43.jpg
 ---
 
 

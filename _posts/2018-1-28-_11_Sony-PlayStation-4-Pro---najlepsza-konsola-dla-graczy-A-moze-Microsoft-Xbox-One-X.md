@@ -5,6 +5,7 @@ date:       2018-01-28 20:09:00
 summary:    Sony PlayStation 4 Pro jest już na rynku od ponad roku (premiera koniec 2016). Na początku życia najmocniejszej konsoli od Japończyków nie było do końca wiadomo, jak w praktyce będzie wyglądało wsparcie wersji Pro w nowych i już wydanych grach. Kolejnym pytaniem zaś było, czy warto będzie zakupić mocną konsolę, reklamowaną jako stworzoną pod granie w 4K, mając ekran 1080p? Dodajmy jeszcze to, że p...
 categories: sprzęt oprogramowanie gry
 slug: Sony-PlayStation-4-Pro-najlepsza-konsola-dla-graczy-A-moze-Microsoft-Xbox-One-X,85689.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-1-28-_11_/g_-_-x-_-_-_xede1bfa2-79f2-494c-a097-cd367b177ce4.jpg
 ---
 
 

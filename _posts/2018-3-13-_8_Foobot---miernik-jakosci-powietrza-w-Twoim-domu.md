@@ -5,6 +5,7 @@ date:       2018-03-13 17:42:00
 summary:    O jakości powietrza (i smogu) w Polsce w ostatnich latach jest coraz głośniej. Dyskusja nasila się szczególnie w okresie grzewczym, w momencie gdy właściciele domków jednorodzinnych zaczynają palić czym popadnie w piecach lub robią to w niewłaściwy sposóbCzęsto niewiele możemy zrobić poza unikaniem wychodzenia na zewnątrz, w okresie kiedy jakość powietrza jest niska. Co jednak z jakością powietrza...
 categories: sprzęt porady urządzenia mobilne
 slug: Foobot-miernik-jakosci-powietrza-w-Twoim-domu,86603.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2018-3-13-_8_/g_-_-x-_-_-_x683bbf96-7494-4356-8e52-122ab20b7e6d.jpg
 ---
 
 

@@ -2,9 +2,10 @@
 layout:     post
 title:      Turniej Contra, czyli retro zabawa z projektorem Optoma GT5500+
 date:       2017-10-08 18:36:00
-summary:    Wcześniejszy wpis  był spisem pierwszych wrażeń związanych z testowanym projektorem od Optomy. Było sporo odnośnie tego jak rzutnik sprawuje się w domu przy oglądaniu filmów czy seriali. Postanowiłem jednak przetestować go w grupie, z innymi  — )<!-- galleryStart --><!-- galleryEnd --><!-- galleryStart --><!-- galleryEnd -->Lecimy z RetroPieW naszej firmie od jakiegoś czasu zorganizowaliśmy retro ką...
+summary:    Wcześniejszy wpis  był spisem pierwszych wrażeń związanych z testowanym projektorem od Optomy. Było sporo odnośnie tego jak rzutnik sprawuje się w domu przy oglądaniu filmów czy seriali. Postanowiłem jednak przetestować go w grupie, z innymi  — )<!----><!----><!----><!---->Lecimy z RetroPieW naszej firmie od jakiegoś czasu zorganizowaliśmy retro kącik. Jest i oryginalny NES z USA i PolyStation z baz...
 categories: sprzęt porady gry
 slug: Turniej-Contra-czyli-retro-zabawa-z-projektorem-Optoma-GT5500,83552.html
+img: https://raw.githubusercontent.com/djfoxer/djfoxer.github.io/master/_img/2017-10-8-_12_/g_-_-x-_-_-_x20171008151301_0.jpg
 ---
 
 
